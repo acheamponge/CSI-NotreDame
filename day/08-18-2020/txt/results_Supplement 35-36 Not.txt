@@ -1,0 +1,124 @@
+34
+
+Id. at 285. Despite ti
+Brown’s conduct did
+
+SENTENCING Cu. 4
+
+infrastructure:
+
+Brown’s Conduct did not constitute a substantial disruption of a
+critical infrastructure, There is no indication that Brown’s conduct
+affecting a portion of Citibank’s operations for a short period of time
+could have had a Serious impact on national economic security. As a
+result of Brown’s actions, Citibank suffered relatively minor financial
+losses and was temporarily unable to optimally serve its customers.
+Neither of these harms threatened to disrupt the nation’s economy,
+and, in light of Citibank’s demonstrated ability to quickly resolve the
+disruption and mitigate in the interim, there is no other evidence that
+Brown 's conduct had the potential to do so. Accordingly, we hold that
+the district court erred by applying an enhancement that we conclude
+1s reserved for conduct that disrupts a critical infrastructure in a way
+that could have a serious impact on national economic security.
+
+Id. at 287.
+
+ 
+
+his, the enhancement was improperly applied because
+not cause a “substantial disruption” of that critical
+
+CHAPTER 5
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+THE FOURTH AMENDMENT
+
+A. THE REQUIREMENT OF
+GOVERNMENT ACTION
+
+On page 399, after Note 4, add the following new note 4.1:
+
+4.1. When reenacting a private search, does it matter whether the officer
+conducts the search or asks the private party to do so? Note 4 on page 398
+discusses how the Fourth Amendment applies when a private party finds
+evidence of crime on a computer and brings the evidence to the police. As Note
+4 explains, lower courts are divided on whether and how much the police can
+search the computer without a warrant on the ground that they are merely
+reconstructing a private search. Now consider another wrinkle: Should the
+answer to that question depend on whether the police search the computer
+themselves or merely ask the private party to show the police the digital
+evidence previously found?
+
+Contrast two recent cases. In the first case, State v. Terrell, 831 S.E.2d 17
+(N.C. 2019), the government did the searching. A woman named Ms, Jones
+found a suspicious image on her boyfriend’s thumb drive and brought the
+thumb drive to the police to investigate. Detective Bailey searched the thumb
+drive in order to locate the image Ms. Jones had found. On the way to locating
+the suspicious image, the detective observed additional suspicious images. The
+Supreme Court of North Carolina ruled that the detective’s search violated the
+boyfriend’s Fourth Amendment rights because Ms. Jones’s search of the thumb
+drive had been limited in scope:
+
+Following the mere opening of a thumb drive by a private individual,
+an officer cannot proceed with “virtual certainty that nothing else of
+significance” is in the device “and that a manual inspection of the
+[thumb drive] and its contents would not tell him anything more than
+he already had been told.” Jacobsen, 466 U.S. at 119. Rather, there
+remains the potential for officers to learn any number and all manner
+of things that had not previously been learned during the private
+search. Accordingly, the extent to which an individual’s expectation
+of privacy in the contents of an electronic storage device is frustrated
+depends upon the extent of the private search and the nature of the
+device and its contents.
+
+It is clear that Ms. Jones’s limited search did not frustrate
+defendant’s legitimate expectation of privacy in the entire contents of
+
+35
+THE FOURTH AMENDMENT CH. 5
+
+his thumb drive and that Detective Bailey’s follow-up search to locate
+the image of was not permissible under Jacobsen because he did not
+possess “a virtual certainty that nothing else of significance was in
+the [thumb drive] and that a manual inspection of the [thumb drive]
+and its contents would not tell him anything more than he already
+had been told” by Jones. Jacobsen, 466 U.S. at 119. The requirement
+that an officer possess “virtual certainty that nothing else of
+significance” is in a container is central to Jacobsen because the
+private-search doctrine, unlike other exceptions to the Fourth
+Amendment’s warrant requirement, is premised fundamentally on
+the notion that the follow-up search is not a “search” at all. Jacobsen,
+466 U.S. at 120 (“It infringed no legitimate expectation of privacy and
+hence was not a ‘search’ within the meaning of the Fourth
+Amendment.”). If a container continues to support a reasonable
+expectation of privacy, it is a necessary corollary that an officer
+cannot proceed with a “search” of that container absent virtual
+certainty that he will not infringe upon that expectation of privacy.
+
+Id. at 26-27.
+
+Compare Terrell with Commonwealth v. Shaffer, 209 A.3d 957 (Pa. 2019),
+a case in which the officer asked the private party to do the search. After a
+computer repairman found suspected child pornography on a computer and
+brought the computer to the police, the officer asked the repairman to show the
+officer exactly what images the repairman had previously seen. The repairman
+complied, searching the computer “using the exact route taken to find the
+images” previously. Id. at 960. The repairmen then showed the officer the
+
+images he had previously discovered. According to the Pennsylvania Supreme
+Court, the officer did not violate the Fourth Amendment. The officer “merely
+viewed the images that [the repairman] presented to him,” and therefore he
+did not exceed the repairman’s private search. Id. at 974-76.
+
+Does it make sense that these two cases should reach different results?

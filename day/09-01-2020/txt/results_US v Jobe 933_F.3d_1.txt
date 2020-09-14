@@ -1,0 +1,743 @@
+1074
+
+786 F.3d at 723-24 (quoting Powell, 838
+P.2d at 927, vacated on other grounds, 511
+US. 79, 114 S.Ct. 1280, 128 L.Ed.2d 1
+(1994)). But, in 2000, “the Nevada Su-
+preme Court again reversed course, abro-
+gating Powell” by holding in Byford that
+the first-degree murder statute includes
+three separate mens rea elements. Riley
+I, 786 F.3d at 724. Byford explained that
+“in Powell we overlooked earlier pro-
+nouncements of this court which recog-
+nized that ‘deliberate’ and ‘premeditated’
+define distinct elements.” Byford, 994 P.2d
+at 713-14 (citing Hern, 635 P.2d at 280).
+In interpreting Byford, Nika explained it
+amounted to a “change in state law” that
+“abandoned the line of cases starting with
+Powell.” Nika, 198 P.3d at 847, 849. So for
+a short period—from 1992 to 2000—Neva-
+da operated under the principle that the
+three elements were merged. However,
+this occurred after Riley’s conviction was
+final. Thus, before and after Powell, the
+Nevada Supreme Court interpreted its
+first-degree murder statute to include
+three distinct mens rea elements—an in-
+terpretation to which we defer.
+
+Because there was no change in Nevada
+law that affects Riley I’s interpretation of
+the required elements for first-degree
+murder in Nevada when Riley’s conviction
+became final, the district court did not
+abuse its discretion by denying the State’s
+motion under Rule 60(b)(6). The judgment
+of the district court is AFFIRMED.
+
+Ww
+° 5 KEY NUMBER SYSTEM
+T
+
+933 FEDERAL REPORTER, 3d SERIES
+
+UNITED STATES of America,
+Plaintiff-Appellant,
+
+v.
+
+Royce Lequient JOBE, Defendant-
+Appellee.
+
+No. 18-50204
+
+United States Court of Appeals,
+Ninth Circuit.
+
+Argued and Submitted May 17,
+2019 Pasadena, California
+Filed August 9, 2019
+
+Background: Mail fraud and firearm de-
+
+fendant moved to suppress evidence dis-
+
+covered during a search of laptop seized
+from his residence, and the United States
+
+District Court for the Central District of
+
+California, No. 2:17-cr-00003-GW-1,
+
+George H. Wu, J., granted motion. Govern-
+
+ment appealed.
+
+Holdings: The Court of Appeals, Korman,
+
+District Judge, sitting by designation, held
+
+that:
+
+(1) even if affidavit in support of warrant
+for search of suspect’s residence for
+evidence of marijuana growing opera-
+tion was insufficient to establish prob-
+able cause for seizure of suspect’s
+laptop, evidence did not have to be
+suppressed, and
+
+(2) officer’s 21-day delay in applying for
+warrant to search laptop that had pre-
+viously been seized during a warranted
+search of suspected marijuana grow-
+er’s residence did not warrant applica-
+tion of exclusionary rule.
+
+Reversed.
+
+1. Criminal Law 392.37
+Mere fact that a Fourth Amendment
+violation has occurred does not necessarily
+
+mean that the exclusionary rule applies.
+U.S. Const. Amend. 4.
+US. v. JOBE
+
+1075
+
+Cite as 933 F.3d 1074 (9th Cir. 2019)
+
+2. Criminal Law 392.37
+
+To trigger application of the exclu-
+sionary rule, police conduct must be suffi-
+ciently deliberate that exclusion can mean-
+ingfully deter it, and sufficiently culpable
+that such deterrence is worth the price
+paid by the justice system.
+
+3. Criminal Law ¢-1139
+
+On appeal from district court’s sup-
+pression holding, the Court of Appeals re-
+views whether the exclusionary rule was
+properly applied de novo.
+
+4, Criminal Law <=392.38(10)
+
+Exclusionary rule does not apply to
+officer’s objectively reasonable reliance on
+a subsequently invalidated search warrant,
+unless the warrant was based on affidavit
+so lacking in indicia of probable cause as to
+render official belief in its existence entire-
+ly unreasonable; even if an affidavit fails to
+establish probable cause, an officer cannot
+be expected to question the magistrate’s
+“probable cause” determination, unless the
+affidavit is “bare bones,” as failing to pro-
+vide a colorable argument for probable
+cause. U.S. Const. Amend. 4.
+
+5. Criminal Law ©=392.38(12)
+
+Even if affidavit in support of warrant
+for search of suspect’s residence for evi-
+dence of marijuana growing operation was
+insufficient to establish probable cause for
+seizure of suspect’s laptop and other elec-
+tronic devices, affidavit contained sufficient
+information to make reasonable an officer’s
+reliance on search warrant in seizing lap-
+top, and thus weighed against application
+of the exclusionary rule; affidavit set forth
+facts indicative of large-scale marijuana
+growing operation, including the suspect’s
+having registered marijuana business and
+the substantial, consistent foot traffic to
+his residence late at night, such that there
+was a colorable argument for probable
+cause to seize items tending to establish
+and document suspect’s sales of marijuana.
+U.S. Const. Amend. 4.
+
+6. Criminal Law <=392.16(2)
+
+Federal law enforcement officer’s 21-
+day delay in applying for warrant to
+search laptop that had previously been
+seized during a warranted search of sus-
+pected marijuana grower’s residence, while
+officer initially waited for determination as
+to whether the case would be prosecuted
+federally and after which officer drafted
+warrant application, did not warrant appli-
+cation of exclusionary rule and suppression
+of evidence discovered during subsequent
+search of laptop; officer, in securing war-
+rant for search of suspect’s home and sec-
+ond warrant for search of laptop, was at-
+tempting to comply with his obligations
+under the Fourth Amendment, and any
+delay did not evince negligence, let alone
+any deliberate and culpable misconduct on
+his part. U.S. Const. Amend. 4.
+
+7. Criminal Law 392.37
+
+In connection, not with unconstitution-
+al seizure, but with law enforcement offi-
+cers’ allegedly unreasonable 21-day delay
+in applying for warrant to search laptop
+which they had previously seized, deter-
+rent value of suppressing evidence in dis-
+couraging such delay was only a necessary,
+and not a sufficient, condition for applica-
+tion of the exclusionary rule; in deciding
+whether to apply rule, court also had to
+account for substantial social costs gener-
+ated by exclusionary rule. U.S. Const.
+Amend. 4.
+
+8. Criminal Law ¢392.37
+
+Prior to suppressing evidence ob-
+tained in search of defendant’s laptop,
+based upon law enforcement officers’ alleg-
+edly unreasonable 21-day delay in applying
+for warrant to search laptop after it was
+seized, court had to determine that deter-
+rence of such delay was worth the price
+paid by the justice system. U.S. Const.
+Amend. 4.
+1076
+
+9. Criminal Law ©392.38(1)
+
+Court’s analysis in deciding whether
+to apply exclusionary rule is objective in
+nature; court must consider whether a rea-
+sonably well trained officer would have
+known that search was illegal. U.S. Const.
+Amend. 4.
+
+10. Criminal Law 392.37
+
+The greater the distance between the
+actions of a reasonably well trained officer
+and the actions of officer in a particular
+case, the more likely it is that exclusion is
+the proper remedy for any violation of
+defendant’s rights.
+
+11. Criminal Law 392.37
+
+Application of exclusionary rule to
+suppress evidence is warranted to deter
+deliberate, reckless, or grossly negligent
+conduct.
+
+12. Criminal Law 392.37
+
+Even if police conduct is not deliber-
+ate, reckless, or grossly negligent, recur-
+ring or systemic negligence alone may
+warrant deterrence through application of
+exclusionary rule.
+
+Appeal from the United States District
+Court for the Central District of Califor-
+nia, George H. Wu, District Judge, Presid-
+ing, D.C. No. 2:17-cr-00003-GW-1
+
+Bram M. Alden (argued), Assistant
+United States Attorney; L. Ashley Aull,
+Chief, Criminal Appeals Section; Nicola T.
+Hanna, United States Attorney; United
+States Attorney’s Office, Los Angeles, Cal-
+ifornia; for Plaintiff-Appellant.
+
+Margaret A. Farrand (argued), Deputy
+Federal Public Defender; Hilary Potash-
+ner, Federal Public Defender; Office of the
+Federal Public Defender, Los Angeles,
+California; for Defendant-Appellee.
+
+*The Honorable Edward R. Korman, United
+States District Judge for the Eastern District
+
+933 FEDERAL REPORTER, 3d SERIES
+
+Before: Kim McLane Wardlaw and
+Andrew D. Hurwitz, Circuit Judges, and
+Edward R. Korman,* District Judge.
+
+OPINION
+KORMAN, District Judge:
+
+On or about October 26, 2016, Depart-
+ment of Homeland Security (“DHS”)
+agents received a tip that marijuana was
+being grown at an address in Van Nuys,
+California. The tipper stated that shortly
+after Royce Jobe moved in next door, “a
+brown privacy fence was constructed to
+hide the view of the detached garage on
+the property,” “a strong smell of marijua-
+na” began emanating from the house, and
+there had been “a lot of activity in the late
+evening at the house including multiple
+vehicles arriving and individuals coming
+and going.” On or about November 3, Spe-
+cial Agent Paul Cotcher found that the
+utilities account associated with the resi-
+dence was not registered under Jobe’s
+name. Cotcher prepared an affidavit out-
+lining the information in the tip and stat-
+ing that power use for the property had
+spiked, Jobe had prior convictions for pos-
+session of a firearm and marijuana, and
+Jobe had a business registered as “420
+Boutique,” a reference to marijuana. The
+affidavit also stated that Cotcher had ob-
+served “PVC piping, planters, and cooling
+fans” attached to and around the garage.
+
+Based on that affidavit, on November
+21, a California state judge issued a war-
+rant authorizing a search of Jobe’s resi-
+dence and the seizure of certain property,
+including “[a]rticles of personal property
+tending to establish and document sales of
+{marijuana,] including hard
+drives.” The next day, on November 22,
+Cotcher and other officers executed the
+
+of New York, sitting by designation.
+US. v. JOBE
+
+1077
+
+Cite as 933 F.3d 1074 (9th Cir. 2019)
+
+warrant and seized, among other items,
+drugs, a pistol, Jobe’s laptop and other
+electronic devices. The laptop was not
+searched at that time.
+
+After the evidence was seized, Cotcher
+contacted the United States Attorney’s Of-
+fice (“‘USAO”) to ask whether the case
+would be prosecuted federally. Over the
+next ten days, Cotcher continued his inves-
+tigation: He logged and arranged for stor-
+age of seized evidence, obtained Jobe’s
+rental application and lease agreement, in-
+terviewed a postal employee who stated
+that Jobe mailed packages three to four
+times a week, and interviewed individuals
+whose names were tied to the utilities ac-
+counts Jobe used. On or about December
+1, Cotcher was informed that the case
+would be prosecuted federally. He began
+drafting an affidavit in support of a crimi-
+nal complaint and a federal warrant to
+search the laptop, which he completed on
+or about December 7. On December 12,
+twenty days after the laptop was seized,
+the complaint was filed and the warrant
+was signed. That same day, agents
+searched Jobe’s laptop. The laptop con-
+tained messages indicating that Jobe had
+stolen credit card and bank account infor-
+mation. He was charged with identity
+theft, accessing devices without authoriza-
+tion, mail fraud, and being a felon in pos-
+session of a firearm.
+
+Jobe moved to suppress the evidence
+found on the laptop. The district judge
+granted the motion, finding that, while the
+state seizure warrant was supported by
+probable cause, the government unreason-
+ably delayed before obtaining a second
+warrant to search Jobe’s computer. The
+government timely appealed that order.
+We have jurisdiction under 18 U.S.C.
+§ 3731 and reverse.
+
+DISCUSSION
+[1-3] “The fact that a Fourth Amend-
+ment violation occurred ... does not nec-
+
+essarily mean that the exclusionary rule
+applies.” Herring v. United States, 555
+US. 135, 140, 129 S.Ct. 695, 172 L.Ed.2d
+496 (2009).
+To trigger the exclusionary rule, police
+conduct must be sufficiently deliberate
+that exclusion can meaningfully deter it,
+and sufficiently culpable that such deter-
+rence is worth the price paid by the
+justice system. As laid out in [the Su-
+preme Court’s] cases, the exclusionary
+rule serves to deter deliberate, reckless,
+or grossly negligent conduct, or in some
+circumstances recurring or systemic
+negligence.
+
+Id. at 144. We review whether the exclu-
+sionary rule was properly applied de novo.
+United States v. Luong, 470 F.3d 898, 902
+(9th Cir. 2006).
+
+I. The State Warrant
+
+[4] We begin with an assessment of
+the seizure of Jobe’s laptop pursuant to
+the state warrant. The exclusionary rule
+does not apply to an officer’s “objectively
+reasonable reliance on a subsequently in-
+validated search warrant,” unless the war-
+rant was “based on an affidavit ‘so lacking
+in indicia of probable cause as to render
+official belief in its existence entirely un-
+reasonable.’” United States v. Leon, 468
+U.S. 897, 922-23, 104 S.Ct. 3405, 82
+L.Ed.2d 677 (1984) (quoting Brown v. Illi-
+nois, 422 U.S. 590, 610-11, 95 S.Ct. 2254,
+45 L.Ed.2d 416 (1975) (Powell, J., concur-
+ring in part)). Even if an affidavit fails to
+establish probable cause, “an officer can-
+not be expected to question the magis-
+trate’s probable-cause determination,” id.
+at 921, 104 S.Ct. 3405, unless the affidavit
+is “bare bones,” i.¢., “it fails to provide a
+colorable argument for probable cause,”
+United States v. Underwood, 725 F.3d
+1076, 1085 (9th Cir. 2013).
+
+[5] We accept that there was insuffi-
+cient probable cause to seize the laptop.
+1078
+
+The state judge “lacked a substantial basis
+for concluding that probable cause existed”
+to seize the laptop because Cotcher’s affi-
+davit did not mention a computer or any
+electronic devices, much less state any
+facts suggesting that Jobe’s laptop would
+likely contain evidence of a marijuana
+growing operation. Jd. at 1081 (internal
+quotation and alteration marks omitted)
+(quoting Illinois v. Gates, 462 U.S. 213,
+238-39, 103 S.Ct. 2317, 76 L.Ed.2d 527
+(1983)). Nevertheless, Cotcher’s affidavit
+supporting the state warrant contained
+sufficient information to render his reli-
+ance on the warrant reasonable. It laid out
+facts indicative of a large-scale marijuana
+growing operation, including information
+from a tipper that was corroborated by
+Cotcher’s own observations, investigation,
+and experience. Given the apparent scale
+of Jobe’s operation, as indicated by his
+having a registered marijuana business
+and the substantial, consistent foot traffic
+to his residence late at night, the affidavit
+provided “a colorable argument for proba-
+ble cause,” id. at 1085, to seize items
+“tending to establish and document sales
+of marijuana.” Cotcher reasonably relied
+on the warrant’s authorization to seize di-
+gital devices, such as Jobe’s laptop, that
+might contain such documents.
+
+Ii. The Federal Warrant
+
+[6] Jobe argues that even if the seizure
+of the laptop under the state warrant does
+not provide a basis for exclusion, the twen-
+ty-day delay between that seizure and the
+subsequent execution of the federal search
+warrant justifies suppression. Even assum-
+ing that the delay was unreasonable, we
+disagree.
+
+The exclusionary rule has traditionally
+been driven by one primary policy consid-
+eration: the deterrence of unconstitutional
+acts by law enforcement. United States v.
+Calandra, 414 U.S. 338, 348, 94 S.Ct. 613,
+38 L.Ed.2d 561 (1974) (“[T]he [exclusion-
+ary] rule is a judicially created remedy
+
+933 FEDERAL REPORTER, 3d SERIES
+
+designed to safeguard Fourth Amendment
+rights generally through its deterrent ef-
+fect ....”); see also Leon, 468 U.S. at 909,
+104 S.Ct. 3405. The rule effects this goal in
+different ways, depending on the case. The
+most common is preventing police from
+benefiting from evidence obtained as a re-
+sult of a constitutional violation, thereby
+removing the incentive to violate the Con-
+stitution to obtain evidence. See, e.g., Unit-
+ed States v. Artis, 919 F.3d 1123, 1133-34
+(9th Cir. 2019); United States v. Camou,
+773 F.3d 932, 944-45 (9th Cir. 2014).
+
+[7,8] But in another category of cases,
+police misconduct effectively bears no
+“fruit.” See United States v. Cha, 597 F.3d
+995, 1003 (9th Cir. 2010). Unreasonable
+delays fall into this latter category. See id.
+In those cases, “deterrent value” is only “a
+necessary condition for exclusion, ... not a
+sufficient one. The analysis must also ac-
+count for the substantial social costs gen-
+erated by the [exclusionary] rule.” Davis v.
+United States, 564 U.S. 229, 237, 131 S.Ct.
+2419, 180 L.Ed.2d 285 (2011) (quotation
+marks and citation omitted). Put another
+way, a court must determine that “deter-
+rence is worth the price paid by the justice
+system” before suppressing evidence. Her-
+ring, 555 USS. at 144, 129 S.Ct. 695.
+
+[9,10] Cha is our only prior decision
+addressing the issue posed in Herring in
+the context of delays. See United States v.
+Burgard, 675 F.3d 1029, 1035 (7th Cir.
+2012) (so recognizing). Cha laid out several
+guideposts to follow. First, the analysis is
+objective in nature. See Cha, 597 F.3d at
+1005; see also Herring, 555 U.S. at 145,
+129 S.Ct. 695. We must consider “whether
+a reasonably well trained officer would
+have known that the search was illegal.”
+Leon, 468 U.S. at 922 n.23, 104 S.Ct. 3405.
+The greater the distance between the ac-
+tions of a “reasonably well trained officer”
+and the actions of an officer in a particular
+case, the more likely it is that exclusion is
+US. v. JOBE
+
+1079
+
+Cite as 933 F.3d 1074 (9th Cir. 2019)
+
+the proper remedy. See Cha, 597 F.3d at
+1005 (“T]he police officers were a far
+stretch from Leon’s ‘reasonably well
+trained officer.’ ”).
+
+[11] Cha and Herring also explain that
+suppression is warranted “to deter deliber-
+ate, reckless, or grossly negligent con-
+duct.” Herring, 555 U.S. at 144, 129 S.Ct.
+695. We summarized the misconduct in
+Cha as follows:
+
+The police seized the Cha’s house for a
+
+minimum of 26.5 hours while Mr. Cha
+
+waited outside for the majority of the
+time—even to the early hours of the
+morning. The police refused to allow
+
+Mr. Cha to enter his house accompanied
+
+by a police officer to retrieve his diabe-
+
+tes medication for four hours.
+
+[NJone of this delay was “unavoid-
+
+able”—the officers had probable cause
+
+at 1 am., and ... could have drafted
+the warrant application at least after the
+
+12 p.m. briefing. The officers, however,
+
+had a “nonchalant attitude” and pro-
+
+ceeded in a “relaxed fashion.”
+
+Cha, 597 F.3d at 1005-06. Such facts dem-
+onstrate more than sufficient culpability
+that exclusion is worth the costs. Herring,
+555 U.S. at 144, 129 S.Ct. 695; see also
+Leon, 468 U.S. at 911, 104 S.Ct. 3405
+(“[AJ]n assessment of the flagrancy of the
+police misconduct constitutes an important
+step in the calculus.”).
+
+Cotcher’s behavior is  far-removed.
+There is no indication that Cotcher delib-
+erately tarried or received insufficient
+training. Rather, immediately after seizing
+the laptop, he contacted the USAO about
+prosecuting the case federally. During the
+ten days between that initial contact and
+being told that the USAO would handle
+the case—a period which included the
+Thanksgiving holiday—Cotcher continued
+with his investigation. Once the USAO re-
+sponded to his inquiry, he began drafting a
+detailed and lengthy affidavit in support of
+a federal search warrant, which he finished
+
+less than a week later and then transmit-
+ted to an Assistant U.S. Attorney. Jobe
+contends that Cotcher could have prepared
+an affidavit even without hearing from the
+USAO. But it is USAO policy to review
+warrant applications prior to their submis-
+sion to a magistrate, so a reasonable offi-
+cer in Cotcher’s position could have be-
+lieved that he could not submit his warrant
+application until the USAO decided to pro-
+ceed. While Cotcher could have been more
+efficient in preparing an application, his
+delay does not evince negligence, let alone
+deliberate and culpable misconduct.
+
+[12] Even if police conduct is not “de-
+liberate, reckless, or grossly negligent,”
+“recurring or systemic negligence” alone
+may warrant deterrence through exclu-
+sion. Herring, 555 U.S. at 144, 129 S.Ct.
+695. Here, however, the record does not
+suggest that such conduct will recur. In-
+deed, if there were evidence of repeated
+delays, Cotcher’s behavior would no longer
+qualify as “isolated police negligence.”
+Cha, 597 F.3d at 1004.
+
+More significantly, Cotcher obtained one
+warrant before seizing Jobe’s laptop and a
+second warrant before searching it, where-
+as the officers in Cha waited until after the
+home had been seized to obtain any war-
+rant. Cotcher’s good-faith efforts to comply
+with the Warrant Clause of the Fourth
+Amendment indicate that his conduct was
+not “sufficiently culpable that such deter-
+rence is worth the price paid by the justice
+system.” Herring, 555 U.S. at 144, 129
+S.Ct. 695. Critically, there are no allega-
+tions that the affidavit presented to the
+magistrate to obtain the federal search
+warrant omitted or misrepresented any in-
+formation. See Leon, 468 U.S. at 923, 104
+S.Ct. 3405 (“Suppression ... remains an
+appropriate remedy if the magistrate or
+judge in issuing a warrant was misled by
+information in an affidavit that the affiant
+knew was false or would have known was
+1080
+
+false except for his reckless disregard of
+the truth.”). Nor does Jobe challenge that
+probable cause supported the federal war-
+rant. See id. (“Nor would an officer mani-
+fest objective good faith in relying on a
+warrant based on an affidavit ‘so lacking in
+indicia of probable cause as to render offi-
+cial belief in its existence entirely unrea-
+sonable.” (quoting Brown, 422 U.S. at
+610-11, 95 S.Ct. 2254 (Powell, J., concur-
+ring in part))).
+
+Nor is there any indication that Cotcher
+believed he was depriving Jobe of a legiti-
+mate possessory interest. Rather, he rea-
+sonably believed that the laptop was law-
+fully seized pursuant to the state warrant.
+We have previously held that a twenty-
+one-day delay between the seizure of a
+laptop and obtaining a warrant is reason-
+able where the laptop is lawfully seized
+pursuant to an individual’s consent. See
+United States v. Sullivan, 797 F.3d 623,
+634 (9th Cir. 2015).
+
+Jobe’s reliance on United States v. Dass,
+849 F.2d 414 (9th Cir. 1988), is misplaced.
+That case involved delays of between sev-
+en and twenty-three days in obtaining war-
+rants to search hundreds of packages that
+were seized without a warrant at a post
+office in Hawaii. Id. at 414. Here, the
+initial seizure of the laptop was pursuant
+to a warrant.
+
+The order granting Jobe’s motion to
+suppress is REVERSED.
+
+Ww
+° § KEY NUMBER SYSTEM
+1
+
+933 FEDERAL REPORTER, 3d SERIES
+
+UNITED STATES of America,
+Plaintiff-Appellee,
+
+Vv.
+
+David James SAINZ, Defendant-
+Appellant.
+
+Nos. 17-10310
+17-10311
+17-10312
+
+United States Court of Appeals,
+Ninth Circuit.
+
+Argued and Submitted November 16,
+2018 San Francisco, California
+
+Filed August 12, 2019
+
+Background: Defendant moved to reduce
+his 120-month sentence for various drug
+offenses, based on an amendment to the
+Sentencing Guidelines that reduced his
+Guidelines range. The United States Dis-
+trict Court for the Northern District of
+California, Beth Labson Freeman, J., de-
+nied the motion, and defendant appealed.
+
+Holdings: The Court of Appeals, Piersol,
+District Judge, sitting by designation, held
+that on an issue of first impression, district
+court should not have sua sponte raised
+defendant’s waiver of his right to move for
+sentence reduction based on Sentencing
+Guidelines amendment.
+
+Reversed and remanded.
+
+1. Criminal Law 1156.2
+
+Court of Appeals reviews for abuse of
+discretion a district court’s decision to
+grant or deny a sentence reduction based
+an amendment to the Sentencing Guide-
+lines. 18 U.S.C.A. § 3582(c)(2).
+
+2. Criminal Law <1147
+
+A district court may abuse its discre-
+tion if it does not apply the correct law or
+if it rests its decision on a clearly errone-
+ous finding of material fact.

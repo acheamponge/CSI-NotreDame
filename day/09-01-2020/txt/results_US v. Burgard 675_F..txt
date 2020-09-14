@@ -1,0 +1,836 @@
+US. v. BURGARD
+
+1029
+
+Cite as 675 F.3d 1029 (7th Cir. 2012)
+
+UNITED STATES of America,
+Plaintiff—Appellee,
+
+v.
+
+Joshua BURGARD, Defendant-—
+Appellant.
+
+No. 11-1863.
+
+United States Court of Appeals,
+Seventh Circuit.
+
+Argued Sept. 14, 2011.
+
+Decided April 2, 2012.
+Background: Following denial of his mo-
+tion to suppress, 2011 WL 353520, defen-
+dant was convicted in the United States
+District Court for the Southern District of
+Tllinois, David R. Herndon, Chief District
+Judge, on a plea of guilty to two counts of
+receiving child pornography and was sen-
+tenced to 210 months’ imprisonment and
+15 years of supervised release. Defendant
+appealed.
+
+Holdings: The Court of Appeals, Wood,
+
+Circuit Judge, held that:
+
+(1) six-day delay between the warrantless
+seizure of defendant’s cell phone and
+the time police secured a search war-
+rant did not render the seizure unrea-
+sonable, but
+
+(2) when an officer waits an unreasonably
+long time to obtain a search warrant,
+in violation of the Fourth Amendment,
+the good-faith exception to the sup-
+pression rule is not automatically avail-
+able as soon as a warrant materializes.
+
+Affirmed.
+
+1. Searches and Seizures ¢=24, 57
+
+In general, seizures of personal prop-
+erty are unreasonable within the meaning
+of the Fourth Amendment unless accom-
+plished pursuant to a judicial warrant, but
+an officer may temporarily seize property
+without a warrant if she has probable
+cause to believe that a container holds
+contraband or evidence of a crime and the
+
+exigencies of the circumstances demand it
+or some other recognized exception to the
+warrant requirement is present. U.S.C.A.
+Const.Amend. 4.
+
+2. Searches and Seizures 24, 53.1
+
+Even a permissible warrantless sei-
+zure must comply with the Fourth Amend-
+ment’s reasonableness requirement, and
+thus, after seizing an item, police must
+obtain a search warrant within a reason-
+able period of time. U.S.C.A. Const.
+Amend. 4.
+
+3. Searches and Seizures 53.1
+
+When officers fail to seek a search
+warrant following a permissible warrant-
+less seizure, at some point the delay be-
+comes unreasonable and is actionable un-
+der the Fourth Amendment. U.S.C.A.
+Const.Amend. 4.
+
+4. Searches and Seizures <25.1, 26, 53.1
+
+For purposes of determining the rea-
+sonableness of a delay in seeking a search
+warrant following a permissible warrant-
+less seizure, the critical question on the
+individual person’s side of the balance
+elates to any possessory interest in the
+seized object, not to privacy or liberty
+interests; a seizure affects only the per-
+son’s possessory interests, while a search
+affects a person’s privacy interests, and
+the longer the police take to seek a war-
+rant, the greater the infringement on the
+person’s possessory interest will be.
+U.S.C.A. Const.Amend. 4.
+
+5. Searches and Seizures 40.1, 53.1
+For purposes of determining the rea-
+sonableness of a delay in seeking a search
+warrant following a permissible warrant-
+less seizure, a key factor on the state’s side
+of the balance is the strength of the state’s
+basis for the seizure; the state has a
+stronger interest in seizures made on the
+basis of probable cause than in those rest-
+ing only on reasonable suspicion, and all
+1030
+
+else being equal, the Fourth Amendment
+will tolerate greater delays after probable-
+cause seizures. U.S.C.A. Const.Amend. 4.
+
+6. Searches and Seizures 53.1, 57
+
+For purposes of determining the rea-
+sonableness of a delay in seeking a search
+warrant following a permissible warrant-
+less seizure, the court must take into ac-
+count whether the police diligently pur-
+sued their investigation; when police act
+with diligence, courts can have greater
+confidence that the police interest is legiti-
+mate and that the intrusion is no greater
+than reasonably necessary, but when po-
+lice neglect to seek a warrant without any
+good explanation for that delay, it appears
+that the state is indifferent to searching
+the item and the intrusion on an individu-
+al’s possessory interest is less likely to be
+justifiable. U.S.C.A. Const.Amend. 4.
+
+7. Obscenity 7.6
+
+Six-day delay between the warrantless
+seizure of child pornography defendant’s
+cell phone and the time police secured a
+search warrant to look for images on the
+phone did not render the seizure unreason-
+able for purposes of the Fourth Amend-
+ment, even if the officer preparing the
+warrant affidavit did fail to act diligently;
+while the officer may have been able to
+work more quickly, his delay was not the
+result of complete abdication of his work
+or failure to see any urgency, but rather,
+he wanted to be sure that he had all the
+information he needed from the seizing
+officer and wanted to consult with the
+prosecutor, all the while attending to his
+other law enforcement duties. U.S.C.A.
+Const.Amend. 4.
+
+8. Criminal Law ¢=392.38(7)
+
+When an officer waits an unreason-
+ably long time to obtain a search warrant,
+in violation of the Fourth Amendment, the
+good-faith exception to the suppression
+rule is not automatically available as soon
+as a warrant materializes; a well-trained
+
+675 FEDERAL REPORTER, 3d SERIES
+
+officer is presumed to be aware that a
+seizure must last no longer than reason-
+ably necessary for the police, acting with
+diligence, to obtain a warrant, and when
+police fail to act with such diligence, exclu-
+sion will typically be the appropriate reme-
+dy. U.S.C.A. Const.Amend. 4.
+
+Michael Jude Quinley (argued), Attor-
+ney, Office of the United States Attorney,
+Criminal Division, Fairview Heights, IL,
+for Plaintiff-Appellee.
+
+Todd M. Schultz (argued), Attorney, Of-
+
+fice of the Federal Public Defender, East
+St. Louis, IL, for Defendant-Appellant.
+
+Before WOOD, TINDER, and
+HAMILTON, Circuit Judges.
+
+WOOD, Circuit Judge.
+
+Expecting to find evidence of child por-
+nography, police officers seized Joshua
+Burgard’s cell phone without a warrant.
+At that point, however, they seemed to
+have lost their sense of urgency: they did
+nothing with the phone right away and
+allowed six days to elapse before they
+applied for a search warrant. Once they
+had the warrant in hand, they searched
+the phone and, as anticipated, they found
+sexually explicit images of underage girls.
+Burgard pleaded guilty to two counts of
+receiving child pornography in violation of
+18 U.S.C. § 2252(a)(2), and was sentenced
+to 210 months’ imprisonment and 15 years
+of supervised release.
+
+On appeal Burgard challenges only the
+district court’s denial of his motion to sup-
+press the photographs found on the phone.
+The pictures should have been excluded, in
+his view, because the police tarried too
+long before obtaining the warrant. Al-
+though we agree with Burgard that the
+officers did not act with perfect diligence,
+US. v. BURGARD
+
+1031
+
+Cite as 675 F.3d 1029 (7th Cir. 2012)
+
+we do not find the delay here to be so
+egregious that it renders the search and
+seizure unreasonable under the Fourth
+Amendment. We therefore affirm.
+
+I
+
+On Wednesday, January 6, 2010, a
+friend of Burgard approached Sergeant
+Louis Wilson of the Smithton, Illinois, Po-
+lice Department. The friend told Wilson
+that he had seen sexual images of young
+girls (possibly aged 14 or younger) on Bur-
+gard’s cell phone, and that Burgard, 21
+years old at the time, had bragged about
+having sex with them. This friend agreed
+to serve as a confidential informant and to
+text Wilson later that night if he was with
+Burgard and Burgard had the phone. The
+informant followed through with the plan:
+that night, he texted Wilson that he and
+Burgard were driving together in the in-
+formant’s car. Wilson then stopped the
+informant’s car and seized Burgard’s
+phone. Burgard voluntarily went to the
+police station where Wilson entered the
+phone into evidence and gave Burgard a
+property receipt.
+
+Wilson did not immediately apply for a
+state search warrant. Instead, he wrote a
+report about the seizure and forwarded it
+to Detective Mark Krug in nearby Collins-
+ville, because Krug was assigned to work
+part-time with the FBI’s Cyber Crimes
+Task Force. Wilson and Krug worked
+different shifts, however, and so Krug did
+not receive Wilson’s report until the next
+day. After Krug read the report, he tried
+to contact Wilson to learn more details, but
+again the shift differences got in the way
+and the two were unable to speak until
+later that night. The next day, Friday,
+January 8, Krug contacted the United
+States Attorney's Office to inform it that
+he planned to draft a federal search war-
+rant for the phone. An Assistant United
+States Attorney (AUSA) told him to pro-
+ceed with drafting the affidavit.
+
+Some time that same day, an armed
+robbery occurred in Collinsville. Because
+the armed robbery was more pressing,
+Krug put the cell phone warrant aside and
+worked on the armed robbery investiga-
+tion. (We note at this juncture that Col-
+linsville was, as of the time of the 2010
+Census, a town of 26,016; it is located in
+rural Madison County, Illinois, and is the
+self-proclaimed Horseradish Capital of the
+World. See The Global Gourmet, http://
+www.globalgourmet.com/food/egg/egg1296/
+horscap.html# axzzlp7ZbAOQ2x, last visit-
+ed March 28, 2012.) Krug may have con-
+tinued to work on the robbery on Satur-
+day, or he may have taken that day off.
+But by Sunday, he was able to return to
+Burgard’s case and draft the affidavit. On
+Monday morning, January 11, he sent his
+draft to the AUSA and the two went back
+and forth making edits. The next day, the
+AUSA finally presented a completed war-
+rant application to the federal magistrate
+judge, who signed the warrant that day.
+Krug promptly searched the phone pursu-
+ant to the warrant and found numerous
+sexually explicit images of young girls.
+
+Burgard conceded that the initial war-
+rantless seizure of the phone was lawful
+(because of exigency and probable cause),
+but he sought to suppress the images on
+the basis of the six-day delay. The district
+court denied his motion to suppress on two
+grounds: (1) it did not find the delay to be
+unreasonable, and (2) even if it were, the
+good-faith exception to the exclusionary
+rule applied. Burgard pleaded guilty but
+reserved his right to challenge the denial
+of the suppression motion.
+
+II
+
+[1] This case requires us to address
+one narrow question: did the six-day delay
+in securing a warrant render the seizure of
+Burgard’s phone unreasonable for pur-
+poses of the Fourth Amendment? (All
+1032
+
+parties agree that the warrant was neces-
+sary, and so we make no comment on that
+point. The search here was of the more
+invasive type excluded from our discussion
+in United States v. Flores—Lopez, 670 F.3d
+803, 810 (7th Cir.2012).) In general, “sei-
+zures of personal property are ‘unreason-
+able within the meaning of the Fourth
+Amendment ... unless ... accomplished
+pursuant to a judicial warrant.’” Illinois
+v. McArthur, 531 U.S. 326, 330, 121 S.Ct.
+946, 148 L.Ed.2d 838 (2001) (quoting Unit-
+ed States v. Place, 462 U.S. 696, 701, 103
+S.Ct. 2637, 77 L.Ed.2d 110 (1983)). An
+officer may temporarily seize property
+without a warrant, however, if she has
+“probable cause to believe that a container
+holds contraband or evidence of a crime”
+and “the exigencies of the circumstances
+demand it or some other recognized excep-
+tion to the warrant requirement is pres-
+ent.” Place, 462 U.S. at 701, 103 S.Ct.
+2637.
+
+[2] Even a permissible warrantless sei-
+zure, such as the initial seizure here, must
+comply with the Fourth Amendment’s rea-
+sonableness requirement. Thus, the Su-
+preme Court has held that after seizing an
+item, police must obtain a search warrant
+within a reasonable period of time. See,
+eg. Segura v. United States, 468 U.S. 796,
+812, 104 S.Ct. 3380, 82 L.Ed.2d 599 (1984)
+(“{A] seizure reasonable at its inception
+because based on probable cause may be-
+come unreasonable as a result of its dura-
+tion.”). We reject the notion that anything
+in this court’s opinion in Lee v. City of
+Chicago, 330 F.3d 456 (7th Cir.2003), un-
+dermined Segura’s holding. In Lee we
+held that an individual cannot challenge
+the police’s continued retention of his vehi-
+cle for failure to pay impound fees on
+Fourth Amendment grounds; he could
+only challenge the initial seizure. See 330
+F.3d at 465-66. Here, in contrast, the
+police needed within a reasonable time to
+obtain a warrant before they could under-
+take a new search and seizure—that of the
+
+675 FEDERAL REPORTER, 3d SERIES
+
+contents of the cell phone. This is the
+essence of Burgard’s complaint, not the
+retention point that was central to Lee.
+See United States v. Martin, 157 F.3d 46,
+54 (2d Cir.1998) (“[W]here officers have
+probable cause to believe container con-
+tains contraband, it ‘may be seized, at least
+temporarily, without a warrant.’”) (quot-
+ing in parenthetical United States v. Ja-
+cobsen, 466 U.S. 109, 121, 104 S.Ct. 1652,
+80 L.Ed.2d 85 (1984)). No other recog-
+nized exception to the warrant require-
+ment covered the police detention of the
+contents of Burgard’s phone.
+
+[3] When officers fail to seek a search
+warrant, at some point the delay becomes
+unreasonable and is actionable under the
+Fourth Amendment. Moya v. United
+States, 761 F.2d 322, 325 n. 1 (7th Cir.
+1984) (“Even if the officers had probable
+cause to believe Moya’s bag contained con-
+traband, there would be a question wheth-
+er the three hour detention of the bag
+before seeking a search warrant was rea-
+sonable.”). See generally Phillip B. Grif-
+fith, Thinking Outside of the ‘Detained’
+Bow: A Guide to Temporary Seizures of
+Property Under the Fourth Amendment,
+Army Lawyer, Dec. 2009, at 11, 13 (“Once
+government agents establish probable
+cause, this accordingly triggers the obli-
+gation to diligently pursue an authorization
+to search the property.”). We review the
+district court’s decision about the reason-
+ableness of the delay prior to the issuance
+of the warrant de novo, see United States
+v. Richmond, 641 F.3d 260, 261-62 (7th
+Cir.2011). The government does not ar-
+gue that the magistrate judge was told
+about the length of the delay, and so we
+have not been asked to give special defer-
+ence to any finding relating to its reason-
+ableness (or lack thereof). See United
+States v. McIntire, 516 F.3d 576, 578 (7th
+Cir.2008).
+US. v. BURGARD
+
+1033
+
+Cite as 675 F.3d 1029 (7th Cir. 2012)
+
+A
+
+There is unfortunately no bright line
+past which a delay becomes unreasonable.
+Instead, the Supreme Court has dictated
+that courts must assess the reasonableness
+of a seizure by weighing “the nature and
+quality of the intrusion on the individual’s
+Fourth Amendment interests against the
+importance of the governmental interests
+alleged to justify the intrusion.” Place,
+462 U.S. at 703, 103 S.Ct. 2637; see also
+McArthur, 531 U.S. at 331, 121 S.Ct. 946
+(instructing courts to “balance the privacy-
+related and law enforcement-related con-
+cerns to determine if the intrusion was
+reasonable”).
+
+[4] On the individual person’s side of
+this balance, the critical question relates to
+any possessory interest in the seized ob-
+ject, not to privacy or liberty interests. “A
+seizure affects only the person’s possesso-
+ry interests; a search affects a person’s
+privacy interests.” Segura, 468 U.S. at
+806, 104 S.Ct. 3380. The longer the police
+take to seek a warrant, the greater the
+infringement on the person’s possessory
+interest will be, for the obvious reason that
+a longer seizure is a greater infringement
+on possession than a shorter one. But
+unnecessary delays also undermine the
+criminal justice process in a more general
+way: they prevent the judiciary from
+promptly evaluating and correcting im-
+proper seizures. Thus the “brevity” of the
+seizure is “an important factor” for us to
+weigh. Place, 462 U.S. at 709, 103 S.Ct.
+2637. In addition, it can be revealing to
+see whether the person from whom the
+item was taken ever asserted a possessory
+claim to it—perhaps by checking on the
+status of the seizure or looking for assur-
+ances that the item would be returned. If
+so, this would be some evidence (helpful,
+though not essential) that the seizure in
+fact affected her possessory interests.
+See, e.g., United States v. Stabile, 633 F.3d
+219, 235-36 (8d Cir.2011) (defendant's fail-
+
+ure to seek return of his property for more
+than 18 months was a factor that reduced
+the weight the court gave to his interest in
+the item).
+
+[5] Turning to the state’s side, a key
+factor in our analysis is the strength of the
+state’s basis for the seizure. The state has
+a stronger interest in seizures made on the
+basis of probable cause than in those rest-
+ing only on reasonable suspicion. All else
+being equal, the Fourth Amendment will
+tolerate greater delays after probable-
+cause seizures. Compare McArthur, 531
+US. at 331, 121 S.Ct. 946 (two-hour delay
+after probable-cause seizure of house was
+reasonable), with Place 462 U.S. at 709,
+103 S.Ct. 2637 (90-minute delay after rea-
+sonable-suspicion seizure of suitcase was
+unreasonable); see also United States v.
+Martin, 157 F.3d 46 (2d Cir.1998) (11-day
+delay after probable cause seizure of pack-
+age was reasonable).
+
+[6] Finally, when we balance these
+competing interests we must “take into
+account whether the police diligently pur-
+sue[d] their investigation.” Place, 462
+US. at 709, 103 S.Ct. 2637. When police
+act with diligence, courts can have greater
+confidence that the police interest is legiti-
+mate and that the intrusion is no greater
+than reasonably necessary. McArthur,
+531 U.S. at 331, 121 S.Ct. 946 (upholding
+two-hour delay because it was “no longer
+than reasonably necessary for the police,
+acting with diligence, to obtain the war-
+rant”). When police neglect to seek a
+warrant without any good explanation for
+that delay, it appears that the state is
+indifferent to searching the item and the
+intrusion on an individual’s possessory in-
+terest is less likely to be justifiable. Com-
+pare United States v. Mitchell, 565 F.3d
+1347, 1351 (11th Cir.2009) (21-day delay
+was unreasonable where “[t]he only reason
+Agent West gave for the twenty-one-day
+delay in applying for a search warrant was
+1034
+
+that he ‘didn’t see any urgency’”), with
+United States v. Vallimont, 378 Fed.Appx.
+972, 976 (11th Cir.2010) (45-day delay rea-
+sonable where officers’ attention was di-
+verted to other matters but officers contin-
+ued to work on the search warrant).
+
+B
+
+[7] Applying these factors, we cannot
+say that the six-day delay here was so long
+that the seizure was unreasonable. We
+acknowledge that Burgard had a strong
+interest in possessing his cell phone. At
+no point before the seizure did he abandon
+the phone or relinquish it to a third party.
+He even asserted his possessory interests
+over the phone by voluntarily going to the
+police station to obtain a property receipt,
+which would help him obtain the phone’s
+return.
+
+On the other side of the equation, law
+enforcement’s interests were also strong.
+Burgard has conceded that police had
+probable cause to believe that the phone
+would contain evidence of a crime. Al-
+though the Supreme Court found a 90-
+minute delay to be unreasonable in Place,
+462 U.S. at 696, 103 S.Ct. 2637, the Court
+said nothing to suggest that 90 minutes is
+an outer limit for all cases. For one thing,
+the seizure in Place was made on the basis
+of reasonable suspicion, not probable
+cause. See Martin, 157 F.3d at 54. And
+even in a reasonable suspicion case, 90
+minutes would not necessarily be the outer
+limit, as the length of a delay is not the
+only relevant factor. See United States v.
+Ganser, 315 F.3d 839, 844 (7th Cir.2003)
+(four-day delay following reasonable suspi-
+cion seizure was not unreasonable).
+
+Given these facts, Burgard leans heavily
+on the diligence factor, arguing that the
+officer was not diligent because he should
+have been able to submit the warrant ap-
+plication more quickly. We are willing to
+assume that Burgard is correct on this
+point. It strikes us as implausible that an
+
+675 FEDERAL REPORTER, 3d SERIES
+
+officer with over 14 years of experience,
+like Krug, could not write a two-page affi-
+davit in fewer than six days, especially
+when the affidavit drew largely on infor-
+mation that was contained in the initial
+report that he received from Wilson. The
+government argues that the delay was at-
+tributable to Krug’s lack of familiarity with
+federal cell-phone warrants, but that ex-
+planation is not persuasive given the fact
+that the bulk of the warrant appears to be
+boilerplate. And although it is true that
+the detective’s attention was diverted by a
+more serious robbery case, this did not
+take place until Friday, after three days
+had already passed.
+
+But police imperfection is not enough to
+warrant reversal. With the benefit of
+hindsight, courts “can almost always imag-
+ine some alternative means by which the
+objectives of the police might have been
+accomplished,” but that does not necessari-
+ly mean that the police conduct was unrea-
+sonable. United States v. Sharpe, 470
+U.S. 675, 686-87, 105 S.Ct. 1568, 84
+L.Ed.2d 605 (1985). Krug may theoreti-
+cally have been able to work more quickly,
+but his delay was not the result of com-
+plete abdication of his work or failure to
+“see any urgency” as in Mitchell, 565 F.3d
+at 1351. He wanted to be sure that he had
+all the information he needed from the
+seizing officer and he wanted to consult
+with the AUSA, all the while attending to
+his other law enforcement duties. We do
+not want to discourage this sort of careful,
+attentive police work, even if it appears to
+us that it could or should have moved more
+quickly. Encouraging slapdash work
+could lead to a variety of other problems.
+See, eg., Groh v. Ramirez, 540 U.S. 551,
+124 S.Ct. 1284, 157 L.Ed.2d 1068 (2004)
+(warrant failed to meet Fourth Amend-
+ment’s particularity requirement, because
+of failure in copying paragraph from war-
+rant application to warrant).
+US. v. BURGARD
+
+1035
+
+Cite as 675 F.3d 1029 (7th Cir. 2012)
+
+After seizing an item without a warrant,
+an officer must make it a priority to secure
+a search warrant that complies with the
+Fourth Amendment. This will entail dili-
+gent work to present a warrant application
+to the judicial officer at the earliest rea-
+sonable time. We find that this standard
+was met here and that the six-day delay
+was not so unreasonable as to violate the
+Constitution. Burgard argues that this
+outcome could “give authorities license to
+retain seized property for long periods of
+time merely because they chose not to
+devote a reasonable amount of resources
+and sufficient experienced personnel” to
+the task of obtaining warrants. Given the
+fact-specific nature of these inquiries, we
+think these fears are overblown. It re-
+mains possible that a police department’s
+failure to staff its offices adequately or to
+give officers sufficient resources to process
+warrant applications could lead to unrea-
+sonable delays. But this case does not
+present that sort of egregious abdication of
+duties.
+
+Ill
+
+[8] The district court reached the same
+conclusion as we do on the merits of the
+Fourth Amendment, but it then went on to
+address the government’s alternative argu-
+ment that the good-faith exception to the
+exclusionary rule should apply. The court
+concluded that even if the delay was un-
+reasonably long, suppression would be in-
+appropriate because the officers searched
+the phone in reliance on a warrant, and it
+thought that this triggered the good-faith
+exception of United States v. Leon, 468
+US. 897, 104 S.Ct. 3405, 82 L.Ed.2d 677
+(1984). This analysis, we believe, extended
+Leon too far.
+
+When an officer waits an unreasonably
+long time to obtain a search warrant, in
+violation of the Fourth Amendment, he
+cannot seek to have evidence admitted
+simply by pointing to that late-obtained
+warrant. If this were all that was need-
+
+ed, evidence would never be suppressed
+following these types of violations be-
+cause, by definition, the police would al-
+ways have a warrant before they
+searched. In the line of Supreme Court
+decisions on which we have relied, the
+question is not whether police ultimately
+obtained a warrant; it is whether they
+failed to do so within a reasonable time.
+The Court has never suggested that this
+type of violation is wholly exempt from
+the exclusionary rule. See Place, 462
+U.S. at 700, 103 S.Ct. 2637 (upholding
+grant of motion to suppress because of a
+delay of 90 minutes after seizing luggage
+even though officers eventually searched
+under a warrant); McArthur, 531 U.S. at
+326, 121 S.Ct. 946 (finding delay in obtain-
+ing a warrant reasonable without suggest-
+ing that Leon’s good-faith rule would
+have applied). Furthermore, removing
+this sort of police misconduct from the
+ambit of the exclusionary rule would have
+significant implications: it would eliminate
+the rule’s deterrent effect on unreason-
+ably long seizures. Police could seize any
+item—a phone, a computer, a briefcase, or
+even a house—for an unreasonably long
+time without concern for the conse-
+quences, evidentiary and otherwise.
+
+The Ninth Circuit appears to be the only
+court that has specifically addressed this
+question. In United States v. Song Ja
+Cha the court held that “the exclusionary
+rule is applicable where seizures are un-
+constitutionally long” in order “to deter
+unreasonable police behavior and to pro-
+vide for judicial determination of probable
+cause.” 597 F.3d 995, 1006 (9th Cir.2010).
+It rejected the government’s argument
+that the good-faith exception applied. In
+contrast to Leon, in which it was reason-
+able for a “well trained officer” to believe
+the search warrant was supported by
+probable cause, id. at 1005 (quoting Leon,
+468 U.S. at 922 n. 23, 104 S.Ct. 3405), it is
+unreasonable for officers to believe that a
+1036
+
+seizure may drag on “longer than neces-
+sary for the police, acting diligently, to
+obtain the warrant,” id. (quoting McAr-
+thur, 531 U.S. at 332, 121 S.Ct. 946). The
+court held that the exclusionary rule ap-
+plied even under the Supreme Court’s
+most recent good-faith case, Herring v.
+United States, 555 U.S. 135, 129 S.Ct. 695,
+172 L.Ed.2d 496 (2009), because the offi-
+cer’s deliberate failure to seek a warrant
+with diligence was “sufficiently culpable
+that ... deterrence is worth the price paid
+by the justice system.” Song Ja Cha, 597
+F.3d at 1005 (quoting Herring, 555 U.S. at
+144, 129 S.Ct. 695).
+
+We do not categorically rule out the
+possibility of a Leon argument in this line
+of cases. There may be a situation in
+which the unreasonableness of a delay is a
+very close call, and an officer could not be
+charged with knowledge that the delay
+violated the law. See, e.g., United States
+v. Pitts, 322 F.3d 449 (7th Cir.2003) (“Giv-
+en our prior holdings in similar cases, and
+given the disagreement over the reason-
+ableness of the length of the detention by
+the magistrate and the district court
+judge, we do not believe the officer execut-
+ing the warrant could be charged with
+knowing the search was illegal ... even
+though the magistrate authorized it.”). All
+we say is that the good-faith exception is
+not automatically available as soon as a
+warrant materializes. A well-trained offi-
+cer is presumed to be aware that a seizure
+must last “no longer than reasonably nec-
+essary for the police, acting with diligence,
+to obtain a warrant.” McArthur, 531 U.S.
+at 332, 121 S.Ct. 946. When police fail to
+act with such diligence, exclusion will typi-
+cally be the appropriate remedy.
+
+IV
+
+The Supreme Court has never retreated
+from the proposition that the exclusionary
+rule applies to cases of unreasonable delay.
+That said, we recognize that one might
+imagine other remedies for the harm
+
+675 FEDERAL REPORTER, 3d SERIES
+
+caused in these situations—possibly some
+kind of Fifth Amendment violation, or a
+damages remedy for the loss of the use of
+the phone. But those hypothetical possi-
+bilities do not change the ruling in Segura
+that the duration between a seizure of a
+container and the issuance of a warrant to
+search its contents may become unreason-
+able for Fourth Amendment purposes,
+thereby requiring suppression of the evi-
+dence. 468 U.S. at 812, 104 S.Ct. 3380.
+This case, however, just like Segura, is one
+in which the delay was not constitutionally
+unreasonable. We Arrirm the district
+court’s denial of Burgard’s suppression
+motion and thus the judgment of the court.
+
+Ww
+° 5 KEY NUMBER SYSTEM
+T
+
+OWNER-OPERATOR INDEPENDENT
+DRIVERS ASSOCIATION, INC., et
+al., Petitioners,
+
+v.
+FEDERAL MOTOR CARRIER
+
+SAFETY ADMINISTRATION,
+Respondent.
+
+No. 10-2340.
+
+United States Court of Appeals,
+Seventh Circuit.
+
+Submitted Feb. 13, 2012.
+Decided April 2, 2012.
+
+Background: Commercial truck drivers
+and drivers’ association filed petition for
+review of final rule of Federal Motor Car-
+rier Safety Administration regarding use
+of electronic monitoring devices in com-
+mercial trucks. The Court of Appeals, 656
+F.3d 580, vacated and remanded. Some
+petitioners sought attorneys’ fees and

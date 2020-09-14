@@ -1,0 +1,148 @@
+S atat
+
+U-Verse Customer Account Details
+Important Note: AT&T U-Verse internet access accounts do not have traditional session records with
+a standard log on/log off format. U-Verse customers have a unique IP directly provisioned to the
+account. Please reference the Historical IP Provisioning section below for dates and specific details.
+
+Current Account Information
+
+ 
+
+BAN: 130764690
+
+ 
+
+Circuit Id: A6/ACXP/1 18008//NB
+
+ 
+
+CMS Policy:
+CMS_ACL_VM=18,CMS_QOS_IPDSLAM_VM=16,CMS_TZ_VM=17,CMS_6RD_VM=10
+
+ 
+
+DHCP Relay: 23.119.118.2
+
+ 
+
+DSLAM: GNTSINAD---01CAB101A
+
+ 
+
+HSIA Registered: yes
+
+ 
+
+IP: 23.119.118.36
+
+ 
+
+MAC Addr: 58:56:e8:87:d2:b1
+
+ 
+
+ 
+
+Memberld: wendt1980@att.net
+
+ 
+
+ 
+
+Historical IP Provisioning
+TXID
+
+DATE [RC [Message | Key/Vals
+
+ban: 130764690 [H]
+
+sbcgnfttxassociateduid: wendt1980@att.net [H]
+ip_assigned: 23.119.118.36 [H]
+BBNMS.vport2.pnode13a.150707211354.4258887 07/07/2015 15:13:54 | 101 | BAN rg: 001E46-97130291647152 [H
+siteid: 078364404 [H]
+circuit: A6/ACXP/118008//NB [H
+port: GNTSINAD---01CAB101A-1-1-2-48 [H]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ban: 130764690 [H]
+
+sbcgnfttxassociateduid: wendt1980@att.net [H]
+ip_assigned: 23.119.118.36 [H]
+
+ 
+
+   
+
+BBNMS. forcePushPolicy.pnode11a.160102005140.2368550 | 01/01/2016 18:51:40 rg: 001E46-97130291647152 [H]
+siteid: 078364404 [H]
+circuit: A6/ACXP/118008//NB [H]
+
+port: GNTSINAD---01CAB101A-1-1-2-48 [H]
+
+ 
+
+ 
+
+AT&T Proprietary
+The information contained here is for use by authorized person only and is not for general distribution.
+Subscriber Information
+
+Primary Contact Information Account Information Open
+Contact Name: GERALD WENDT | | Account Id: 130764690
+CBR: 574-307-3543 Account Name: GERALD WENDT
+ALT CBR: 574-307-2260 oman ee
+Preferred Email: — saksquashs@sbcglob... Sub Type: Cas
+Z Business Type:
+Authenticated By: Passcode
+- = Network Type: IP-RT
+Billing: U-verse only
+Bill Cycle: 23
+Bill Media: Paper
+AutoPay: No
+
+SS) anor =o
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Service Active 237115 R 23 SOUTH BEND IN 46614
+Billing Active 23711 STATE ROAD 23 SOUTH BEND IN 46614
+Address Type:
+Service Address yy,
+@ Exact Address (©) Nearby Addresses ©) Rural Address
+Prefoc ‘House Num: Suffoc Directionak: Street Name: Thoroughfare: Street Suffoc Unit Type:
+{ | (27a I | [Please Specify y) §R23 I | [Please Specify +) [Please Speafy =|
+Level Type: Structure Type: Gitty: State: Box Number: Postal Code:
+{Please Specify y)( } (Please Specify ¥)( | (SouTH } (IN y)/ } (46614
+AT&T Proprietary
+
+The information contained here is for use by authorized person only and is not for general distribution.

@@ -1,0 +1,12 @@
+streamlit==0.52.2
+Pillow==6.2.1
+pybase64==1.0.1
+sumy==0.8.1
+nltk==3.5
+wordcloud==1.8.0	
+matplotlib==3.3.1
+
+
+
+
+

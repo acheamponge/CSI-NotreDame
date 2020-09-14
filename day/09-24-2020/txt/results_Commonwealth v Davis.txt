@@ -1,0 +1,2638 @@
+534 Pa.
+
+ORDER
+
+AND NOW, this 19th day of November,
+2019, the Petition for Allowance of Appeal
+is DENIED.
+
+PER CURIAM
+
+Ww
+° E KEY NUMBER SYSTEM
+T
+
+BENTON STUDENT HOUSING,
+LLC, Respondent
+
+Vv.
+
+LION CONSTRUCTION, LLC, Lion
+Construction Management, LLC, Sean
+Schellenger, and Michael Stillwell,
+Petitioners
+
+No. 342 EAL 2019
+Supreme Court of Pennsylvania.
+
+November 19, 2019
+
+Petition for Allowance of Appeal from
+the Order of the Superior Court
+
+ORDER
+
+AND NOW, this 19th day of November,
+2019, the Petition for Allowance of Appeal
+
+is DENIED.
+w
+(© E KEY NUMBER SYSTEM
+Tt
+
+220 ATLANTIC REPORTER, 3d SERIES
+
+2
+COMMONWEALTH of Pennsylvania,
+Respondent
+v.
+
+Elliot OUTERBRIDGE, Petitioner
+No. 208 EAL 2019
+
+Supreme Court of Pennsylvania.
+November 19, 2019
+
+Petition for Allowance of Appeal from
+the Order of the Superior Court
+
+ORDER
+
+PER CURIAM
+
+AND NOW, this 19th day of November,
+2019, the Petition for Allowance of Appeal
+is DENIED.
+
+Ww
+° 5 KEY NUMBER SYSTEM
+T
+
+3
+
+COMMONWEALTH of Pennsylvania,
+Appellee
+
+v.
+Joseph J. DAVIS, Appellant
+No. 56 MAP 2018
+
+Supreme Court of Pennsylvania.
+
+Argued: May 14, 2019
+Decided: November 20, 2019
+Background: Commonwealth filed pre-
+trial motion to compel defendant, who was
+charged with distribution of child pornog-
+raphy, to provide passcode to allow access
+to defendant’s lawfully-seized encrypted
+computer. The Court of Common Pleas,
+Luzerne County, Criminal Division, No.
+CP—-40-CR-0000291-2016, CP-40-MD-
+0000011-2016, Tina Polachek Gartley, J.,
+granted the motion to compel, and defen-
+COMMONWEALTH v. DAVIS Pa.
+
+535
+
+Cite as 220 A.3d 534 (Pa. 2019)
+
+dant appealed. The Superior Court, No.
+1243 MDA 2016, 176 A.3d 869, affirmed.
+Defendant appealed by allowance.
+Holdings: The Supreme Court, No. 56
+MAP 2018, Todd, J., held that:
+
+(1) as matter of first impression, compel-
+ling defendant to reveal password to
+allow access to his lawfully-seized en-
+erypted computer was “testimonial” in
+nature, triggering Fifth Amendment
+privilege against self-incrimination;
+
+(2
+
+as matter of first impression, the fore-
+gone conclusion exception to applica-
+tion of the Fifth Amendment privilege
+against self-incrimination has limited
+application and is inapplicable to com-
+pel the disclosure of a defendant’s
+password to assist the Commonwealth
+in gaining access to a computer; and
+(3) even if foregone conclusion exception to
+the Fifth Amendment privilege against
+self-incrimination could be applied to
+the compulsion to reveal a computer
+password, Commonwealth failed to sat-
+isfy requirements of exception.
+
+Reversed and remanded.
+
+Baer, J., filed dissenting opinion in which
+Dougherty and Mundy, JJ., joined.
+
+1. Criminal Law 1134.29, 1139
+
+The Supreme Court’s standard of re-
+view of an issue involving a constitutional
+right is de novo, and its scope of review is
+plenary.
+
+2. Criminal Law ¢393(1)
+Witnesses €=293.5
+
+The Fifth Amendment privilege
+against self-incrimination not only applies
+to a defendant in a criminal trial, but in
+any other proceeding, civil or criminal, for-
+mal or informal, where the answers might
+incriminate the speaker in future criminal
+proceedings. U.S. Const. Amend. 5.
+
+3. Witnesses €=297(1)
+
+The Fifth Amendment privilege
+against self-incrimination protects an ac-
+cused only from being compelled to testify
+against himself, or otherwise provide the
+State with evidence of a testimonial or
+
+communicative nature. U.S. Const.
+Amend. 5.
+
+4. Witnesses €=297(1)
+
+In order to be testimonial within the
+meaning of the Fifth Amendment, an ac-
+cused’s communication must itself, explicit-
+ly or implicitly, relate a factual assertion
+or disclose information; only then is a per-
+son compelled to be a witness against him-
+self. U.S. Const. Amend. 5.
+
+5. Witnesses <=297(1)
+
+In the realm of the non-physical dis-
+closure of information, the Fifth Amend-
+ment privilege against self-incrimination is
+broad, as compelled testimony that com-
+municates information that may lead to
+incriminating evidence is privileged even if
+the information itself is not inculpatory;
+thus, the privilege is a protection against
+the prosecutor’s use of incriminating infor-
+mation derived directly or indirectly from
+the compelled testimony. U.S. Const.
+Amend. 5.
+
+6. Witnesses €=297(1)
+
+Whenever a suspect is asked for a
+response requiring him to communicate an
+express or implied assertion of fact or
+belief, the suspect confronts the “trilem-
+ma” of truth, falsity, or silence, and hence
+the response, whether based on truth or
+falsity, contains a testimonial component
+within the meaning of the Fifth Amend-
+ment. U.S. Const. Amend. 5.
+
+7. Criminal Law ¢=393(1)
+Witnesses €=297(1)
+To invoke the Fifth Amendment privi-
+lege against the forced provision of infor-
+mation, a defendant must show (1) the
+536. Pa,
+
+evidence is self-incriminating; (2) the evi-
+dence is compelled; and (3) the evidence is
+testimonial in nature. U.S. Const. Amend.
+5.
+
+8. Witnesses €=297(1)
+
+Where the government compels a
+physical act, such production is not testi-
+monial, and the Fifth Amendment privi-
+lege against self-incrimination is not recog-
+nized. U.S. Const. Amend. 5.
+
+9. Witnesses €=298
+
+An act of production may be testimo-
+nial within the meaning of the Fifth
+Amendment when the act expresses some
+explicit or implicit statement of fact that
+certain materials exist, are in the defen-
+dant’s custody or control, or are authentic;
+the crux of whether an act of production is
+testimonial is whether the government
+compels the defendant to use the contents
+of his own mind in explicitly or implicitly
+communicating a fact. U.S. Const.
+Amend. 5.
+
+10. Witnesses 298
+
+Compelling defendant, who was
+charged with distribution of child pornog-
+raphy, to reveal password to allow access
+to his lawfully-seized encrypted computer
+was “testimonial” in nature, triggering
+Fifth Amendment privilege against self-
+incrimination; Commonwealth was seeking
+electronic equivalent of combination to wall
+safe not as an end, but as a pathway to
+files being withheld, such that compelled
+production of the computer’s password de-
+manded recall of contents of defendant’s
+mind and act of production carried with it
+the implied factual assertions that would
+be used to incriminate him. U.S. Const.
+Amend. 5.
+
+See publication Words and Phrases
+
+for other judicial constructions and
+definitions.
+
+220 ATLANTIC REPORTER, 3d SERIES
+
+11. Witnesses €=298
+
+Compelling the disclosure of a pass-
+word to a computer is an act of production
+that is testimonial within the meaning of
+the Fifth Amendment privilege against
+self-incrimination. U.S. Const. Amend. 5.
+
+12. Witnesses 298
+
+For the foregone conclusion exception
+to the Fifth Amendment privilege against
+self-incrimination to apply to the produc-
+tion of otherwise testimonial evidence, the
+government must establish its knowledge
+of: (1) the existence of the evidence de-
+manded; (2) the possession or control of
+the evidence by the defendant; and (3) the
+authenticity of the evidence. U.S. Const.
+Amend. 5.
+
+13. Witnesses €=298
+
+The foregone conclusion exception to
+application of the Fifth Amendment privi-
+lege against self-incrimination has limited
+application and is inapplicable to compel
+the disclosure of a defendant’s password to
+assist the Commonwealth in gaining access
+to a computer. U.S. Const. Amend. 5.
+
+14. Witnesses €=298
+
+Even if foregone conclusion exception
+to the Fifth Amendment privilege against
+self-incrimination could be applied to the
+compulsion to reveal a computer password,
+Commonwealth failed to satisfy require-
+ments of exception in seeking to compel
+defendant, charged with distribution of
+child pornography, to provide password to
+allow access to his lawfully-seized encrypt-
+ed computer; while there was high proba-
+bility that child pornography existed on
+defendant’s computer, as evidenced by fact
+that defendant’s internet address used
+filed sharing network to share videos de-
+picting child pornography, compelled reve-
+lation of password could lead to trove of
+presently unknown number of files, given
+that Commonwealth would have access to
+COMMONWEALTH v. DAVIS Pa.
+
+537
+
+Cite as 220 A.3d 534 (Pa. 2019)
+
+all of computer’s contents. U.S. Const.
+
+Amend. 5.
+
+Appeal from the Order of the Superior
+Court dated November 30, 2017 at No.
+1243 MDA 2016, affirming the Order of
+the Court of Common Pleas of Luzerne
+County, Criminal Division, dated June 30,
+2016 Nos. CP-40-CR-291-2016 and CP-40-
+MD-11-2016. Tina Polachek Gartley, Judge
+
+Thomas Farrell, Esq., Farrell & Reis-
+inger, LLC, Tyler R. Green, Esq., for Ami-
+cus Curiae.
+
+Andrew Chapman Christy, Esq., ACLU
+of Pennsylvania, Demetrius Wm. Fannick,
+Esq., Steven M. Greenwald, Esq., Mark
+Alan Singer, Esq., Luzerne County Public
+Defenders Office, Peter David Goldberger,
+Esq., Law Office of Peter Goldberger, Wi-
+told J. Walezak, Esq., American Civil Lib-
+erties Union, Robert Eugene Welsh Jr.,
+Esq., Welsh & Recker, P.C., Jennifer Stisa
+Granick, Esq., Brett Max Kaufman, Esq.,
+Michael Charles Kostelaba, Esq., Amanda
+Marie Young, Esq., for Appellant.
+
+Joshua D. Shapiro, Esq., William Ross
+Stoycos, Esq., Pennsylvania Office of At-
+torney General, for Appellee.
+
+SAYLOR, C.J., BAER, TODD,
+DONOHUE, DOUGHERTY, WECHT,
+MUNDY, JJ.
+
+OPINION
+
+JUSTICE TODD
+
+In this appeal by allowance, we consider
+an issue of first impression: Whether a
+defendant may be compelled to disclose a
+password to allow the Commonwealth ac-
+cess to the defendant’s lawfully-seized, but
+
+1. IP addresses identify computers on the In-
+ternet, enabling data transmitted from other
+computers to reach them. National Cable &
+Telecomm. Ass’n v. Brand X Internet Services,
+
+encrypted, computer. For the reasons that
+follow, we find that such compulsion is
+violative of the Fifth Amendment to the
+United States Constitution’s prohibition
+against self-incrimination. Thus, we re-
+verse the order of the Superior Court.
+
+On July 14, 2014, agents of the Office of
+Attorney General (“OAG”), as part of their
+investigation of the electronic dissemina-
+tion of child pornography, discovered that
+a computer at an identified Internet Pro-
+tocol (IP) address ! registered with Com-
+cast Cable Communications (“Comcast”),
+repeatedly utilized a peer-to-peer file-
+sharing network, eMule, to share child
+pornography. N.T. Hearing, 1/14/16, at 6-
+8. Specifically, agents used a computer
+with software designed to make a one-to-
+one connection with the computer at the
+aforementioned IP address and download-
+ed a file, later confirmed to contain child
+pornography, which was saved to the OAG
+computer. Id. at 5-6. Based upon its trans-
+ference and review of the file, the OAG
+obtained a court order to compel Comcast
+to provide subscriber information associat-
+ed with the IP address. The information
+provided by Comcast disclosed the sub-
+scriber as Appellant Joseph Davis, as well
+as his address. Jd. at 8-9.
+
+On September 9, 2014, the OAG applied
+for, received, and executed a search war-
+rant at Appellant’s apartment. OAG Spe-
+cial Agent Justin Leri informed Appellant
+that he was not under arrest, but that the
+search involved an investigation of child
+pornography. Jd. at 11. Appellant was then
+read his Miranda warnings and waived his
+Miranda rights. Id. Appellant acknowl-
+edged that he was the sole user of a Dell
+computer He admitted to having prior
+
+545 U.S. 967, 987 n.1, 125 S.Ct. 2688, 162
+L.Ed.2d 820 (2005).
+
+2. The Dell computer seized in this search is
+not the subject of the Commonwealth’s mo-
+538 Pa,
+
+pornography convictions, but denied the
+computer contained any illegal porno-
+graphic images. Appellant then declined to
+answer additional questions without a law-
+yer. Id. Later examination of the computer
+revealed that the hard drive had been
+“wiped,” removing data entirely or render-
+ing it unreadable. Id. at 43-44.
+
+On October 4, 2015, OAG Agent Daniel
+Block identified a different child pornogra-
+phy video that was shared with a different
+IP address utilizing the eMule server. An
+administrative subpoena to Comcast re-
+garding this IP address again produced
+Appellant’s name and contact information.
+A direct connection was made from OAG
+computers to this IP address, and one
+electronic file containing child pornogra-
+phy was transferred to the OAG computer.
+Id. at 19.
+
+On October 20, 2015, the OAG executed
+another search warrant at Appellant’s
+apartment based upon this video. At Ap-
+pellant’s apartment, the agents discovered
+a single computer, an HP Envy 700 desk-
+top. After being Mirandized, Appellant in-
+formed the agents that he lived alone, that
+he was the sole user of the computer, and
+that he used hardwired Internet services
+which are password protected, and, thus,
+not accessible by the public, such as
+through Wifi. Jd. at 26. Appellant offered
+that only he knew the password to his
+computer. Jd. Appellant also informed the
+agents, inter alia, that he watched pornog-
+raphy on the computer which he believed
+was legal; that he had previously been
+arrested for child pornography; and that
+child pornography was legal in other coun-
+tries so he did not understand why it was
+illegal in the United States. Id. at 27-28.
+The agents arrested Appellant for the eM-
+ule distributions and seized his computer.
+Agent Block asked Appellant for the pass-
+word to this computer and Appellant re-
+
+tion to compel a password at issue in this
+
+220 ATLANTIC REPORTER, 3d SERIES
+
+fused. Id. at 28. Subsequently, when in
+transit to his arraignment, Appellant spoke
+openly about watching various porno-
+graphic movies, indicating that he particu-
+larly liked watching 10, 11, 12, and 13-year
+olds. Id. at 30. Agent Block again request-
+ed that Appellant provide him with the
+password to the computer. Appellant re-
+sponded: “It’s 64 characters and why
+would I give that to you? We both know
+what’s on there. It’s only going to hurt me.
+No f*cking way I’m going to give it to
+you.” Id.
+
+Later, in a holding cell, Agent Leri con-
+versed with Appellant who, inter alia, of-
+fered that he believes the “government
+continuously spies on individuals,” and
+questioned “why it’s illegal to ... view
+movies in the privacy of [his] own home.”
+Id. at 35. In a later conversation, Agent
+Leri asked Appellant if he could remember
+the password. Appellant replied that he
+could not remember it, and that, even if he
+could, it would be like “putting a gun to his
+head and pulling the trigger.” Id. at 35-36.
+In a subsequent visit, when asked again
+about the password, Appellant offered that
+“he would die in jail before he could ever
+remember the password.” Id. at 37.
+
+A supervisory agent in computer foren-
+sics, Special Agent Braden Cook, testified
+that a portion of Appellant’s HP 700 Envy
+computer’s hard drive was encrypted with
+a program called TrueCrypt Version 7.1.
+Id. at 42. The entire hard drive of the
+computer was encrypted and “there was
+no data that could be read without opening
+the TrueCrypt volume.” Jd. at 46. Agent
+Cook could only confirm that there was
+“Windows on the computer and the TrueC-
+rypt,” and he had no knowledge of any
+specific files other than the operating sys-
+tem files. Id. at 50-51.
+
+matter.
+COMMONWEALTH v. DAVIS Pa.
+
+539
+
+Cite as 220 A.3d 534 (Pa. 2019)
+
+Appellant was charged with two counts
+of disseminating child pornography in vio-
+lation of 18 Pa.C.S. § 6312(c), and two
+counts of criminal use of a communication
+facility in violation of 18 Pa.C.S. § 7512(a),
+which arose from the July 2014 and Octo-
+ber 2015 detections.
+
+On December 17, 2015, the Common-
+wealth filed with the Luzerne County
+Court of Common Pleas a pre-trial motion
+to compel Appellant to divulge the pass-
+word to his HP 700 computer. Appellant
+responded by invoking his right against
+self-incrimination. On January 14, 2016,
+the trial court conducted an evidentiary
+hearing at which several OAG agents testi-
+fied, as set forth above, about the investi-
+gation supporting the seizure of the com-
+puter.
+
+The trial court focused on the question
+of whether the encryption was testimonial
+in nature, and, thus, protected by the Fifth
+Amendment. The trial court opined that
+“(t]he touchstone of whether an act of
+production is testimonial is whether the
+government compels the individual to use
+‘the contents of his own mind’ to explicitly
+or implicitly communicate some statement
+of fact.” Trial Court Opinion, 6/30/2016, at
+8-9 (citation omitted). As part of its analy-
+sis, the trial court looked to the “foregone
+conclusion” exception to the Fifth Amend-
+ment privilege against self-incrimination as
+articulated by the United States Supreme
+Court in Fisher v. United States, 425 U.S.
+391, 409, 96 S.Ct. 1569, 48 L.Ed.2d 39
+(1976). The court noted the rationale un-
+derlying this doctrine is that an act of
+production does not involve testimonial
+communication if the facts conveyed are
+already known to the government, such
+that the individual “ ‘adds little or nothing
+to the sum total of the government’s infor-
+mation.’” Trial Court Opinion, 6/30/2016,
+
+3. The Superior Court initially considered
+
+at 9 (quoting Fisher, 425 U.S. at 409, 96
+S.Ct. 1569). The trial court offered that for
+this exception to apply, the government
+must establish its knowledge of (1) the
+existence of the evidence demanded; (2)
+the possession or control of the evidence
+by the defendant; and (3) the authenticity
+of the evidence. Id. at 9.
+
+Applying the foregone conclusion excep-
+tion, the trial court found that, in the case
+at bar, the computer located in Appellant’s
+residence had hard-wired Internet access
+only; Appellant admitted it was TrueCrypt
+encrypted; that he was the only user, and
+he was the only one who knew the pass-
+word; Appellant indicated to the agents
+that “we both know what is on there,” and
+stated that he would “die in prison before
+giving up the password;” and that the
+Commonwealth knew with a reasonable
+degree of certainty that child pornography
+was on the computer. Jd. at 11. Based
+upon these facts, the trial court deter-
+mined that the information the Common-
+wealth sought from Appellant was a fore-
+gone conclusion, in that the facts to be
+conveyed by Appellant’s act of production
+of his password already were known to the
+government. As, according to the trial
+court, Appellant’s revealing his password
+would not provide the Commonwealth with
+any new evidence, and would simply be an
+act that permitted the Commonwealth to
+retrieve what was already known to them,
+the foregone conclusion exception was sat-
+isfied. Thus, on June 30, 2016, the trial
+court granted the Commonwealth’s motion
+and directed Appellant to supply the Com-
+monwealth with any passwords used to
+access the computer within 30 days. Appel-
+lant filed an interlocutory appeal.
+
+A three-judge panel of the Superior
+Court affirmed. Commonwealth v. Davis,
+176 A.3d 869 (Pa. Super. 2017).? Like the
+
+whether it had jurisdiction to entertain the
+540 Pa.
+
+trial court, the Superior Court found that,
+to qualify for the Fifth Amendment privi-
+lege, a communication must be testimonial.
+The Superior Court observed that the
+question of whether compelling an individ-
+ual to provide a digital password was testi-
+monial in nature was an issue of first
+impression for the court. Building upon
+the trial court’s analysis, the Superior
+Court explained that the Fifth Amendment
+right against self-incrimination is not vio-
+lated when the information communicated
+to the government by way of a compelled
+act of production is a foregone conclusion.
+The court reasoned that the foregone con-
+clusion exception provides that an act of
+production does not involve testimonial
+communication where the facts conveyed
+already are known to the government and
+set forth the applicable three-prong test.
+Id. at 874-75 (citing Fisher, 425 US. at
+410-13, 96 S.Ct. 1569).
+
+Applying the foregone conclusion excep-
+tion, the Superior Court, contrary to the
+trial court, focused on the password itself,
+and reasoned that the Commonwealth es-
+tablished the computer could not be
+opened without the password, that the
+computer belonged to Appellant and the
+password was in his possession, and that
+this information was “self-authenticat-
+ing” — i.e., if the computer was accessible
+upon entry of the password, the password
+was authentic. Jd. at 876. Further, the
+court noted that multiple jurisdictions have
+held that the government’s knowledge of
+the encrypted documents or evidence that
+it sought to compel did not need to be
+exact, and determined that, based on the
+agents’ forensic investigation, as well as
+Appellant’s own statements to the agents
+
+trial court’s interlocutory order on appeal. In
+sum, the court determined that the order sat-
+isfied each of the requirements of the collater-
+al order doctrine as set forth in Pa.R.A.P.
+313(b). The parties do not question this deter-
+mination on appeal. While the matter is juris-
+
+220 ATLANTIC REPORTER, 3d SERIES
+
+while in custody, there was a high proba-
+bility that child pornography existed on his
+computer. Thus, the Superior Court con-
+cluded that the trial court did not err in
+holding that the act of providing the pass-
+word in question was not testimonial in
+nature and that Appellant’s Fifth Amend-
+ment right against self-incrimination would
+not be violated by compelling him to dis-
+close the password.
+
+[1] Our Court granted allocatur to con-
+sider the following issue, as framed by
+Appellant:
+
+May [Appellant] be compelled to disclose
+orally the memorized password to a
+computer over his invocation of privilege
+under the Fifth Amendment to the Con-
+stitution of the United States, and Arti-
+cle I, [S]ection 9 of the Pennsylvania
+Constitution?
+
+Commonwealth v. Davis, — Pa. ——, 195
+A.3d 557 (2018) (order). The parameters of
+our review of an issue involving a constitu-
+tional right is well settled. Our standard of
+review is de novo, and our scope of review
+is plenary. Commonwealth v. Baldwin, 619
+Pa. 178, 58 A.3d 754, 762 (2012).
+
+Appellant argues the Fifth Amendment
+prohibits government compulsion to dis-
+close a computer password against one’s
+will, reasoning that requiring an individual
+to recall and disclose the memorized pass-
+word is quintessentially testimonial, ie.,
+revealing the contents of one’s own mind.
+Indeed, according to Appellant, the privi-
+lege is not just about information, but is
+“about a core of individual autonomy into
+which the state may not encroach.” Appel-
+lant’s Brief at 16. Appellant maintains that,
+
+dictional in nature, and, thus, non-waivable
+and subject to sua sponte consideration by
+this Court, Commonwealth v. Shearer, 584 Pa.
+134, 882 A.2d 462, 465 n.4 (2005), we do not
+disagree with the Superior Court’s analysis.
+COMMONWEALTH v. DAVIS Pa.
+
+541
+
+Cite as 220 A.3d 534 (Pa. 2019)
+
+as his password exists in his mind, he
+cannot be compelled to remember the
+password or reveal it, as a person’s
+thoughts and knowledge are at the core of
+the Fifth Amendment.
+
+According to Appellant, the Fifth
+Amendment protects against not only com-
+pelled written and oral testimony, but non-
+verbal acts as well. Appellant continues
+that, while not at issue in this appeal, even
+if the Commonwealth had obtained an or-
+der compelling Appellant to physically en-
+ter his password into his computer — rath-
+er than forcing him to speak or write down
+his password — this would still constitute
+a form of written testimony and, in any
+event, such a demand for action still re-
+quires using the contents of his mind to
+enter his password. Appellant contrasts
+such compulsion with one requiring merely
+physical acts, such as being required to
+wear a particular shirt, provide a blood
+sample, or provide a handwriting exemp-
+lar, which are not testimonial in nature, as
+they do not rely on the contents of one’s
+mind. See Holt v. United States, 218 U.S.
+245, 252-53, 31 S.Ct. 2, 54 L.Ed. 1021
+(1910); Schmerber v. California, 384 U.S.
+757, 761, 86 S.Ct. 1826, 16 L.Ed.2d 908
+(1966); Gilbert v. California, 388 U.S. 263,
+266-67, 87 S.Ct. 1951, 18 L.Ed.2d 1178
+(1967). Appellant offers that providing a
+password that will unlock data on a com-
+puter is no different from providing a com-
+bination that unlocks a briefcase or a safe,
+which has been held to be testimonial in
+nature.
+
+Appellant further asserts that the Su-
+preme Court’s “ ‘foregone conclusion’ ra-
+tionale,” as set forth in Fisher, does not
+apply to computer passwords. Appellant’s
+Brief at 24. Appellant suggests that the
+holding in Fisher was limited to its facts
+and merely involved the question of wheth-
+er the disclosure of certain tax documents
+known to be in the possession of the defen-
+
+dants’ attorneys, as agents of the defen-
+dants, could be compelled by the govern-
+ment. In distinguishing Fisher, Appellant
+not only emphasizes that in that case the
+request did not compel oral testimony, or
+require restating, repeating, or affirming
+the truth of the contents of the documents,
+but explains that, because accountants pre-
+pared the papers which were ultimately
+possessed by defendants’ attorneys, and
+could independently authenticate them, the
+Government was not relying upon the
+“truth-telling” of the defendants. Fisher,
+425 USS. at 411, 96 S.Ct. 1569.
+
+Appellant submits that, regardless of the
+scope of the foregone conclusion rationale,
+it is limited to the act of producing docu-
+ments and that, as discussed below, the
+United States Supreme Court has applied
+the foregone conclusion exception only
+once since Fisher, rejecting its usage in
+the context of the compelled production of
+business records. United States v. Hubbell,
+530 U.S. 27, 120 S.Ct. 2037, 147 L.Ed.2d 24
+(2000) (dismissing government’s reliance
+on foregone conclusion exception, finding
+that compulsion to produce papers that
+would require defendant to make use of
+his own mind to identify hundreds of docu-
+ments responsive to the request did not
+fall within the exception).
+
+Appellant asserts that, even if the fore-
+gone conclusion rationale could apply to
+the compelled decryption of a computer, it
+cannot be satisfied in this matter. Specifi-
+cally, as to the password itself, Appellant
+contends that it is not a foregone conclu-
+sion that he even knows the password at
+this time. Likewise, if the rationale goes to
+the presence of contraband on Appellant’s
+computer, which Appellant maintains that
+it does, here, the OAG agents noted that
+they could not tell what might be on the
+confiscated computer, and, as the comput-
+er was not connected to the Internet when
+it was seized, there is no proof that it was
+542 Pa.
+
+the one used to share pornography on
+eMule.’ Finally, Appellant adds that the
+relatively few states that have considered
+the decryption password issue have
+reached divergent conclusions, and stress-
+es that the national trend is toward great-
+er protections.
+
+The Commonwealth explains that the
+Fifth Amendment, by its terms, provides
+that no person shall be compelled in any
+criminal case to be a witness against him-
+self; thus, according to the Common-
+wealth, this Amendment covers only com-
+munications that are testimonial, and the
+compulsion to produce physical evidence
+is not protected. The Commonwealth re-
+lies almost exclusively on what it de-
+scribes as the foregone conclusion “doc-
+trine,” as articulated in Fisher and other
+decisional law. The Commonwealth sur-
+veys various decisions and submits that
+the majority of cases find it logical and
+sound to extend the foregone conclusion
+exception to providing the password to an
+encrypted device. Here, according to the
+Commonwealth, the compelled act is the
+surrendering of the password, and the
+“testimony” inherent in Appellant’s pro-
+duction of the password — the existence,
+
+4. Appellant also argues an independent basis
+for protection against disclosure of the pass-
+word under Article I, Section 9 of the Penn-
+sylvania Constitution. Appellant engages in a
+detailed analysis, offering that the text of the
+Pennsylvania charter as well as the history of
+the provision suggests broader protections
+thereunder. The Commonwealth strongly as-
+serts throughout its brief that Appellant has
+waived his state constitutional law claim, and
+maintains that, in any event, such claim has
+no merit, stressing the numerous decisions in
+which our Court has indicated the rights un-
+der the sister sections are coterminous. As we
+resolve this matter on federal Constitutional
+grounds, we need not address the Common-
+wealth’s waiver contention or Appellant’s un-
+derlying assertion of the recognition of great-
+er rights under the Pennsylvania Constitution.
+
+220 ATLANTIC REPORTER, 3d SERIES
+
+location, and authenticity, of the pass-
+word — is a foregone conclusion. In
+short, the Commonwealth contends that
+revealing the password will add nothing
+communicative to the government’s infor-
+mation as it does not disclose information
+about the computer or its contents. Thus,
+the Commonwealth asserts it has met its
+burden in this regard.*
+
+[2-4] Our analysis begins with the
+United States Constitution. The Self-In-
+crimination Clause of the Fifth Amend-
+ment provides “[nJo person ... shall be
+compelled in any criminal case to be a
+witness against himself.” U.S. Const.
+amend. V. This privilege not only applies
+to a defendant in a criminal trial, but “in
+any other proceeding, civil or criminal, for-
+mal or informal, where the answers might
+incriminate [the speaker] in future crimi-
+nal proceedings.” Minnesota v. Murphy,
+465 U.S. 420, 426, 104 S.Ct. 1136, 79
+L.Ed.2d 409 (1984) (citation omitted). “Al-
+though the text does not delineate the
+ways in which a person might be made a
+‘witness against himself, we have long
+held that the privilege does not protect a
+suspect from being compelled by the State
+to produce ‘real or physical evidence.’
+
+5. Amicus for Appellant, the Electronic Fron-
+tier Foundation, stresses that compulsion to
+disclose a computer password subjects an in-
+dividual to a “cruel trilemma’’ — to choose
+between providing the allegedly incriminating
+information; lying about the purported inabil-
+ity to do so; or refusing to cooperate and be
+held in contempt. According to Amicus, the
+privilege was designed to prevent this trilem-
+ma. In a joint amicus brief in support of the
+Commonwealth, various states provide an in-
+teresting history of modern encryption, press
+the troubling consequences of Appellant’s po-
+sition — including the altering of the balance
+of power, rendering law enforcement incapa-
+ble of accessing large amounts of relevant
+evidence — and warn that adopting Appel-
+lant’s position could result in less privacy, not
+more, in the form of draconian anti-privacy
+legislation.
+COMMONWEALTH v. DAVIS Pa.
+
+543
+
+Cite as 220 A.3d 534 (Pa. 2019)
+
+Rather, the privilege ‘protects an accused
+only from being compelled to testify
+against himself, or otherwise provide the
+State with evidence of a testimonial or
+communicative nature.” Pennsylvania v.
+Muniz, 496 U.S. 582, 588-89, 110 S.Ct.
+2638, 110 L.Ed.2d 528 (1990) (citations
+omitted). As offered by Justice Oliver
+Wendell Holmes, “the prohibition of com-
+pelling a man in criminal court to be wit-
+ness against himself is a prohibition of the
+use of physical or moral compulsion to
+extort communications from him, not an
+exclusion of his body as evidence when it
+may be material.” Holt, 218 U.S. at 252-53,
+31 S.Ct. 2. Indeed, “in order to be testimo-
+nial, an accused’s communication must it-
+self, explicitly or implicitly, relate a factual
+assertion or disclose information. Only
+then is a person compelled to be a ‘witness’
+against himself.” Doe v. United States, 487
+US. 201, 210, 108 S.Ct. 2341, 101 L.Ed.2d
+184 (1988) (“Doe II”) (footnote omitted).
+
+[5] However, in the realm of the non-
+physical disclosure of information, the
+privilege is broad, as “compelled testimony
+that communicates information that may
+‘lead to incriminating evidence’ is privi-
+leged even if the information itself is not
+inculpatory.” Id., 487 U.S. at 208 n.6, 108
+S.Ct. 2341. Thus, it is a “protection against
+the prosecutor’s use of incriminating infor-
+mation derived directly or indirectly from
+the compelled testimony.” Hubbell, 530
+US. at 38, 120 S.Ct. 2037.
+
+[6] The primary policy undergirding
+the Fifth Amendment privilege against
+self-incrimination is our country’s “fierce
+‘unwillingness to subject those suspected
+of crime to the cruel trilemma of self-
+accusation, perjury or contempt’ that de-
+fined the operation of the Star Chamber,
+wherein suspects were forced to choose
+between revealing incriminating private
+thoughts and forsaking their oath by com-
+mitting perjury.” Muniz, 496 U.S. at 596,
+
+110 S.Ct. 2638 (quoting Doe II, 487 U.S. at
+212, 108 S.Ct. 2341). This being the case,
+“the definition of ‘testimonial’ evidence ar-
+ticulated in Doe must encompass all re-
+sponses to questions that, if asked of a
+sworn suspect during a criminal trial,
+could place the suspect in the ‘cruel trilem-
+ma.’” Id. at 597, 110 S.Ct. 2638. As the
+Supreme Court reasoned, “[t]his conclu-
+sion is consistent with our recognition in
+Doe that ‘(t]he vast majority of verbal
+statements thus will be testimonial’ be-
+cause ‘[t]here are very few instances in
+which a verbal statement, either oral or
+written, will not convey information or as-
+sert facts.’” Id. Thus, “[w]henever a sus-
+pect is asked for a response requiring him
+to communicate an express or implied as-
+sertion of fact or belief, the suspect con-
+fronts the ‘trilemma’ of truth, falsity, or
+silence, and hence the response (whether
+based on truth or falsity) contains a testi-
+monial component.” Jd. (footnote omitted).
+
+[7] To invoke the Fifth Amendment
+privilege against the forced provision of
+information, a defendant must show (1) the
+evidence is self-incriminating; (2) the evi-
+dence is compelled; and (3) the evidence is
+testimonial in nature. Hubbell, 530 U.S. at
+34, 120 S.Ct. 2037. Thus, the government
+may not force someone to provide an in-
+criminating communication that is “testi-
+monial” in nature. It is only this last re-
+quirement — whether the evidence sought
+to be compelled is testimonial — that is at
+issue in this appeal.
+
+The United States Supreme Court has
+not rendered a decision directly addressing
+whether compelling a person to disclose a
+computer password is testimonial. In a
+series of foundational, but somewhat com-
+plex, cases, however, the high Court has
+discussed whether the act of production of
+documents may be testimonial for pur-
+poses of the Fifth Amendment.
+544 Pa.
+
+In Fisher, the high Court examined the
+question of what acts of production were
+testimonial in nature. Fisher involved
+consolidated cases in which the Internal
+Revenue Service (“IRS”) sought to obtain
+voluntarily-prepared documents the de-
+fendant taxpayers had given to their at-
+torneys. The IRS issued summonses on
+the defendant taxpayers’ attorneys to
+produce the documents which included ac-
+countants’ work papers, copies of the de-
+fendant taxpayers’ returns, and copies of
+other reports and correspondence. The
+attorneys responded that producing the
+documents would violate their clients’
+rights against self-incrimination, after
+which the IRS brought an enforcement
+action.
+
+Ultimately, the Supreme Court, after re-
+jecting the attorneys’ argument that the
+Fifth Amendment protected them from be-
+ing compelled to produce the documents,
+determined that the Fifth Amendment
+privilege was applicable where defendant
+taxpayers were required to produce in-
+criminating evidence, and that the act of
+producing even unprivileged evidence
+could have communicative aspects render-
+ing it testimonial and entitled to Fifth
+Amendment protection. Fisher, 425 U.S. at
+409-10, 96 S.Ct. 1569. Under the facts in
+Fisher, the Court found that the govern-
+ment was not relying on the “truth-telling”
+of the defendant taxpayers to establish the
+existence of the documents, their access to
+them, or their authentication of them, as
+they had been produced by accountants,
+and not the defendant taxpayers them-
+selves. Id. at 411, 96 S.Ct. 1569. Thus, the
+Court concluded that the act of producing
+the subpoenaed documents did not involve
+self-incriminating testimony.
+
+This analysis served as the basis of the
+foregone conclusion exception to the Fifth
+Amendment, discussed below. The Court
+offered that, because the existence, loca-
+
+220 ATLANTIC REPORTER, 3d SERIES
+
+tion, and authenticity of the documents
+sought was known to the government, the
+Fifth Amendment privilege was rendered
+inapplicable. The Court explained that
+“t]he existence and location of the papers
+are a foregone conclusion and the taxpayer
+adds little or nothing to the sum total of
+the Government’s information by conced-
+ing that he in fact has the papers.” Id.
+Thus, the Court reasoned that the defen-
+dant taxpayers’ production of the docu-
+ments was non-testimonial because the
+government knew of the existence of the
+documents, that the defendant taxpayers
+possessed the documents, and that the
+government could show their authentici-
+ty — not through the use of the defendant
+taxpayers’ minds, but through the testimo-
+ny of others. Thus, the Fifth Amendment
+privilege did not apply to the third-party
+production of documents requested. Id. at
+414, 96 S.Ct. 1569.
+
+Almost a decade later, in United States
+v. Doe, 465 U.S. 605, 104 S.Ct. 1237, 79
+L.Ed.2d 552 (1984) (“Doe I”), the Court
+considered a Fifth Amendment challenge
+to a subpoena that did not seek specific,
+known files, but broad categories of gen-
+eral business records of a sole propri-
+etorship. The Court found that, while the
+contents of the documents were not privi-
+leged, the act of producing the business
+documents could have testimonial aspects
+and an incriminating effect. The Court
+opined that the enforcement of the sub-
+poena would compel the defendant to ad-
+mit that the records existed, that they
+were in his possession, and that they
+were authentic, which was sufficient to
+establish a valid claim of privilege
+against self-incrimination. While conclud-
+ing that, by producing the documents,
+the defendant would relieve the govern-
+ment of the need for authentication, the
+Court mentioned (although did not apply)
+the foregone conclusion analysis: “This is
+not to say that the Government was fore-
+COMMONWEALTH v. DAVIS Pa.
+
+545
+
+Cite as 220 A.3d 534 (Pa. 2019)
+
+closed from rebutting respondent’s claim
+by producing evidence that possession,
+existence, and authentication were a
+‘foregone conclusion.’ In this case,
+however, the Government failed to make
+such a showing.” Jd. at 614 n.13, 104
+S.Ct. 1237 (citation omitted).
+
+In a subsequent, unrelated, decision in
+Doe II, the high Court considered the
+legality of an order compelling the target
+of a grand jury investigation to authorize
+foreign banks to disclose records of his
+accounts. 487 U.S. at 202, 108 S.Ct. 2341.
+The defendant contended that compelling
+him to sign the bank consent form would
+provide the government with incriminating
+records that would otherwise be unavail-
+able, as the court had no power to order
+foreign banks to produce records. Id. at
+204, 108 S.Ct. 2341. In rejecting this con-
+tention, the high Court indicated that “an
+accused’s communication must itself, ex-
+plicitly or implicitly, relate a factual asser-
+tion or disclose information.” Jd. at 210,
+108 S.Ct. 2341. The Court reasoned that
+the written authorization did not have tes-
+timonial significance, as it did not commu-
+nicate any factual assertion, implicit or
+explicit, or convey any information to the
+government.
+
+Importantly, for purposes of the issue
+before us, in response to a dissent by
+Justice John Paul Stevens, wherein he
+would have found the Fifth Amendment
+gave the defendant the right to refuse to
+sign the consent authorizing access to his
+bank accounts on the basis that he was
+compelled to use his mind as a witness
+against himself, the majority first agreed
+with the dissent by acknowledging that
+“(t]he expression of the contents of an
+individual’s mind” is testimonial communi-
+cation for purposes of the Fifth Amend-
+ment. Jd. at 210 n.9, 108 S.Ct. 2341. Thus,
+the Court was unanimous in its holding on
+this issue. The majority continued, howev-
+
+er, that “[w]e simply disagree with the
+dissent’s conclusion that the execution of
+the consent directive at issue here forced
+petitioner to express the contents of his
+mind. In our view, such compulsion is
+more like ‘befing] forced to surrender a
+key to a strongbox containing incrimina-
+ting documents’ than it is like ‘be[ing]
+compelled to reveal the combination to
+[petitioner's] wall safe.’” Id. (quoting Ste-
+vens, J. dissenting, 487 U.S. at 219, 108
+S.Ct. 2341) (emphasis added). Thus, the
+Court emphasized a clear physical/mental
+distinction in the context of a foregone
+conclusion analysis.
+
+Another decade later, the Court in Hub-
+bell again spoke to testimonial evidence in
+the business record context. In that case,
+Webster Hubbell, as part of the “Whitewa-
+ter” investigation by Independent Counsel
+Kenneth Starr during the presidency of
+Bill Clinton, had pleaded guilty to charges
+of mail fraud and tax evasion arising out of
+his billing practices. In the plea agree-
+ment, Hubbell promised to provide the
+Independent Counsel with “full, complete,
+accurate, and truthful information” about
+matters relating to the Whitewater investi-
+gation. Hubbell, 530 U.S. at 30, 120 S.Ct.
+2037. Later, while Hubbell was in prison, a
+grand jury investigating the activities of
+the Whitewater Development Corporation,
+issued a subpoena demanding from Hub-
+bell the production of eleven categories of
+documents. Jd. at 31, 120 S.Ct. 2037. Hub-
+bell invoked his Fifth Amendment privi-
+lege. The Independent Counsel then ob-
+tained an order from the federal district
+court directing Hubbell to comply with the
+subpoena and granting him immunity
+against the government’s use and deriva-
+tive use of the compelled testimony. Hub-
+bell then delivered 13,120 pages of the
+specified documents, after which the grand
+jury returned an indictment against Hub-
+bell for various wire fraud, mail fraud, and
+tax crimes. In response, Hubbell asserted
+546 Pa.
+
+his right against self-incrimination and a
+violation of the immunity previously grant-
+ed. The district court dismissed this new
+indictment, but the United States Court of
+Appeals for the District of Columbia Cir-
+cuit reversed, and the Supreme Court
+granted certiorari.
+
+Citing Fisher, the Supreme Court reit-
+erated that “a person may be required to
+produce specific documents even though
+they contain incriminating assertions of
+fact or belief because the creation of those
+documents was not ‘compelled’ within the
+meaning of the privilege.” Jd. at 35-36, 120
+S.Ct. 2037. Accordingly, the simple fact
+that the documents contained incrimina-
+ting evidence did not mean that Hubbell
+could avoid complying with the subpoena.
+
+Importantly, however, the Court reaf-
+firmed that the very act of producing docu-
+ments in response to a subpoena may have
+a compelled testimonial aspect in and of
+itself: “The ‘compelled testimony’ that is
+relevant ... is not to be found in the
+contents of the documents produced in re-
+sponse to the subpoena. It is, rather, the
+testimony inherent in the act of producing
+those documents.” Jd. at 40, 120 S.Ct.
+2037. (emphasis added.) Noting that in
+Fisher, the government already knew that
+the documents were in the attorneys’ pos-
+session and could independently confirm
+their existence and authenticity through
+the accountants, the Hubbell Court never-
+theless found that the government had not
+shown it had prior knowledge of the exis-
+tence or whereabouts of the documents
+produced by Hubbell. Moreover, in reject-
+ing the government’s assertion that its
+possession of the documents was the result
+of the physical act of producing the docu-
+ments, the Court explained that it was
+Hubbell’s responses that had provided the
+government with this information, and that
+it was “unquestionably necessary for [Hub-
+bell] to make extensive use of ‘the contents
+
+220 ATLANTIC REPORTER, 3d SERIES
+
+of his own mind’ in identifying the hun-
+dreds of documents responsive to the re-
+quests in the subpoena.” Jd. at 48, 120
+S.Ct. 2037. Indeed, in discussing the gov-
+ernment’s subpoena, which had required
+Hubbell to provide numerous responses to
+very broad requests, the Court, harkening
+back to the Doe IJ distinction, made clear
+that “[t]he assembly of those documents
+was like telling an inquisitor the combina-
+tion to a wall safe, not like being forced to
+surrender the key to a strongbox.” Jd. at
+43, 120 S.Ct. 2037 (citation omitted).
+
+The Court then considered whether the
+act of producing the records was sufficient-
+ly testimonial because the existence and
+possession of such records was a foregone
+conclusion. The Court held that “[w]hatev-
+er the scope of this ‘foregone conclusion’
+rationale,” it did not apply to overcome the
+testimonial aspects of Hubbell’s production
+of documents because the government did
+not have prior knowledge of the existence
+or location of the documents. Id. at 44-45,
+120 S.Ct. 2037. Thus, the Court concluded
+that the Fifth Amendment privilege ap-
+plied, and that Hubbell’s act of production
+of the documents had testimonial aspects,
+at least regarding the existence and loca-
+tion of the documents, which was not over-
+come by being a foregone conclusion. Jd. at
+45, 120 S.Ct. 2037.
+
+Finally, the Supreme Court’s decision in
+Muniz informs our analysis. Muniz, after
+failing field sobriety tests, was arrested for
+driving while intoxicated, and asked vari-
+ous questions when he was being booked.
+496 U.S. at 585-86, 110 S.Ct. 2638. Specifi-
+cally, the defendant was asked, inter alia,
+for identifying information such as his
+name, address, and date of birth, along
+with the date of his sixth birthday. The
+high Court considered the issue of whether
+the defendant’s statements during the
+booking process were testimonial, and,
+thus, subject to the Fifth Amendment priv-
+COMMONWEALTH v. DAVIS Pa.
+
+547
+
+Cite as 220 A.3d 534 (Pa. 2019)
+
+ilege against self-incrimination, which was
+implicated because the defendant had not
+been provided with Miranda warnings. Id.
+at 589-90, 110 S.Ct. 2638. The Court held
+that descriptions by police of the defen-
+dant’s speech as “slurred,” although in-
+criminating, were not testimonial, but akin
+to other physical characteristics that do
+not enjoy Fifth Amendment protection. Id.
+at 590-91, 110 S.Ct. 2638. However, the
+substance of the defendant’s answers, spe-
+cifically involving his birthday, were held
+to be testimonial. The Muniz Court em-
+phasized that the Fifth Amendment spares
+an accused from “having to reveal, directly
+or indirectly, his knowledge of facts relat-
+ing him to the offense or from having to
+share this thoughts and beliefs with the
+Government.” Id. at 595, 110 S.Ct. 2638
+(citation omitted). Moreover, the Court
+reasoned that when the defendant was
+asked about his birthday, he had to admit
+that he did not know, or answer untruth-
+fully, raising the specter of the “cruel tri-
+lemma.” Jd. at 596, 110 S.Ct. 2638. This,
+according to the Court, was entirely con-
+sistent with the Court’s prior admonition
+that “[t]he vast majority of verbal state-
+ments thus will be testimonial” because
+they likely “convey information or assert
+facts.” Id., 496 U.S. at 597, 110 S.Ct. 2638
+(quoting Doe II, 487 U.S. at 213, 108 S.Ct.
+2341). Thus, the testimonial statements re-
+vealing the contents of the defendant’s own
+mind disclosed consciousness of fact sub-
+ject to the privilege.
+
+[8,9] From this foundational law noted
+above, we can distill certain guiding princi-
+ples. First, the Supreme Court has made,
+and continues to make, a distinction be-
+tween physical production and testimonial
+production. As made clear by the Court,
+where the government compels a physical
+act, such production is not testimonial, and
+the privilege is not recognized. See Holt;
+Doe II, Second, an act of production, how-
+
+ever, may be testimonial when the act
+expresses some explicit or implicit state-
+ment of fact that certain materials exist,
+are in the defendant’s custody or control,
+or are authentic. See Fisher; Hubbell. The
+crux of whether an act of production is
+testimonial is whether the government
+compels the defendant to use the “contents
+of his own mind” in explicitly or implicitly
+communicating a fact. See Doe II; Hubbell.
+Third, and broadly speaking, the high
+Court has recognized that the vast majori-
+ty of compelled oral statements of facts
+will be considered testimonial, as they con-
+vey information or assert facts. See Muniz;
+Doe II. This is consistent with the Court’s
+deep concern regarding placing a suspect
+in the “cruel trilemma” of telling the truth,
+lying and perjuring himself, or refusing to
+answer and facing contempt and jail. Id.
+Indeed, the Court has unanimously con-
+cluded that “[t]he expression of the con-
+tents of an individual’s mind” is testimonial
+communication for purposes of the Fifth
+Amendment. Doe II, 487 U.S. at 210 n.9,
+108 S.Ct. 2341.
+
+Finally, and consistent with this histori-
+cal repulsion of the prospect of compelling
+a defendant to reveal his or her mental
+impressions, we find it particularly reveal-
+ing that, when addressing Justice Ste-
+vens’s dissent in Doe IJ, the majority of
+the Court noted that compelling the defen-
+dant to sign the bank disclosure forms was
+more akin to “be[ing] forced to surrender
+a key to a strongbox containing incrimina-
+ting documents” than it was to “befing]
+compelled to reveal the combination to [pe-
+titioner’s] wall safe.” Zd., at 210 n.9, 108
+S.Ct. 2341. This is a critical distinction.
+Consistent with a physical/mental produc-
+tion dichotomy, in conveying the combina-
+tion to a wall safe, versus surrendering a
+key to a strongbox, a person must use the
+“contents of [their] own mind.” If one is
+protected from telling an inquisitor the
+combination to a wall safe, it is a short
+548 Pa.
+
+step to conclude that one is protected from
+telling an inquisitor the password to a
+computer.
+
+[10,11] Based upon these cases ren-
+dered by the United States Supreme
+Court regarding the scope of the Fifth
+Amendment, we conclude that compelling
+the disclosure of a password to a comput-
+er, that is, the act of production, is testi-
+monial. Distilled to its essence, the reveal-
+ing of a computer password is a verbal
+communication, not merely a physical act
+that would be nontestimonial in nature.
+There is no physical manifestation of a
+password, unlike a handwriting sample,
+blood draw, or a voice exemplar. As a
+passcode is necessarily memorized, one
+cannot reveal a passcode without revealing
+the contents of one’s mind. Indeed, a pass-
+word to a computer is, by its nature, inten-
+tionally personalized and so unique as to
+accomplish its intended purpose — keep-
+ing information contained therein confiden-
+tial and insulated from discovery. Here,
+under United States Supreme Court prec-
+edent, we find that the Commonwealth is
+seeking the electronic equivalent to a com-
+bination to a wall safe — the passcode to
+unlock Appellant’s computer. The Com-
+monwealth is seeking the password, not as
+an end, but as a pathway to the files being
+withheld. As such, the compelled produc-
+tion of the computer’s password demands
+the recall of the contents of Appellant’s
+mind, and the act of production carries
+with it the implied factual assertions that
+will be used to incriminate him. Thus, we
+hold that compelling Appellant to reveal a
+password to a computer is testimonial in
+nature.
+
+6. In this regard, we reject the Common-
+wealth’s seemingly newly-raised contention
+that there might be a slip of paper containing
+the password which would be covered by the
+trial court’s order, Commonwealth’s Brief at
+
+220 ATLANTIC REPORTER, 3d SERIES
+
+Numerous other courts have come to
+similar conclusions. See, e.g., In re Grand
+Jury Subpoena Duces Tecum Dated
+March 25, 2011, 670 F.3d 1335, 1346 (11th
+Cir. 2012) (holding “the decryption and
+production of the hard drives would re-
+quire the use of the contents of Doe’s mind
+and could not be fairly characterized as a
+physical act that would be nontestimonial
+in nature,” thus Fifth Amendment protec-
+tions were triggered); United States v.
+Kirschner, 823 F.Supp.2d 665 (E.D. Mich.
+2010) (finding the government could not
+compel the defendant to reveal his pass-
+word because this amounted to “testimo-
+ny” from him which would “requir[e] him
+to divulge through his mental processes
+his password”).$
+
+[12] This, however, does not end our
+analysis. As noted above, the United
+States Supreme Court has found informa-
+tion, otherwise testimonial in nature, to be
+unprotected where the production of such
+information is a foregone conclusion. In
+essence, this judicial toleration of certain
+compelled testimony renders otherwise
+privileged testimonial communication non-
+testimonial. Specifically, under a foregone
+conclusion analysis, the Supreme Court
+has reasoned that an act of production
+does not render communication testimonial
+where the facts conveyed already are
+known to the government such that the
+evidence sought “adds little or nothing to
+the sum total of the Government’s infor-
+mation.” Fisher, 425 U.S. at 411, 96 S.Ct.
+1569. Thus, what is otherwise testimonial
+in nature is rendered nontestimonial, as
+the facts sought to be compelled are a
+foregone conclusion. As described above,
+for the exception to apply, the government
+must establish its knowledge of: (1) the
+
+1. There has been no suggestion in the pro-
+ceedings in this matter that such a paper
+exists, and this case has proceeded under the
+assumption of an oral or written compulsion
+of Appellant to provide the password.
+COMMONWEALTH v. DAVIS Pa.
+
+549
+
+Cite as 220 A.3d 534 (Pa. 2019)
+
+existence of the evidence demanded; (2)
+the possession or control of the evidence
+by the defendant; and (3) the authenticity
+of the evidence.
+
+Based upon the United States Supreme
+Court’s jurisprudence surveyed above, it
+becomes evident that the foregone conclu-
+sion gloss on a Fifth Amendment analysis
+constitutes an extremely limited exception
+to the Fifth Amendment privilege against
+self-incrimination. The Supreme Court has
+spoken to this exception on few occasions
+over the 40 years since its recognition in
+Fisher, and its application has been consid-
+ered only in the compulsion of specific
+existing business or financial records. See
+Doe I; Doe II; Hubbell. Its circumscribed
+application is for good reason. First, the
+Fifth Amendment privilege is foundational.
+Any exception thereto must be necessarily
+limited in scope and nature. Moreover,
+business and financial records are a unique
+category of material that has been subject
+to compelled production and inspection by
+the government for over a century. See,
+eg., Shapiro v. United States, 335 U.S. 1,
+33, 68 S.Ct. 1375, 92 L.Ed. 1787 (1948).
+The high Court has never applied or con-
+sidered the foregone conclusion exception
+beyond these types of documents. Indeed,
+it would be a significant expansion of the
+foregone conclusion rationale to apply it to
+a defendant’s compelled oral or written
+testimony. As stated by the Supreme
+Court, “[t]he essence of this basic constitu-
+tional principle is ‘the requirement that the
+[s]tate which proposes to convict and pun-
+ish an individual produce the evidence
+against him by the independent labor of its
+officers, not by the simple cruel expedient
+of forcing it from his own lips.’” Estelle v.
+Smith, 451 U.S. 454, 462, 101 S.Ct. 1866,
+68 L.Ed.2d 359 (1981) (emphasis original).
+Broadly circumventing this principle would
+undercut this foundational right.
+
+The Court’s decisions have been ambigu-
+ous concerning the breadth of the rationale
+as well as its value. See Hubbell, 530 U.S.
+at 44, 120 S.Ct. 2037 (“Whatever the scope
+of this ‘foregone conclusion’  ratio-
+nale....”); Fisher, 425 U.S. at 411, 96
+S.Ct. 1569 (finding that to succeed, the
+government must show that the sought
+after information is a “foregone conclu-
+sion” in that it “adds little or nothing to
+the sum total of the Government’s infor-
+mation.”) Thus, generally speaking, the ex-
+ception to a large degree appears to be
+intentionally superfluous; hence, the ac-
+commodation to the government is of limit-
+ed value. Accordingly, by definition, appli-
+cation of the foregone conclusion analysis
+in any given case will not be fatal to the
+government’s prosecution.
+
+ 
+
+ 
+
+Finally, the prohibition of application of
+the foregone conclusion rationale to areas
+of compulsion of one’s mental processes
+would be entirely consistent with the Su-
+preme Court decisions, surveyed above,
+which uniformly protect information ar-
+rived at as a result of using one’s mind. To
+broadly read the foregone conclusion ratio-
+nale otherwise would be to undercut these
+pronouncements by the high Court. See
+Doe II; Hubbell; Muniz. When comparing
+the modest value of this exception to one’s
+significant Fifth Amendment privilege
+against self-incrimination, we believe cir-
+cumscribed application of the privilege is
+in order.
+
+We acknowledge that, at times, constitu-
+tional privileges are an impediment to the
+Commonwealth. Requiring the Common-
+wealth to do the heavy lifting, indeed, to
+shoulder the entire load, in building and
+bringing a criminal case without a defen-
+dant’s assistance may be inconvenient and
+even difficult; yet, to apply the foregone
+conclusion rationale in these circumstances
+would allow the exception to swallow the
+constitutional privilege. Nevertheless, this
+550. Pa.
+
+constitutional right is firmly grounded in
+the “realization that the privilege, while
+sometimes ‘a shelter to the guilty,’ is often
+‘a protection to the innocent.’” Doe II, 487
+U.S. at 213, 108 S.Ct. 2341. Moreover,
+there are serious questions about applying
+the foregone conclusion exception to infor-
+mation that manifests through the usage of
+one’s mind. As expressed by the California
+Court of Appeals in a matter involving an
+order compelling the production of a weap-
+on allegedly used in a crime:
+Implicit in the prosecution’s position,
+and the court’s order, is the argument
+that independent evidence establishes
+defendant’s possession of the gun at the
+time of the offense and after.... The
+Commonwealth does not simply assert
+that the evidence to be gained by pro-
+duction is here inconsequential or nonin-
+criminating; rather it says that the evi-
+dence is unworthy of Fifth Amendment
+protection because it merely enhances
+other persuasive evidence obtained with-
+out the defendant’s help. The Common-
+wealth’s argument is indeed curious. It
+is as if we were asked to rule that a
+confession could be coerced from an ac-
+cused as soon as the government an-
+nounced (or was able to show) that [in]
+a future trial it could produce enough
+independent evidence to get past a mo-
+tion for a directed verdict of acquittal.
+
+7. Because we are dealing with a motion to
+require an individual to recall and disclose a
+memorized password to a computer, in es-
+sence, revealing the contents of one’s own
+mind, we need not address the related, but
+distinct, area involving biometric features like
+fingerprints, thumbprints, iris scanning, and
+facial recognition, or whether the foregone
+conclusion rationale would be appropriate in
+these circumstances. The dissent, however,
+makes much of the potential for inconsistent
+results in ‘future cases”’ involving these types
+of biometric passwords. Dissenting Opinion at
+556-57. Yet, not only are these communica-
+tions not before our Court, it is the United
+States Supreme Court that long ago has creat-
+ed the dichotomy between physical and men-
+
+220 ATLANTIC REPORTER, 3d SERIES
+
+Goldsmith v. Superior Court, 152 Cal.
+App. 3d 76, 87 n.12, 199 Cal.Rptr. 366
+(1984) (quotations and citations omitted)
+(emphasis added).
+
+We appreciate the significant and ever-
+increasing difficulties faced by law enforce-
+ment in light of rapidly changing technolo-
+gy, including encryption, to obtain evi-
+dence. However, unlike the documentary
+requests under the foregone conclusion ra-
+tionale, or demands for physical evidence
+such as blood, or handwriting or voice
+exemplars, information in one’s mind to
+“unlock the safe” to potentially incrimina-
+ting information does not easily fall within
+this exception.’ Indeed, we conclude the
+compulsion of a password to a computer
+cannot fit within this exception.
+
+[13,14] Thus, we hold that the com-
+pelled recollection of Appellant’s password
+is testimonial in nature, and, consequently,
+privileged under the Fifth Amendment to
+the United States Constitution. Further-
+more, until the United States Supreme
+Court holds otherwise, we construe the
+foregone conclusion rationale to be one of
+limited application, and, consistent with its
+teachings in other decisions, believe the
+exception to be inapplicable to compel the
+disclosure of a defendant’s password to
+assist the Commonwealth in gaining access
+toa computer.® ® 1?
+
+tal communication. See Holt, 218 U.S. at 252-
+53, 31 S.Ct. 2 (‘the prohibition of compelling
+a man in criminal court to be witness against
+himself is a prohibition of the use of physical
+or moral compulsion to extort communica-
+tions from him, not an exclusion of his body
+as evidence when it may be material.’’); Doe
+II, 487 U.S. at 210 n.9, 108 S.Ct. 2341. (find-
+ing the expression ‘‘more like ‘be[ing] forced
+to surrender a key to a strong box containing
+incriminating documents’ than it is like
+be[ing] compelled to reveal the combination
+to [petitioner’s] wall safe.”’).
+
+8. After oral argument, we granted Appellant’s
+Motion for Leave to File Post-Argument Sub-
+COMMONWEALTH v. DAVIS Pa.
+
+551
+
+Cite as 220 A.3d 534 (Pa. 2019)
+
+mission and now grant the Commonwealth's
+Motion for Leave to File Response to Post-
+Argument Submission with respect to this is-
+sue. However, as we resolve this matter in
+favor of Appellant exclusively under the Fifth
+Amendment to the United States Constitution,
+we need not address his additional contention
+that the Pennsylvania Constitution provides
+greater protections than the federal charter.
+
+9. Even if we were to find that the foregone
+conclusion exception could apply to the com-
+pulsion to reveal a computer password, we
+nevertheless would conclude that the Com-
+monwealth has not satisfied the requirements
+of the exception in this matter. As noted
+above, for the compelled evidence to fall with-
+in the exception, the Commonwealth must
+establish: (1) the existence of the evidence
+demanded; (2) the possession or control of the
+evidence by the defendant; and (3) the au-
+thenticity of the evidence.
+
+As the Superior Court recounted below,
+there is a high probability that child pornog-
+raphy exists on Appellant’s computer, as evi-
+denced by: Appellant’s IP address utilizing a
+peer-to-peer file sharing network to share vid-
+eos depicting child pornography; the fact that
+the sole computer seized had hardwire Inter-
+net; and the fact that Appellant “implied as to
+the nefarious contents of the computer on
+numerous occasions.” Davis, 176 A.3d at 876.
+However, for the exception to apply, the facts
+sought to be compelled must be already
+known to the Commonwealth. It is not merely
+access to the computer that the Common-
+wealth seeks to obtain through compelling
+Appellant to divulge his computer password,
+but all of the files on Appellant’s computer.
+The password is merely a means to get to the
+computer’s contents. While it is conceivable,
+and indeed, likely, that a single video contain-
+ing child pornography (as previously viewed
+by the OAG agents) may be on the computer,
+the compelled revelation of the password
+could lead to a trove of a presently unknown
+number of files. Indeed, the record establishes
+that the entire hard drive of the computer was
+encrypted and “there was no data that could
+be read without opening the TrueCrypt vol-
+ume.” N.T. Hearing, 1/14/16, at 46. Agent
+Cook could only confirm that there was ‘“Win-
+dows on the computer and the TrueCrypt,”
+and he had no knowledge of any specific files
+other than the operating system files. Id. at
+50-51.
+
+In sum, because the Commonwealth has
+failed to establish that its search is limited to
+the single previously identified file, and has
+
+ 
+
+not asserted that it is a foregone conclusion as
+to the existence of additional files that may be
+on the computer, which would be accessible
+to the Commonwealth upon Appellant's com-
+pelled disclosure of the password, we find the
+Commonwealth has not satisfied the foregone
+conclusion exception.
+
+10. The dissent agrees that the information the
+Commonwealth seeks to compel is testimonial
+in nature. Dissenting Opinion at 553. The
+dissent, however, contends that, in these cir-
+cumstances, governmentally forced testimony
+involving a computer password falls within
+the foregone conclusion exception to the Fifth
+Amendment privilege against self-incrimina-
+tion. Respectfully, the dissent’s position is un-
+persuasive.
+
+Initially, the dissent broadly dilutes the his-
+toric and contextual underpinnings of the ap-
+plication of the foregone conclusion excep-
+tion, which, as noted above, constitutes an
+extremely narrow exception. Indeed, the high
+Court has found the exception to have been
+satisfied only one time in the over 40 years
+since it was created; moreover, the excep-
+tion’s provenance is exclusively in cases in-
+volving subpoenaed paper documents — nev-
+er in the context of oral testimony. Thus,
+application of the foregone conclusion excep-
+tion outside of this narrow context is dubious
+at best. For that reason, we will not apply the
+foregone conclusion exclusion in the absence
+express guidance from the high Court.
+
+Furthermore, the dissent adopts a minority
+interpretation of that exception which focuses
+on the password itself, rather than on the
+underlying files. Yet, even employing this
+password-centric approach, the  circum-
+stances, sub judice, do not satisfy the foregone
+conclusion doctrine. As set forth above, and
+noted by the dissent, to satisfy the foregone
+conclusion doctrine, the government must es-
+tablish, inter alia, the authenticity of the evi-
+dence, ie., the password, with reasonable
+particularity. Of course, here, the Common-
+wealth cannot establish with reasonable par-
+ticularity the authenticity of the password.
+Rather, authenticity may only be established
+after the information — the password — is
+turned over to the Commonwealth. The dis-
+sent is turning the authenticity requirement
+on its head, allowing the Commonwealth to
+satisfy its burden by, in essence, saying, “Turn
+over the facts we want, and we will tell you if
+it is authentic or not.”’ Of course, this is not
+how the exception works. Rather, the burden
+is on the Commonwealth to establish its inde-
+552 Pa.
+
+For the above-stated reasons, we re-
+verse the order of the Superior Court and
+remand the matter to the Superior Court,
+for remand to the trial court, for proceed-
+ings consistent with our Opinion.
+
+Jurisdiction relinquished.
+
+Chief Justice Saylor and Justices
+Donohue and Wecht join the opinion.
+
+Justice Baer files a dissenting opinion in
+which Justice Dougherty and Mundy join.
+
+pendent knowledge of, inter alia, the authen-
+ticity of the documents or evidence sought,
+before that information is properly compelled
+over a defendant's Fifth Amendment assertion
+of his or her right against self-incrimination.
+Fisher. Indeed, the dissent’s password-centric
+logic was recently rejected by the Third Dis-
+trict Court of Appeal of Florida in Pollard v.
+State, So.3d , 2019 WL 2528776 (Fla.
+Dist. Ct. App. June 20, 2019), where the court
+forcefully explained the logical shortcomings
+of this approach:
+
+[The foregone conclusion exception’s]
+
+three-part test is tautological when applied
+
+to passwords because all password-protect-
+ed cellphones have an “authentic” pass-
+word, making the [State v. Stahl, 206 So.3d
+
+124 (Fla. Dist. Ct. App. 2016)] test some-
+
+what circular. In this regard, the court in
+
+Stahl said that ‘[iJf the phone or computer
+
+is accessible once the passcode or key has
+
+been entered, the passcode or key is authen-
+tic. 206 So.3d at 136, which begs the ques-
+tion of whether sufficient evidence estab-
+lished that the passcode is authentic before
+it had been compelled and used successful-
+ly. The state must have sufficient proof of
+authenticity before it can compel the pass-
+word’s production; simply because a com-
+pelled password unlocks a cellphone after
+the fact doesn’t make it authentic ex ante.
+
+To do otherwise is “‘like telling an inquisitor
+
+the combination to a wall safe, not like
+
+being forced to surrender the key to a
+
+strongbox.”’ [citing Hubbell].
+
+Pollard, — So.3d at , 2019 WL 2528776
+at *4,
+
+Related thereto, and as noted above, the
+United States Supreme Court has limited the
+application of this narrow exception to Fifth
+Amendment protections to contexts where the
+facts sought ‘“‘add[] little or nothing to the
+
+ 
+
+ 
+
+ 
+
+220 ATLANTIC REPORTER, 3d SERIES
+
+JUSTICE BARR, Dissenting
+
+I respectfully dissent from the majori-
+ty’s decision, which holds that the foregone
+conclusion exception to the Fifth Amend-
+ment privilege against self-incrimination
+does not apply to the compelled disclosure
+of a computer password because the pass-
+word manifests from one’s mind. I further
+disagree with the majority’s alternative
+holding that if the foregone conclusion ex-
+ception would apply under the circum-
+stances presented, the Commonwealth
+
+sum total of the Government's information.”
+Fisher, 425 U.S. at 411, 96 S.Ct. 1569. Noth-
+ing could be farther from the case here, as the
+password which the Commonwealth seeks to
+compel could disclose a vast swath of files of
+which the Commonwealth, it appears, cur-
+rently has no knowledge.
+
+Finally, and directly related thereto, the dis-
+sent gives scant attention or significance to
+the Supreme Court’s consistent approach that
+revealing the contents of one’s mind is pro-
+tected by the Fifth Amendment. This unmis-
+takable overarching jurisprudential theme has
+been consistently applied in all of the high
+Court’s decisions in this area. Doe IT; Hubbell;
+Muniz. Indeed, the dissent speaks volumes by
+reducing to a footnote, without analysis, its
+mention of the United States Supreme Court's
+distinction between the production of docu-
+ments and the forced compulsion of mental
+processes such as the combination to a safe,
+which, in the high Court’s view, plainly vio-
+lates the Fifth Amendment. Doe IJ; Hubbell.
+Simply stated, there is no meaningful distinc-
+tion between the government compelling a
+suspect to provide the combination to access
+a safe, and the government forcing one to
+disclose a password to access a computer.
+Here, it is unquestionably necessary for Ap-
+pellant to make use of “the contents of his
+own mind” in providing the password. In
+essence, the dissent’s approach is effectively
+the same as compelling Appellant to affirm
+that, “I know the password, this is my com-
+puter, I have knowledge of the existence and
+location of incriminating files, and I have the
+capability to decrypt the files.” To accept the
+dissent’s position is to embrace a stance con-
+trary to the foundational privilege against the
+probing of an individual’s mind to compel
+communication that is incriminating.
+COMMONWEALTH v. DAVIS Pa.
+
+553
+
+Cite as 220 A.3d 534 (Pa. 2019)
+
+failed to satisfy the requisites thereof be-
+cause it did not establish that it had knowl-
+edge of the various files stored on Appel-
+lant’s computer hard drive in addition to
+the single previously identified file that
+contained child pornography.
+
+Preliminarily, I acknowledge that the
+issue presented in this appeal is one of
+first impression, with which courts across
+the nation have struggled. See generally
+Marjorie A. Shields, Fifth Amendment
+Privilege Against Self-Incrimination as
+Applied to Compelled Disclosure of Pass-
+word or Production of Otherwise E'ncrypt-
+ed Electronically Stored Data, 84 A.L.R.
+6th 251 (2019) (compiling Fifth Amend-
+ment cases involving “compelled disclosure
+of an individual’s password, means of de-
+eryption, or unencrypted copy of electroni-
+cally stored data”). Upon review of the
+High Court’s seminal decision in Fisher v.
+United States, 425 U.S. 391, 96 S.Ct. 1569,
+48 L.Ed.2d 39 (1976), which first recog-
+nized the foregone conclusion exception,
+and its progeny, I would hold that the
+foregone conclusion analysis applies to the
+compelled disclosure of a password to an
+electronic device, which the Common-
+wealth has seized pursuant to a warrant.
+
+My analysis focuses on the compulsion
+order, which directed Appellant to “supply
+the Commonwealth with any and all pass-
+words used to access” a specific desktop
+computer and hard drive seized from his
+residence. Trial Court Order, 6/30/2016. In
+my view, this order compels an act of
+production that has testimonial aspects in
+that it conveys, as a factual matter, that
+Appellant has access to the particular com-
+puter seized by the Commonwealth pursu-
+ant to a warrant, and that he has posses-
+sion and control over the password that
+will decrypt the encrypted files stored on
+that computer. As discussed in detail infra,
+because the Commonwealth was already
+aware of these facts based upon its own
+
+investigation and Appellant’s candid dis-
+cussion with government agents, the pass-
+word falls within the foregone conclusion
+exception to the Fifth Amendment privi-
+lege against self-incrimination, and may be
+constitutionally compelled. Notably, critical
+to my position is the recognition that this
+case does not involve a Fourth Amend-
+ment challenge based upon Appellant’s pri-
+vacy rights in his encrypted computer files
+but, rather, solely a challenge to the com-
+pelled disclosure of his password based
+upon his Fifth Amendment privilege
+against self-incrimination.
+
+I. The Fifth Amendment As Applied
+To Acts of Production
+
+As noted by the majority, the Fifth
+Amendment provides, in relevant part,
+that “[nJo person ... shall be compelled in
+any criminal case to be a witness against
+himself.” U.S. Const. amend V. Courts
+have interpreted the privilege as protect-
+ing a citizen “from being compelled to
+testify against himself, or otherwise pro-
+vide the State with evidence of a testimoni-
+al or communicative nature.” Pennsylva-
+nia v. Muniz, 496 U.S. 582, 588-89, 110
+S.Ct. 2638, 110 L.Ed.2d 528 (1990) (cita-
+tions omitted). The Fifth Amendment
+“does not independently proscribe the
+compelled production of every sort of in-
+criminating evidence but applies only when
+the accused is compelled to make a testi-
+monial communication that is incrimina-
+ting.” Fisher, 425 U.S. at 408, 96 S.Ct.
+1569. To be testimonial, a communication
+must either “explicitly or implicitly ...
+relate a factual assertion or disclose infor-
+mation.” Doe v. United States, 487 U.S.
+201, 210, 108 S.Ct. 2341, 101 L.Ed.2d 184
+(1988).
+
+In Fisher, the High Court explained
+that in addition to traditional testimony,
+acts of production may implicate the Fifth
+Amendment because the “act of producing
+evidence in response to a subpoena never-
+554 Pa.
+
+theless has communicative aspects of its
+own, wholly aside from the contents of the
+papers produced.” 425 U.S. at 410, 96 S.Ct.
+1569. The Court explained that compliance
+with a request for evidence “tacitly con-
+cedes” the existence of the evidence, pos-
+session or control of the evidence by the
+individual, and the belief that the evidence
+is, in fact, the item requested by the gov-
+ernment. Jd. Whether the act of produc-
+tion has a testimonial aspect sufficient to
+warrant Fifth Amendment protection “de-
+pends on the facts and circumstances of
+particular cases or classes thereof.” Id.
+
+It is well established that some com-
+pelled acts have no testimonial aspects
+and, thus, no Fifth Amendment protection,
+as the acts do not require an accused to
+relate a factual assertion, disclose knowl-
+edge, or “speak his guilt.” Doe v. United
+States, 487 U.S. 201, at 210-11, 108 S.Ct.
+2341, 101 L.Ed.2d 184 (1988). These in-
+clude, for example, furnishing a blood
+sample, providing a voice or handwriting
+exemplar, or standing in a line-up. Jd. (col-
+lecting cases). Other compelled acts, such
+as the production of certain subpoenaed
+documents, may have a compelled testimo-
+nial aspect warranting Fifth Amendment
+protection where the government’s de-
+mand is akin to a “detailed written inter-
+rogatory or a series of questions at a dis-
+covery deposition,” characterized as a
+“fishing expedition.” United States v. Hub-
+bell, 530 U.S. 27, 36, 41-42, 120 S.Ct. 2037,
+147 L.Ed.2d 24 (2000).1
+
+1. In Hubbell, the Supreme Court held that the
+act of producing thousands of subpoenaed
+documents had testimonial aspects in that the
+act of production communicated information
+about the documents’ existence, custody, and
+authenticity. The High Court concluded that,
+unlike in Fisher, the government had shown
+no prior knowledge of either the existence or
+whereabouts of the documents, thus, the fore-
+gone conclusion exception to the Fifth
+
+220 ATLANTIC REPORTER, 3d SERIES
+
+Finding that an act of production has
+testimonial aspects, however, does not nec-
+essarily mean that the Fifth Amendment
+privilege precludes compulsion of the evi-
+dence sought. As the majority cogently
+observes, the United States Supreme
+Court has found that information, other-
+wise testimonial in nature, is unprotected
+where the production of such information
+is a foregone conclusion. Majority Opinion
+at 548. The foregone conclusion exception
+applies where the existence and location of
+the compelled evidence “adds little or
+nothing to the sum total of the govern-
+ment’s information.” Fisher, 425 U.S. at
+410, 96 S.Ct. 1569. The High Court in
+Fisher explained that a foregone conclu-
+sion exists where “[t]he question is not of
+testimony but of surrender.” Jd. at 411
+(quoting In re Harris, 221 U.S. 274, 279,
+31 S.Ct. 557, 55 L.Ed. 732 (1911)). Thus, as
+the majority recognizes, “what is otherwise
+testimonial in nature is rendered non-testi-
+monial, as the facts sought to be compelled
+are a foregone conclusion.” Majority Opin-
+ion at 548.
+
+In my opinion, the compulsion of Appel-
+lant’s password is an act of production,
+requiring him to produce a piece of evi-
+dence similar to the act of production re-
+quiring one to produce a business or finan-
+cial document, as occurred in Fisher? See
+Trial Court Order, 6/20/2016 (directing Ap-
+pellant to “supply the Commonwealth with
+any and all passwords used to access the
+HP Envy 700 desktop computer with serial
+# MXX4100000042C containing Seagate 2
+TB hard drive with serial
+
+Amendment privilege against self-incrimina-
+tion did not apply.
+
+2. The summonses in Fisher directed the de-
+fendants’ attorneys to produce documents re-
+lating to the defendants’ tax returns in con-
+nection with an investigation into possible
+civil or criminal liability under federal income
+tax laws.
+COMMONWEALTH v. DAVIS Pa.
+
+555
+
+Cite as 220 A.3d 534 (Pa. 2019)
+
+# Z4Z1AAAEFM”). An order compelling
+disclosure of the password, here a 64-char-
+acter password, has testimonial attributes,
+not in the characters themselves, but in
+the conveyance of information establishing
+that the password exists, that Appellant
+has possession and control of the pass-
+word, and that the password is authentic,
+as it will decrypt the encrypted computer
+files. The Commonwealth is not seeking
+the 64-character password as an investiga-
+tive tool, as occurred in Hubbell, where the
+government compelled the disclosure of
+thousands of documents to engage in a
+fishing expedition to discover evidence of
+the defendant’s guilt. To the contrary, the
+Commonwealth already possesses evidence
+of Appellant’s guilt, which it set forth in an
+affidavit of probable cause to obtain a war-
+rant to search Appellant’s computer. Stat-
+ed differently, the Commonwealth is not
+asking Appellant to “speak his guilt,” but
+merely to allow the government to execute
+a warrant that it lawfully obtained.
+
+Because I view the compulsion order as
+requiring the “surrender” of Appellant’s
+password to decrypt his computer files, I
+would apply Fisher’s act-of-production
+test. The majority declines to apply the
+foregone conclusion rationale to the com-
+pelled disclosure of Appellant’s computer
+password, finding that to do so would con-
+stitute a “compulsion of one’s mental pro-
+cesses” in violation of the Fifth Amend-
+ment. Majority Opinion at 549. There is
+appeal to this conclusion, as requiring Ap-
+pellant to supply his password involves
+some mental effort in recalling the 64
+
+3. I recognize that the majority’s conclusion in
+this regard finds support in commentary
+found in federal cases, suggesting a constitu-
+tional distinction between the compelled sur-
+render of a key and the compelled disclosure
+of a combination to a wall safe. For the rea-
+sons set forth herein, however, I do not find
+any such distinction dispositive in a case in-
+volving current day technology relating to the
+
+characters used to encrypt the computer
+files.? However, one would expend similar
+mental effort when engaging in virtually
+any other act of production, such as the
+disclosure of business or financial records,
+as the individual must retrieve the con-
+tents of his mind to recall the documents’
+location before disclosing them to the gov-
+ernment. Under the majority’s reasoning,
+the compelled production of documents
+would be tantamount to placing the defen-
+dant on the stand and requiring him to
+testify as to the location of the documents
+sought. The mere fact that Appellant is
+required to think in order to complete the
+act of production, in my view, does not
+immunize that act of production from the
+foregone conclusion rationale.
+
+II. Application of the Foregone
+Conclusion Test
+
+Having determined that the foregone
+conclusion rationale may potentially apply
+to cases involving the compelled disclosure
+of a computer password, significant ques-
+tions arise regarding how to administer
+the three-part test. As observed by the
+majority, to satisfy the foregone conclusion
+exception to the Fifth Amendment privi-
+lege, “the government must establish its
+knowledge of: (1) the existence of the evi-
+dence demanded; (2) the possession or con-
+trol of the evidence by the defendant; and
+(8) the authenticity of the evidence.” Ma-
+jority Opinion at 549.
+
+As an alternative holding, the majority
+opines that if the Court were to find that
+the foregone conclusion exception could
+
+compelled disclosure of a password to en-
+crypted digital information, where the Com-
+monwealth has a warrant to search the digital
+container. Only the High Court can make the
+final determination in this regard for pur-
+poses of the Fifth Amendment, and the pres-
+ent case offers an attractive vehicle by which
+the Court could do so.
+556 Pa,
+
+apply to the compelled disclosure of a
+password, it would apply Fisher’s act-of-
+production test to the computer files
+stored on Appellant’s computer. See Ma-
+jority Opinion at 551 n.9 (holding that “be-
+cause the Commonwealth has failed to es-
+tablish that its search is limited to the
+single previously identified file [containing
+child pornography], and has not asserted
+that it is a foregone conclusion as to the
+existence of additional files that may be on
+the computer, which would be accessible to
+the Commonwealth upon Appellant’s com-
+pelled disclosure of the password, we find
+the Commonwealth has not satisfied the
+foregone conclusion exception”).
+
+Respectfully, it is my position that the
+foregone conclusion exception as applied to
+the facts presented relates not to the com-
+puter files, but to the password itself. Ap-
+pellant’s computer files were not the sub-
+ject of the compulsion order, which instead
+involved only the password that would act
+to decrypt those files. This change of focus
+is subtle, but its effect is significant. While
+the government’s knowledge of the specific
+files contained on Appellant’s computer
+hard drive would be central to any claim
+asserted pursuant to the Fourth Amend-
+ment, the same is not dispositive of the
+instant claim based upon the Fifth Amend-
+ment right against — self-incrimination,
+which focuses upon whether the evidence
+compelled, here, the password, requires
+the defendant to provide incriminating,
+testimonial evidence. See Doe v. United
+States (In re Grand Jury Subpoena), 383
+F.3d 905, 910 (9th Cir. 2004) (providing
+that “it is the government’s knowledge of
+the existence and possession of the actual
+documents [subpoenaed by the govern-
+ment], not the information contained
+therein, that is central to the foregone
+conclusion inquiry”). This Court should not
+alleviate concerns over the potential over-
+breadth of a digital search in violation of
+Fourth Amendment privacy concerns by
+
+220 ATLANTIC REPORTER, 3d SERIES
+
+invoking the Fifth Amendment privilege
+against self-incrimination, which offers no
+privacy protection. The High Court in
+Fisher made this point clear by stating,
+“We cannot cut the Fifth Amendment
+loose from the moorings of its language,
+and make it serve as a general protector of
+privacy — a word not mentioned in its text
+and a concept directly addressed in the
+Fourth Amendment.” 425 U.S. at 401, 96
+S.Ct. 1569 (quoting United States v. No-
+bles, 422 U.S. 225, 233 n.7, 95 S.Ct. 2160,
+45 L.Ed.2d 141 (1975) (emphasis in origi-
+nal)).
+
+Accordingly, I would align myself with
+those jurisdictions that examine the requi-
+sites of the foregone conclusion exception
+by focusing only on the compelled evidence
+itself, i.e., the computer password, and not
+the decrypted files that the password
+would ultimately reveal. See, e.g., United
+States v. Apple MacPro Computer, 851
+F.3d 238, 248 n.7 (8rd Cir. 2017) (“LA] very
+sound argument can be made that the
+foregone conclusion doctrine properly fo-
+cuses on whether the Government already
+knows the testimony that is implicit in the
+act of production. In this case, the fact
+known to the government that is implicit
+in the act of providing the password for
+the device is ‘I, John Doe, know the pass-
+word for these devices.’”); State v. John-
+son, 576 S.W.3d 205, 277 (Mo. Ct. App.
+2019) (holding that the focus of the fore-
+gone conclusion exception as applied to the
+compelled entering of one’s cell phone pas-
+scode is the extent of the government’s
+knowledge about the existence of the pas-
+scode, his possession and control of the
+phone’s passcode, and the passcode’s au-
+thenticity); Commonwealth v. Gelfgatt, 11
+N.E.3d 605, 615 (Mass. 2014) (holding that
+the compelled decryption of computer files
+satisfied the elements of the foregone con-
+clusion exception because the government
+already knew the implicit facts conveyed
+COMMONWEALTH v. DAVIS Pa.
+
+557
+
+Cite as 220 A.3d 534 (Pa. 2019)
+
+through the act of entering the encryption
+key, such as the defendant’s ownership
+and control of the computers, knowledge
+of the encryption, and knowledge of the
+encryption key); State v. Andrews, 197
+A3d 200, 205 (N.J. Super. 2018) (holding
+that whether the government was aware of
+the possible contents of the defendant’s
+cell phones was immaterial “because the
+order requires defendant to disclose the
+passcodes, not the contents of the phones
+unlocked by those passcodes”).
+
+III. Application to Future Cases
+
+Finally, it is my belief that the majori-
+ty’s approach could render inconsistent re-
+sults as the determination of whether
+there was a Fifth Amendment violation in
+compelled decryption cases could depend
+upon the type of password that the indi-
+vidual employed to protect his encrypted
+files. For example, according to the major-
+ity, if the accused used a multi-character
+password to encrypt computer files, as oc-
+curred here, and the government com-
+pelled the individual to supply the pass-
+word, a Fifth Amendment violation would
+result because the password manifests
+through the use of one’s mind. Majority
+Opinion at 550. However, if the individual
+employed a biometric password, such as
+facial recognition or a fingerprint, the ma-
+jority’s analysis would arguably lose its
+force. Under those circumstances, the in-
+dividual is not using the contents of his
+mind but, rather, is performing a com-
+pelled act of placing his finger or face in
+the appropriate position to decrypt the
+files. Additional questions arise when the
+act of compulsion is not the disclosure of
+the password itself, but the entry of the
+password into the computer. It is my posi-
+tion that all these examples constitute acts
+of production that would be subject to the
+foregone conclusion rationale in the appro-
+priate case. The same legal analysis
+should apply to the underlying act of com-
+
+pelled decryption of digital information
+when the government has obtained a war-
+rant to search the digital container. To
+hold to the contrary would create an en-
+tire class of evidence, encrypted computer
+files, that is impervious to governmental
+search. This could potentially alter the
+balance of power between governmental
+authorities and criminals, and render law
+enforcement incapable of accessing rele-
+vant evidence.
+
+IV. Conclusion
+
+Accordingly, I would hold that the fore-
+gone conclusion exception to the Fifth
+Amendment privilege against self-incrimi-
+nation applies to render non-testimonial
+Appellant’s compelled act of producing the
+password to his encrypted, lawfully seized
+computer. As the majority observes, when
+government agents attempted to execute
+the search warrant, Appellant voluntarily
+informed them that he was the sole user of
+the computer, that he used hardwired In-
+ternet services that were password pro-
+tected, that only he knew the password to
+decrypt his computer files, and that he
+would never disclose the password, as it
+would incriminate him.
+
+In addition to Appellant’s voluntary dis-
+closure to government agents that he knew
+the password that would decrypt the files
+stored on the computer that the Common-
+wealth lawfully seized, there is ample cir-
+cumstantial evidence demonstrating Appel-
+lant’s knowledge of the password. Before
+seizing the computer, government agents
+conducted an investigation of the “eMule”
+peer-to-peer network to identify internet
+users sharing child pornography. Agents
+made a direct connection with a device
+that used a particular IP address over the
+eMule network, which agents subsequently
+linked to Appellant. Using this direct con-
+nection, agents downloaded one child por-
+nography video file from Appellant’s IP
+558 Pa.
+
+address. Affidavit of Probable Cause,
+10/20/2015, at 7. Based on this download,
+the agents obtained the search warrant for
+Appellant’s residence. Id. at 9.
+
+Upon executing the search warrant,
+agents seized a single desktop computer,
+as that was the only device connected to
+Appellant’s IP address. N.T., 1/14/2016, at
+33. Forensic analysis revealed that Appel-
+lant’s IP address had used the eMule file-
+sharing program on 23 dates from July 4,
+2015, through October 19, 2015, to share
+files indicative of child pornography. Affi-
+davit of Probable Cause, 10/20/2015, at 10-
+11; N.T., 1/14/2016, at 29. Agent Daniel
+Block explained that the government
+reached this conclusion based upon the
+“SHA value,” which is essentially a “digital
+fingerprint” that corresponds with known
+SHA values of child pornography files.
+N.T., 1/14/2016, at 20. This evidence dem-
+onstrates that Appellant possessed the
+password to decrypt files on the computer
+seized by the Commonwealth, as his own
+words established that he was the sole
+user of the computer and forensic analysis
+demonstrated that he was accessing the
+encrypted files on the days leading up to
+his arrest.
+
+Under these circumstances, it was a
+foregone conclusion that the government
+knew that the password to decrypt the
+files existed, that Appellant had exclusive
+control over the password, and that the
+password was authentic.’ Accordingly, the
+testimonial aspects of the password disclo-
+sure “adds little or nothing to the sum
+total of the government’s information.”
+
+4. I would hold that the authenticity prong of
+the foregone conclusion exception requires
+the government to establish that the com-
+pelled information is what it purports to be,
+i.e., a password that will decrypt the comput-
+er files on Appellant’s hard drive. The Com-
+monwealth may prove the authenticity of the
+password by Appellant’s own voluntary state-
+ments. See Pa.R.E. 901(b) (providing that the
+
+220 ATLANTIC REPORTER, 3d SERIES
+
+Fisher, 425 U.S. at 410, 96 S.Ct. 1569.
+Thus, I would find that the compelled dis-
+closure of Appellant’s password does not
+violate his Fifth Amendment privilege
+against self-incrimination.
+
+Justices Dougherty and Mundy join this
+dissenting opinion.
+
+Ww
+° 5 KEY NUMBER SYSTEM
+z
+
+IN RE: FORTIETH STATEWIDE
+INVESTIGATING GRAND
+JURY
+
+Petition of: R.M.L.
+No. 85 WM 2018
+Supreme Court of Pennsylvania.
+
+Submitted: December 14, 2018
+Decided: November 20, 2019
+
+Background: Roman Catholic priest filed
+motion with investigating grand jury’s su-
+pervising judge for redaction of specific
+portions of public report detailing grand
+jury’s summary of communications be-
+tween priest and mental health profession-
+als in response to complaint of sexual
+abuse. The supervising judge permitted
+disclosure. Priest filed petition for review.
+
+Holdings: The Supreme Court, No. 85
+WM 2018, Todd, J., held that:
+
+requirement of authenticating an item of evi-
+dence may be satisfied by testimony of a wit-
+ness with knowledge that an item is what it is
+claimed to be). Here, Appellant’s voluntary
+statements establish that the password would
+decrypt the files on his hard drive; thus, I
+would conclude that the authenticity require-
+ment has been satisfied.

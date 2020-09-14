@@ -1,0 +1,246 @@
+OV
+
+~~]
+
+i GORGED . o
+
+14
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+CaPy
+
+  
+   
+ 
+
+    
+  
+  
+
+(LED
+CLERK, U.S. DISTRICT COURT
+
+FEB I 6 2016
+|
+
+Gina DISTRICT OF CALIF 3%
+
+ 
+
+EILEEN M. DECKER
+United States Attorney
+PATRICIA A. DONAHUE
+Assistant United States Attorney
+Chief, National Security Division
+TRACY L. WILKISON (California Bar No. 184948)
+Assistant United States Attorney
+Chief, Cyber and Intellectual Property Crimes Section
+ALLEN W. CHIU (California Bar No. 240516)
+Assistant United States Attorney
+Terrorism and Export Crimes Section
+
+1500 United States Courthouse
+
+312 North Spring Street
+
+Los Angeles, California 90012
+
+Telephone: (213) 894-0622/2435
+
+@ Facsimile: (213) 894-8601
+
+© neal: | Tracy .Wilkison@usdoj.gov
+Allen. Chiu@usdoj.gov
+
+At tarney: sifor Applicant
+UNTreD=AhrEs OF AMERICA
+
+pa sgn
+om az
+he PE UNITED STATES DISTRICT COURT
+wo oS
+S 35 % FOR THE CENTRAL DISTRICT OF CALIFORNIA
+THE MATTER OF THE SEARCH OF No. ED 15-0451M
+APPLE IPHONE SEIZED DURING
+THE EXECUTION OF A SEARCH fBROPOSED] ORDER COMPELLING APPLE,
+
+INC. TO ASSIST AGENTS IN SEARCH
+
+AARRANT ON A BLACK LEXUS IS300,
+CALIFORNIA LICENSE PLATE
+35KGD203
+
+ 
+
+ 
+
+This matter is before the Court pursuant to an application
+pursuant to the All Writs Act, 28 U.S.C. § 1651, by Assistant United
+States Attorneys Tracy Wilkison and Allen Chiu, requesting an order
+directing Apple Inc. (“Apple”) to assist law enforcement agents in
+enabling the search of a digital device seized in the course of a
+previously issued search warrant in this matter.
+
+For good cause shown, IT IS HEREBY ORDERED that:
+
+1. Apple shall assist in enabling the search of a cellular
+telephone, Apple setlcere iPhone 5C, Model: A1532, P/N:MGFG2LL/A,
+
+S/N: FFMNQ3MTG2DJ, IMET:358820052301412, on the Verizon Network, (the
+LO
+
+42
+
+12
+
+L3
+
+14
+
+15
+
+16
+
+L7
+
+18
+
+19
+
+20
+
+21
+
+22
+
+es
+
+24
+
+25
+
+26
+
+al
+
+28
+
+“SUBJECT DEVICE”) pursuant to a warrant of this Court by providing
+reasonable technical assistance to assist law enforcement agents in
+obtaining access to the data on the SUBJECT DEVICE.
+
+2: Apple's reasonable technical assistance shall accomplish
+the following three important functions: (1) it will bypass or
+disable the auto-erase function whether or not it has been enabled;
+(2) it will enable the FBI to submit passcodes to the SUBJECT DEVICE
+for testing electronically via the physical device port, Bluetooth,
+Wi-Fi, or other protocol available on the SUBJECT DEVICE; and (3) it
+will ensure that when the FBI submits passcodes to the SUBJECT
+DEVICE, software running on the device will not purposefully
+introduce any additional delay between passcode attempts beyond what
+is incurred by Apple hardware.
+
+3% Apple's reasonable technical assistance may include, but is |
+not limited to: providing the FBI with a signed iPhone Software
+file, recovery bundle, or other Software Image File (“SIF”) that can
+be loaded onto the SUBJECT DEVICE. The SIF will load and run from
+Random Access Memory (“RAM”) and will not modify the iOS on the
+actual phone, the user data partition or system partition on the
+device’s flash memory. The SIF will be coded by Apple with a unique
+identifier of the phone so that the SIF would only load and execute
+on the SUBJECT DEVICE. The SIF will be loaded via Device Firmware
+Upgrade (“DFU”) mode, recovery mode, or other applicable mode
+available to the FBI. Once active on the SUBJECT DEVICE, the SIF
+will accomplish the three functions specified in paragraph 2. The
+SIF will be loaded on the SUBJECT DEVICE at either a government
+facility, or alternatively, at an Apple facility; if the latter,
+Apple shall provide the government with remote access to the SUBJECT
+
+2
+10
+
+Ti
+
+12
+
+13
+
+14
+
+5.
+
+16
+
+17
+
+18
+
+19
+
+20
+
+al
+
+22
+
+23)
+
+24
+
+25
+
+26
+
+27
+
+28
+
+ 
+
+DEVICE through a computer allowing the government to conduct passcode
+recovery analysis.
+
+4. If Apple determines that it can achieve the three functions
+stated above in paragraph 2, as well as the functionality set forth
+in paragraph 3, using an alternate technological means from that
+recommended by the government, and the government concurs, Apple may
+comply with this Order in that way.
+
+Se. Apple shall advise the government of the reasonable cost of
+providing this service.
+
+6. Although Apple shall make reasonable efforts to maintain
+the integrity of data on the SUBJECT DEVICE, Apple shall not be
+required to maintain copies of any user data as a result of the
+assistance ordered herein. All evidence preservation shall remain
+the responsibility of law enforcement agents.
+
+7. To the extent that Apple believes that compliance with this
+Order would be unreasonably burdensome, it may make an application to
+this Court for relief within five business days of receipt of the
+
+Order.
+
+DATED: FEB 16 2016 SHERI PYM
+OO UNITED STATES MAGISTRATE JUDGE

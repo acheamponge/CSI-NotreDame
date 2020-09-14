@@ -1,0 +1,425 @@
+US. v. BISHOP
+
+335
+
+Cite as 910 F.3d 335 (7th Cir. 2018)
+
+in favor of the non-moving party. Boucher,
+880 F.3d at 365. In this case, it appears
+that the district court drew at least one
+inference against the non-moving party.
+
+But any error was harmless. First, the
+district court had already stepped through
+the correct contractual analysis and made
+its conclusion before any discussion of in-
+ferences to draw from the parties’ behav-
+ior after the incident had occurred. Sec-
+ond, and more importantly, even if we
+were to draw the opposite inference in
+Vesuvius’s favor, it would make no differ-
+ence. We might infer that Vesuvius genu-
+inely believed that it had complied in full
+with its obligations under {1 22 by notifying
+ACBL of the problem on February 20,
+2015. Vesuvius might then have genuinely
+believed that it had all the time in the
+world to bring suit, and it did so two years
+later. But because we find that the con-
+tract is not ambiguous, the parties’ actions
+after they signed the contract are irrele-
+vant to the meaning of the contract itself.
+Regardless of whether we were to infer
+from Vesuvius’s actions that it genuinely
+believed its own position or whether it
+knew that its suit was untimely, the mean-
+ing of the contract is the same.
+
+III. Conciusion
+
+Standing on its own, perhaps the limita-
+tions provision of the contract might be
+ambiguous. But read in context with the
+rest of the contract, there is no question
+that Vesuvius was required to file suit no
+later than four months after it discovered
+the damage. Because Vesuvius waited two
+years to bring its claim, the district court
+properly dismissed it as untimely. Accord-
+ingly, we AFFIRM the judgment of the
+district court.
+
+Ww
+° E KEY NUMBER SYSTEM
+T
+
+UNITED STATES of America,
+Plaintiff-Appellee,
+
+v.
+Edward BISHOP, Defendant-Appellant.
+No. 18-2019
+
+United States Court of Appeals,
+Seventh Circuit.
+
+Argued November 14, 2018
+Decided December 7, 2018
+
+Background: Defendant was charged
+with discharging firearm during drug
+transaction. The United States District
+Court for the Northern District of Indiana,
+No. 3:17-er-55 RLM-MGG, Robert L. Mil-
+ler, Jr., J., denied defendant’s motion to
+suppress evidence obtained during search
+of his cell phone, and, after jury convicted
+him, 2018 WL 1616892, denied his motion
+for new trial. Defendant appealed.
+
+Holding: The Court of Appeals, Easter-
+brook, Circuit Judge, held that search war-
+rant satisfied Fourth Amendment’s partic-
+ularity requirement.
+
+Affirmed.
+
+1. Controlled Substances 147
+
+With respect to the Fourth Amend-
+ment’s particularity requirement, a war-
+rant authorizing a search of a house for
+drugs permits the police to search every-
+where in the house, because “everywhere”
+is where the contraband may be hidden.
+U.S. Const. Amend. 4.
+
+2. Searches and Seizures <148
+
+With respect to the Fourth Amend-
+ment’s particularity requirement, a war-
+rant authorizing a search for documents
+that will prove a crime may authorize a
+search of every document the suspect has,
+336
+
+because any of them might supply evi-
+dence. U.S. Const. Amend. 4.
+
+3. Searches and Seizures 125
+
+Search warrant, which permitted
+search of every document on defendant’s
+cell phone, satisfied Fourth Amendment’s
+particularity requirement; warrant stated
+the crimes under investigation, i.e., crimi-
+nal recklessness with deadly weapon and
+drug dealing, and police did not know
+where defendant kept his drug ledgers and
+gun videos until they searched the phone.
+U.S. Const. Amend. 4.
+
+4, Searches and Seizures 125
+
+With respect to the Fourth Amend-
+ment’s particularity requirement, it is
+enough if the warrant cabins the things
+being looked for by stating what crime is
+under investigation. U.S. Const. Amend.
+4,
+
+5. Searches and Seizures ¢-124
+
+With respect to the Fourth Amend-
+ment’s particularity requirement, a war-
+rant may be thought too general only if
+some more-specific alternative would have
+done better at protecting privacy while
+still permitting legitimate investigation.
+U.S. Const. Amend. 4.
+
+Appeal from the United States District
+Court for the Northern District of Indiana,
+South Bend Division. No. 3:17-cr-55 RLM-
+MGG—Robert L. Miller, Jr., Judge.
+
+Nathaniel Whalen, Attorney, OFFICE
+OF THE UNITED STATES ATTOR-
+NEY, Hammond, IN, Plaintiff-Appellee.
+
+William J. Stevens, Attorney, Bridgman,
+MI, for Defendant-Appellant.
+
+Before EASTERBROOK, SYKES, and
+SCUDDER, Circuit Judges.
+
+910 FEDERAL REPORTER, 3d SERIES
+
+EASTERBROOK, Circuit Judge.
+
+A drug deal went wrong. After receiving
+a dose of pepper spray from his customer,
+Edward Bishop shot her in the arm. A
+jury convicted him of discharging a fire-
+arm during a drug transaction, 18 U.S.C.
+§ 924(c), and the judge sentenced him to
+120 months’ imprisonment. He presents
+one contention on appeal: that the warrant
+authorizing a search of his cell phone—a
+search that turned up incriminating evi-
+dence—violated the Fourth Amendment’s
+requirement that every warrant “particu-
+larly describ[e] the place to be searched,
+and the persons or things to be seized.”
+
+This warrant described the “place to be
+searched” as the cell phone Bishop carried
+during the attempted sale, and it described
+the things to be seized as:
+
+any evidence (including all photos, vid-
+
+eos, and/or any other digital files, includ-
+
+ing removable memory cards) of suspect
+identity, motive, scheme/plan along with
+
+DNA evidence of the crime of Criminal
+
+Recklessness with a deadly weapon
+
+which is hidden or secreted [in the cell-
+
+phone or] related to the offense of Deal-
+
+ing illegal drugs.
+That is too general, Bishop asserts, be-
+cause it authorized the police to rummage
+through every application and file on the
+phone and left to the officers’ judgment
+the decision which files met the descrip-
+tion. The district court found the warrant
+valid, however, and denied the motion to
+suppress.
+
+[1,2] Bishop is right about the facts.
+This warrant does permit the police to look
+at every file on his phone and decide which
+files satisfy the description. But he is
+wrong to think that this makes a warrant
+too general. Criminals don’t advertise
+where they keep evidence. A warrant au-
+thorizing a search of a house for drugs
+permits the police to search everywhere in
+the house, because “everywhere” is where
+US. v. BISHOP
+
+337
+
+Cite as 910 F.3d 335 (7th Cir. 2018)
+
+the contraband may be hidden. United
+States v. Ross, 456 U.S. 798, 820-21, 102
+S.Ct. 2157, 72 L.Ed.2d 572 (1982); Steele v.
+United States, 267 U.S. 498, 503, 45 S.Ct.
+414, 69 L.Ed. 757 (1925). And a warrant
+authorizing a search for documents that
+will prove a crime may authorize a search
+of every document the suspect has, be-
+cause any of them might supply evidence.
+To see this, it isn’t necessary to look be-
+yond Andresen v. Maryland, 427 U.S. 463,
+96 S.Ct. 2737, 49 L.Ed.2d 627 (1976), in
+which the Court considered a warrant that
+permitted a search of every document in a
+lawyer's files. Agents were authorized to
+search for:
+
+title notes, title abstracts, title run-
+downs; contracts of sale and/or assign-
+ments from Raffaele Antonelli and
+Rocco Caniglia to Mount Vernon De-
+velopment Corporation and/or others;
+lien payoff correspondence and _ lien
+pay-off memoranda to and from lien-
+holders and noteholders; correspon-
+dence and memoranda to and from
+trustees of deeds of trust; lenders in-
+structions for a construction loan or
+construction and permanent loan; dis-
+bursement sheets and disbursement
+memoranda; checks, check stubs and
+ledger sheets indicating disbursement
+upon settlement; correspondence and
+memoranda concerning disbursements
+upon settlement; settlement statements
+and settlement memoranda; fully or
+partially prepared deed of trust releas-
+es, whether or not executed and
+whether or not recorded; books, rec-
+ords, documents, papers, memoranda
+and correspondence, showing or tend-
+ing to show a fraudulent intent, and/or
+knowledge as elements of the crime of
+false pretenses, in violation of Article
+27, Section 140, of the Annotated Code
+of Maryland, 1957 Edition, as amended
+and revised, together with other fruits,
+
+instrumentalities and evidence of
+
+crime at this [time] unknown.
+427 U.S. at 480-81 n.10, 96 S.Ct. 2737
+(emphasis added). Andresen accepted the
+propriety of looking at every document in
+his possession but maintained that the ital-
+icized phrase entitled the agents to seize
+anything they wanted. The Justices con-
+cluded, however, that, when read in con-
+text, the contested language did no more
+than permit the seizure of any other evi-
+dence pertaining to real-estate fraud, the
+subject of the warrant. Id. at 479-82, 96
+S.Ct. 2737.
+
+[3,4] Just so with this warrant. It per-
+mits the search of every document on the
+cell phone, which (like a computer) serves
+the same function as the filing cabinets in
+Andresen’s office. See Riley v. California,
+573 U.S. 373, 134 S.Ct. 2473, 2489, 189
+L.Ed.2d 430 (2014). And as with filing
+cabinets, the incriminating evidence may
+be in any file or folder. That’s why courts
+routinely conclude that warrants with
+wording similar to the one at issue here
+are valid. See, eg., Archer v. Chisholm,
+870 F.3d 603, 616 (7th Cir. 2017); United
+States v. Hall, 142 F.3d 988, 996-97 (7th
+Cir. 1998); Wayne R. LaFave, 2 Search &
+Seizure § 4.6(d) (5th ed. 2012 & Supp.
+2018) (citing many other cases). It is
+enough, these decisions hold, if the war-
+rant cabins the things being looked for by
+stating what crime is under investigation.
+
+[5] Andresen and its successors show
+that specificity is a relative matter. A war-
+rant may be thought “too general” only if
+some more-specific alternative would have
+done better at protecting privacy while
+still permitting legitimate investigation.
+See United States v. Vitek Supply Corp.,
+144 F.3d 476, 482 (7th Cir. 1998); United
+States v. Bentley, 825 F.2d 1104, 1110 (7th
+Cir. 1987). So if the police had known that
+Andresen kept all of his files about the
+real-estate deal in a particular cabinet, fail-
+338
+
+ure to identify that cabinet in the warrant
+would have violated the constitutional par-
+ticularity requirement. But a warrant need
+not be more specific than knowledge al-
+lows. In Andresen the police did not know
+how the target organized his files, so the
+best they could do was the broad language
+the warrant used. Likewise here: the po-
+lice did not know where on his phone
+Bishop kept his drug ledgers and gun vid-
+eos—and, if he had told them, they would
+have been fools to believe him, for crimi-
+nals often try to throw investigators off
+the trail. This warrant was as specific as
+circumstances allowed. The Constitution
+does not require more.
+
+Ww
+° E KEY NUMBER SYSTEM
+T
+
+Anne O’BOYLE, Plaintiff-Appellant,
+
+AFFIRMED
+
+Vv.
+
+REAL TIME RESOLUTIONS,
+INC., Defendant-Appellee.
+
+No. 18-1936
+
+United States Court of Appeals,
+Seventh Circuit.
+
+Argued October 24, 2018
+Decided December 7, 2018
+
+Rehearing and Rehearing En Banc
+Denied January 17, 2019
+
+Background: Debtor brought action
+against debt collector, alleging that debt
+collector set misleading debt collection let-
+ter in violation of Fair Debt Collection
+Practices Act (FDCPA). The United States
+District Court for the Eastern District of
+Wisconsin, No. 17-C-0957, Lynn Adelman,
+J., granted debt collector’s motion to dis-
+miss for failure to state claim, and subse-
+quently, 2018 WL 1709412, denied debtor’s
+
+910 FEDERAL REPORTER, 3d SERIES
+
+motion for reconsideration. Debtor appeal-
+ed.
+
+Holdings: The Court of Appeals, Manion,
+Circuit Judge, held that:
+
+(1) debt collector’s placement of validation
+notice on second page of debt collection
+letter did not overshadow notice, and
+
+(2) district court did not abuse its discre-
+tion in denying debtor leave to amend
+her complaint to add new claims on
+grounds of undue delay and prejudice.
+
+Affirmed.
+
+1. Federal Courts <3587(1), 3667
+
+The Court of Appeals reviews de novo
+the dismissal of a complaint for failure to
+state a claim, accepting the plaintiffs fac-
+tual allegations as true and drawing all
+permissible inferences in her favor.
+
+2. Federal Civil Procedure €=1772
+
+To survive a motion to dismiss for
+failure to state a claim, a plaintiff must
+allege enough facts to state a claim to
+relief that is plausible on its face.
+
+3. Federal Civil Procedure <=1831
+
+Whether a debt-collection letter is
+confusing in violation of the Fair Debt
+Collection Practices Act (FDCPA) is gen-
+erally a fact question that, if well pleaded,
+survives a motion to dismiss for failure to
+state a claim. Consumer Credit Protec-
+tion Act § 807, 15 U.S.C.A. § 1692e.
+
+4. Finance, Banking, and Credit <=1482
+
+If it is apparent from a reading of the
+debt collection letter that not even a signif-
+icant fraction of the population would be
+misled by it, then the plaintiff fails to state
+a claim under the Fair Debt Collection
+Practices Act (FDCPA) and dismissal is
+appropriate. Consumer Credit Protection
+Act § 807, 15 U.S.C.A. § 1692e.

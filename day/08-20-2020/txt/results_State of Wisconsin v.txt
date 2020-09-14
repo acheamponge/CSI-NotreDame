@@ -1,0 +1,623 @@
+STATE y. TENTONI
+
+Wis. 285
+
+Cite as 871 N.W.2d 285 (Wis.App. 2015)
+
+921 The viability or scope of the four-
+corners rule requires a clear answer from
+our supreme court. The four-corners rule
+as defined by the majority allows a litigant
+who is not a party to a contract of insur-
+ance to unilaterally control whether a con-
+tract (the insurance policy) provides cover-
+age when that litigant has no privity in the
+contract.
+
+_Ly:1 22 A simple example suffices: Plain-
+tiff Doe files a complaint with the sole
+allegation that Defendant Doe intentional-
+ly struck him causing injuries. Defendant
+Doe’s insurer refuses, pursuant to the
+four-corners rule, to provide a defense or
+coverage as the policy expressly precludes
+coverage for intentional acts. The true
+facts, however, are that Plaintiff Doe was
+an intruder into Defendant Doe’s home
+and Defendant Doe injured Plaintiff Doe in
+the course of defending himself. The rigid
+application of the four-corners rule does
+not allow Defendant Doe to challenge
+Plaintiff Doe’s characterization of the dis-
+pute as it relates to the question of insur-
+ance applicability.
+
+23 In this case, Water Well presented
+evidence that it used a subcontractor to
+cut and rethread the pipe for the well
+pump. All of the damages alleged in the
+complaint against Water Well were caused
+by the unthreading of the well pump from
+the pipe column. As Water Well present-
+ed evidence that the damages alleged in
+the complaint were arguably not a result
+of its work or product, but instead that of
+a subcontractor, it should have been pro-
+vided a defense by Consolidated and possi-
+bly coverage. Because of the application
+of the four-corners rule, however, Consoli-
+dated successfully argued that it was ab-
+solved from providing both the defense
+and coverage that it had promised Water
+Well by contract that it would provide.
+
+} Petition for review denied.
+
+124 I dissent as Water Well, a party to
+the insurance contract, should be allowed
+to present facts to the court relevant to
+the issue of whether a policy of insurance
+provides coverage. It is absurd to allow
+an entity that has no privity of contract to
+dictate whether the contract provides de-
+fense and coverage.
+
+w
+° 5 KEY NUMBER SYSTEM
+Tr:
+
+365 Wis.2d 211
+2015 WI App 77
+
+STATE of Wisconsin, Plaintiff—
+Respondent,
+
+Vv.
+
+Ryan H. TENTONI, Defendant-
+Appellant.’
+
+No. 2014AP2387-CR.
+Court of Appeals of Wisconsin.
+Submitted on Briefs June 11, 2015.
+
+Opinion Filed Sept. 9, 2015.
+
+Background: Following denial of defen-
+dant’s motion to suppress, defendant was
+convicted pursuant to a guilty plea, the
+Circuit Court, Waukesha County, Kathryn
+W. Foster, J., of second-degree reckless
+homicide. Defendant appealed.
+
+Holding: The Court of Appeals, Neu-
+bauer, C.J., held that defendant did not
+have reasonable expectation of privacy in
+text messages sent by him and discovered
+through warrantless search of recipient’s
+phone.
+
+Affirmed.
+286 Wis.
+1. Criminal Law ¢=1158.12
+
+Court of Appeals upholds suppression
+court’s findings of fact unless they are
+clearly erroneous.
+
+2. Criminal Law 1139
+
+On review of a circuit court’s decision
+on a motion to suppress, whether the facts
+demonstrate that constitutional principles
+have been complied with is a question of
+law that the Court of Appeals reviews de
+novo.
+
+3. Searches and Seizures 26
+
+Defendant did not have objectively
+reasonable expectation of privacy in text
+messages sent by defendant and discover-
+ed through a warrantless search of the
+recipient’s phone; defendant had no prop-
+erty interest in recipient’s phone, defen-
+dant had no control over recipient’s phone
+or any right to exclude others from text
+messages he had sent to recipient and
+which were stored in recipient’s phone,
+and defendant did not claim that he took
+any steps to enhance the privacy of his
+text messages to recipient or that he ever
+told recipient to keep those messages pri-
+vate. U.S.C.A. Const.Amend. 4; W.S.A.
+Const. Art. 1, § 11.
+
+4. Searches and Seizures <-161
+
+Fourth Amendment rights are person-
+al and may not be asserted vicariously.
+U.S.C.A. Const.Amend. 4; W.S.A. Const.
+Art. 1, § 11.
+
+5. Searches and Seizures <162
+
+In order to have standing to challenge
+a search on Fourth Amendment grounds, a
+defendant must have a legitimate expecta-
+tion of privacy in the area or items sub-
+jected to a search. U.S.C.A. Const.
+Amend. 4; W.S.A. Const. Art. 1, § 11.
+
+6. Searches and Seizures 7195.1
+A defendant challenging the constitu-
+tionality of a search bears the burden of
+
+871 NORTH WESTERN REPORTER, 2d SERIES
+
+showing, by a preponderance of the evi-
+dence, that he or she had a reasonable
+expectation of privacy. U.S.C.A. Const.
+Amend. 4; W.S.A. Const. Art. 1, § 11.
+
+7. Searches and Seizures 26
+
+A defendant challenging the constitu-
+tionality of a search must show: (1) that he
+or she had an actual, subjective expecta-
+tion of privacy in the area searched and
+item seized, and (2) that society is willing
+to recognize the defendant’s expectation of
+privacy as reasonable. U.S.C.A. Const.
+Amend. 4; W.S.A. Const. Art. 1, § 11.
+
+8. Searches and Seizures <=26
+
+In evaluating the constitutionality of a
+search, whether an individual has a reason-
+able expectation of privacy is determined
+by examining the totality of the circum-
+stances. U.S.C.A. Const.Amend. 4; W.S.A.
+Const. Art. 1, § 11.
+
+On behalf of the defendant-appellant,
+the cause was submitted on the briefs of
+Craig S. Powell and Geoffrey R. Misfeldt
+of Kohler & Hart, SC, Milwaukee.
+
+On behalf of the plaintiff-respondent, the
+cause was submitted on the briefs of Sarah
+L. Burgundy, assistant attorney general,
+and Brad D. Schimel, attorney general.
+
+Before NEUBAUER, C.J., REILLY,
+P.J., and GUNDRUM, J.
+
+NEUBAUER, C.J.
+
+_t11 Ryan Tentoni asserts a privacy
+interest in text messages sent by him and
+discovered through a warrantless search of
+Wayne Wilson’s phone. Tentoni seeks
+suppression of the text messages and oth-
+er subsequently obtained phone records as
+fruit of the government’s illegal search of
+his text messages stored in Wilson’s
+phone. Tentoni does not have an objec-
+STATE y. TENTONI
+
+Wis. 287
+
+Cite as 871 N.W.2d 285 (Wis.App. 2015)
+
+tively reasonable expectation of privacy as
+he relinquished any claim to privacy in the
+text messages delivered to Wilson’s phone.
+We affirm.
+
+BACKGROUND
+
+12 At the preliminary hearing, Delafield
+police officer Landon Nyren testified that
+on December 5, 2012, he responded to a
+call about a death and found the body of
+Wayne Wilson. Wilson had a small plastic
+object in his mouth, which turned out to be
+a fentanyl patch. The Waukesha County
+Medical Examiner testified that fentanyl
+was a substantial factor in Wilson’s death
+and was the immediate cause of his death.
+On the autopsy report, the examiner listed
+acute fentanyl intoxication as the cause of
+death.
+
+13 Nyren testified that, while at Wil-
+son’s residence, he found Wilson’s phone
+and retrieved text messages from it, in-
+cluding texts sent and received the |,,day
+before Wilson’s death. There were mes-
+sages between Wilson and Tentoni discuss-
+ing Tentoni obtaining fentanyl patches for
+Wilson. After Wilson sent Tentoni a mes-
+sage indicating that some patches “are like
+duds to me” and that he did not “feel a
+thing,” there was a text from Tentoni to
+Wilson suggesting that Wilson suck on a
+patch. A subsequent message from Tento-
+ni to Wilson described how to fold the
+patch, and Nyren testified that the folding
+method described in the text was consis-
+tent with the position of the patch on
+Wilson’s body when he was found.
+
+14 Tentoni’s counsel represented to the
+court, at the hearing on his motion to
+suppress, that, relying on the information
+contained in the text messages on Wilson’s
+phone from Tentoni, Nyren obtained a
+
+1. The search warrant and resulting phone
+records are not in the record on appeal. The
+State conceded at the motion hearing that
+text messages found on Wilson’s phone at the
+
+warrant for Tentoni’s phone records relat-
+ing to the number he used to text Wilson,
+including 350 text messages between Ten-
+toni and Wilson in the month of November
+and into the first week of December and
+around four thousand text messages in all.!
+
+15 Tentoni moved to suppress the text
+messages found on Wilson’s phone and
+those obtained with the warrant. The cir-
+cuit court denied the motion, finding that
+Tentoni had not made a showing of a
+reasonable expectation of privacy in infor-
+mation that he sent to Wilson. Tentoni
+pleaded guilty to an amended charge of
+second-degree reckless homicide, was con-
+victed, and now appeals.
+
+_lysDISCUSSION
+
+Standard of Review
+
+[1,2] 16 On review of a circuit court’s
+decision on a motion to suppress, we up-
+hold the circuit court’s findings of fact
+unless they are clearly erroneous. See
+State v. Richardson, 156 Wis.2d 128, 187,
+456 N.W.2d 830 (1990). Whether these
+facts demonstrate that constitutional prin-
+ciples have been complied with is a ques-
+tion of law we review de novo. Jd. at 137-
+38, 456 N.W.2d 830.
+
+Reasonable Expectation of Privacy
+
+[3-8] 17 “The Fourth Amendment
+provides that ‘people [are] to be secure in
+their persons, houses, papers, and effects,
+against unreasonable searches and _ sei-
+zures and [that] no Warrants shall
+issue, but upon probable cause... .’” State
+v. Martwick, 2000 WI 5, 1126, 231 Wis.2d
+801, 604 N.W.2d 552 (quoting U.S. Const.
+amend. IV; alteration in original); see also
+
+death scene led the investigating officer to
+Tentoni and subsequently to obtain a search
+warrant for Tentoni’s phone records.
+288 Wis.
+
+Wis. Const. art. 1, § 112 Fourth Amend-
+ment rights are personal and may not be
+asserted vicariously. State v. Bruski, 2007
+WI 25, 122 n. 3, 299 Wis.2d 177, 727
+N.W.2d 503 (citing Rakas v. Illinois, 439
+USS. 128, 133-34, 99 S.Ct. 421, 58 L.Ed.2d
+387 (1978)). In order to have standing to
+challenge a search on Fourth Amendment
+grounds, a defendant must have “a legiti-
+mate expectation of privacy” in the ],,;area
+or items subjected to a search. See State
+v. Trecroci, 2001 WI App 126, 126, 246
+Wis.2d 261, 630 N.W.2d 555.3 The defen-
+dant bears the burden of showing, by a
+preponderance of the evidence, that he or
+she had a reasonable expectation of priva-
+cy. Id, 135. The defendant must show
+two things: (1) that he or she had an
+actual, subjective expectation of privacy in
+the area searched and item seized and (2)
+that society is willing to recognize the de-
+fendant’s expectation of privacy as reason-
+able. Jd. With regard to the second, ob-
+jective, prong, the Trecroci court set forth
+six factors relevant to the determination of
+whether a person has a recognizable, rea-
+sonable expectation of privacy:
+
+1. Whether the person had a property
+
+interest in the premises;
+
+2. Whether the person was legitimately
+on the premises;
+Whether the person had complete
+dominion and control and the right
+to exclude others;
+
+2. The Wisconsin Supreme Court “generally
+follows the United States Supreme Court's
+interpretation of the search and seizure provi-
+sion of the Fourth Amendment in construing
+Article I, Section 11 of the Wisconsin Consti-
+tution.” State v. Bruski, 2007 WI 25, 120 n.
+1, 299 Wis.2d 177, 727 N.W.2d 503.
+
+3. Although State v. Trecroci, 2001 WI App
+126, 246 Wis.2d 261, 630 N.W.2d 555, was
+about a reasonable expectation of privacy in a
+place, and Tentoni argues that he had a rea-
+sonable expectation of privacy in the content
+of the text conversations stored as messages
+in Wilson’s phone, not in the phone per se,
+
+871 NORTH WESTERN REPORTER, 2d SERIES
+
+Whether the person took precau-
+tions customarily taken by those
+seeking privacy;
+
+5. Whether the person put the proper-
+ty to some private use; and
+
+6. Whether the claim of privacy is con-
+sistent with historical notions of pri-
+vacy.
+
+_Lys/d., 136. These factors are not control-
+ling, and the list is not exclusive. State v.
+Guard, 2012 WI App 8, 117, 338 Wis.2d
+385, 808 N.W.2d 718 (2011). Whether an
+individual has a reasonable expectation of
+privacy is determined by examining the
+totality of the circumstances. Id.
+
+18 Addressing the factors applicable to
+this case, we conclude that under the total-
+ity of circumstances Tentoni did not have
+an objectively reasonable expectation of
+privacy in text messages contained in Wil-
+son’s phone.’ First, Tentoni had no prop-
+erty interest in Wilson’s phone. Second,
+Tentoni had no control over Wilson’s
+phone or any right to exclude others from
+text messages he had sent to Wilson and
+which were stored in Wilson’s phone.
+Tentoni had no control over what Wilson
+did with Tentoni’s text messages. Third,
+Tentoni did not claim that he took any
+steps to enhance the privacy of his text
+messages to Wilson or that he ever told
+Wilson to keep those messages private.
+See State v. Duchow, 2008 WI 57, 133, 310
+
+this distinction does not negate the applicabil-
+ity of Trecroci, which provides guidance on
+whether Tentoni had a reasonable expectation
+of privacy. Tentoni concedes that there is no
+analogous list of privacy factors tailored to
+text messages.
+
+4. Because the second part of the test, i.e.,
+whether the asserted expectation of privacy
+was objectively reasonable, is dispositive, we
+need not address whether Tentoni had a sub-
+jective expectation of privacy in the text mes-
+sages.
+STATE y. TENTONI
+
+Wis. 289
+
+Cite as 871 N.W.2d 285 (Wis.App. 2015)
+
+Wis.2d 1, 749 N.W.2d 913 (no expectation
+of privacy in oral statement when made in
+public place because the speaker assumed
+the risk of disclosure to others); Bruski,
+299 Wis.2d 177, 19 27-29, 727 N.W.2d 503
+(no legitimate expectation of privacy in
+vehicle in which the defendant had no
+property interest, took no precautions to
+secure privacy and lacked the right to
+exclude others).
+
+19 Looking to other jurisdictions, it is
+widely accepted that the sender of a letter
+has no privacy |,jinterest in the contents
+of that letter once it reaches the recipient.
+See United States v. Dunning, 312 F.3d
+528, 531 (1st Cir.2002); Wayne R. LaFave,
+6 SEARCH AND SEIZURE: A TREATISE ON THE
+FourtH AMENDMENT § 11.8(f), at 2938-95 &
+n. 441 (5th ed. 2012) (“The standing of the
+sender, to the extent it is based solely
+upon the fact of his being the sender,
+terminates once delivery of the goods has
+been made.”). The same analysis has been
+applied to e-mails and texts. See Guest v.
+Leis, 255 F.3d 325, 333 (6th Cir.2001) (not-
+ing that a computer user “would lose a
+legitimate expectation of privacy in an e-
+mail that had already reached its recipient;
+at this moment, the e-mailer would be
+analogous to a letter-writer, whose ‘expec-
+tation of privacy ordinarily terminates
+
+5. Tentoni is correct that courts have recog-
+nized an expectation of privacy in text mes-
+sages on a cell phone—an expectation that
+belongs to the owner or user of the phone.
+See, e.g., Riley v. California, — U.S. , 134
+S.Ct. 2473, 2495, 189 L.Ed.2d 430 (2014)
+(holding that law enforcement generally must
+obtain a warrant to search digital information
+on a cell phone seized incident to arrest).
+Riley does not help Tentoni, however, because
+
+ 
+
+there the defendants themselves, owners of
+the cell phones that were searched, chal-
+lenged the searches. Jd. at 2480-81. This is
+true about all of Tentoni’s cited cases—the
+person who had the phone was the owner, the
+exclusive user, or a permissive user in posses-
+sion of the phone. See City of Ontario v.
+Quon, 560 U.S. 746, 760, 764-65, 130 S.Ct.
+2619, 177 L.Ed.2d 216 (2010) (assuming, ar-
+
+upon delivery’ of the letter”) (citation omit-
+ted); State v. Patino, 93 A.3d 40, 56 (R.I.
+2014) (“Because the recipient now shares
+full control of whether to share or dissemi-
+nate the sender’s message, the sender, to
+be sure, no longer enjoys a reasonable
+expectation of privacy in the digital copy of
+the message contained on the recipient’s
+device.”); see also United States v. Jones,
+149 Fed.Appx. 954, 959 (11th Cir.2005) (de-
+fendant did not have reasonable expecta-
+tion of privacy in text messages contained
+in his coconspirator’s pager); Fetsch v.
+City of Roseburg, No. 6:11-cv-6343-TC,
+2012 WL 6742665, at “10 (D.Or. Dee. 31,
+2012) (no reasonable expectation of privacy
+in text messages displayed on third party’s
+phone); Hampton v. State, 295 Ga. 665,
+763 S.E.2d 467, 471 (2014) (no reasonable
+expectation of privacy in text messages
+where defendant could not show that
+phone belonged to him); State v. Griffin,
+834 N.W.2d 688, 696-97 (Minn.2013) (de-
+fendant did not have reasonable expecta-
+tion of privacy in cell phone records be-
+cause he was not the subscriber); |, »0State
+v. Carle, 266 Or.App. 102, 337 P.3d 904,
+910-11 (2014) (defendant did not have rea-
+sonable expectation of privacy in text mes-
+sages sent to someone else’s cell phone).>
+
+guendo, that employee had a reasonable ex-
+pectation of privacy in pager issued to him by
+employer, employer’s work-related search
+was still reasonable); United States v. Finley,
+477 F.3d 250, 254 (5th Cir.2007) (the phone
+found on Finley was issued to him by his
+employer but he was allowed to use it for
+personal purposes); State v. Bone, 107 So.3d
+49, 66 (La.Ct.App.2012) (exclusive user of cell
+phone had reasonable expectation of privacy
+in contents); State v. Clampitt, 364 S.W.3d
+605, 611 (Mo.Ct.App.2012) (cell phone sub-
+scriber has reasonable expectation of privacy
+in content of text messages); State v. Smith,
+124 Ohio St.3d 163, 920 N.E.2d 949, 950,
+954-55 (2009) (defendant had reasonable ex-
+pectation of privacy in his cell phone’s con-
+tents). Tentoni provides no specific authority
+in support of his ability to claim a privacy
+290 Wis.
+
+110 Patino is on all fours with our case,
+setting forth a comprehensive and persua-
+sive expectation of privacy analysis consis-
+tent with that applied in Wisconsin cases.
+Patino had sent text messages to his girl-
+friend, some of which were inculpatory
+regarding the death of her son. Patino,
+93 A.3d at 42, 45. The court noted that
+the most important factor in determining»,
+whether a person has a reasonable expec-
+tation of privacy in text messages is from
+whose phone the messages are accessed.
+“Underlying this consideration is the ele-
+ment of control; that is to say, when the
+recipient receives the message, the sender
+relinquishes control over what becomes of
+that message on the recipient’s phone.”
+Id. at 55. Because the text messages were
+found on the girlfriend’s phone, and she
+had full control over whether to share or
+disseminate the sender’s text messages,
+Patino “did not have an objectively reason-
+able expectation of privacy in any text
+messages contained in [the girlfriend’s]
+phone, whether sent by defendant, sent to
+defendant, or otherwise.” Jd. at 57.
+
+{11 Here, Tentoni neither exerted nor
+maintained any control over Wilson’s
+phone or the copies of text messages that
+he had sent to Wilson and were stored in
+Wilson’s phone. Tentoni presented no evi-
+dence that he could access the copies of
+the texts he sent to Wilson or control the
+
+right to text messages found on another's
+phone.
+
+6. Regarding Tentoni’s citation of the Wiscon-
+sin Electronic Surveillance Control Law, Wis.
+Star. §§ 968.27-968.375 (2013-14), as an in-
+dication of a legislative intent to protect text
+messages, Tentoni did not raise this argument
+below, nor does he develop any argument that
+the law applies here or gives rise to a reason-
+
+871 NORTH WESTERN REPORTER, 2d SERIES
+
+content of Wilson’s phone in any way.
+Once Tentoni sent the messages to Wilson
+and Wilson received them, Tentoni had no
+control over whether Wilson saved them,
+deleted them, forwarded them to others or
+shared their content in any way. This lack
+of control over the message once it reaches
+the recipient is analogous to the lack of
+control a sender has over a piece of mail or
+e-mail once it reaches the recipient, where
+it may be saved, destroyed or deleted,
+shared, or disclosed to others. This lack
+of control over what is done with the text
+message and lack of any right to exclude
+others from reading it are key in the de-
+termination that Tentoni did not have an
+objectively reasonable expectation of priva-
+cy in the text messages stored in Wilson’s
+phone.
+
+_L2:1 12 Tentoni had no reasonable expec-
+tation of privacy in the text messages
+stored in Wilson’s cell phone. We uphold
+the circuit court’s decision on the motion to
+suppress and affirm the conviction.>
+
+Judgment affirmed.
+
+Ww
+° 5 KEY NUMBER SYSTEM
+z
+
+able expectation of privacy in text messages
+on another's phone. We need not address his
+argument. Wirth v. Ehly, 93 Wis.2d 433, 443,
+287 N.W.2d 140 (1980) (appellate court need
+not consider issue raised the first time on
+appeal); State v. Pettit, 171 Wis.2d 627, 646,
+492 N.W.2d 633 (Ct.App.1992) (court of ap-
+peals need not address undeveloped argu-
+ments).

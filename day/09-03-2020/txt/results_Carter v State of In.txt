@@ -1,0 +1,1403 @@
+CARTER vy. STATE
+
+Ind. 1121
+
+Cite as 105 N.E.3d 1121 (Ind.App. 2018)
+
+fees as sanctions for his contempt. At the
+hearing, an affidavit of Angela’s attorney
+setting forth her attorney fees in this mat-
+ter was admitted without objection. Hav-
+ing determined that Russell willfully failed
+to abide by the parties’ Agreement, there-
+by causing Angela to file a motion for rule
+to show cause and incur attorney fees, we
+find the trial court did not abuse its discre-
+tion in ordering Russell to pay $3,000.00 of
+Angela’s attorney fees.
+
+[16] [21] For the reasons stated, we
+conclude the action of reinstating Angela
+as beneficiary of Russell’s SBP as ordered
+by the trial court cannot be accomplished
+under the applicable federal law; therefore,
+we reverse and remand with instructions
+for the trial court to fashion an appropri-
+ate remedy to compensate Angela for the
+loss of her portion of Russell’s SBP. In
+addition, we affirm the trial court’s finding
+of contempt against Russell and its imposi-
+tion of sanctions for such.
+
+[22] Judgment reversed and remanded
+in part and affirmed in part.
+
+May, J., and Altice, J., concur.
+
+Ww
+° E key NUMBER SYSTEM.
+tr
+
+Kevin Shawn CARTER, Appellant-
+Defendant,
+
+v.
+STATE of Indiana, Appellee—Plaintiff.
+Court of Appeals Case
+No. 17A-CR-3024
+Court of Appeals of Indiana.
+
+Filed June 28, 2018
+Background: Defendant was convicted in
+the Circuit Court, Vanderburgh County,
+Kelli E. Fink, Magistrate, of dealing in a
+narcotic drug, and dealing in methamphet-
+amine. Defendant appealed.
+
+Holdings: The Court of Appeals, Bailey,
+
+J., held that:
+
+(1) affidavit provided a substantial basis
+for determining that probable cause
+existed to support search warrant of
+defendant's cell phone;
+
+(2) warrant allowing law enforcement to
+search defendant’s cell phone for any
+information relating to calls and mes-
+sages was tailored to its justifications;
+
+(3) law enforcement’s use of an extraction
+device that created an auto generated
+report of the file architecture on defen-
+dant’s cell phone did not render the
+search warrant defectively unparticu-
+larized;
+
+(4) challenged text messages were proper-
+ly seized under the search warrant;
+and
+
+(5) the search of defendant’s cell phone for
+evidence of drug dealing activities was
+reasonable under the totality of the
+circumstances.
+
+Affirmed.
+
+1. Criminal Law 661
+The trial court has broad discretion to
+rule on the admissibility of evidence.
+
+2. Criminal Law 1153.1
+
+Ordinarily, an appellate court reviews
+evidentiary rulings for an abuse of discre-
+tion, evaluating whether the court’s ruling
+was clearly against the logic and effect of
+the facts and circumstances.
+
+3. Criminal Law ¢-1139
+
+When a challenge of an evidentiary
+ruling is predicated on the constitutionality
+of the search or seizure of evidence, it
+raises a question of law that an appellate
+court reviews de novo.
+
+4, Searches and Seizures <=24
+Under the Fourth Amendment, rea-
+sonableness generally requires the obtain-
+1122 Ind.
+
+ing of a judicial warrant. U.S. Const.
+Amend. 4; Ind. Const. art. 1, § 11.
+
+5. Arrest €=71.1(1, 4.1)
+
+Among the exceptions to the warrant
+requirement is a search incident to a law-
+ful arrest, whereby the Fourth Amend-
+ment permits a warrantless search of the
+arrestee’s person and the area within his
+immediate control. U.S. Const. Amend. 4;
+Ind. Const. art. 1, § 11.
+
+6. Arrest 71.1(5)
+
+Under the search incident to a lawful
+arrest exception to the warrant require-
+ment, officers generally may search the
+containers they encounter. U.S. Const.
+Amend. 4; Ind. Const. art. 1, § 11.
+
+7. Searches and Seizures 40.1
+
+Probable cause is a fluid concept in-
+capable of precise definition and is to be
+decided based on the facts of each case.
+U.S. Const. Amend. 4; Ind. Const. art. 1,
+§ 11.
+
+8. Searches and Seizures ¢=113.1
+
+In determining whether a police affi-
+davit sets forth probable cause to issue a
+search warrant, the task of the issuing
+magistrate is simply to make a practical,
+common-sense decision whether, given all
+the circumstances set forth in the affidavit
+there is a fair probability that contraband
+or evidence of a crime will be found in a
+particular place. U.S. Const. Amend. 4;
+Ind. Const. art. 1, § 11; Ind. Code Ann.
+§ 35-33-5-2.
+
+9. Searches and Seizures 113.1
+
+The central question in a probable
+cause determination is whether the affida-
+vit presents facts, together with reason-
+able inferences, demonstrating a sufficient
+nexus between the suspected criminal ac-
+tivity and the specific place to be searched.
+U.S. Const. Amend. 4; Ind. Const. art. 1,
+§ 11; Ind. Code Ann. § 35-33-5-2.
+
+105 NORTH EASTERN REPORTER, 3d SERIES
+
+10. Searches and Seizures <=200
+
+Upon a challenge to whether probable
+cause supported the issuance of a search
+warrant, the duty of the reviewing court is
+to determine whether the magistrate had a
+substantial basis for concluding that proba-
+ble cause existed. U.S. Const. Amend. 4;
+Ind. Const. art. 1, § 11; Ind. Code Ann.
+§ 35-33-5-2.
+
+11. Searches and Seizures <=200
+
+On a challenge to whether probable
+cause supported the issuance of a search
+warrant, there is a “substantial basis”
+when reasonable inferences drawn from
+the totality of the evidence support the
+determination of probable cause. U.S.
+Const. Amend. 4; Ind. Const. art. 1, § 11;
+Ind. Code Ann. § 35-33-5-2.
+
+See publication Words and Phrases
+for other judicial constructions and
+definitions.
+
+12. Criminal Law 1134.35, 1139
+
+Appellate courts review de novo
+whether a substantial basis supported the
+determination of probable cause, while af-
+fording deference to the magistrate’s deci-
+sion to issue the warrant. U.S. Const.
+Amend. 4; Ind. Const. art. 1, § 11; Ind.
+Code Ann. § 35-33-5-2.
+
+13. Searches and Seizures <=114
+Affidavit provided a substantial basis
+for determining that probable cause exist-
+ed to support search warrant of defen-
+dant’s cell phone for evidence of dealing
+methamphetamine, where the affiant stat-
+ed that the police found a plastic bag
+inside defendant’s co-owned vehicle that
+contained a substance field-tested to be
+methamphetamine, with a field weight of
+207 grams, that based on training and
+experience, methamphetamine was typical-
+ly purchased in one-gram quantities, that
+the quantity in the vehicle was consistent
+with dealing activity, that another plastic
+bag in the vehicle contained an amount of
+CARTER vy. STATE
+
+Ind. 1123
+
+Cite as 105 N.E.3d 1121 (Ind.App. 2018)
+
+heroin consistent with drug dealing, that
+the phone was recovered from the defen-
+dant, and that those involved in drug activ-
+ity primarily used cell phones and elec-
+tronic devices to communicate with one
+another through calls, text messages, and
+social media applications. U.S. Const.
+Amend. 4; Ind. Const. art. 1, § 11; Ind.
+Code Ann. § 35-33-5-2.
+
+14. Searches and Seizures 124
+
+The particularity requirement, that a
+warrant must contain a particular descrip-
+tion of the place to be searched and the
+person or things to be seized, ensures that
+the search will be carefully tailored to its
+justifications, and will not take on the
+character of the wide-ranging exploratory
+searches the framers intended to prohibit.
+U.S. Const. Amend. 4; Ind. Const. art. 1,
+§ 11.
+
+15. Searches and Seizures €>125, 126
+
+Although the warrant must describe
+with some specificity where officers are to
+search and what they are to seize, there is
+no requirement that there be an exact
+description. U.S. Const. Amend. 4; Ind.
+Const. art. 1, § 11.
+
+16. Searches and Seizures <125, 126
+
+The warrant must be specific enough
+so that officers can, with reasonable effort,
+ascertain the place to be searched and the
+items to be seized. U.S. Const. Amend. 4;
+Ind. Const. art. 1, § 11.
+
+17. Searches and Seizures <> 125, 126
+
+The requirement that a warrant must
+contain a particular description of the
+place to be searched and the persons or
+things to be seized prevents the seizure of
+one thing under a warrant describing an-
+other. U.S. Const. Amend. 4; Ind. Const.
+art.1, § 11.
+
+18. Searches and Seizures 125
+As to what is to be taken during a
+search, nothing is left to the discretion of
+
+the officer executing the warrant. U.S.
+Const. Amend. 4; Ind. Const. art. 1, § 11.
+
+19. Searches and Seizures <=124
+
+The description in a search warrant
+should be as particular as circumstances
+permit. U.S. Const. Amend. 4; Ind. Const.
+art. 1, § 11.
+
+20. Searches and Seizures €125
+
+To satisfy the particularity require-
+ment of a search warrant, it is permissible
+if a warrant incorporates by reference cer-
+tain supporting documents, such as the
+probable cause affidavit, that collectively
+serve to identify the scope of items that
+could properly be seized. U.S. Const.
+Amend. 4; Ind. Const. art. 1, § 11.
+
+21. Searches and Seizures €125
+
+Warrant allowing law enforcement to
+search defendant’s cell phone for any in-
+formation relating to calls and messages,
+including social media messages and ac-
+counts, was tailored to its justifications
+that defendant was a suspected drug deal-
+er; drug dealers used cell phones to com-
+municate with others involved in illicit
+drug activity. U.S. Const. Amend. 4; Ind.
+Const. art. 1, § 11.
+
+22. Searches and Seizures 125
+
+Law enforcement’s use of an extrac-
+tion device that created an auto generated
+report of the file architecture on defen-
+dant’s cell phone did not render the search
+warrant for evidence of drug dealing activ-
+ity on defendant’s phone defectively unpar-
+ticularized, although more than one thou-
+sand pages of information was extracted,
+where the law enforcement did not have
+the ability to determine that certain pages
+did not contain any information sought,
+and a great deal of other information likely
+had to be sifted through in order to find
+the relevant information. U.S. Const.
+Amend. 4; Ind. Const. art. 1, § 11.
+1124 Ind.
+
+23. Criminal Law ¢=392.61
+
+The infirmity in a search warrant for
+not being particularized requires only sup-
+pression of the evidence seized pursuant to
+that part of the warrant but not the sup-
+pression of the evidence obtained pursuant
+to the valid specific portions of the war-
+rant. U.S. Const. Amend. 4; Ind. Const.
+art. 1, § 11.
+
+24. Searches and Seizures 7125
+
+Challenged text messages were prop-
+erly seized under the search warrant even
+if the portion of the search warrant allow-
+ing law enforcement to search phone for
+all indicia of ownership of the phone was
+insufficiently particular, where the search
+warrant also validly allowed law enforce-
+ment to search any text messages for evi-
+dence of drug activities. U.S. Const.
+Amend. 4; Ind. Const. art. 1, § 11.
+
+25. Searches and Seizures <=23
+
+Under the Indiana Constitution, the
+legality of a search turns on an evaluation
+of the reasonableness of the police conduct
+under the totality of the circumstances.
+Ind. Const. art. 1, § 11.
+
+26. Searches and Seizures €=23
+
+In evaluating the reasonableness of a
+search under the Indiana Constitution, an
+appellate court balances three factors: (1)
+the degree of suspicion of unlawful activi-
+ty, (2) the degree of intrusion the method
+of the search imposes on the citizen’s ordi-
+nary activities, and (8) the extent of law
+enforcement needs. Ind. Const. art. 1,
+§ 11.
+
+27. Searches and Seizures 53.1
+
+On balance, the search of defendant’s
+cell phone for evidence of drug dealing
+activities was reasonable under the totality
+of the circumstances; search was intrusive
+in nature, as it involved searching a per-
+sonal cell phone, but law enforcement had
+a high degree of suspicion of unlawful ac-
+tivity after locating contraband in defen-
+dant’s vehicle, specifically, a quantity of
+
+105 NORTH EASTERN REPORTER, 3d SERIES
+
+methamphetamine with a street value
+around $20,000 and a quantity of heroin
+with a street value between $9,000 and
+$12,000, and searching the phone advanced
+law enforcement needs related to identify-
+ing drug-dealing activity and protecting
+the community from the hazards of meth-
+amphetamine and heroin. Ind. Const. art.
+1,§ 11.
+
+28. Criminal Law <~1036.6, 1043(1)
+
+Defendant failed to preserve for re-
+view the claim that the trial court abused
+its discretion by admitting testimony of
+detective who opined that the quantity of
+heroin seized was typical of a dealer,
+where the record indicated that no objec-
+tion was made at the time the evidence
+was admitted, and it did not appear that
+the trial court entered a continuing objec-
+tion that would have preserved the issue.
+
+29. Criminal Law €1137(5)
+
+Defendant waived any fundamental-
+error argument for trial court’s admission
+of testimony of detective who opined that
+the quantity of heroin seized was typical of
+a dealer amount, where defendant declined
+to argue fundamental error, despite having
+the opportunity to do so.
+
+30. Criminal Law <1139
+
+An appellate court interprets statutes
+de novo.
+
+31. Controlled Substances <=69
+
+Statute providing that a person can be
+convicted of dealing heroin if the amount
+possessed is at least 28 grams or there is
+evidence in addition to the weight of the
+drug that the person intended to deliver
+the drug does not operate to bar admission
+of probative evidence related to a defen-
+dant’s intent to deal the drug. Ind. Code
+Ann. §§ 35-48-4-1(a)(2), 35-48-4-1(b).
+CARTER vy. STATE
+
+Ind. 1125
+
+Cite as 105 N.E.3d 1121 (Ind.App. 2018)
+
+Appeal from the Vanderburgh Circuit
+Court, The Honorable Kelli E. Fink, Mag-
+istrate, Trial Court Cause No. 82C01-
+1612-F2-7290
+
+ATTORNEY FOR APPELLANT: Yvette M. La-
+Plante, Keatinc & LaPiante, LLP, Evans-
+ville, Indiana
+
+Attorneys For APPELLEE: Curtis T. Hill,
+Jr., Attorney General of Indiana, Michael
+Gene Worden, Deputy Attorney General,
+Indianapolis, Indiana
+
+Bailey, Judge.
+Case Summary
+
+[1] A jury convicted Kevin Shawn Carter
+(“Carter”) of Dealing in a Narcotic Drug,
+as a Level 2 felony,! and Dealing in Meth-
+amphetamine, as a Level 2 felony.” There-
+after, Carter admitted to being a habitual
+offender.* Carter now appeals.
+
+[2] We affirm.
+Issues
+
+[3] Carter presents the following two
+
+restated issues:
+
+I. Whether the trial court abused its
+discretion by admitting evidence ob-
+tained from a search of a cell phone
+because the underlying warrant was
+impermissibly general, allowing an ex-
+ploratory search; and
+
+II. Whether the trial court committed
+fundamental error by admitting testi-
+mony from an officer who opined that
+the amount of heroin seized was a
+dealer-level quantity.
+
+Facts and Procedural History ‘
+
+[4] After seeing a Ford Mustang cross
+the center line several times, Deputy
+Brandon Mattingly (“Deputy Mattingly”)
+
+1. Ind. Code § 35-48-4-1(a)(2), -1(e)(1).
+2. LC. § 35-48-4-1.1(a)(2), -1.1(e)(1).
+
+3. LC. § 35-50-2-8.
+
+of the Vanderburgh County Sheriff's De-
+partment conducted a traffic stop. Deputy
+Mattingly approached the vehicle and ob-
+served the front passenger—Carter—mak-
+ing furtive movements and appearing to
+place an item under his seat. Deputy Mat-
+tingly then spoke with the driver, Tiffani
+Colschen (“Colschen”). At some point, Car-
+ter stated that he co-owned the vehicle,
+and both Colschen and Carter consented
+to a vehicle search. During the ensuing
+search, Deputy Mattingly found a bag be-
+tween the front seats. Inside, there was a
+container holding a syringe and a spoon.
+Below the container there were several
+plastic bags that appeared to contain
+drugs; subsequent lab testing revealed
+that the bags contained, in the aggregate,
+approximately 205 grams of methamphet-
+amine and approximately 27.5 grams of
+heroin. Carter and Colschen were arrested
+and their cell phones were confiscated. The
+police later obtained a warrant to search
+the cell phones.
+
+[5] Carter was brought to trial on
+charges of Dealing in a Narcotic Drug and
+Dealing in Methamphetamine, both as
+Level 2 felonies. The State also alleged
+that Carter was a habitual offender. Be-
+fore the trial began, Carter moved to sup-
+press evidence obtained from the search of
+his cell phone; the trial court denied Car-
+ter’s motion. At trial, Carter objected to
+the admission of cell phone evidence, and
+the court held a conference outside the
+presence of the jury. At the conference,
+the State tendered an exhibit containing
+several pages of text messages. The court
+determined that eight messages were ad-
+missible, and that, among the eight, any
+messages from third parties were admissi-
+
+4. We heard oral argument on this case on
+June 7, 2018, at Ivy Tech Community College
+in Sellersburg, Indiana. We thank Ivy Tech
+and its guests from the Sherman Minton
+American Inn of Court for their hospitality,
+and we thank counsel for their advocacy.
+1126 Ind.
+
+ble only to give context to Carter’s mes-
+sages. The State prepared a redacted ex-
+hibit containing the eight admissible text
+messages. See State’s Ex. 23-1. Those
+messages—later admitted with a limiting
+instruction—indicated that Carter met
+with three individuals in the hours preced-
+ing the traffic stop, and had instructed one
+individual to pull around to the back, be-
+hind his Mustang, to avoid being seen.
+
+[6] The State’s evidence also included
+testimony from Detective James Budde
+(“Detective Budde”), who was assigned to
+the local drug task force and had encoun-
+tered heroin and methamphetamine hun-
+dreds of times as a police officer. Detective
+Budde opined that the quantity of heroin
+seized was “typical of a dealer amount,” to
+which Carter did not object. Tr. Vol. IV at
+224.
+
+[7] The jury found Carter guilty of the
+dealing counts, and Carter admitted to
+being a habitual offender. Following a sen-
+tencing hearing, the trial court imposed an
+aggregate sentence of thirty-six years in
+the Indiana Department of Correction.
+
+[8] Carter now appeals.
+Discussion and Decision
+
+Cell Phone Records
+
+[1-3] [9] Carter frames his argument
+as a challenge to the denial of his motion
+to suppress evidence, but Carter did not
+seek interlocutory review of that denial.
+We therefore treat Carter’s argument as a
+challenge to the admission of the evidence.
+See Carpenter v. State, 18 N.E.3d 998,
+1001 (Ind. 2014). “The trial court has
+
+5. The Fourth Amendment provides: ‘The
+right of the people to be secure in their per-
+sons, houses, papers, and effects, against un-
+reasonable searches and seizures, shall not be
+violated, and no Warrants shall issue, but
+upon probable cause, supported by Oath or
+affirmation, and particularly describing the
+place to be searched, and the persons or
+things to be seized.”
+
+105 NORTH EASTERN REPORTER, 3d SERIES
+
+broad discretion to rule on the admissibili-
+ty of evidence.” Thomas v. State, 81
+N.E.3d 621, 624 (Ind. 2017). Ordinarily, we
+review evidentiary rulings for an abuse of
+discretion, evaluating whether the court’s
+ruling was “clearly against the logic and
+effect of the facts and circumstances.” Id.
+“However, when a challenge ... is predi-
+cated on the constitutionality of the search
+or seizure of evidence, it raises a question
+of law that we review de novo.” Id.
+
+[4] [10] Both the Fourth Amendment
+to the United States Constitution and Arti-
+cle 1, Section 11 of the Indiana Constitu-
+tion proscribe unreasonable searches of
+“persons, houses, papers, and effects.” *
+Moreover, under the Fourth Amendment,
+“reasonableness generally requires the ob-
+taining of a judicial warrant.” Vernonia
+School Dist. 47J v. Acton, 515 U.S. 646,
+658, 115 S.Ct. 2386, 132 L.Ed.2d 564
+(1995).
+
+[5,6] [11] There are a few “specifically
+established and well-delineated exceptions”
+to the warrant requirement. Katz v. Unit-
+ed States, 389 U.S. 347, 357, 88 S.Ct. 507,
+19 L.Ed.2d 576 (1967). Among those excep-
+tions “is a search incident to a lawful ar-
+rest,” Arizona v. Gant, 556 U.S. 332, 338,
+129 S.Ct. 1710, 173 L.Ed.2d 485 (2009),
+whereby the Fourth Amendment permits
+“a warrantless search of the arrestee’s
+person and the area ‘within his immediate
+control,” Davis v. United States, 564 U.S.
+229, 232, 131 S.Ct. 2419, 180 L.Ed.2d 285
+(2011) (quoting Chimel v. California, 395
+US. 752, 763, 89 S.Ct. 2034, 23 L.Ed.2d
+
+Using nearly identical language, Article 1,
+Section 11 of the Indiana Constitution pro-
+vides: ‘‘The right of the people to be secure in
+their persons, houses, papers, and effects,
+against unreasonable search or seizure, shall
+not be violated; and no warrant shall issue,
+but upon probable cause, supported by oath
+or affirmation, and particularly describing the
+place to be searched, and the person or thing
+to be seized.”
+CARTER vy. STATE
+
+Ind. 1127
+
+Cite as 105 N.E.3d 1121 (Ind.App. 2018)
+
+685 (1969) ). Under this exception, officers
+generally may search the containers they
+encounter. See United States v. Robinson,
+414 USS. 218, 236, 94 S.Ct. 467, 38 L.Ed.2d
+427 (1973) (determining that the Fourth
+Amendment permitted a search of a pack-
+age of cigarettes that was found during a
+search incident to arrest); cf Garcia v.
+State, 47 N.E.3d 1196, 1205 (Ind. 2016)
+(Under Article 1, Section 11, opening a
+container found on the person of an arres-
+tee in the course of a search incident to
+{alvalid arrest will not automatically be
+deemed unreasonable.”).
+
+[12] However, as the United States Su-
+preme Court noted in Riley v. California,
+“(a] search of the information on a cell
+phone bears little resemblance to the ...
+brief physical search” of a container found
+on an arrestee’s person. — U.S. —, 134
+S.Ct. 2473, 2485, 189 L.Ed.2d 430 (2014).
+Namely, modern cell phones—as a “partic-
+ular category of effects” subject to Fourth
+Amendment protection, id. at 2485—“im-
+plicate privacy concerns far beyond those
+implicated by the search of a cigarette
+pack, a wallet, or a purse.” Jd. at 2488-89.
+“Indeed, a cell phone search would typical-
+ly expose to the government far more than
+the most exhaustive search of a house.” Jd.
+at 2491 (emphasis removed). In view of
+these privacy concerns, the Riley Court
+concluded that “officers must generally se-
+cure a warrant” before searching a cell
+phone. Jd. at 2485.
+
+[13] Recently, the United States Su-
+preme Court addressed similar privacy
+concerns in deciding Carpenter v. United
+States, No. 16-402, 585 U.S. —, 138 S.Ct.
+2206, 201 L.Ed.2d 507, 2018 WL 3073916
+(June 22, 2018). There, law enforcement
+had obtained, without a warrant, location-
+related data from an individual’s wireless
+carrier’s cell-site record that the cell phone
+
+6. At oral argument, Carter conceded that
+there was probable cause to issue a search
+warrant. However, we must engage in some
+
+had logged “by dint of its operation.” Id. at
+*12, ——, 138 S.Ct. 2206. The Court re-
+jected arguments that the information was
+rendered less private because it was part
+of business records or because, by using
+the phone, the individual had technically
+disclosed the location information to the
+wireless carrier. Jd. at *11-12, ——-——,
+138 S.Ct. 2206. The Court reflected on the
+“unique nature of cell phone location rec-
+ords,” id. at *9, ——, 188 S.Ct. 2206, and
+ultimately concluded “that the Government
+must generally obtain a warrant supported
+by probable cause before acquiring such
+records,” id. at * 13, ——, 138 S.Ct. 2206.
+
+[14] Here, unlike in Riley and Carpen-
+ter, the police secured a warrant before
+searching the cell phone data. Thus, we
+must look beyond these cases to resolve
+the issue Carter presents—which is wheth-
+er the warrant was defective, rendering
+the evidence unconstitutionally obtained
+and, thereby, inadmissible.
+
+Probable Cause
+
+[7-12] [15] As an initial matter, for a
+valid warrant to issue, the police must first
+set forth probable cause to conduct the
+search. U.S. Const. amend. IV; Ind.
+Const. art. 1, § 11; I.C. §§ 35-33-5-2, -8
+(codifying constitutional principles and es-
+tablishing requirements for affidavits or
+other testimony in support of search war-
+rants). Probable cause is a “fluid concept
+incapable of precise definition ... [and] is
+to be decided based on the facts of each
+case.” Figert v. State, 686 N.E.2d 827, 830
+(Ind. 1997). In determining whether a po-
+lice affidavit sets forth probable cause “to
+issue a search warrant, ‘[t]he task of the
+issuing magistrate is simply to make a
+practical, common-sense decision whether,
+given all the circumstances set forth in the
+affidavit ... there is a fair probability that
+
+discussion of probable cause, as the topic
+informs other aspects of our analysis.
+1128 Ind.
+
+contraband or evidence of a crime will be
+found in a particular place.’” State v. Spil-
+lers, 847 N.E.2d 949, 952-53 (Ind. 2006)
+(quoting Illinois v. Gates, 462 U.S. 213,
+238, 103 S.Ct. 2317, 76 L.Ed.2d 527
+(1983) ).7 Put differently, the central ques-
+tion in a probable cause determination is
+whether the affidavit presents facts, to-
+gether with reasonable inferences, demon-
+strating a sufficient nexus between the
+suspected criminal activity and the specific
+place to be searched. See Eaton v. State,
+889 N.E.2d 297, 300 (Ind. 2008); Figert,
+686 N.E.2d at 830 (determining that a
+warrant to search a residence was not
+supported by probable cause where the
+underlying affidavit indicated that drug
+sales occurred in two residences that were
+merely nearby the residence to be
+searched, and that unidentified individuals
+had frequented all three residences).
+
+[13] [16] Here, law enforcement sought
+a warrant to search the cell phone for
+evidence of the crime of dealing metham-
+phetamine. As to suspected criminal activi-
+ty, the affiant stated that the police found
+a baggie inside Carter’s co-owned vehicle
+that contained a substance field-tested to
+be methamphetamine, with a field weight
+of 207 grams. The affiant also stated that,
+based on training and experience, metham-
+phetamine is typically purchased in one-
+gram quantities, and that the quantity in
+the vehicle was consistent with dealing
+activity. The affiant further stated that
+another baggie in the vehicle contained an
+amount of heroin consistent with drug
+dealing. As to the cell phone, the affidavit
+stated that the phone was recovered from
+
+7. Upon a challenge to whether probable
+cause supported the issuance of a search war-
+rant, ‘[t]he duty of the reviewing court is to
+determine whether the magistrate had a ‘sub-
+stantial basis’ for concluding that probable
+cause existed.” Id. at 953 (quoting Gates, 462
+U.S. at 238-39, 103 S.Ct. 2317). There is a
+substantial basis when “reasonable inferences
+drawn from the totality of the evidence sup-
+
+105 NORTH EASTERN REPORTER, 3d SERIES
+
+Carter, and that those involved in drug
+activity primarily use cell phones and elec-
+tronic devices to communicate with one
+another through calls, text messages, and
+applications such as Facebook.
+
+[17] In Haton, law enforcement had ob-
+tained evidence that the defendant was
+involved in drug-trafficking activity taking
+place at a muffler shop. 889 N.E.2d at 299.
+In the affidavit in support of a search
+warrant for the defendant’s home, the affi-
+ant set forth factual background regarding
+the defendant’s connection to the drug
+trafficking. Id. The affiant also “stated that
+drug traffickers commonly keep U.S. cur-
+rency within quick access and maintain
+records in a variety of forms including
+ledgers, computers, cell phones, pagers,
+phone bills, and wire transfer receipts.” Id.
+at 300 (internal quotation marks omitted).
+It does not appear that the affiant specifi-
+cally stated that drug traffickers typically
+kept such records at their residences. See
+id. Nonetheless, in resolving Eaton, our
+supreme court upheld the underlying prob-
+able cause determination, concluding that
+the affidavit presented “facts showing that
+the defendant was involved in drug traf-
+ficking” along with “facts and reasonable
+inferences establishing a fair probability
+that records and equipment related to such
+drug trafficking were likely to be found in
+the defendant’s home.” Jd. In so conclud-
+ing, the Court observed that “other courts
+ha[d] recognized that it is reasonable to
+believe that drug dealers keep evidence of
+their activities in their residences.” Id.
+
+port the determination of probable cause.”
+Jackson v. State, 908 N.E.2d 1140, 1142 (Ind.
+2009). Appellate courts review de novo wheth-
+er a substantial basis supported the determi-
+nation of probable cause, Spillers, 847 N.E.2d
+at 953, while affording deference to the mag-
+istrate’s decision to issue the warrant.
+McGrath v. State, 95 N.E.3d 522, 527 (Ind.
+2018).
+CARTER vy. STATE
+
+Ind. 1129
+
+Cite as 105 N.E.3d 1121 (Ind.App. 2018)
+
+[18] Examining the instant case in light
+of Eaton, here, the supporting affidavit
+even more directly set forth the nexus
+between the asserted criminal activity—
+dealing methamphetamine—and the place
+to be searched—the cell phone, through
+which dealers typically communicate con-
+cerning their illegal activity. Thus, the affi-
+davit provided a substantial basis for de-
+termining that probable cause existed to
+support the issuance of a warrant to
+search the phone. Yet, underlying probable
+cause is not the only facet of a constitu-
+tional warrant.
+
+Particularity
+
+[14] [19] In addition to requiring
+probable cause, both the United States
+Constitution and the Indiana Constitution
+provide that a warrant must contain a
+particular description of the place to be
+searched and the persons or things to be
+seized. U.S. Const. amend. IV; Ind. Const.
+art. 1, § 11. This particularity require-
+ment “ensures that the search will be
+carefully tailored to its justifications, and
+will not take on the character of the wide-
+ranging exploratory searches the Framers
+intended to prohibit.” Maryland v. Garri-
+son, 480 U.S. 79, 84, 107 S.Ct. 1013, 94
+L.Ed.2d 72 (1987). Indeed, the require-
+ment aims to prevent “a general, explor-
+atory rummaging in a person’s belong-
+ings.” Coolidge v. New Hampshire, 403
+US. 443, 467, 91 S.Ct. 2022, 29 L.Ed.2d
+564 (1971).
+
+[15-20] [20] Although the warrant
+must describe “with some specificity”
+where officers are to search and what they
+are to seize, “there is no requirement that
+there be an exact description.” Overstreet
+v. State, 783 N.E.2d 1140, 1158 (Ind. 2003).
+Nonetheless, the warrant must be specific
+enough so that officers can, “with reason-
+able effort,” ascertain the place to be
+searched and the items to be seized. Steele
+v. United States, 267 U.S. 498, 503, 45
+S.Ct. 414, 69 L.Ed. 757 (1925). This re-
+
+quirement “prevents the seizure of one
+thing under a warrant describing another.
+As to what is to be taken, nothing is left to
+the discretion of the officer executing the
+warrant.” Marron v. United States, 275
+U.S. 192, 198, 48 S.Ct. 74, 72 L.Ed. 231
+(1927); see also Griffith v. State, 59 N.E.3d
+947, 958 (Ind. 2016) (observing that a suffi-
+cient description avoids giving the police
+unbridled discretion). Ultimately, the de-
+scription in a search warrant should “ ‘be
+as particular as circumstances permit.”
+State v. Foy, 862 N.E.2d 1219, 1227 (Ind.
+Ct. App. 2007) (quoting United States v.
+Lievertz, 247 F.Supp.2d 1052, 1062 (S.D.
+Ind. 2002) ). Moreover, to satisfy the par-
+ticularity requirement, it is permissible if a
+warrant incorporates by reference certain
+supporting documents—such as the proba-
+ble cause affidavit—that collectively
+“serv[e] to identify the scope of ... items
+that could properly be seized.” Membres v.
+State, 889 N.E.2d 265, 276 (Ind. 2008).
+
+[21] Here, the warrant authorized
+searching the phone for:
+fruits, instrumentalities and evidence
+pertaining to the crime(s) of DEALING,
+POSSESSION and/or CONSPIRACY
+TO COMMIT DEALING OR POSSES-
+SION OF METHAMPHETAMINE, as
+more particularly described as follows:
+[] Permission to search the above de-
+scribed phone for any information relat-
+ing to calls, messages, including Face-
+book messages and accounts, and all
+information including but not limited to
+photographs, images, emails, letters, ap-
+plications, and folders as well as any
+messages that may be stored on the
+phone that would indicate the identity
+of the phone’s owner/user and permis-
+sion to view and copy said information if
+deemed necessary for preservation.
+Pre-trial Hearing Exhibit 1 (emphasis add-
+ed).
+[22] Carter asserts that the warrant au-
+thorized a broad search of his device for
+1130 Ind.
+
+all information that might supply indicia
+of ownership, rendering the warrant an
+impermissible general warrant. Carter
+points out that the police extracted “all
+the information on the cell phone,” there-
+by generating “a document of roughly a
+thousand pages, which was then analyzed
+for criminal activity.” Appellant’s Br. at
+16-17. Directing our attention to the pri-
+vacy concerns articulated in Riley, Carter
+essentially argues that a warrant is uncon-
+stitutionally general where it permits law
+enforcement to review all the information
+on a cell phone to look for indicia of iden-
+tity of the phone’s owner.’
+
+[21] [23] However, the warrant specifi-
+cally described the place law enforcement
+could search—the phone recovered from
+Carter—and specifically described what
+law enforcement could search for—(1)
+“any information relating to calls, mes-
+sages, including Facebook messages and
+accounts,” and (2) “all information ... that
+would indicate the identity of the phone’s
+owner/user.” Pre-trial Hearing Exhibit 1.
+Moreover, the first clause permitting the
+search for calls and messages enjoys a
+close nexus to the probable cause that
+justified issuing the search warrant—
+which is that Carter was a suspected drug
+dealer, and drug dealers use cell phones to
+communicate with others involved in illicit
+drug activity. See Eaton, 889 N.E.2d at
+300. Thus, this aspect of the search war-
+rant was “tailored to its justifications.”
+Maryland, 480 U.S. at 84, 107 S.Ct. 1013.
+
+[22] [24] In carrying out the search,
+law enforcement did extract more than one
+
+8. Carter also relies on Ogburn v. State, 53
+N.E.3d 464 (Ind. Ct. App. 2016), trans. denied,
+but that case did not involve an insufficiently
+particular search warrant. Rather, in Ogburn,
+this Court determined that a warrant was not
+supported by probable cause and that, in the
+alternative, the ensuing search “clearly ex-
+ceeded the scope of the warrant.” 53 N.E.3d
+
+105 NORTH EASTERN REPORTER, 3d SERIES
+
+thousand pages of information using a
+“logical extraction” device that created an
+“auto generated” report of the file archi-
+tecture on the phone. Tr. Vol. IV at 142-
+43. Although Carter draws our attention to
+the quantity of data extracted, he has not
+demonstrated that there was any other
+way to practically conduct the permitted
+search. As the State observes, “[a] great
+deal of other information will likely have to
+be sifted through in order to find the
+relevant information—similar to looking
+through drawers in a home or office file
+cabinet for specific files or letters that are
+relevant to the investigation.” Appellee’s
+Br. at 15. Ultimately, we discern no indica-
+tion that law enforcement had the ability
+to determine, ex ante, that certain pages
+could not have contained any of the infor-
+mation sought. See United States v. Sta-
+bile, 633 F.3d 219, 238 (8d Cir. 2011) (“ ‘[A]
+computer search may be as extensive as
+reasonably required to locate the items
+described in the warrant’ based on proba-
+ble cause.” (quoting United States v.
+Grimmett, 439 F.3d 1263, 1270 (10th Cir.
+2006) ); Wheeler v. State, 135 A.3d 282, 301
+(Del. 2016) (“Some irrelevant files may
+have to be at least cursorily perused to
+determine whether they are within the
+authorized search ambit.”).
+
+[23, 24] [25] With respect to Carter’s
+assertion that the second clause was im-
+permissibly general—that is, the clause
+permitting a search for all indicia of own-
+ership of the phone—the challenged evi-
+dence consisted only of text messages. As-
+suming arguendo that the second clause
+was insufficiently particular, even where a
+
+at 474. To the extent Ogburn comments on
+particularity, we regard its statements as dic-
+ta. See Koske v. Townsend Eng’g Co., 551
+N.E.2d 437, 443 (Ind. 1990) (‘“[S]tatements
+not necessary in the determination of the is-
+sues presented ... are not binding and do not
+become the law.’’).
+CARTER vy. STATE
+
+Ind. 1131
+
+Cite as 105 N.E.3d 1121 (Ind.App. 2018)
+
+portion of a search warrant is too general,
+the Indiana Supreme Court has explained
+that “[t]he infirmity ... does not doom the
+entire warrant.” Warren v. State, 760
+N.E.2d 608, 610 (Ind. 2002). Rather, the
+infirmity requires “only ... suppression of
+the evidence seized pursuant to that part
+of the warrant but not the suppression of
+the evidence obtained pursuant to the valid
+specific portions of the warrant.” Id. (cit-
+ing United States v. Greene, 250 F.3d 471,
+A477 (6th Cir. 2001) and United States v.
+Reed, 726 F.2d 339, 342 (7th Cir. 1984) );
+see also United States v. Galpin, 720 F.3d
+436, 448-50 (2d Cir. 2013). Here, the chal-
+lenged text messages were seized pursuant
+to the other, specific portion of the war-
+rant that authorized searching the phone
+for messages.?
+
+[26] Based on the foregoing, we conclude
+that the challenged text messages were
+not seized pursuant to an impermissible
+general warrant. Therefore, the court did
+not abuse its discretion by admitting the
+text messages over Carter’s objection.
+
+Reasonableness
+
+[25, 26] [27] Carter briefly argues that
+the search was unreasonable under Article
+1, Section 11 of the Indiana Constitution.
+Under the Indiana Constitution, the legali-
+ty of a search “turns on an evaluation of
+the reasonableness of the police conduct
+under the totality of the circumstances.”
+Litchfield v. State, 824 N.E.2d 356, 359
+(Ind. 2005). In evaluating the reasonable-
+ness of a search, we balance three factors:
+(1) the degree of suspicion of unlawful
+
+9. At oral argument, there was some discus-
+sion about the possibility of officers coming
+across evidence of a different crime while
+combing through electronic files pursuant to
+a warrant. Because the case before us does
+not present such facts, our opinion does not
+extend to that hypothetical situation. See Sny-
+der v. King, 958 N.E.2d 764, 786 (Ind. 2011)
+(observing that courts should decide cases
+“only on the specific facts of the particular
+case and not on hypothetical situations’’).
+
+activity; (2) the degree of intrusion the
+method of the search imposes on the citi-
+zen’s ordinary activities; and (3) the extent
+of law enforcement needs. Jd. at 361.
+
+[27] [28] Here, the search did not
+greatly intrude upon Carter’s activities.
+Nonetheless, the search was intrusive in
+nature, as it involved searching a personal
+cell phone—a device that often contains
+highly personal information. However, law
+enforcement had located contraband in
+Carter’s vehicle—specifically, a quantity of
+methamphetamine with a street value
+around $20,000 and a quantity of heroin
+with a street value between $9,000 and
+$12,000. Thus, law enforcement had a high
+degree of suspicion of unlawful activity.
+Furthermore, searching the phone ad-
+vanced law enforcement needs related to
+identifying drug-dealing activity and pro-
+tecting the community from the hazards of
+methamphetamine and heroin. On balance,
+we conclude that the search was reason-
+able under the totality of the circum-
+stances.
+
+Opinion Testimony
+
+[28-30] [29] Carter argues that the tri-
+al court abused its discretion by admitting
+testimony from Detective Budde, who
+opined that the quantity of heroin seized
+was “typical of a dealer amount.” Tr. Vol.
+IV at 224. Because Carter failed to raise a
+contemporaneous objection, Carter’s only
+available argument with respect to admis-
+sion of the testimony is that the admission
+constituted fundamental error.’ See, eg.,
+
+Nonetheless, we expect that existing caselaw
+provides ample analogues should this issue
+arise in the electronic context. See, e.g., Over-
+street, 783 N.E.2d at 1160 (determining that
+the plain view doctrine permitted the seizure
+of evidence that officers came across while
+carrying out a valid search warrant).
+
+10. In his Appellant's Brief, Carter states that
+the evidence was admitted over his objection.
+However, the record indicates that no objec-
+1132 Ind.
+
+Brown v. State, 929 N.E.2d 204, 207 (Ind.
+2010). Yet, Carter declined to argue funda-
+mental error, despite the opportunity to do
+so. Thus, Carter has waived any funda-
+mental-error argument. See Ferguson v.
+State, 40 N.E.3d 954, 957 (Ind. Ct. App.
+2015), trans. denied. Waiver notwithstand-
+ing, Carter argues that Detective Budde’s
+testimony was inadmissible because it was
+inaccurate and contrary to law.” To the
+extent Carter’s argument involves statuto-
+ry interpretation, we interpret statutes de
+novo. Johnson v. State, 87 N.E.3d 471, 472
+(Ind. 2017).
+
+[30] Carter directs us to Indiana Code
+Section 35-48-4-1(a)(2), which criminalizes
+the possession of heroin with the intent to
+deliver the drug. Under the statutory
+framework, an individual can be convicted
+of dealing under either of two circum-
+stances: (1) if the amount possessed is at
+least twenty-eight grams or (2) “there is
+evidence in addition to the weight of the
+drug that the person intended to ... deliv-
+er ... the drug.” LC. § 35-48-4-1(b).
+Here, the amount of heroin was less than
+twenty-eight grams, and so a conviction
+required additional evidence of Carter’s
+intent to deliver the heroin. See id.
+
+[31] [81] According to Carter, the very
+existence of the twenty-eight-gram pre-
+sumption precludes the admission of testi-
+
+tion was made at the time the evidence was
+admitted, and it does not appear that the trial
+court entered a continuing objection that
+would have preserved the issue. See, e.g., Kin-
+dred v. State, 524 N.E.2d 279, 292 (Ind. 1988).
+
+11. In its brief, the State pointed out that Car-
+ter had failed to raise a contemporaneous
+objection and had not argued fundamental
+error on appeal. Thereafter, Carter did not
+argue fundamental error in his Reply Brief.
+
+12. In a footnote, Carter briefly asserts that
+Detective Budde was not qualified to give
+opinion testimony as a skilled witness pursu-
+ant to Indiana Evidence Rule 701. At oral
+argument, however, Carter conceded that De-
+
+105 NORTH EASTERN REPORTER, 3d SERIES
+
+mony indicating that less heroin could con-
+stitute a “dealer quantity” of heroin. He
+argues that “[t]he legislature has made a
+decision about the quantity of drug which
+may be interpreted as presumptive of deal-
+ing, and the officer has rendered an opin-
+ion that is contrary to what the legislature
+found.” Reply Br. at 6. However, we con-
+clude that the statute does not operate to
+bar admission of probative evidence relat-
+ed to the defendant’s intent to deal the
+drug. Rather, the statute eliminates the
+State’s burden of presenting additional in-
+tent evidence when there is evidence that
+the drug weighed at least twenty-eight
+grams. Put another way, once the State
+has introduced evidence that the defendant
+possessed the statutory amount, there is
+sufficient evidence to establish the defen-
+dant’s intent to deliver the drug. Yet, the
+State is not foreclosed from presenting
+additional evidence of intent, and the stat-
+utory framework does not otherwise affect
+the admissibility of evidence of intent
+where, as here, the quantity possessed is
+less than twenty-eight grams."
+
+[82] Thus, we conclude that the trial
+court did not err by admitting the chal-
+lenged testimony.
+
+Conclusion
+
+[83] The court did not abuse its discre-
+tion by admitting text messages procured
+
+tective Budde was qualified to give the opin-
+ion testimony, but maintained that the legisla-
+ture preempted the particular type of opinion
+testimony due to the framework of the statute
+at issue.
+
+13. Moreover, it is not as though the weight
+and weight-based opinion testimony constitut-
+ed the only evidence indicative of Carter’s
+intent to deliver the heroin. Rather, the evi-
+dence indicated that Carter possessed multi-
+ple types of drugs with a collective street
+value around $30,000, and that he had met
+with several individuals prior to the traffic
+stop, at one point instructing an individual to
+covertly pull behind his vehicle.
+WEEKLY v. STATE
+
+Ind. 1133
+
+Cite as 105 N.E.3d 1133 (Ind.App. 2018)
+
+from the search of Carter’s cell phone; the
+search was conducted pursuant to a valid
+search warrant and the search was reason-
+able under the totality of the circum-
+stances. The court did not err in admitting
+Detective Budde’s testimony.
+
+[84] Affirmed.
+
+Najam, J., and May, J., concur.
+
+Ww
+° E KEY NUMBER SYSTEM
+T
+
+Alonzo R. WEEKLY, Appellant-
+Defendant,
+
+v.
+STATE of Indiana, Appellee—Plaintiff.
+
+Court of Appeals Case No.
+20A03-1712-—CR-2922
+
+Court of Appeals of Indiana.
+
+Filed June 29, 2018
+Background: Following denial of motion
+to suppress evidence, defendant was con-
+victed a bifurcated trial in the Superior
+Court, Elkhart County, No. 20D04-1703-
+F6-392, Gretchen S. Lund, J., of operating
+a vehicle while intoxicated in a manner
+that endangers a person, and operating a
+vehicle with an alcohol concentration
+equivalent to at least 0.15, and pled guilty
+to operating a vehicle while intoxicated
+with a previous conviction and admitted to
+being a habitual vehicular substance of-
+fender (HVSO). Defendant appealed.
+Holdings: The Court of Appeals, Najam,
+J., held that:
+
+(1) trial court did not abuse its discretion
+in admitting results of chemical breath
+test and police officers’ testimony re-
+lated to traffic stop;
+
+(2) imposition of five-year sentence was
+not inappropriate in light of the nature
+of offenses and defendant’s character;
+and
+
+(3) trial court impermissibly imposed a
+separate sentence based on HVSO
+finding.
+
+Affirmed in part, reversed in part, and
+
+remanded.
+
+1. Automobiles ¢=349(2.1), 411, 419
+
+Trial court did not abuse its discretion
+in admitting results of chemical breath test
+and police officers’ testimony, which in-
+cluded observations of defendant following
+traffic stop and results of field sobriety
+tests, in prosecution of crimes related to
+operating a vehicle while intoxicated; po-
+lice officers’ had probable cause to stop
+defendant, as they testified that they wit-
+nessed defendant fail to stop at two stop
+signs, they observed that defendant had
+slurred speech, bloodshot eyes, and that
+his breath smelled of alcohol, defendant
+failed field sobriety test and did not com-
+plete two others, and defendant consented
+to chemical breath test. U.S. Const.
+Amend. 4.
+
+2. Arrest €60.2(10)
+
+When determining whether an officer
+had reasonable suspicion for a Terry stop,
+the reviewing court considers whether the
+totality of the circumstances presented a
+particularized and objective basis for the
+officer’s belief that the subject was en-
+gaged in criminal activity. U.S. Const.
+Amend. 4.
+
+3. Automobiles 359.4
+Sentencing and Punishment ¢=95, 111
+Imposition of five-year sentence was
+not inappropriate in light of the nature of
+offenses and defendant’s character, in
+prosecution for crimes related to operating
+a vehicle while intoxicated; although defen-
+dant’s imprisonment placed hardship on
+his children for whom he had an outstand-
+ing child support obligation and fact that
+risk assessment score reflected a low risk
+to reoffend, defendant had a criminal his-

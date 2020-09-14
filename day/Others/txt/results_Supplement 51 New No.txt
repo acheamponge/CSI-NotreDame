@@ -1,0 +1,91 @@
+CH. 5. THE FOURTH AMENDMENT 51
+
+If so, how short is short enough not to be a search? In Kinslow v. State, 2019
+WL 2440229 (Ind. Ct. App. 2019), investigators placed a GPS device inside a
+package that Kinslow later picked up and placed in his car. The police tracked
+the location of Kinslow’s car as it drove around for about six hours. The Indiana
+Court of Appeals held that no search occurred under Carpenter:
+
+While the United States Supreme Court found that tracking such
+information violated Carpenter’s expectation of privacy, we read the
+Court’s holding to apply to records, such as cellphone tracking data,
+that hold for many Americans the ‘privacies of life.” Cell phone
+location data provides an intimate window into a person’s life,
+revealing not only his particular movements, but through them his
+professional, political, religious, and sexual associations. Because the
+tracking of Kinslow lasted only approximately six hours and because
+the electronic devices used here do not provide an intimate window
+into a person’s life, we find that Carpenter has no bearing on this case.
+
+Id. at *3 n.6. See also Sims v. State, 569 S.W.3d 634 (Tex. Ct. Crim. App. 2019)
+(holding that Carpenter applies to real-time cell-site pinging, but that
+obtaining real-time location with five pings over less than three hours was
+insufficient to trigger a Carpenter search).
+
+C. EXCEPTIONS TO THE
+WARRANT REQUIREMENT
+
+2. EXIGENT CIRCUMSTANCES
+
+At the top of page 477, before the beginning of Section 3, add the
+following new Notes 5 and 6:
+
+5. When does seizing a computer for too long without a warrant justify
+suppression of the evidence found inside it? In United States v. Jobe, 933 F.3d
+1074 (9th Cir. 2019), the Ninth Circuit added a wrinkle to the question of how
+long an officer can seize a computer before obtaining a warrant to search it.
+Even if a computer was seized and held for an overly long period, the court
+reasoned, the good-faith exception to the exclusionary rule may apply if the
+extended period of the warrantless seizure was not particularly culpable and
+the officer reasonably believed the seizure was reasonable. In that setting,
+there may be no suppression remedy for the failure to obtain a warrant
+promptly. Id. at 1079-80.
+
+If Jobe is correct that the good-faith exception can apply in these
+circumstances, how much more time should the good-faith exception add to the
+period over which a warrantless seizure of a computer is effectively allowed?
+
+6. Exigent circumstances requires reason to believe digital evidence will
+be destroyed or concealed. In Hupp v. Cook, 931 F.3d 307 (4th Cir. 2019),
+Trooper Cook testified that he had a regular practice of seizing any computer
+or cell phone that he believed might contain video of a crime he was
+52 THE FOURTH AMENDMENT ne
+investigating. He did this, he claimed, because digital evidence can be
+deleted or destroyed. The Fourth Circuit concluded that Trooper Cook’s '
+practice was not permitted by the exigent circumstances exception:
+
+easily
+egular
+
+In an era in which cell phones are increasingly used to capture much
+of what happens in daily life, it is important to emphasize the
+limitations that the Fourth Amendment continues to place on a
+state’s seizure of video evidence.
+
+The exigent circumstances exception does not permit police officers
+to do what Trooper Cook routinely does: seize video evidence without
+a warrant even when there is no reason to believe that the evidence
+will likely be destroyed or concealed. Such a rule would allow officers
+to seize as a matter of course video-recording devices from not just
+those involved in an incident, but also from neighbors and other
+curious bystanders who happen to record the events as they
+transpire. Under this view, police officers would lawfully be
+permitted to enter the home of every person living nearby who stands
+in her doorway or window recording an arrest, to seize her recording
+device, and to do so without a warrant or her consent—simply
+because video evidence, by its nature, can be easily deleted.
+
+Such a view finds no support in our Fourth Amendment
+jurisprudence. While video evidence contained in a cell phone can be
+easily deleted or concealed, it is not merely the ease with which
+evidence may be destroyed or concealed that dictates exigency. An
+officer must also have reason to believe that the evidence will be
+destroyed or concealed. In short, adopting the broad definition of
+exigency urged by Trooper Cook would remove the exigent
+circumstances exception to the warrant requirement from the class
+of narrow and well-delineated exceptions permissible under the
+
+Fourth Amendment. It would convert exigency from an exception to
+the rule.
+
+Id. at 329-30.

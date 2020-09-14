@@ -1,0 +1,2128 @@
+US. v. JONES
+
+945
+
+Cite as 132 S.Ct. 945 (2012)
+
+lack of preclearance under § 5 of the Vot-
+ing Rights Act of 1965. Ante, at 939-940.
+In my view, Texas’ failure to timely obtain
+§ 5 preclearance of its new plans is no
+obstacle to their implementation, because,
+as I have previously explained, § 5 is un-
+constitutional. See Northwest Austin Mu-
+nicipal Util. Dist. No. One v. Holder, 557
+US. 193, 212, 129 S.Ct. 2504, 174 L.Ed.2d
+140 (2009) (THOMAS, J., concurring in
+judgment in part and dissenting in part).
+Although Texas’ new plans are being chal-
+lenged on the grounds that they violate the
+Federal Constitution and § 2 of the Voting
+Rights Act, they have not yet been found
+to violate any law. Accordingly, Texas’
+duly enacted redistricting plans should
+govern the upcoming elections. I would
+therefore vacate the interim orders and
+remand for the United States District
+Court for the Western District of Texas to
+consider appellees’ constitutional and § 2
+challenges in the ordinary course.
+
+Ww
+° § KEY NUMBER SYSTEM
+1
+
+UNITED STATES, Petitioner
+v.
+
+Antoine JONES.
+No. 10-1259.
+Argued Nov. 8, 2011.
+
+Decided Jan. 23, 2012.
+Background: Following denial of motion
+to suppress evidence, 451 F.Supp.2d 71,
+and denial of motion for reconsideration,
+511 F.Supp.2d 74, defendants were con-
+victed in the United States District Court
+for the District of Columbia, Huvelle, J., of
+conspiracy to distribute and to possess
+with intent to distribute five kilograms or
+more of cocaine and 50 grams or more of
+
+cocaine base. They appealed. The United
+States Court of Appeals for the District of
+Columbia, Ginsburg, Circuit Judge, 615
+F.3d 544, reversed. Certiorari was grant-
+ed.
+
+Holding: The Supreme Court, Justice
+Scalia, held that attachment of Global—
+Positioning-System (GPS) tracking device
+to vehicle, and subsequent use of that de-
+vice to monitor vehicle’s movements on
+public streets, was search within meaning
+of Fourth Amendment.
+
+Affirmed.
+
+Justice Sotomayor filed concurring opin-
+ion.
+
+Justice Alito filed opinion concurring in the
+judgment, in which Justices Ginsburg,
+Breyer, and Kagan joined.
+
+1. Searches and Seizures <=60.1
+
+Vehicle is an “effect” as that term is
+used in Fourth Amendment, which pro-
+vides that “[t]he right of the people to be
+secure in their persons, houses, papers,
+and effects, against unreasonable searches
+and seizures, shall not be violated.”
+U.S.C.A. Const.Amend. 4.
+
+See publication Words and Phras-
+es for other judicial constructions
+and definitions.
+
+2. Searches and Seizures 21
+
+Government’s installation of Global-
+Positioning-System (GPS) tracking device
+on target’s vehicle, and its use of that
+device to monitor vehicle’s movements,
+constitutes a “search,” within meaning of
+Fourth Amendment. U.S.C.A. Const.
+Amend. 4.
+
+See publication Words and Phras-
+es for other judicial constructions
+and definitions.
+
+3. Searches and Seizures 26
+
+In determining what constitutes
+search, Supreme Court must assure pres-
+946
+
+ervation of that degree of privacy against
+government that existed when Fourth
+Amendment was adopted. U.S.C.A.
+Const.Amend. 4.
+
+4. Searches and Seizures €=13.1
+
+Where Government obtains informa-
+tion by physically intruding on constitu-
+tionally protected area, “search” within
+original meaning of Fourth Amendment
+has occurred. U.S.C.A. Const.Amend. 4.
+
+5. Searches and Seizures ¢=13.1
+
+Under Fourth Amendment, “seizure”
+of property occurs, not when there is a
+trespass, but when there is some meaning-
+ful interference with an individual’s posses-
+sory interests in that property. U.S.C.A.
+Const.Amend. 4.
+
+See publication Words and Phras-
+es for other judicial constructions
+and definitions.
+
+6. Searches and Seizures ¢=13.1
+
+Trespass alone does not qualify as a
+“search,” under Fourth Amendment, rath-
+er, it must be conjoined with attempt to
+find something or to obtain information.
+US.C.A. Const.Amend. 4.
+
+7. Searches and Seizures 27
+Open field is not one of those protect-
+
+ed areas enumerated in Fourth Amend-
+ment. U.S.C.A. Const.Amend. 4.
+
+8. Searches and Seizures ¢=23
+
+Fourth Amendment’s guarantee
+against unreasonable searches must pro-
+vide at a minimum the degree of protec-
+tion it afforded when it was adopted.
+US.C.A. Const.Amend. 4.
+
+9. Federal Courts 461
+
+Government’s alternative argument,
+that even if attachment of Global—Position-
+ing—System (GPS) tracking device to vehi-
+
+* The syllabus constitutes no part of the opinion
+of the Court but has been prepared by the
+Reporter of Decisions for the convenience of
+
+132 SUPREME COURT REPORTER
+
+cle and use of the device was a search, it
+was reasonable, was forfeited, where Gov-
+ernment did not raise argument below, so
+that Court of Appeals did not address it.
+U.S.C.A. Const.Amend. 4.
+
+Syllabus *
+
+The Government obtained a search
+warrant permitting it to install a Global-
+Positioning-System (GPS) tracking device
+on a vehicle registered to respondent
+Jones’s wife. The warrant authorized in-
+stallation in the District of Columbia and
+within 10 days, but agents installed the
+device on the 11th day and in Maryland.
+The Government then tracked the vehicle’s
+movements for 28 days. It subsequently
+secured an indictment of Jones and others
+on drug trafficking conspiracy charges.
+The District Court suppressed the GPS
+data obtained while the vehicle was parked
+at Jones’s residence, but held the remain-
+ing data admissible because Jones had no
+reasonable expectation of privacy when the
+vehicle was on public streets. Jones was
+convicted. The D.C. Circuit reversed, con-
+cluding that admission of the evidence ob-
+tained by warrantless use of the GPS de-
+vice violated the Fourth Amendment.
+
+Held: The Government’s attachment
+of the GPS device to the vehicle, and its
+use of that device to monitor the vehicle’s
+movements, constitutes a search under the
+Fourth Amendment. Pp. 948 - 954.
+
+(a) The Fourth Amendment protects
+the “right of the people to be secure in
+their persons, houses, papers, and effects,
+against unreasonable searches and sei-
+zures.” Here, the Government’s physical
+intrusion on an “effect” for the purpose of
+
+obtaining information constitutes a
+“search.” This type of encroachment on
+the reader. See United States v. Detroit Tim-
+
+ber & Lumber Co., 200 U.S. 321, 337, 26 S.Ct.
+282, 50 L.Ed. 499.
+US. v. JONES
+
+947
+
+Cite as 132 S.Ct. 945 (2012)
+
+an area enumerated in the Amendment
+would have been considered a search with-
+in the meaning of the Amendment at the
+time it was adopted. Pp. 948 - 949.
+
+(b) This conclusion is consistent with
+this Court’s Fourth Amendment jurispru-
+dence, which until the latter half of the
+20th century was tied to common-law tres-
+pass. Later cases, which have deviated
+from that exclusively property-based ap-
+proach, have applied the analysis of Justice
+Harlan’s concurrence in Katz v. United
+States, 389 U.S. 347, 88 S.Ct. 507, 19
+L.Ed.2d 576, which said that the Fourth
+Amendment protects a person’s “reason-
+able expectation of privacy,” id., at 360, 88
+S.Ct. 507. Here, the Court need not ad-
+dress the Government’s contention that
+Jones had no “reasonable expectation of
+privacy,” because Jones’s Fourth Amend-
+ment rights do not rise or fall with the
+Katz formulation. At bottom, the Court
+must “assur[e] preservation of that degree
+of privacy against government that existed
+when the Fourth Amendment was
+adopted.” Kyllo v. United States, 533 U.S.
+27, 34, 121 S.Ct. 2038, 150 L.Ed.2d 94.
+Katz did not repudiate the understanding
+that the Fourth Amendment embodies a
+particular concern for government tres-
+pass upon the areas it enumerates. The
+Katz reasonable-expectation-of-privacy
+test has been added to, but not substituted
+for, the common-law trespassory test. See
+Alderman v. United States, 394 U.S. 165,
+176, 89 S.Ct. 961, 22 L.Ed.2d 176; Soldal
+v. Cook County, 506 U.S. 56, 64, 113 S.Ct.
+588, 121 L.Ed.2d 450. United States v.
+Knotts, 460 U.S. 276, 103 S.Ct. 1081, 75
+L.Ed.2d 55, and United States v. Karo, 468
+US. 705, 104 S.Ct. 3296, 82 L.Ed.2d 530—
+post-Katz cases rejecting Fourth Amend-
+ment challenges to “beepers,” electronic
+tracking devices representing another
+form of electronic monitoring—do not fore-
+close the conclusion that a search occurred
+here. New York v. Class, 475 U.S. 106,
+
+106 S.Ct. 960, 89 L.Ed.2d 81, and Oliver v.
+United States, 466 U.S. 170, 104 S.Ct.
+1735, 80 L.Ed.2d 214, also do not support
+the Government’s position. Pp. 949-954.
+
+(c) The Government’s alternative ar-
+gument—that if the attachment and use of
+the device was a search, it was a reason-
+able one—is forfeited because it was not
+raised below. P. 954.
+
+615 F.3d 544, affirmed.
+
+SCALIA, J., delivered the opinion of
+the Court, in which ROBERTS, C.J., and
+KENNEDY, THOMAS, and
+SOTOMAYOR, JJ., joined.
+
+SOTOMAYOR, J., filed a concurring
+opinion. ALITO, J., filed an opinion
+concurring in the judgment, in which
+GINSBURG, BREYER, and KAGAN, JJ.,
+joined.
+
+Michael R. Dreeben, Washington, DC,
+for Petitioner.
+
+Stephen C. Leckar, for Respondent.
+
+Donald B. Verrilli, Jr., Solicitor General,
+Counsel of Record, Department of Justice,
+Washington, DC, for United States.
+
+Walter Dellinger, Jonathan D. Hacker,
+Micah W.J. Smith, O’Melveny & Myers
+LLP, Washington, DC, Stephen C. Leckar,
+Counsel of Record, Shainis & Peltzman,
+Chartered, Washington, DC, for Respon-
+dent.
+
+Donald B. Verrilli, Jr., Solicitor General,
+Counsel of Record, Lanny A. Breuer, As-
+sistant Attorney General, Michael R. Dree-
+ben, Deputy Solicitor General, Ann O’Con-
+nell, Assistant to the Solicitor General, J.
+Campbell Barker, Attorney, Department
+of Justice, Washington, DC, for United
+States.
+
+For U.S. Supreme Court Briefs, See:
+2011 WL 3561881 (Pet.Brief)
+948
+
+2011 WL 4479076 (Resp.Brief)
+2011 WL 5094951 (Reply.Brief)
+
+Justice SCALIA delivered the opinion of
+the Court.
+
+We decide whether the attachment of a
+Global-Positioning-System (GPS) tracking
+device to an individual’s vehicle, and subse-
+quent use of that device to monitor the
+vehicle’s movements on public streets, con-
+stitutes a search or seizure within the
+meaning of the Fourth Amendment.
+
+I
+
+In 2004 respondent Antoine Jones, own-
+er and operator of a nightclub in the Dis-
+trict of Columbia, came under suspicion of
+trafficking in narcotics and was made the
+target of an investigation by a joint FBI
+and Metropolitan Police Department task
+force. Officers employed various investi-
+gative techniques, including visual surveil-
+lance of the nightclub, installation of a
+camera focused on the front door of the
+club, and a pen register and wiretap cover-
+ing Jones’s cellular phone.
+
+Based in part on information gathered
+from these sources, in 2005 the Govern-
+ment applied to the United States District
+Court for the District of Columbia for a
+warrant authorizing the use of an electron-
+ic tracking device on the Jeep Grand Cher-
+okee registered to Jones’s wife. A war-
+rant issued, authorizing installation of the
+device in the District of Columbia and
+within 10 days.
+
+On the 11th day, and not in the District
+of Columbia but in Maryland,’ agents in-
+stalled a GPS tracking device on the un-
+dercarriage of the Jeep while it was
+parked in a public parking lot. Over the
+next 28 days, the Government used the
+
+1. In this litigation, the Government has con-
+ceded noncompliance with the warrant and
+has argued only that a warrant was not re-
+
+132 SUPREME COURT REPORTER
+
+device to track the vehicle’s movements,
+and once had to replace the device’s bat-
+tery when the vehicle was parked in a
+different public lot in Maryland. By
+means of signals from multiple satellites,
+the device established the vehicle’s location
+within 50 to 100 feet, and communicated
+that location by cellular phone to a Gov-
+ernment computer. It relayed more than
+2,000 pages of data over the 4—week peri-
+od.
+
+The Government ultimately obtained a
+
+multiple-count indic
+and several alleged
+
+as relevant here, co:
+
+and possess with in
+kilograms or more 0.
+
+ment charging Jones
+co-conspirators with,
+mspiracy to distribute
+ent to distribute five
+cocaine and 50 grams
+
+or more of cocaine base, in violation of 21
+U.S.C. §§ 841 and 846. Before trial,
+Jones filed a motion to suppress evidence
+obtained through the GPS device. The
+District Court granted the motion only in
+part, suppressing the data obtained while
+the vehicle was parked in the garage ad-
+joining Jones’s residence. 451 F.Supp.2d
+71, 88 (2006). It held the remaining data
+admissible, because “‘[a] person traveling
+in an automobile on public thoroughfares
+has no reasonable expectation of privacy in
+his movements from one place to anoth-
+er.”” Ibid. (quoting United States v.
+Knotts, 460 U.S. 276, 281, 103 S.Ct. 1081,
+75 L.Ed.2d 55 (1983)). Jones’s trial in
+October 2006 produced a hung jury on the
+conspiracy count.
+
+ 
+
+In March 2007, a grand jury returned
+another indictment, charging Jones and
+others with the same conspiracy. The
+Government introduced at trial the same
+GPS-derived locational data admitted in
+the first trial, which connected Jones to
+the alleged conspirators’ stash house that
+contained $850,000 in cash, 97 kilograms of
+
+quired. United States v. Maynard, 615 F.3d
+544, 566, n. * (C.A.D.C. 2010).
+US. v. JONES
+
+949
+
+Cite as 132 S.Ct. 945 (2012)
+
+cocaine, and 1 kilogram of cocaine base.
+The jury returned a guilty verdict, and the
+District Court sentenced Jones to life im-
+prisonment.
+
+The United States Court of Appeals for
+the District of Columbia Circuit reversed
+the conviction because of admission of the
+evidence obtained by warrantless use of
+the GPS device which, it said, violated the
+Fourth Amendment. United States v.
+Maynard, 615 F.3d 544 (2010). The D.C.
+Circuit denied the Government’s petition
+for rehearing en banc, with four judges
+dissenting. 625 F.3d 766 (2010). We
+granted certiorari, 564 U.S. ——, 131 S.Ct.
+3064, 180 L.Ed.2d 885 (2011).
+
+I
+
+A
+
+[1,2] The Fourth Amendment pro-
+vides in relevant part that “[t]he right of
+the people to be secure in their persons,
+houses, papers, and effects, against unrea-
+sonable searches and seizures, shall not be
+violated.” It is beyond dispute that a vehi-
+cle is an “effect” as that term is used in
+the Amendment. United States v. Chad-
+wick, 433 U.S. 1, 12, 97 S.Ct. 2476, 53
+L.Ed.2d 538 (1977). We hold that the
+Government’s installation of a GPS device
+on a target’s vehicle,” and its use of that
+device to monitor the vehicle’s movements,
+constitutes a “search.”
+
+It is important to be clear about what
+occurred in this case: The Government
+physically occupied private property for
+the purpose of obtaining information. We
+have no doubt that such a physical intru-
+sion would have been considered a
+
+2. As we have noted, the Jeep was registered to
+Jones’s wife. The Government acknowl-
+edged, however, that Jones was ‘“‘the exclusive
+driver.” Id., at 555, n. * (internal quotation
+marks omitted). If Jones was not the owner
+he had at least the property rights of a bailee.
+The Court of Appeals concluded that the vehi-
+
+“search” within the meaning of the Fourth
+Amendment when it was adopted. E'ntick
+v. Carrington, 95 Eng. Rep. 807 (C.P.
+1765), is a “case we have described as a
+‘monument of English freedom’ ‘undoubt-
+edly familiar’ to ‘every American states-
+man’ at the time the Constitution was
+adopted, and considered to be ‘the true
+and ultimate expression of constitutional
+law’” with regard to search and seizure.
+Brower v. County of Inyo, 489 U.S. 593,
+596, 109 S.Ct. 1378, 103 L.Ed.2d 628 (1989)
+(quoting Boyd v. United States, 116 U.S.
+616, 626, 6 S.Ct. 524, 29 L.Ed. 746 (1886)).
+In that case, Lord Camden expressed in
+plain terms the significance of property
+rights in search-and-seizure analysis:
+
+“{O]ur law holds the property of every
+man so sacred, that no man can set his
+foot upon his neighbour’s close without
+his leave; if he does he is a trespasser,
+though he does no damage at all; if he
+will tread upon his neighbour’s ground,
+he must justify it by law.” Entick, su-
+pra, at 817.
+
+The text of the Fourth Amendment re-
+flects its close connection to property,
+since otherwise it would have referred sim-
+ply to “the right of the people to be secure
+against unreasonable searches and _ sei-
+zures”; the phrase “in their persons, hous-
+es, papers, and effects” would have been
+superfluous.
+
+Consistent with this understanding, our
+Fourth Amendment jurisprudence was
+tied to common-law trespass, at least until
+the latter half of the 20th century. Kyllo
+v. United States, 533 U.S. 27, 31, 121 S.Ct.
+2038, 150 L.Ed.2d 94 (2001); Kerr, The
+
+cle’s registration did not affect his ability to
+make a Fourth Amendment objection, ibid.,
+and the Government has not challenged that
+determination here. We therefore do not
+consider the Fourth Amendment significance
+of Jones’s status.
+950
+
+Fourth Amendment and New Technolo-
+gies: Constitutional Myths and the Case
+for Caution, 102 Mich. L.Rev. 801, 816
+(2004). Thus, in Olmstead v. United
+States, 277 U.S. 438, 48 S.Ct. 564, 72 L.Ed.
+944 (1928), we held that wiretaps attached
+to telephone wires on the public streets did
+not constitute a Fourth Amendment
+search because “[t]here was no entry of
+the houses or offices of the defendants,”
+id., at 464, 48 S.Ct. 564.
+
+Our later cases, of course, have deviated
+from that exclusively property-based ap-
+proach. In Katz v. United States, 389 U.S.
+347, 351, 88 S.Ct. 507, 19 L.Hd.2d 576
+(1967), we said that “the Fourth Amend-
+ment protects people, not places,” and
+found a violation in attachment of an
+eavesdropping device to a public telephone
+booth. Our later cases have applied the
+analysis of Justice Harlan’s concurrence in
+that case, which said that a violation oc-
+curs when government officers violate a
+person’s “reasonable expectation of priva-
+ey,” id. at 360, 88 S.Ct. 507. See, eg.
+Bond v. United States, 529 U.S. 334, 120
+S.Ct. 1462, 146 L.Ed.2d 365 (2000); Cali-
+fornia v. Ciraolo, 476 U.S. 207, 106 S.Ct.
+1809, 90 L.Ed.2d 210 (1986); Smith v.
+Maryland, 442 U.S. 735, 99 S.Ct. 2577, 61
+L.Ed.2d 220 (1979).
+
+3. Justice ALITO’s concurrence (hereinafter
+concurrence) doubts the wisdom of our ap-
+proach because “‘it is almost impossible to
+think of late-18th-century situations that are
+analogous to what took place in this case.”
+Post, at 958 (opinion concurring in judgment).
+But in fact it posits a situation that is not far
+afield—a constable’s concealing himself in the
+target’s coach in order to track its move-
+ments. Ibid. There is no doubt that the infor-
+mation gained by that trespassory activity
+would be the product of an unlawful search—
+whether that information consisted of the
+conversations occurring in the coach, or of
+the destinations to which the coach traveled.
+
+In any case, it is quite irrelevant whether
+there was an 18th-century analog. Whatever
+
+132 SUPREME COURT REPORTER
+
+[3,4] The Government contends that
+the Harlan standard shows that no search
+occurred here, since Jones had no “reason-
+able expectation of privacy” in the area of
+the Jeep accessed by Government agents
+(its underbody) and in the locations of the
+Jeep on the public roads, which were visi-
+ble to all. But we need not address the
+Government’s contentions, because Jones’s
+Fourth Amendment rights do not rise or
+fall with the Katz formulation. At bottom,
+we must “assur[e] preservation of that de-
+gree of privacy against government that
+existed when the Fourth Amendment was
+adopted.” Kyllo, supra, at 34, 121 S.Ct.
+2038. As explained, for most of our histo-
+ry the Fourth Amendment was understood
+to embody a particular concern for govern-
+ment trespass upon the areas (“persons,
+houses, papers, and effects”) it enumer-
+ates.’ Katz did not repudiate that under-
+standing. Less than two years later the
+Court upheld defendants’ contention that
+the Government could not introduce
+against them conversations between other
+people obtained by warrantless placement
+of electronic surveillance devices in their
+homes. The opinion rejected the dissent’s
+contention that there was no Fourth
+Amendment violation “unless the conversa-
+tional privacy of the homeowner himself is
+invaded.”* Alderman v. United States,
+
+new methods of investigation may be devised,
+our task, at a minimum, is to decide whether
+the action in question would have constituted
+a “search” within the original meaning of the
+Fourth Amendment. Where, as here, the
+Government obtains information by physical-
+ly intruding on a constitutionally protected
+area, such a search has undoubtedly oc-
+curred.
+
+4. Thus, the concurrence’s attempt to recast
+Alderman as meaning that individuals have a
+“legitimate expectation of privacy in all con-
+versations that [take] place under their roof,”
+post, at 960, is foreclosed by the Court’s opin-
+ion. The Court took as a given that the home-
+owner’s ‘‘conversational privacy” had not
+been violated.
+US. v. JONES
+
+951
+
+Cite as 132 S.Ct. 945 (2012)
+
+394 U.S. 165, 176, 89 S.Ct. 961, 22 L.Ed.2d
+176 (1969). “[W]e [do not] believe that
+Katz, by holding that the Fourth Amend-
+ment protects persons and their private
+conversations, was intended to withdraw
+any of the protection which the Amend-
+ment extends to the home....” Jd. at
+180, 89 S.Ct. 961.
+
+[5,6] More recently, in Soldal v. Cook
+County, 506 U.S. 56, 113 S.Ct. 538, 121
+L.Ed.2d 450 (1992), the Court unanimously
+rejected the argument that although a
+“seizure” had occurred “in a ‘technical’
+sense” when a trailer home was forcibly
+removed, id. at 62, 113 S.Ct. 538, no
+Fourth Amendment violation occurred be-
+cause law enforcement had not “invade[d]
+the [individuals’] privacy,” id. at 60, 113
+S.Ct. 588. Katz, the Court explained, es-
+tablished that “property rights are not the
+sole measure of Fourth Amendment viola-
+tions,” but did not “snuf[f] out the previ-
+ously recognized protection for property.”
+506 US., at 64, 113 S.Ct. 538. As Justice
+Brennan explained in his concurrence in
+Knotts, Katz did not erode the principle
+“that, when the Government does engage
+in physical intrusion of a constitutionally
+protected area in order to obtain informa-
+tion, that intrusion may constitute a viola-
+tion of the Fourth Amendment.” 460 U.S.,
+at 286, 103 S.Ct. 1081 (opinion concurring
+in judgment). We have embodied that
+
+5. The concurrence notes that post-Katz we
+have explained that ‘“‘‘an actual trespass is
+neither necessary nor sufficient to establish a
+constitutional violation.’ ’’ Post, at 960 (quot-
+ing United States v. Karo, 468 U.S. 705, 713,
+104 S.Ct. 3296, 82 L.Ed.2d 530 (1984)). That
+is undoubtedly true, and undoubtedly irrele-
+vant. Karo was considering whether a sei-
+zure occurred, and as the concurrence ex-
+plains, a seizure of property occurs, not when
+there is a trespass, but ‘when there is some
+meaningful interference with an individual’s
+possessory interests in that property.’’ Post,
+at 958 (internal quotation marks omitted).
+Likewise with a search. Trespass alone does
+
+preservation of past rights in our very
+definition of “reasonable expectation of pri-
+vacy” which we have said to be an expecta-
+tion “that has a source outside of the
+Fourth Amendment, either by reference to
+concepts of real or personal property law
+or to understandings that are recognized
+and permitted by society.” Minnesota v.
+Carter, 525 U.S. 83, 88, 119 S.Ct. 469, 142
+L.Ed.2d 3873 (1998) (internal quotation
+marks omitted). Katz did not narrow the
+Fourth Amendment’s scope.°
+
+The Government contends that several
+of our post-Katz cases foreclose the conclu-
+sion that what occurred here constituted a
+search. It relies principally on two cases
+in which we rejected Fourth Amendment
+challenges to “beepers,” electronic track-
+ing devices that represent another form of
+electronic monitoring. The first case,
+Knotts, upheld against Fourth Amendment
+challenge the use of a “beeper” that had
+been placed in a container of chloroform,
+allowing law enforcement to monitor the
+location of the container. 460 U.S., at 278,
+103 S.Ct. 1081. We said that there had
+been no infringement of Knotts’ reason-
+able expectation of privacy since the infor-
+mation obtained—the location of the auto-
+mobile carrying the container on public
+roads, and the location of the off-loaded
+container in open fields near Knotts’ cab-
+in—had been voluntarily conveyed to the
+
+not qualify, but there must be conjoined with
+that what was present here: an attempt to
+find something or to obtain information.
+
+Related to this, and similarly irrelevant, is
+the concurrence’s point that, if analyzed sepa-
+rately, neither the installation of the device
+nor its use would constitute a Fourth Amend-
+ment search. See ibid. Of course not. A
+trespass on “houses” or “effects,” or a Katz
+invasion of privacy, is not alone a search
+unless it is done to obtain information; and
+the obtaining of information is not alone a
+search unless it is achieved by such a trespass
+or invasion of privacy.
+952
+
+public.’ Jd. at 281-282, 103 S.Ct. 1081.
+But as we have discussed, the Katz reason-
+able-expectation-of-privacy test has been
+added to, not substituted for, the common-
+law trespassory test. The holding in
+Knotts addressed only the former, since
+the latter was not at issue. The beeper
+had been placed in the container before it
+came into Knotts’ possession, with the con-
+sent of the then-owner. 460 U.S., at 278,
+103 S.Ct. 1081. Knotts did not challenge
+that installation, and we specifically de-
+clined to consider its effect on the Fourth
+Amendment analysis. Jd., at 279, n. **,
+103 S.Ct. 1081 Knotts would be relevant,
+perhaps, if the Government were making
+the argument that what would otherwise
+be an unconstitutional search is not such
+where it produces only public information.
+The Government does not make that argu-
+ment, and we know of no case that would
+support it.
+
+The second “beeper” case, United States
+v. Karo, 468 U.S. 705, 104 S.Ct. 3296, 82
+L.Ed.2d 530 (1984), does not suggest a
+different conclusion. There we addressed
+the question left open by Knotts, whether
+the installation of a beeper in a container
+amounted to a search or seizure. 468
+US., at 713, 104 S.Ct. 3296. As in Knotts,
+at the time the beeper was installed the
+container belonged to a third party, and it
+did not come into possession of the defen-
+dant until later. 468 U.S., at 708, 104
+S.Ct. 3296. Thus, the specific question we
+considered was whether the installation
+“with the consent of the original owner
+constitute[d] a search or seizure ... when
+the container is delivered to a buyer hav-
+ing no knowledge of the presence of the
+beeper.” Jd., at 707, 104 S.Ct. 3296 (em-
+6. Knotts noted the “limited use which the
+government made of the signals from this
+particular beeper,” 460 U.S., at 284, 103 S.Ct.
+1081; and reserved the question whether
+“different constitutional principles may be ap-
+
+132 SUPREME COURT REPORTER
+
+phasis added). We held not. The Govern-
+ment, we said, came into physical contact
+with the container only before it belonged
+to the defendant Karo; and the transfer of
+the container with the unmonitored beeper
+inside did not convey any information and
+thus did not invade Karo’s privacy. See
+id., at 712, 104 S.Ct. 3296. That conclu-
+sion is perfectly consistent with the one we
+reach here. Karo accepted the container
+as it came to him, beeper and all, and was
+therefore not entitled to object to the
+beeper’s presence, even though it was used
+to monitor the container’s location. Cf. On
+Lee v. United States, 343 U.S. 747, 751-
+752, 72 S.Ct. 967, 96 L.Ed. 1270 (1952) (no
+search or seizure where an informant, who
+was wearing a concealed microphone, was
+invited into the defendant’s business).
+Jones, who possessed the Jeep at the time
+the Government trespassorily inserted the
+information-gathering device, is on much
+different footing.
+
+The Government also points to our expo-
+sition in New York v. Class, 475 U.S. 106,
+106 S.Ct. 960, 89 L.Ed.2d 81 (1986), that
+“Tt]he exterior of a car ... is thrust into
+the public eye, and thus to examine it does
+not constitute a ‘search.’” Jd., at 114, 106
+S.Ct. 960. That statement is of marginal
+relevance here since, as the Government
+acknowledges, “the officers in this case did
+more than conduct a visual inspection of
+respondent’s vehicle,” Brief for United
+States 41 (emphasis added). By attaching
+the device to the Jeep, officers encroached
+on a protected area. In Class itself we
+suggested that this would make a differ-
+ence, for we concluded that an officer’s
+momentary reaching into the interior of a
+vehicle did constitute a search.’ 475 U.S.,
+at 114-115, 106 S.Ct. 960.
+
+plicable” to ‘‘dragnet-type law enforcement
+practices”’ of the type that GPS tracking made
+possible here, ibid.
+
+7. The Government also points to Cardwell v.
+Lewis, 417 U.S. 583, 94 S.Ct. 2464, 41
+US. v. JONES
+
+953
+
+Cite as 132 S.Ct. 945 (2012)
+
+[7] Finally, the Government’s position
+gains little support from our conclusion in
+Oliver v. United States, 466 U.S. 170, 104
+S.Ct. 1735, 80 L.Ed.2d 214 (1984), that
+officers’ information-gathering intrusion on
+an “open field” did not constitute a Fourth
+Amendment search even though it was a
+trespass at common law, id., at 183, 104
+S.Ct. 1735. Quite simply, an open field,
+unlike the curtilage of a home, see United
+States v. Dunn, 480 U.S. 294, 300, 107
+S.Ct. 1134, 94 L.Ed.2d 326 (1987), is not
+one of those protected areas enumerated
+in the Fourth Amendment. Oliver, supra,
+at 176-177, 104 S.Ct. 1735. See also Hes-
+ter v. United States, 265 U.S. 57, 59, 44
+S.Ct. 445, 68 L.Ed. 898 (1924). The Gov-
+ernment’s physical intrusion on such an
+area—unlike its intrusion on the “effect” at
+issue here—is of no Fourth Amendment
+significance.’
+
+B
+
+[8] The concurrence begins by accus-
+ing us of applying “18th-century tort law.”
+Post, at 957. That is a distortion. What we
+apply is an 18th-century guarantee against
+unreasonable searches, which we believe
+must provide at a minimum the degree of
+protection it afforded when it was adopted.
+The concurrence does not share that belief.
+It would apply exclusively Katz’s reason-
+able-expectation-of-privacy test, even when
+
+L.Ed.2d 325 (1974), in which the Court reject-
+ed the claim that the inspection of an im-
+pounded vehicle’s tire tread and the collection
+of paint scrapings from its exterior violated
+the Fourth Amendment. Whether the plurali-
+ty said so because no search occurred or
+because the search was reasonable is unclear.
+Compare id., at 591, 94 S.Ct. 2464 (opinion of
+Blackmun, J.) (‘“[Wle fail to comprehend
+what expectation of privacy was infringed”),
+with id., at 592, 94 S.Ct. 2464 (“Under cir-
+cumstances such as these, where probable
+cause exists, a warrantless examination of the
+exterior of a car is not unreasonable ...”).
+
+that eliminates rights that previously exist-
+ed.
+
+The concurrence faults our approach for
+“present[ing] particularly vexing prob-
+lems” in cases that do not involve physical
+contact, such as those that involve the
+transmission of electronic signals. Post, at
+962. We entirely fail to understand that
+point. For unlike the concurrence, which
+would make Katz the exclusive test, we do
+not make trespass the exclusive test. Sit-
+uations involving merely the transmission
+of electronic signals without trespass
+would remain subject to Katz analysis.
+
+In fact, it is the concurrence’s insistence
+on the exclusivity of the Katz test that
+needlessly leads us into “particularly vex-
+ing problems” in the present case. This
+Court has to date not deviated from the
+understanding that mere visual observa-
+tion does not constitute a search. See
+Kyllo, 5383 U.S., at 31-32, 121 S.Ct. 2038.
+We accordingly held in Knotts that “[a]
+person traveling in an automobile on public
+thoroughfares has no reasonable expecta-
+tion of privacy in his movements from one
+place to another.” 460 U.S., at 281, 103
+S.Ct. 1081. Thus, even assuming that the
+concurrence is correct to say that “[t]radi-
+tional surveillance” of Jones for a 4-week
+period “would have required a large team
+of agents, multiple vehicles, and perhaps
+aerial assistance,” post, at 963, our cases
+suggest that such visual observation is con-
+
+8. Thus, our theory is not that the Fourth
+Amendment is concerned with “any technical
+trespass that led to the gathering of evi-
+
+Post, at 958 (ALITO, J., concurring
+
+in judgment) (emphasis added). The Fourth
+
+Amendment protects against trespassory
+
+searches only with regard to those items
+
+(persons, houses, papers, and effects’’) that it
+
+enumerates. The trespass that occurred in
+
+Oliver may properly be understood as a
+
+“search,” but not one “in the constitutional
+
+466 U.S., at 170, 183, 104 S.Ct.
+
+dence.”
+
+sense.”
+
+1735.
+954
+
+stitutionally permissible. It may be that
+achieving the same result through elec-
+tronic means, without an accompanying
+trespass, is an unconstitutional invasion of
+privacy, but the present case does not
+require us to answer that question.
+
+And answering it affirmatively leads us
+needlessly into additional thorny problems.
+The concurrence posits that “relatively
+short-term monitoring of a person’s move-
+ments on public streets” is okay, but that
+“the use of longer term GPS monitoring in
+investigations of most offenses ” is no good.
+Post, at 964 (emphasis added). That intro-
+duces yet another novelty into our juris-
+prudence. There is no precedent for the
+proposition that whether a search has oc-
+curred depends on the nature of the crime
+being investigated. And even accepting
+that novelty, it remains unexplained why a
+4-week investigation is “surely” too long
+and why a drug-trafficking conspiracy in-
+volving substantial amounts of cash and
+narcotics is not an “extraordinary of-
+fens[e]” which may permit longer observa-
+tion. See post, at 964. What of a 2-day
+monitoring of a suspected purveyor of sto-
+Jen electronics? Or of a 6-month monitor-
+ing of a suspected terrorist? We may
+have to grapple with these “vexing prob-
+lems” in some future case where a classic
+trespassory search is not involved and re-
+sort must be had to Katz analysis; but
+there is no reason for rushing forward to
+resolve them here.
+
+Il
+
+[9] The Government argues in the al-
+ternative that even if the attachment and
+use of the device was a search, it was
+reasonable—and thus lawful—under the
+Fourth Amendment because “officers had
+reasonable suspicion, and indeed probable
+cause, to believe that [Jones] was a leader
+in a large-scale cocaine distribution con-
+spiracy.” Brief for United States 50-51.
+
+132 SUPREME COURT REPORTER
+
+We have no occasion to consider this argu-
+ment. The Government did not raise it
+below, and the D.C. Circuit therefore did
+not address it. See 625 F.3d, at 767 (Gins-
+burg, Tatel, and Griffith, JJ., concurring in
+denial of rehearing en banc). We consider
+the argument forfeited. See Sprietsma v.
+Mercury Marine, 537 U.S. 51, 56, n. 4, 123
+S.Ct. 518, 154 L.Ed.2d 466 (2002).
+
+* * *
+
+The judgment of the Court of Appeals
+for the D.C. Circuit is affirmed.
+
+It is so ordered.
+
+Justice SOTOMAYOR, concurring.
+
+I join the Court’s opinion because I
+agree that a search within the meaning of
+the Fourth Amendment occurs, at a mini-
+mum, “[w]here, as here, the Government
+obtains information by physically intruding
+on a constitutionally protected area.”
+Ante, at 950, n. 8. In this case, the Govern-
+ment installed a Global Positioning System
+(GPS) tracking device on respondent An-
+toine Jones’ Jeep without a valid warrant
+and without Jones’ consent, then used that
+device to monitor the Jeep’s movements
+over the course of four weeks. The Gov-
+ernment usurped Jones’ property for the
+purpose of conducting surveillance on him,
+thereby invading privacy interests long af-
+forded, and undoubtedly entitled to,
+Fourth Amendment protection. See, e.9.,
+Silverman v. United States, 365 U.S. 505,
+511-512, 81 S.Ct. 679, 5 L.Ed.2d 734
+(1961).
+
+Of course, the Fourth Amendment is
+not concerned only with trespassory intru-
+sions on property. See, eg, Kyllo v.
+United States, 533 U.S. 27, 31-33, 121
+S.Ct. 2038, 150 L.Ed.2d 94 (2001). Rath-
+er, even in the absence of a trespass, “a
+Fourth Amendment search occurs when
+the government violates a subjective ex-
+pectation of privacy that society recog-
+US. v. JONES
+
+955
+
+Cite as 132 S.Ct. 945 (2012)
+
+nizes as reasonable.” Jd., at 33, 121 S.Ct.
+2038; see also Smith v. Maryland, 442
+US. 735, 740-741, 99 S.Ct. 2577, 61
+L.Ed.2d 220 (1979); Katz v. United States,
+389 U.S. 347, 361, 88 S.Ct. 507, 19 L.Ed.2d
+576 (1967) (Harlan, J., concurring). In
+Katz, this Court enlarged its then-prevail-
+ing focus on property rights by announc-
+ing that the reach of the Fourth Amend-
+ment does not “turn upon the presence or
+absence of a physical intrusion.” Jd., at
+353, 88 S.Ct. 507. As the majority’s opin-
+ion makes clear, however, Katz’s reason-
+able-expectation-of-privacy test augment-
+ed, but did not displace or diminish, the
+common-law trespassory test that preced-
+ed it. Ante, at 951. Thus, “when the Gov-
+ernment does engage in physical intrusion
+of a constitutionally protected area in or-
+der to obtain information, that intrusion
+may constitute a violation of the Fourth
+Amendment.” United States v. Knotts,
+460 U.S. 276, 286, 103 S.Ct. 1081, 75
+L.Ed.2d 55 (1983) (Brennan, J., concurring
+in judgment); see also, e.g. Rakas v. Illi-
+nois, 439 U.S. 128, 144, n. 12, 99 S.Ct. 421,
+58 L.Ed.2d 387 (1978). Justice ALITO’s
+approach, which discounts altogether the
+constitutional relevance of the Govern-
+ment’s physical intrusion on Jones’ Jeep,
+erodes that longstanding protection for
+privacy expectations inherent in items of
+property that people possess or control.
+See post, at 959-961 (opinion concurring
+in judgment). By contrast, the trespasso-
+ry test applied in the majority’s opinion
+reflects an irreducible constitutional mini-
+mum: When the Government physically
+invades personal property to gather infor-
+mation, a search occurs. The reaffirma-
+tion of that principle suffices to decide this
+case.
+
+Nonetheless, as Justice ALITO notes,
+physical intrusion is now unnecessary to
+many forms of surveillance. Post, at 961-
+963. With increasing regularity, the Gov-
+ernment will be capable of duplicating the
+
+monitoring undertaken in this case by en-
+listing factory- or owner-installed vehicle
+tracking devices or GPS-enabled smart-
+phones. See United States v. Pineda-
+Moreno, 617 F.3d 1120, 1125 (C.A.9 2010)
+(Kozinski, C.J., dissenting from denial of
+rehearing en banc). In cases of electronic
+or other novel modes of surveillance that
+do not depend upon a physical invasion on
+property, the majority opinion’s trespasso-
+ry test may provide little guidance. But
+“{sjituations involving merely the trans-
+mission of electronic signals without tres-
+pass would remain subject to Katz analy-
+Ante, at 953. As Justice ALITO
+incisively observes, the same technological
+advances that have made possible nontres-
+passory surveillance techniques will also
+affect the Katz test by shaping the evolu-
+tion of societal privacy expectations. Post,
+at 962-963. Under that rubric, I agree
+with Justice ALITO that, at the very least,
+“longer term GPS monitoring in investiga-
+tions of most offenses impinges on expec-
+tations of privacy.” Post, at 964.
+
+sis.”
+
+In cases involving even short-term moni-
+toring, some unique attributes of GPS sur-
+veillance relevant to the Katz analysis will
+require particular attention. GPS moni-
+toring generates a precise, comprehensive
+record of a person’s public movements that
+reflects a wealth of detail about her famil-
+ial, political, professional, religious, and
+sexual associations. See, eg., People v.
+Weaver, 12 N.Y.3d 433, 441-442, 882
+N.Y.S.2d 357, 909 N.E.2d 1195, 1199 (2009)
+(“Disclosed in [GPS] data ... will be trips
+the indisputably private nature of which
+takes little imagination to conjure: trips to
+the psychiatrist, the plastic surgeon, the
+abortion clinic, the AIDS treatment center,
+the strip club, the criminal defense attor-
+ney, the by-the-hour motel, the union
+meeting, the mosque, synagogue or
+church, the gay bar and on and on”). The
+956
+
+Government can store such records and
+efficiently mine them for information years
+into the future. Pineda—Moreno, 617
+F.3d, at 1124 (opinion of Kozinski, C.J.).
+And because GPS monitoring is cheap in
+comparison to conventional surveillance
+techniques and, by design, proceeds sur-
+reptitiously, it evades the ordinary checks
+that constrain abusive law enforcement
+practices: “limited police resources and
+community hostility.” Illinois v. Lidster,
+540 U.S. 419, 426, 124 S.Ct. 885, 157
+L.Ed.2d 843 (2004).
+
+Awareness that the Government may be
+watching chills associational and expres-
+sive freedoms. And the Government’s un-
+restrained power to assemble data that
+reveal private aspects of identity is suscep-
+tible to abuse. The net result is that GPS
+monitoring—by making available at a rela-
+tively low cost such a substantial quantum
+of intimate information about any person
+whom the Government, in its unfettered
+discretion, chooses to track—may “alter
+the relationship between citizen and gov-
+ernment in a way that is inimical to demo-
+cratic society.” United States v. Cuevas—
+Perez, 640 F.3d 272, 285 (C.A.7 2011)
+(Flaum, J., concurring).
+
+* United States v. Knotts, 460 U.S. 276, 103 S.Ct.
+1081, 75 L.Ed.2d 55 (1983), does not fore-
+close the conclusion that GPS monitoring, in
+the absence of a physical intrusion, is a
+Fourth Amendment search. As the majority's
+opinion notes, Knotts reserved the question
+whether “ ‘different constitutional principles
+may be applicable’ to invasive law enforce-
+ment practices such as GPS tracking. See
+ante, at 952, n. 6 (quoting 460 U.S., at 284,
+103 S.Ct. 1081).
+
+United States v. Karo, 468 U.S. 705, 104
+S.Ct. 3296, 82 L.Ed.2d 530 (1984), addressed
+the Fourth Amendment implications of the
+installation of a beeper in a container with the
+consent of the container’s original owner,
+who was aware that the beeper would be used
+for surveillance purposes. Id., at 707, 104
+S.Ct. 3296. Owners of GPS-equipped cars
+
+132 SUPREME COURT REPORTER
+
+I would take these attributes of GPS
+monitoring into account when considering
+the existence of a reasonable societal ex-
+pectation of privacy in the sum of one’s
+public movements. I would ask whether
+people reasonably expect that their move-
+ments will be recorded and aggregated in
+a manner that enables the Government to
+ascertain, more or less at will, their politi-
+cal and religious beliefs, sexual habits, and
+so on. I do not regard as dispositive the
+fact that the Government might obtain the
+fruits of GPS monitoring through lawful
+conventional surveillance techniques. See
+Kyllo, 533 US., at 35, n. 2, 121 S.Ct. 2038;
+ante, at 954 (leaving open the possibility
+that duplicating traditional surveillance
+“through electronic means, without an ac-
+companying trespass, is an unconstitution-
+al invasion of privacy”). I would also con-
+sider the appropriateness of entrusting to
+the Executive, in the absence of any over-
+sight from a coordinate branch, a tool so
+amenable to misuse, especially in light of
+the Fourth Amendment’s goal to curb ar-
+bitrary exercises of police power to and
+prevent “a too permeating police surveil-
+lance,” United States v. Di Re, 332 US.
+581, 595, 68 S.Ct. 222, 92 L.Ed. 210
+(1948).*
+
+and smartphones do not contemplate that
+these devices will be used to enable covert
+surveillance of their movements. To the con-
+trary, subscribers of one such service greeted
+a similar suggestion with anger. Quain,
+Changes to OnStar’s Privacy Terms Rile
+Some Users, N.Y. Times (Sept. 22, 2011),
+online at — http://wheels.blogs.nytimes.com/
+2011/09/22/changes-to-onstars-privacy-terms-
+rile-some-users (as visited Jan. 19, 2012, and
+available in Clerk of Court’s case file). In
+addition, the bugged container in Karo lacked
+the close relationship with the target that a
+car shares with its owner. The bugged con-
+tainer in Karo was stationary for much of the
+Government’s surveillance. See 468 U.S., at
+708-710, 104 S.Ct. 3296. A car’s movements,
+by contrast, are its owner’s movements.
+US. v. JONES
+
+957
+
+Cite as 132 S.Ct. 945 (2012)
+
+More fundamentally, it may be neces-
+sary to reconsider the premise that an
+individual has no reasonable expectation of
+privacy in information voluntarily disclosed
+to third parties. E.g. Smith, 442 U.S., at
+742, 99 S.Ct. 2577; United States v. Mil-
+ler, 425 U.S. 435, 443, 96 S.Ct. 1619, 48
+L.Ed.2d 71 (1976). This approach is ill
+suited to the digital age, in which people
+reveal a great deal of information about
+themselves to third parties in the course of
+carrying out mundane tasks. People dis-
+close the phone numbers that they dial or
+text to their cellular providers; the URLs
+that they visit and the e-mail addresses
+with which they correspond to their Inter-
+net service providers; and the books, gro-
+ceries, and medications they purchase to
+online retailers. Perhaps, as Justice ALI-
+TO notes, some people may find the
+“tradeoff” of privacy for convenience
+“worthwhile,” or come to accept this “dimi-
+nution of privacy” as “inevitable,” post, at
+962, and perhaps not. I for one doubt that
+people would accept without complaint the
+warrantless disclosure to the Government
+of a list of every Web site they had visited
+in the last week, or month, or year. But
+whatever the societal expectations, they
+can attain constitutionally protected status
+only if our Fourth Amendment jurispru-
+dence ceases to treat secrecy as a prereq-
+uisite for privacy. I would not assume
+that all information voluntarily disclosed to
+some member of the public for a limited
+purpose is, for that reason alone, disen-
+titled to Fourth Amendment protection.
+See Smith, 442 US., at 749, 99 S.Ct. 2577
+(Marshall, J., dissenting) (“Privacy is not a
+
+1. Although the record does not reveal the size
+or weight of the device used in this case, there
+is now a device in use that weighs two ounces
+and is the size of a credit card. Tr. of Oral
+Arg. 27.
+
+2. At common law, a suit for trespass to chat-
+tels could be maintained if there was a viola-
+tion of “the dignitary interest in the inviolabil-
+
+discrete commodity, possessed absolutely
+or not at all. Those who disclose certain
+facts to a bank or phone company for a
+limited business purpose need not assume
+that this information will be released to
+other persons for other purposes”); see
+also Katz, 389 U.S., at 351-852, 88 S.Ct.
+507 (“[W]hat [a person] seeks to preserve
+as private, even in an area accessible to
+the public, may be constitutionally protect-
+ed”).
+
+Resolution of these difficult questions in
+this case is unnecessary, however, because
+the Government’s physical intrusion on
+Jones’ Jeep supplies a narrower basis for
+decision. I therefore join the majority’s
+opinion.
+
+Justice ALITO, with whom Justice
+GINSBURG, Justice BREYER, and
+Justice KAGAN join, concurring in the
+judgment.
+
+This case requires us to apply the
+Fourth Amendment’s prohibition of unrea-
+sonable searches and seizures to a 21st-
+century surveillance technique, the use of
+a Global Positioning System (GPS) device
+to monitor a vehicle’s movements for an
+extended period of time. Ironically, the
+Court has chosen to decide this case based
+on 18th-century tort law. By attaching a
+small GPS device! to the underside of the
+vehicle that respondent drove, the law en-
+forcement officers in this case engaged in
+conduct that might have provided grounds
+in 1791 for a suit for trespass to chattels.
+And for this reason, the Court concludes,
+
+ity of chattels,” but today there must be
+“some actual damage to the chattel before the
+action can be maintained.” W. Keeton, D.
+Dobbs, R. Keeton, & D. Owen, Prosser &
+Keeton on Law of Torts 87 (5th ed.1984)
+(hereinafter Prosser & Keeton). Here, there
+was no actual damage to the vehicle to which
+the GPS device was attached.
+958
+
+the installation and use of the GPS device
+constituted a search. Ante, at 948-949.
+
+This holding, in my judgment, is unwise.
+It strains the language of the Fourth
+Amendment; it has little if any support in
+current Fourth Amendment case law; and
+it is highly artificial.
+
+I would analyze the question presented
+in this case by asking whether respon-
+dent’s reasonable expectations of privacy
+were violated by the long-term monitoring
+of the movements of the vehicle he drove.
+
+I
+
+A
+
+The Fourth Amendment prohibits “un-
+reasonable searches and seizures,” and the
+Court makes very little effort to explain
+how the attachment or use of the GPS
+device fits within these terms. The Court
+does not contend that there was a seizure.
+A seizure of property occurs when there is
+“some meaningful interference with an in-
+dividual’s possessory interests in that
+property,” United States v. Jacobsen, 466
+US. 109, 113, 104 S.Ct. 1652, 80 L.Ed.2d
+85 (1984), and here there was none. In-
+deed, the success of the surveillance tech-
+nique that the officers employed was de-
+pendent on the fact that the GPS did not
+interfere in any way with the operation of
+the vehicle, for if any such interference
+had been detected, the device might have
+been discovered.
+
+The Court does claim that the installa-
+tion and use of the GPS constituted a
+search, see ante, at 948-949, but this
+conclusion is dependent on the questiona-
+ble proposition that these two procedures
+cannot be separated for purposes of
+Fourth Amendment analysis. If these two
+procedures are analyzed separately, it is
+
+3. The Court suggests that something like this
+might have occurred in 1791, but this would
+have required either a gigantic coach, a very
+
+132 SUPREME COURT REPORTER
+
+not at all clear from the Court’s opinion
+why either should be regarded as a search.
+It is clear that the attachment of the GPS
+device was not itself a search; if the device
+had not functioned or if the officers had
+not used it, no information would have
+been obtained. And the Court does not
+contend that the use of the device consti-
+tuted a search either. On the contrary,
+the Court accepts the holding in United
+States v. Knotts, 460 U.S. 276, 103 S.Ct.
+1081, 75 L.Ed.2d 55 (1983), that the use of
+a surreptitiously planted electronic device
+to monitor a vehicle’s movements on public
+roads did not amount to a search. See
+ante, at 951.
+
+The Court argues—and I agree—that
+“Wwe must ‘assur[e] preservation of that
+degree of privacy against government that
+existed when the Fourth Amendment was
+adopted.’” Ante, at 950 (quoting Kyllo v.
+United States, 533 U.S. 27, 34, 121 S.Ct.
+2038, 150 L.Ed.2d 94 (2001)). But it is
+almost impossible to think of late-18th-
+century situations that are analogous to
+what took place in this case. (Is it possi-
+ble to imagine a case in which a constable
+secreted himself somewhere in a coach and
+remained there for a period of time in
+order to monitor the movements of the
+coach’s owner?*) The Court’s theory
+seems to be that the concept of a search,
+as originally understood, comprehended
+any technical trespass that led to the gath-
+ering of evidence, but we know that this is
+incorrect. At common law, any unautho-
+rized intrusion on private property was
+actionable, see Prosser & Keeton 75, but a
+trespass on open fields, as opposed to the
+“curtilage” of a home, does not fall within
+the scope of the Fourth Amendment be-
+cause private property outside the curti-
+
+tiny constable, or both—not to mention a con-
+stable with incredible fortitude and patience.
+US. v. JONES
+
+959
+
+Cite as 132 S.Ct. 945 (2012)
+
+lage is not part of a “hous[e]” within the
+meaning of the Fourth Amendment. See
+Oliver v. United States, 466 U.S. 170, 104
+S.Ct. 1735, 80 L.Ed.2d 214 (1984); Hester
+v. United States, 265 U.S. 57, 44 S.Ct. 445,
+68 L.Ed. 898 (1924).
+
+B
+
+The Court’s reasoning in this case is
+very similar to that in the Court’s early
+decisions involving wiretapping and elec-
+tronic eavesdropping, namely, that a tech-
+nical trespass followed by the gathering of
+evidence constitutes a search. In the ear-
+ly electronic surveillance cases, the Court
+concluded that a Fourth Amendment
+search occurred when private conversa-
+tions were monitored as a result of an
+“unauthorized physical penetration into
+the premises occupied” by the defendant.
+Silverman v. United States, 365 U.S. 505,
+509, 81 S.Ct. 679, 5 L.Ed.2d 734 (1961). In
+Silverman, police officers listened to con-
+versations in an attached home by insert-
+ing a “spike mike” through the wall that
+this house shared with the vacant house
+next door. Id., at 506, 81 S.Ct. 679. This
+procedure was held to be a search because
+the mike made contact with a heating duct
+on the other side of the wall and thus
+“usurp[ed] an integral part of the
+premises.” Jd., at 511, 81 S.Ct. 679.
+
+By contrast, in cases in which there was
+no trespass, it was held that there was no
+search. Thus, in Olmstead v. United
+States, 277 U.S. 488, 48 S.Ct. 564, 72 L.Ed.
+944 (1928), the Court found that the
+Fourth Amendment did not apply because
+“t]he taps from house lines were made in
+the streets near the houses.” Jd., at 457,
+48 S.Ct. 564. Similarly, the Court conclud-
+ed that no search occurred in Goldman v.
+United States, 316 U.S. 129, 135, 62 S.Ct.
+993, 86 L.Ed. 1322 (1942), where a “detec-
+taphone” was placed on the outer wall of
+defendant’s office for the purpose of over-
+
+hearing conversations held within the
+room.
+
+This trespass-based rule was repeatedly
+criticized. In Olmstead, Justice Brandeis
+wrote that it was “immaterial where the
+physical connection with the telephone
+wires was made.” 277 U.S., at 479, 48
+S.Ct. 564 (dissenting opinion). Although a
+private conversation transmitted by wire
+did not fall within the literal words of the
+Fourth Amendment, he argued, the
+Amendment should be understood as pro-
+hibiting “every unjustifiable intrusion by
+the government upon the privacy of the
+individual.” Jd., at 478, 48 S.Ct. 564. See
+also, e.g. Silverman, supra, at 513, 81
+S.Ct. 679 (Douglas, J., concurring) (“The
+concept of ‘an unauthorized physical pen-
+etration into the premises,’ on which the
+present decision rests seems to me beside
+the point. Was not the wrong ... done
+when the intimacies of the home were
+tapped, recorded, or revealed? The depth
+of the penetration of the electronic de-
+vice—even the degree of its remoteness
+from the inside of the house—is not the
+measure of the injury”); Goldman, supra,
+at 139, 62 S.Ct. 993 (Murphy, J., dissent-
+ing) (“[T]Jhe search of one’s home or office
+no longer requires physical entry, for sci-
+ence has brought forth far more effective
+devices for the invasion of a person’s priva-
+cy than the direct and obvious methods of
+oppression which were detested by our
+forebears and which inspired the Fourth
+Amendment”).
+
+Katz v. United States, 389 U.S. 347, 88
+S.Ct. 507, 19 L.Ed.2d 576 (1967), finally
+did away with the old approach, holding
+that a trespass was not required for a
+Fourth Amendment violation. Katz in-
+volved the use of a listening device that
+was attached to the outside of a public
+telephone booth and that allowed police
+officers to eavesdrop on one end of the
+target’s phone conversation. This proce-
+960
+
+dure did not physically intrude on the area
+occupied by the target, but the Katz Court,
+“repudiate[ed]” the old doctrine, Rakas v.
+Illinois, 439 U.S. 128, 143, 99 S.Ct. 421, 58
+L.Ed.2d 387 (1978), and held that “[t]he
+fact that the electronic device employed
+... did not happen to penetrate the wall of
+the booth can have no constitutional signif-
+icance,” 389 U.S., at 353, 88 S.Ct. 507
+(“T]he reach of th{e] [Fourth] Amend-
+ment cannot turn upon the presence or
+absence of a physical intrusion into any
+given enclosure”); see Rakas, supra, at
+148, 99 S.Ct. 421 (describing Katz as hold-
+ing that the “capacity to claim the protec-
+tion for the Fourth Amendment depends
+not upon a property right in the invaded
+place but upon whether the person who
+claims the protection of the Amendment
+has a legitimate expectation of privacy in
+the invaded place”); Kyllo, supra, at 32,
+121 S.Ct. 2038 (“We have since decoupled
+violation of a person’s Fourth Amendment
+rights from trespassory violation of his
+property”). What mattered, the Court
+now held, was whether the conduct at is-
+sue “violated the privacy upon which [the
+defendant] justifiably relied while using
+the telephone booth.” Katz, supra, at 353,
+88 S.Ct. 507.
+
+Under this approach, as the Court later
+put it when addressing the relevance of a
+technical trespass, “an actual trespass is
+neither necessary nor sufficient to estab-
+lish a constitutional violation.” United
+States v. Karo, 468 U.S. 705, 713, 104 S.Ct.
+3296, 82 L.Ed.2d 530 (1984) (emphasis add-
+ed). Ibid. (“Compar[ing] Katz v. United
+States, 389 U.S. 347 [88 S.Ct. 507, 19
+L.Ed.2d 576] (1967) (no trespass, but
+Fourth Amendment violation), with Oliver
+v. United States, 466 U.S. 170 [104 S.Ct.
+1735, 80 L.Ed.2d 214] (1984) (trespass, but
+no Fourth Amendment violation)”). In Ol-
+wer, the Court wrote:
+
+“The existence of a property right is but
+
+one element in determining whether ex-
+
+132 SUPREME COURT REPORTER
+
+pectations of privacy are legitimate.
+‘The premise that property interests
+control the right of the Government to
+search and seize has been discredited.’
+Katz, 389 U.S., at 353 [88 S.Ct. 507],
+(quoting Warden v. Hayden, 387 US.
+294, 304 [87 S.Ct. 1642, 18 L.Ed.2d 782]
+(1967); some internal quotation marks
+omitted).” 466 U.S., at 183, 104 S.Ct.
+1735.
+
+I
+
+The majority suggests that two post-
+Katz decisions—Soldal v. Cook County,
+506 U.S. 56, 113 S.Ct. 538, 121 L.Ed.2d 450
+(1992), and Alderman v. United States, 394
+US. 165, 89 S.Ct. 961, 22 L.Ed.2d 176
+(1969)—show that a technical trespass is
+sufficient to establish the existence of a
+search, but they provide little support.
+
+In Soldal, the Court held that towing
+away a trailer home without the owner’s
+consent constituted a seizure even if this
+did not invade the occupants’ personal pri-
+vacy. But in the present case, the Court
+does not find that there was a seizure, and
+it is clear that none occurred.
+
+In Alderman, the Court held that the
+Fourth Amendment rights of homeowners
+were implicated by the use of a surrepti-
+tiously planted listening device to monitor
+third-party conversations that occurred
+within their home. See 394 US., at 176-
+180, 89 S.Ct. 961. Alderman is best un-
+derstood to mean that the homeowners
+had a legitimate expectation of privacy in
+all conversations that took place under
+their roof. See Rakas, 439 U.S., at 144, n.
+12, 99 S.Ct. 421 (citing Alderman for the
+proposition that “the Court has not alto-
+gether abandoned use of property concepts
+in determining the presence or absence of
+the privacy interests protected by that
+Amendment”); 439 U.S., at 153, 99 S.Ct.
+421 (Powell, J., concurring) (citing Alder-
+US. v. JONES
+
+961
+
+Cite as 132 S.Ct. 945 (2012)
+
+man for the proposition that “property
+rights reflect society’s explicit recognition
+of a person’s authority to act as he wishes
+in certain areas, and therefore should be
+considered in determining whether an indi-
+vidual’s expectations of privacy are reason-
+able”); Karo, supra, at 732, 104 S.Ct. 3296
+(Stevens, J., concurring in part and dis-
+senting in part) (citing Alderman in sup-
+port of the proposition that “a homeowner
+has a reasonable expectation of privacy in
+the contents of his home, including items
+owned by others”).
+
+In sum, the majority is hard pressed to
+find support in post-Katz cases for its tres-
+pass-based theory.
+
+Il
+
+Disharmony with a substantial body of
+existing case law is only one of the prob-
+lems with the Court’s approach in this
+case.
+
+I will briefly note four others. First,
+the Court’s reasoning largely disregards
+what is really important (the use of a GPS
+for the purpose of long-term tracking) and
+instead attaches great significance to
+something that most would view as rela-
+tively minor (attaching to the bottom of a
+car a small, light object that does not
+interfere in any way with the car’s opera-
+tion). Attaching such an object is general-
+ly regarded as so trivial that it does not
+provide a basis for recovery under modern
+tort law. See Prosser & Keeton § 14, at
+87 (harmless or trivial contact with person-
+al property not actionable); D. Dobbs,
+Law of Torts 124 (2000) (same). But un-
+der the Court’s reasoning, this conduct
+may violate the Fourth Amendment. By
+contrast, if long-term monitoring can be
+accomplished without committing a techni-
+cal trespass—suppose, for example, that
+
+4. See, e.g., Cal. Family Code Ann. § 760 (West
+2004).
+
+the Federal Government required or per-
+suaded auto manufacturers to include a
+GPS tracking device in every car—the
+Court’s theory would provide no protec-
+tion.
+
+Second, the Court’s approach leads to
+incongruous results. If the police attach a
+GPS device to a car and use the device to
+follow the car for even a brief time, under
+the Court’s theory, the Fourth Amend-
+ment applies. But if the police follow the
+same car for a much longer period using
+unmarked cars and aerial assistance, this
+tracking is not subject to any Fourth
+Amendment constraints.
+
+In the present case, the Fourth Amend-
+ment applies, the Court concludes, because
+the officers installed the GPS device after
+respondent’s wife, to whom the car was
+registered, turned it over to respondent
+for his exclusive use. See ante, at 951.
+But if the GPS had been attached prior to
+that time, the Court’s theory would lead to
+a different result. The Court proceeds on
+the assumption that respondent “had at
+least the property rights of a bailee,” ante,
+at 949, n. 2, but a bailee may sue for a
+trespass to chattel only if the injury occurs
+during the term of the bailment. See 8A
+Am.Jur.2d, Bailment § 166, pp. 685-686
+(2009). So if the GPS device had been
+installed before respondent’s wife gave
+him the keys, respondent would have no
+claim for trespass—and, presumably, no
+Fourth Amendment claim either.
+
+Third, under the Court’s theory, the cov-
+erage of the Fourth Amendment may vary
+from State to State. If the events at issue
+here had occurred in a community proper-
+ty State‘ or a State that has adopted the
+Uniform Marital Property Act,> respon-
+dent would likely be an owner of the vehi-
+cle, and it would not matter whether the
+
+5. See Uniform Marital Property Act § 4, 9A
+U.L.A. 116 (1998).
+962
+
+GPS was installed before or after his wife
+turned over the keys. In non-community-
+property States, on the other hand, the
+registration of the vehicle in the name of
+respondent’s wife would generally be re-
+garded as presumptive evidence that she
+was the sole owner. See 60 C.J. S., Motor
+Vehicles § 231, pp. 398-399 (2002); 8 Am.
+Jur.2d, Automobiles § 1208, pp. 859-860
+(2007).
+
+Fourth, the Court’s reliance on the law
+of trespass will present particularly vexing
+problems in cases involving surveillance
+that is carried out by making electronic, as
+opposed to physical, contact with the item
+to be tracked. For example, suppose that
+the officers in the present case had fol-
+lowed respondent by surreptitiously acti-
+vating a stolen vehicle detection system
+that came with the car when it was pur-
+chased. Would the sending of a radio
+signal to activate this system constitute a
+trespass to chattels? Trespass to chattels
+has traditionally required a physical touch-
+ing of the property. See Restatement
+(Second) of Torts § 217 and Comment e
+(1963 and 1964); Dobbs, supra, at 123. In
+recent years, courts have wrestled with the
+application of this old tort in cases involv-
+ing unwanted electronic contact with com-
+puter systems, and some have held that
+even the transmission of electrons that
+occurs when a communication is sent from
+one computer to another is enough. See,
+e.g, CompuServe, Inc. v. Cyber Pro-
+motions, Inc., 962 F.Supp. 1015, 1021
+(S.D.Ohio 1997); Thrifty-Tel, Inc. v. Bez-
+enek, 46 Cal.App.4th 1559, 1566, n. 6, 54
+Cal.Rptr.2d 468 (1996). But may such de-
+cisions be followed in applying the Court’s
+trespass theory? Assuming that what
+matters under the Court’s theory is the
+
+6. See, e.g., NPR, The End of Privacy http://
+www.npr.org/series/114250076/the-end-of-
+privacy (all Internet materials as visited Jan.
+20, 2012, and available in Clerk of Court’s
+
+132 SUPREME COURT REPORTER
+
+law of trespass as it existed at the time of
+the adoption of the Fourth Amendment, do
+these recent decisions represent a change
+in the law or simply the application of the
+old tort to new situations?
+
+IV
+
+A
+
+The Katz expectation-of-privacy test
+avoids the problems and complications
+noted above, but it is not without its own
+difficulties. It involves a degree of circu-
+larity, see Kyllo, 533 US., at 34, 121 S.Ct.
+2038, and judges are apt to confuse their
+own expectations of privacy with those of
+the hypothetical reasonable person to
+which the Katz test looks. See Minneso-
+ta v. Carter, 525 U.S. 88, 97, 119 S.Ct.
+469, 142 L.Ed.2d 373 (1998) (SCALIA, J.,
+concurring). In addition, the Katz test
+rests on the assumption that this hypo-
+thetical reasonable person has a well-de-
+veloped and stable set of privacy expecta-
+tions. But technology can change those
+expectations. Dramatic technological
+change may lead to periods in which pop-
+ular expectations are in flux and may ulti-
+mately produce significant changes in
+popular attitudes. New technology may
+provide increased convenience or security
+at the expense of privacy, and many peo-
+ple may find the tradeoff worthwhile.
+And even if the public does not welcome
+the diminution of privacy that new tech-
+nology entails, they may eventually recon-
+cile themselves to this development as in-
+evitable.®
+
+On the other hand, concern about new
+intrusions on privacy may spur the enact-
+ment of legislation to protect against these
+intrusions. This is what ultimately hap-
+
+case file); Time Magazine, Everything About
+You Is Being Tracked—Get Over It, Joel
+Stein, Mar. 21, 2011, Vol. 177, No. 11.
+US. v. JONES
+
+963
+
+Cite as 132 S.Ct. 945 (2012)
+
+pened with respect to wiretapping. After
+Katz, Congress did not leave it to the
+courts to develop a body of Fourth Amend-
+ment case law governing that complex sub-
+ject. Instead, Congress promptly enacted
+a comprehensive statute, see 18 U.S.C.
+§§ 2510-2522 (2006 ed. and Supp. IV), and
+since that time, the regulation of wiretap-
+ping has been governed primarily by stat-
+ute and not by case law.’ In an ironic
+sense, although Katz overruled Olmstead,
+Chief Justice Taft’s suggestion in the lat-
+ter case that the regulation of wiretapping
+was a matter better left for Congress, see
+277 US., at 465-466, 48 S.Ct. 564, has
+been borne out.
+
+B
+
+Recent years have seen the emergence
+of many new devices that permit the moni-
+toring of a person’s movements. In some
+locales, closed-circuit television video moni-
+toring is becoming ubiquitous. On toll
+roads, automatic toll collection systems
+create a precise record of the movements
+of motorists who choose to make use of
+that convenience. Many motorists pur-
+chase cars that are equipped with devices
+that permit a central station to ascertain
+the car’s location at any time so that road-
+side assistance may be provided if needed
+and the car may be found if it is stolen.
+
+Perhaps most significant, cell phones
+and other wireless devices now permit
+wireless carriers to track and record the
+location of users—and as of June 2011, it
+
+7. See Kerr, The Fourth Amendment and New
+Technologies: Constitutional Myths and the
+Case for Caution, 102 Mich. L.Rev. 801, 850-
+851 (2004) (hereinafter Kerr).
+
+8. See CTIA Consumer Info, 50 Wireless Quick
+Facts, http://www.ctia.org/consumer_info/
+index.cfm/AID/10323.
+
+9. See, e.g., The bright side of sitting in traffic:
+Crowdsourcing road congestion data, Google
+Blog, http://googleblog.blogspot.com/2009/08/
+bright-side-of-sitting-in-traffic.html.
+
+has been reported, there were more than
+322 million wireless devices in use in the
+United States.’ For older phones, the ac-
+curacy of the location information depends
+on the density of the tower network, but
+new “smart phones,” which are equipped
+with a GPS device, permit more precise
+tracking. For example, when a user acti-
+vates the GPS on such a phone, a provider
+is able to monitor the phone’s location and
+speed of movement and can then report
+back real-time traffic conditions after com-
+bining (“crowdsourcing”) the speed of all
+such phones on any particular road.? Sim-
+ilarly, phone-location-tracking services are
+offered as “social” tools, allowing consum-
+ers to find (or to avoid) others who enroll
+in these services. The availability and use
+of these and other new devices will contin-
+ue to shape the average person’s expecta-
+tions about the privacy of his or her daily
+movements.
+
+Vv
+
+In the pre-computer age, the greatest
+protections of privacy were neither consti-
+tutional nor statutory, but practical. Tra-
+ditional surveillance for any extended peri-
+od of time was difficult and costly and
+therefore rarely undertaken. The surveil-
+lance at issue in this case—constant moni-
+toring of the location of a vehicle for four
+weeks—would have required a large team
+of agents, multiple vehicles, and perhaps
+aerial assistance. Only an investigation
+of unusual importance could have justified
+such an expenditure of law enforcement
+
+10. Even with a radio transmitter like those
+used in United States v. Knotts, 460 U.S. 276,
+103 S.Ct. 1081, 75 L.Ed.2d 55 (1983), or
+United States v. Karo, 468 U.S. 705, 104 S.Ct.
+3296, 82 L.Ed.2d 530 (1984), such long-term
+surveillance would have been exceptionally
+demanding. The beepers used in those cases
+merely “‘emit[ted] periodic signals that [could]
+be picked up by a radio receiver.’”’ Knotts,
+460 U.S., at 277, 103 S.Ct. 1081. The signal
+had a limited range and could be lost if the
+police did not stay close enough. Indeed, in
+964
+
+resources. Devices like the one used in
+the present case, however, make long-term
+monitoring relatively easy and cheap. In
+circumstances involving dramatic techno-
+logical change, the best solution to privacy
+concerns may be legislative. See, e.9.,
+Kerr, 102 Mich. L.Rev., at 805-806. A
+legislative body is well situated to gauge
+changing public attitudes, to draw detailed
+lines, and to balance privacy and public
+safety in a comprehensive way.
+
+To date, however, Congress and most
+States have not enacted statutes regulat-
+ing the use of GPS tracking technology for
+law enforcement purposes. The best that
+we can do in this case is to apply existing
+Fourth Amendment doctrine and to ask
+whether the use of GPS tracking in a
+particular case involved a degree of intru-
+sion that a reasonable person would not
+have anticipated.
+
+Under this approach, relatively short-
+term monitoring of a person’s movements
+on public streets accords with expecta-
+tions of privacy that our society has rec-
+ognized as reasonable. See Knotts, 460
+US., at 281-282, 103 S.Ct. 1081. But the
+use of longer term GPS monitoring in in-
+vestigations of most offenses impinges on
+expectations of privacy. For such of-
+fenses, society’s expectation has been that
+law enforcement agents and others would
+not—and indeed, in the main, simply
+could not—secretly monitor and catalogue
+every single movement of an individual’s
+
+Knotts itself, officers lost the signal from the
+beeper, and only “with the assistance of a
+monitoring device located in a_ helicopter
+[was] the approximate location of the signal
+... picked up again about one hour later.”
+Id., at 278, 103 S.Ct. 1081.
+
+11. In this case, the agents obtained a warrant,
+but they did not comply with two of the
+warrant’s restrictions: They did not install the
+GPS device within the 10-day period required
+by the terms of the warrant and by Fed. Rule
+Crim. Proc. 41(e)(2)(B)(i), and they did not
+install the GPS device within the District of
+
+132 SUPREME COURT REPORTER
+
+car for a very long period. In this case,
+for four weeks, law enforcement agents
+tracked every movement that respondent
+made in the vehicle he was driving. We
+need not identify with precision the point
+at which the tracking of this vehicle be-
+came a search, for the line was surely
+crossed before the 4-week mark. Other
+cases may present more difficult ques-
+tions. But where uncertainty exists with
+respect to whether a certain period of
+GPS surveillance is long enough to consti-
+tute a Fourth Amendment search, the po-
+lice may always seek a warrant.’ We
+also need not consider whether prolonged
+GPS monitoring in the context of investi-
+gations involving extraordinary offenses
+would similarly intrude on a constitution-
+ally protected sphere of privacy. In such
+cases, long-term tracking might have been
+mounted using previously available tech-
+
+niques.
+* * *
+
+For these reasons, I conclude that the
+lengthy monitoring that occurred in this
+case constituted a search under the Fourth
+Amendment. I therefore agree with the
+majority that the decision of the Court of
+Appeals must be affirmed.
+
+w
+° & KEY NUMBER SYSTEM
+T
+
+Columbia, as required by the terms of the
+warrant and by 18 U.S.C. § 3117(a) and Rule
+41(b)(4). In the courts below the Govern-
+ment did not argue, and has not argued here,
+that the Fourth Amendment does not impose
+these precise restrictions and that the viola-
+tion of these restrictions does not demand the
+suppression of evidence obtained using the
+tracking device. See, e.g., United States v.
+Gerber, 994 F.2d 1556, 1559-1560 (C.A.11
+1993); United States v. Burke, 517 F.2d 377,
+386-387 (C.A.2 1975). Because it was not
+raised, that question is not before us.

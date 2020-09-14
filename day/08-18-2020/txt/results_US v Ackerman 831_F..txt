@@ -1,0 +1,1895 @@
+1292
+
+the contract is to be accorded significance
+according to its place in the contract”).
+Thus, Item Three’s qualifier doesn’t ren-
+der the policy ambiguous.
+
+And this conclusion also controls the
+Estate’s second ambiguity argument: ie.,
+that the liability limits specified in Item
+Three render the Limit of Insurance provi-
+sion ambiguous. The Estate points out that
+the Limit of Insurance provision limits lia-
+bility for any one accident to “the Limit of
+Insurance for Liability Coverage shown in
+the Declarations.” App. vol. 1, 76 (empha-
+sis added). It suggests that it’s unclear
+which limit “shown in the Declarations”
+this provision refers to. And it argues that
+a reasonable insured would understand the
+Limit of Insurance provision as referring
+to the limits listed in Item Three because
+“the Item Two limit would only apply if no
+coverage was listed in the column [of Item
+Three] relating to coverage.” Aplee. Br. 18
+(emphasis added).
+
+But once again, accepting this argument
+would require that we read the word
+“only” into Item Three’s qualifier. And for
+the reasons discussed above, we decline to
+do so.
+
+Because Item Three introduces no ambi-
+guity into the policy, the New Mexico Su-
+preme Court’s Lucero II decision controls.
+Specifically, under New Mexico law, we
+interpret the ACE policy as establishing
+that ACE’s promise to “pay all sums an
+‘insured’ legally must pay” remains subject
+to, per the Limit of Insurance provision,
+“the Limit of Insurance for Liability Cov-
+erage shown in the Declarations,” which
+includes Item Two’s $1 million-per-acci-
+dent limit. See Lucero II, 346 P.3d at 1157.
+Accordingly, the ACE policy unambiguous-
+ly limits ACE’s liability to $1 million per
+accident regardless of the number of cov-
+ered autos involved.’ We therefore reverse
+
+8. Because we conclude that the policy limits
+ACE’s liability to $ 1 million per accident
+regardless of the number of covered autos
+
+831 FEDERAL REPORTER, 3d SERIES
+
+and remand to the district court with in-
+structions to enter judgment in favor of
+ACE.
+
+w
+° E KEY NUMBER SYSTEM,
+T
+
+UNITED STATES of America,
+Plaintiff-Appellee,
+
+Vv.
+
+Walter E. ACKERMAN, Defendant-
+Appellant.
+
+National Center for Missing and Ex-
+ploited Children; Dropbox, Inc.; Face-
+book, Inc.; Google, Inc.; Microsoft
+Corporation; Pinterest, Inc.; Snap-
+chat, Inc.; Twitter, Inc., Amici Curiae.
+
+No. 14-3265
+
+United States Court of Appeals,
+Tenth Circuit.
+
+August 5, 2016
+
+Background: After his motion to sup-
+press evidence was denied by the United
+States District Court for the District of
+Kansas, Eric F. Melgren, J., 2014 WL
+2968164, defendant entered conditional
+guilty plea to distribution of child pornog-
+raphy and possession of child pornogra-
+phy. Defendant appealed.
+
+Holdings: The Court of Appeals, Gorsuch,
+
+Circuit Judge, held that:
+
+(1) organization that statutorily
+obliged to operate as official national
+clearinghouse for information about
+missing and exploited children was a
+government entity for purpose of de-
+
+was
+
+involved, we need not resolve whether the
+trailer was “‘involved” in the March 24, 2011,
+accident.
+US. v. ACKERMAN
+
+1293
+
+Cite as 831 F.3d 1292 (10th Cir. 2016)
+
+termining whether its search of defen-
+dant’s e-mail violated Fourth Amend-
+ment, and
+
+(2) organization’s unwarranted search im-
+plicated Fourth Amendment.
+
+Reversed and remanded.
+
+Hartz, Circuit Judge, joined in part.
+
+1. Searches and Seizures 31.1
+
+When an actor is endowed with law
+enforcement powers beyond those enjoyed
+by private citizens, courts have traditional-
+ly found the exercise of the public police
+power engaged, and such actor’s actions
+qualify as an agent of the government for
+purpose of determining whether a search
+by the agent was lawful. U.S. Const.
+Amend. 4.
+
+2. Searches and Seizures 31.1
+Organization that was statutorily
+obliged to operate as official national
+clearinghouse for information about miss-
+ing and exploited children was a govern-
+ment entity for purpose of determining
+whether its search of defendant’s e-mail
+violated Fourth Amendment right to be
+free from unreasonable search and sei-
+zure; organization alone was statutorily
+obliged to maintain an electronic tipline
+for internet service providers (ISP) to use
+to report possible internet child sexual ex-
+ploitation violations to the government and
+to forward every single report it received
+to federal law enforcement agencies, ISPs
+who failed to report known child pornogra-
+phy violations to organization faced sub-
+stantial penalties payable to federal gov-
+ernment, when organization confirmed it
+received a report the ISP was required to
+treat that confirmation as a request to
+preserve evidence issued by the govern-
+ment itself, and organization was statutori-
+ly authorized to receive child pornography
+knowingly and to review its contents in-
+tentionally. U.S. Const.Amend. 4; 18
+US.C.A. § 2258A; 42 U.S.C.A. § 5773(b).
+
+3. Searches and Seizures ¢=31.1
+Organization that operated as official
+national clearinghouse for information
+about missing and exploited children was
+acting as government entity when it
+searched defendant’s e-mail for images of
+child pornography; Congress knew and ac-
+quiesced in the possibility that organiza-
+tion would conduct such searches. U.S.
+Const.Amend. 4; 42 U.S.C.A. § 5773(b).
+
+4. Searches and Seizures ¢=13.1
+
+Opening and reviewing physical mail
+is generally a search. U.S. Const.Amend.
+4.
+
+5. Searches and Seizures 13.1
+Telecommunications 1440
+Search of defendant’s e-mail by offi-
+cial national clearinghouse for information
+about missing and exploited children was
+an unwarranted search implicating Fourth
+Amendment, despite government’s claim
+that clearinghouse was merely repeating a
+private search performed by internet ser-
+vice provider (ISP); unlike clearinghouse,
+ISP never opened the e-mail itself, search
+of the e-mail disclosed information previ-
+ously unknown to the government besides
+whether the one attachment contained con-
+traband, and could have revealed virtually
+any kind of noncontraband information to
+the prying eye. U.S. Const.Amend. 4.
+
+6. Criminal Law ¢=1130(3)
+
+Mechanically incorporating by refer-
+ence portions of lower court or agency
+briefs or pleadings is insufficient to pre-
+serve a point for appellate review.
+
+Appeal from the United States Dis-
+trict Court for the District of Kansas,
+(D.C. No. 6:13-CR-10176-EFM-1)
+
+Daniel T. Hansmeier, Appellate Chief
+(Melody Brannon, Federal Public Defend-
+er, with him on the briefs), Office of the
+1294
+
+Kansas Federal Public Defender, Kansas
+City, Kansas, for Defendant-Appellant.
+
+Jason W. Hart, Assistant United States
+Attorney (Barry R. Grissom, United States
+Attorney, with him on the brief), Office of
+the United States Attorney, Wichita, Kan-
+sas, for Plaintiff-Appellee.
+
+Christopher J. Schmidt, Bryan Cave
+LLP, St. Louis, Missouri (Lee Marshall,
+Bryan Cave LLP, San Francisco, Califor-
+nia, and Logan Rutherford, Bryan Cave
+LLP, Kansas City, Missouri, with him on
+the brief), for amicus curiae National Cen-
+ter for Missing and Exploited Children, in
+support of Plaintiff-Appellee.
+
+Eric D. Miller, Ryan T. Mrazik, Nicola
+Menaldo, Erin K. Earl, Perkins Coie LLP,
+Seattle, Washington, for amici curiae
+Dropbox, Ine., Facebook, Inc., Google,
+Inc., Microsoft Corporation, Pinterest,
+Inc., Snapchat, Inc., and Twitter, Inc., in
+support of Plaintiff-Appellee.
+
+Before HARTZ, GORSUCH, and
+PHILLIPS, Circuit Judges.
+
+GORSUCH, Circuit Judge, delivered the
+opinion of the Court, in which PHILLIPS,
+J., joined. HARTZ, J., joined Parts I, I,
+TII(A), and IV.
+
+Walter Ackerman’s email never made it
+to its intended recipient. It didn’t because
+AOL, Mr. Ackerman’s internet service
+provider (ISP), has an automated filter
+designed to thwart the transmission of
+child pornography. After that filter identi-
+fied one of four images attached to Mr.
+Ackerman’s email as child pornography,
+AOL instantly stopped delivery and the
+company soon shuttered Mr. Ackerman’s
+account.
+
+How does AOL’s screening system
+work? It relies on hash value matching. A
+hash value is (usually) a short string of
+characters generated from a much larger
+string of data (say, an electronic image)
+using an algorithm—and calculated in a
+
+831 FEDERAL REPORTER, 3d SERIES
+
+way that makes it highly unlikely another
+set of data will produce the same value.
+Some consider a hash value as a sort of
+digital fingerprint. See Richard P. Salgado,
+Fourth Amendment Search and the Power
+of the Hash, 119 Harv. L. Rev. F. 38, 38-40
+(2005). AOL’s automated filter works by
+identifying the hash values of images at-
+tached to emails sent through its mail ser-
+vers. Those values are then compared to
+the hash values of images that AOL em-
+ployees have viewed previously and
+deemed child pornography. Any email con-
+taining an image with a matching hash
+value is automatically weeded out.
+
+As soon as AOL identified a hash value
+match in this case, the company did just
+what federal law requires: it forwarded a
+report to the National Center for Missing
+and Exploited Children (NCMEC) through
+an online tool called the CyberTipline.
+AOL’s report included Mr. Ackerman’s
+email along with all four attached images.
+A NCMEC analyst opened the email,
+viewed each of the attached images, and
+confirmed that all four (not just the one
+AOL’s automated filter identified) ap-
+peared to be child pornography. After the
+analyst determined as well that Mr. Acker-
+man was the likely owner of the account,
+NCMEC alerted law enforcement agents
+in the area where he lived. And not long
+after that, a federal grand jury indicted
+Mr. Ackerman on charges of possession
+and distribution of child pornography. At
+the end of it all, Mr. Ackerman entered a
+conditional guilty plea but reserved his
+right to appeal the denial of his motion to
+suppress the fruits of NCMEC’s investiga-
+tion.
+
+We can appreciate why, for his motion
+raises (at least) two difficult constitutional
+questions. Mr. Ackerman alleges that
+NCMEC’s actions amounted to an unrea-
+sonable search of his email and its attach-
+ments because no one sought a warrant
+US. v. ACKERMAN
+
+1295
+
+Cite as 831 F.3d 1292 (10th Cir. 2016)
+
+and no one invoked any recognized lawful
+basis for failing to seek one. But the
+Fourth Amendment only protects against
+unreasonable searches undertaken by the
+government or its agents—not private par-
+ties. So Mr. Ackerman’s motion raises the
+question: does NCMEC qualify as a gov-
+ernmental entity or agent? Even if it does,
+a second hard question remains. The Su-
+preme Court’s “private search” doctrine
+suggests the government doesn’t conduct a
+Fourth Amendment “search” when it
+merely repeats an investigation already
+conducted by a private party like AOL.
+Which raises this question: did NCMEC
+simply repeat or did it exceed the scope of
+AOL/’s investigation? For its part, the dis-
+trict court denied Mr. Ackerman’s motion
+to suppress both because NCMEC is not a
+governmental actor and, alternatively and
+in any event, because NCMEC’s search
+didn’t exceed the scope of AOL’s private
+search.
+
+We find we must disagree.
+
+I
+
+Start with the question whether
+NCMEC qualifies as a governmental enti-
+ty. The problem of drawing a line between
+public and private entities is an old and
+difficult one. Perhaps the Supreme Court’s
+first great tangle with the task came in
+Trustees of Dartmouth College v. Wood-
+ward, 17 U.S. (4 Wheat.) 518, 668-69, 4
+L.Ed. 629 (1819). There the Court suggest-
+ed that the calling card of a governmental
+entity is whether it is “invested with any
+portion of political power, partaking in any
+degree in the administration of civil gov-
+ernment, and performing duties which flow
+from the sovereign authority.” Id. at 634
+(opinion of Marshall, C.J.). That an entity
+might be incorporated, as NCMEC is,
+doesn’t prevent it from also qualifying as a
+governmental entity: the dispositive ques-
+tion isn’t one of form but function, turning
+on what the entity does, not how it is
+organized. So, for example, a municipality
+
+may undoubtedly qualify both as a corpo-
+ration and as a governmental entity. See
+Philips v. Bury (1694) 90 Eng. Rep. 1294,
+1299 (“There are in law two sorts of corpo-
+rations aggregate of many; such as are for
+publick government, and such as are for
+private charity.”); 1 Joseph Stancliffe
+Davis, Essays in the Earlier History of
+American Corporations 72-74 (1917).
+
+[1] When it comes to what qualifies as
+a public, political, or sovereign function, we
+know too that the “police function” is
+among the paradigmatic examples. See Fo-
+ley v. Connelie, 435 U.S. 291, 297, 98 S.Ct.
+1067, 55 L.Ed.2d 287 (1978) (describing
+the “police function” as “one of the basic
+functions of government”); Flagg Bros.,
+Inc. v. Brooks, 436 U.S. 149, 163, 98 S.Ct.
+1729, 56 L.Ed.2d 185 (1978) (noting that
+policing is among the “state and municipal
+functions” that “have been administered
+with a greater degree of exclusivity by
+States and municipalities”). Even before
+the rise of professional police departments,
+a private person dragooned into a “posse
+comitatus” bore “the same authority as the
+sheriff’ and “was protected [by law] to the
+same extent.” Filarsky v. Delia, — US.
+——, 132 S.Ct. 1657, 1664, 182 L.Ed.2d
+662 (2012); see also 1 William Blackstone,
+Commentaries *332. To be sure, some
+cases have suggested that the mere inves-
+tigation of crime or temporary detention of
+suspected criminals by private security
+guards is not a uniquely public function.
+See, e.g., Gallagher v. “Neil Young Free-
+dom Concert,” 49 F.3d 1442, 1457 (10th
+Cir. 1995); Wade v. Byles, 83 F.3d 902,
+905-06 (7th Cir. 1996); United States v.
+Garlock, 19 F.3d 441, 443-44 (8th Cir.
+1994). But that’s because the guards’ law-
+ful authority to act in those cases was no
+broader than that enjoyed by any private
+citizen—including the right to carry a
+weapon, to use deadly force in self-de-
+fense, and to conduct a citizen’s arrest. See
+1296
+
+Romanski v. Detroit Entm’t, L.L.C., 428
+F.3d 629, 637-38 (6th Cir. 2005). Mean-
+while, when an actor is endowed with law
+enforcement powers beyond those enjoyed
+by private citizens, courts have traditional-
+ly found the exercise of the public police
+power engaged. Id. at 637.1
+
+[2] NCMEC’s law enforcement powers
+extend well beyond those enjoyed by pri-
+vate citizens—and in this way it seems to
+mark it as a fair candidate for a govern-
+mental entity. NCMEC’s two primary au-
+thorizing statutes—18 U.S.C. § 2258A and
+42 U.S.C. § 5773(b)—mandate its collabo-
+ration with federal (as well as state and
+local) law enforcement in over a dozen
+different ways, many of which involve
+duties and powers conferred on and en-
+joyed by NCMEC but no other private
+person. For example, NCMEC is statutori-
+ly obliged to operate the official national
+clearinghouse for information about miss-
+ing and exploited children, to help law
+enforcement locate and recover missing
+and exploited children, to “provide forensic
+technical assistance to law enforce-
+ment” to help identify victims of child ex-
+ploitation, to track and identify patterns of
+attempted child abductions for law en-
+forcement purposes, to “provide training
+... to law enforcement agencies in identi-
+fying and locating non-compliant sex of-
+fenders,” and of course to operate the
+CyberTipline as a means of combating In-
+ternet child sexual exploitation. 42 U.S.C.
+§ 5773(b). Responsibilities and rights Con-
+gress has extended to NCMEC alone “un-
+der Federal law” and done so specifically
+“to assist or support law enforcement
+agencies in administration of criminal jus-
+tice functions.” Jd. § 16961(a)(1). This spe-
+
+1. Richardson v. McKnight, 521 U.S. 399, 117
+S.Ct. 2100, 138 L.Ed.2d 540 (1997), might
+appear an exception to this rule, for there the
+Supreme Court held that certain private pris-
+on guards weren't state actors for purposes of
+qualified immunity. Id. at 412, 117 S.Ct.
+2100. But Richardson was criticized at the
+
+831 FEDERAL REPORTER, 3d SERIES
+
+cial relationship runs both ways, too, for
+NCMEC is also empowered to call on vari-
+ous federal agencies for unique forms of
+assistance in aid of its statutory functions.
+See 18 U.S.C. § 3056(f) (authorizing the
+US. Secret Service to provide, “at the
+request of” NCMKC, “forensic and investi-
+gative assistance in support of any investi-
+gation involving missing or exploited chil-
+dren”).
+
+Focusing in particular on NCMEC’s Cy-
+berTipline functions, the functions at issue
+in this case, illustrates and confirms the
+special law enforcement duties and powers
+it enjoys. First, NCMEC and NCMEC
+alone is statutorily obliged to maintain an
+electronic tipline for ISPs to use to report
+possible Internet child sexual exploitation
+violations to the government. Under the
+statutory scheme, NCMEC is obliged to
+forward every single report it receives to
+federal law enforcement agencies and it
+may make its reports available to state and
+local law enforcement as well. See id.
+§ 2258A(c).
+
+Second, ISPs must report any known
+child pornography violations to NCMEC.
+Not to any other governmental agency, but
+again to NCMEC and NCMEC alone.
+ISPs who fail to comply with this obli-
+gation face substantial (and apparently
+criminal) penalties payable to the federal
+government. Id. § 2258A(a)(1), (e); see also
+Child Exploitation & Obscenity Section,
+Frequently Asked Questions (FAQs), U.S.
+Dep't Just. —_https://www.justice.gov/
+criminal-ceos/frequently-asked-questions-
+faqs (last visited July 7, 2016) (“If the ISP
+knowingly and willfully fails to report the
+
+time for elevating form over function, see id.
+at 414-18, 117 S.Ct. 2100 (Scalia, J., dissent-
+ing), and since then the Court has both re-
+turned to Dartmouth College’s tried and true
+approach and expressly limited Richardson to
+its facts, see Filarsky, 132 S.Ct. at 1662-65,
+1667.
+US. v. ACKERMAN
+
+1297
+
+Cite as 831 F.3d 1292 (10th Cir. 2016)
+
+apparent violation, it is subject to criminal
+penalties.”).
+
+Third, when NCMEC confirms it has
+received a report the ISP must treat that
+confirmation as a request to preserve evi-
+dence issued by the government itself.
+Compare 18 U.S.C. § 2258A(h)(1) (“{T]he
+notification to an [ISP] ... by the Cyber-
+Tipline of receipt of a report ... shall be
+treated as a request to preserve, as if such
+request was made pursuant to section
+2703(f).”), with id. § 2703(f)(1) (““A[n ISP]
+
+.., upon the request of a governmental
+entity, shall take all necessary steps to
+preserve records and other evidence in its
+possession....”). Failure to comply again
+opens an ISP to potential civil or criminal
+sanctions. See id. § 2258B.
+
+Fourth, in aid of its tipline functions
+NCMEC is statutorily authorized to re-
+ceive contraband (child pornography)
+knowingly and to review its contents inten-
+tionally. Id. § 2258A(a), (b)(4); NCMEC
+Amicus Br. at 20-21. Actions that would
+normally subject private persons to crimi-
+nal prosecution. See 18 USC.
+§ 2252A(a)(2) (knowing receipt or distribu-
+tion); id. § 2252A(a)(5)(B) (knowing pos-
+session or access with intent to view). But
+actions that Congress allows NCMEC to
+take precisely because of the unique value
+it provides in the prosecution of child ex-
+ploitation crimes. See R. vol. 3 at 198-99.
+Of course, Congress also provides that
+ISPs who forward and preserve images of
+child pornography in accord with the law
+may not be prosecuted. See 18 U.S.C.
+§ 2258B(a). But this insulates ISPs only
+when they do what any private citizen who
+discovers apparent child pornography
+might without inviting a real risk of crimi-
+
+2. See, e.g., Missing Children’s Assistance Act,
+Pub. L. No. 98-473, 98 Stat. 1837, 2125-27
+(1984) (codified as amended at 42 U.S.C.
+§ 5771); Pub. L. No. 106-113 app. A, 113
+Stat. 1501, 1501A-23 (1999); PROTECT Act,
+Pub. L. No. 108-21, 117 Stat. 650, 665 (2003)
+(codified as amended at 42 U.S.C. § 5773);
+
+nal prosecution: pass evidence along to law
+enforcement and comply with its preserva-
+tion instructions. All quite unlike NCMEC,
+which (again alone) enjoys the right to
+receive child pornography knowingly and
+review it intentionally.
+
+Recent Supreme Court decisions fortify
+our conviction that NCMEC qualifies as a
+governmental entity. In a pair of cases the
+Court held that Amtrak—a publicly owned
+corporation—is a governmental entity. Le-
+bron v. Natl R.R. Passenger Corp., 513
+USS. 374, 399, 115 S.Ct. 961, 130 L.Ed.2d
+902 (1995); Dep't of Transp. v. Ass’n of
+Am. R.Rs. (DOT), — U.S. —, 135 S.Ct.
+1225, 1233, 191 L.Ed.2d 153 (2015). The
+Court began by recalling that the govern-
+ment cannot “evade the most solemn obli-
+gations imposed in the Constitution by
+simply resorting to the corporate form.”
+Lebron, 513 U.S. at 397, 115 S.Ct. 961.
+Then the Court proceeded to examine the
+level of governmental control over Amtrak,
+the broad statutory mandates to which it
+was subject, its dependence on federal
+funding, the purpose behind its creation,
+and the benefits it conferred on the gov-
+ernment. See id. at 397-400, 115 S.Ct. 961;
+see also DOT, 135 S.Ct. at 1231-83. In the
+end, the Court held that the “combination”
+of these considerations conspired to sug-
+gest that Amtrak was indeed a govern-
+mental entity. Id. at 1232-33.
+
+Looking to similar considerations here
+leads us to a similar conclusion. Much as
+Amtrak was created by statute to assume
+functions previously carried out by private
+railroads, Congress passed statutes to
+fund and mandate various of NCMEC’s
+functions soon after private parties incor-
+porated it.2 Today, NCMEC is statutorily
+
+PROTECT Our Children Act of 2008, Pub. L.
+No. 110-401, 122 Stat. 4229, 4243-48 (codi-
+fied as amended at 18 U.S.C. § 2258A). See
+generally Our History, NCMEC, http://www.
+missingkids.com/history (last visited July 7,
+2016).
+1298
+
+required to perform over a dozen separate
+functions, a fact that evinces the sort of
+“day-to-day” statutory control over its op-
+erations that the Court found tellingly
+present in the Amtrak cases.? Law en-
+forcement agents participate at varying
+levels in its daily operations,’ and govern-
+ment officials enjoy a sizeable presence on
+its board.* As much as 75 percent of its
+budget (excluding in-kind donations) comes
+from the federal government. NCMEC
+Amicus Br. at 9. Neither is there any
+question about the public benefit NCMEC
+confers, for by all accounts its important
+work is essential to the identification and
+prevention of child sexual exploitation
+crimes. Congress and NCMEC alike have
+expressly said as much. See, e.g., 42 U.S.C.
+§ 5771; National Center for Missing &
+
+3. Compare 42 U.S.C. § 5773(b) (requiring
+NCMEC to, among other things, operate a
+“national 24-hour toll-free telephone line,”
+“cyber tipline,” and ‘“‘child victim identifica-
+tion program,” provide “training” and
+“technical assistance” to law enforcement
+agencies, and develop and disseminate ‘‘in-
+formation” to a variety of governmental and
+non-governmental entities), with DOT, 135
+S.Ct. at 1232 (observing that “Congress has
+mandated certain aspects of Amtrak’s day-to-
+day operations,” including ‘“maintain[ing] a
+route between Louisiana and Florida,” ap-
+plying certain considerations when ‘making
+improvements to the Northeast corridor,”
+and abiding by certain raw material source
+requirements when making purchases of
+“more than $1 million’).
+
+4. Representatives of multiple law enforce-
+ment agencies have offices in the NCMEC
+building, including the FBI, Department of
+Homeland Security, U.S. Marshals, U.S. Post-
+al Inspection Service, and Department of De-
+fense. R. vol. 3 at 246-47; United States v.
+Keith, 980 F.Supp.2d 33, 41 (D. Mass. 2013)
+(“[The] U.S. Marshals and other law enforce-
+ment personnel provide on-site support and
+referral assistance for NCMEC’s Exploited
+Child Division.”). The FBI’s on-site presence
+includes both a ‘supervisory special agent”
+assigned “‘full-time’’ to NCMEC to ‘“‘coordi-
+nate the use of both FBI and NCMEC re-
+
+831 FEDERAL REPORTER, 3d SERIES
+
+Exploited Children: Our Work, NCMEC,
+http://www.missingkids.com/NCMEC (last
+visited July 7, 2016). Given all this and as a
+matter of analogistic reasoning, it’s diffi-
+cult to see how a quasi-public corporation
+like Amtrak (a mere utility, really) might
+qualify as a governmental entity while
+NCMEC, an entity afforded so many
+unique law enforcement powers, might not.
+
+In the face of so much law and evidence
+suggesting NCMEC qualifies as a govern-
+mental entity, the government offers al-
+most no reply. In fact, its only response is
+to question whether the question is prop-
+erly before us. According to the govern-
+ment, when Mr. Ackerman was before the
+district court he argued merely that
+NCMEC is a governmental agent and
+failed to argue that NCMEC is also a
+
+sources and facilitate the most effective re-
+sponse to ... child pornography, and other
+cases” and an “embedded intelligence ana-
+lyst” who “addresses cyber tips’ and “sup-
+ports” the Child Victim Identification Pro-
+gram. U.S. Dep't of Justice, Office of Juvenile
+Justice & Delinquency Prevention, Federal
+Resources on Missing and Exploited Children
+21-24 (6th ed. 2011). The Secret Service, too,
+provides forensic services to NCMEC in the
+form of “polygraph examinations, handwrit-
+ing and fingerprint analysis, voiceprint com-
+parisons, audio and video enhancements,
+computer and other electronic media exami-
+nations, forensic photography, graphic arts,
+research and identification, and the Operation
+Safe Kid Program.” Id. at 17; see also 18
+U.S.C. § 3056(f).
+
+5. Almost a quarter of NCMEC’s board mem-
+bers represent government agencies or law
+enforcement, including the FBI, U.S. Secret
+Service, U.S. Marshals, Bureau of Alcohol,
+Tobacco, Firearms and Explosives, Immigra-
+tion and Customs Enforcement, Naval Crim-
+inal Investigative Service, U.S. Postal In-
+spection Service, U.S. Nuclear Regulatory
+Commission, National Sheriffs’ Association,
+Fraternal Order of Police, and National As-
+sociation of Attorneys General. See Board of
+Directors, NCMEC, _http://www.missingkids.
+com/boardofdirectors (last visited July 7,
+2016).
+US. v. ACKERMAN
+
+1299
+
+Cite as 831 F.3d 1292 (10th Cir. 2016)
+
+governmental entity. As a result, the gov-
+ernment suggests, any “entity argument”
+is waived. Of course, Mr. Ackerman avidly
+disputes the government’s assessment and
+submits that he pursued both an agent and
+an entity theory before the district court.
+But who is right about this much doesn’t
+much matter. It doesn’t because the Su-
+preme Court has specifically held that a
+defendant who asserts an agency theory
+before the district court preserves an enti-
+ty theory on appeal. See Lebron, 513 U.S.
+at 378-79, 115 S.Ct. 961. And to this con-
+trolling direction the government provides
+no answer. So it is that the government’s
+only response turns out to be no real re-
+sponse at all.
+
+Seeing the void left by the government,
+NCMEC offers a number of substantive
+responses to Mr. Ackerman’s entity theory
+in its own amicus brief. But ours is a
+party-directed adversarial system and we
+normally limit ourselves to the arguments
+the parties before us choose to present.
+Amici briefs often serve valuable functions,
+but those functions don’t include present-
+ing arguments forgone by the parties
+themselves or effectively and unilaterally
+expanding the word limits established by
+rule for a favored party. Indeed, for just
+these reasons (and more) this court has
+routinely declined to consider arguments
+presented only in an amicus brief—and no
+one even attempts to offer us a reason to
+depart from that practice here. See, e.9.,
+Fed. R. App. P. 28; In re McGough, 737
+F.3d 1268, 1277 n.8 (10th Cir. 2013); Tyler
+v. City of Manhattan, 118 F.3d 1400, 1403-
+04 (10th Cir. 1997).
+
+Alternatively and anyway, the various
+arguments NCMEC offers do not change
+the equation materially. In an effort to
+distinguish Lebron from its own case,
+NCMEC argues that, unlike Amtrak, it
+and its CyberTipline existed for a (brief)
+period of time before Congress passed
+statutes funding and mandating its func-
+
+tions. But factually the distinction seems
+pretty unpersuasive, for many of the as-
+sets of what later became Amtrak existed
+in private hands long before Amtrak’s stat-
+utory authorization. And analytically we
+are uncertain why it matters whether
+NCMEC was once private. For no one,
+NCMEC included, gives us reason to
+doubt that even an admittedly private enti-
+ty can be made into a public one later by
+sufficient statutory action (consider the
+Tennessee Valley Authority).
+
+In an effort to establish that even today
+it is not a public entity, NCMEC stresses
+that it receives some (unspecified amount
+of) in-kind donations from private parties
+every year and engages in partnerships
+with private firms interested in reducing
+child exploitation. But it remains undisput-
+ed that NCMEC receives the bulk of its
+funding from the federal government and
+we are aware of no authority suggesting
+that the existence of some (unspecified)
+amount of in-kind private donations con-
+verts a public entity into a private one.
+Surely the local public library would dis-
+agree—and so might Amtrak for it, too,
+receives plenty of private funding (not
+merely in-kind donations) from paying cus-
+tomers. See 49 U.S.C. § 24301(a)(2) (““Am-
+trak ... shall be operated and managed as
+a for-profit corporation. ...”). Neither is it
+unknown for public entities to partner with
+private ones. See Partnerships and Out-
+reach, FBI, https://www.fbi.gov/about-us/
+partnerships_and_outreach (last visited
+July 7, 2016) (“To do its job, the FBI
+works with both government and private
+sector partners every day... .”).
+
+Next, NCMEC suggests it isn’t required
+to spend its federal funding in any particu-
+lar way. It may pursue the various law
+enforcement functions Congress has iden-
+tified, but it doesn’t have to do so. Here
+again we cannot agree. The law expressly
+states that NCMEC’s federal funding
+1300
+
+“shall be used” for over a dozen specifical-
+ly enumerated functions. 42 U.S.C.
+§ 5773(b). And while “shall” can some-
+times mean “may,” that’s the exception
+and not the rule, for the word is generally
+considered “imperative or mandatory” in
+character. Black’s Law Dictionary 1375
+(6th ed. 1990). Neither do we see the case
+for an exception here. Congress itself has
+described NCMEC’s functions as “duties
+and responsibilities under Federal law.” 42
+US.C. § 16961(a)(1). Neither does anyone
+dispute that the use of “shall” in the first
+clause of § 5773(b)—providing that “[t]he
+Administrator shall annually make a
+grant” to NCMEC—is mandatory in char-
+acter, and it seems most unlikely that the
+same word might bear a different meaning
+in the second clause where NCMEC’s
+duties are described. After all, we usually
+presume Congress means the same thing
+when it uses the same word more than
+once in the same sentence. See Brown v.
+Gardner, 513 U.S. 115, 118, 115 S.Ct. 552,
+130 L.Ed.2d 462 (1994). Congress, too, ap-
+pears to be well aware of the difference
+between “may” and “shall” in the funding
+context, for in other similar grant-making
+statutes it has indeed adopted the more
+permissive “may.” See, eg. 42 U.S.C.
+§ 16985(b)(2) (“The Administrator shall
+annually make a grant to RAINN, which
+shall be used for the performance of the
+organization’s national programs, which
+may include....” (emphasis added)). And
+in other contexts, too, even NCMEC itself
+has seemed to characterize its work as
+mandatory. See, e.g., Michelle K. Collins,
+Child Pornography: A Closer Look, The
+Police Chief, Mar. 2007, available at http://
+goo.gl/LohIYz (the director of NCMEC’s
+Exploited Child Division discussing
+“NCMEC’s congressionally mandated Cy-
+berTipline”).
+
+Finally, NCMEC suggests that the stat-
+utes governing its operations are “like”
+routine federal grant-making or state li-
+censing statutes. But we just don’t see
+
+831 FEDERAL REPORTER, 3d SERIES
+
+how. Federal grantees and state licensees
+don’t typically enjoy (for example) the stat-
+utory authority to receive contraband
+knowingly, backed by statutes compelling
+private and public entities to cooperate
+with them. Neither do they typically enjoy
+such powers in aid of traditionally public
+law enforcement functions. Certainly at no
+point in these proceedings has NCMEC or
+the government sought to identify a single
+federal grantee or state licensee with any-
+thing fairly analogous to the sorts of statu-
+tory law enforcement powers and duties
+NCMEC possesses.
+
+II
+
+Even if we are wrong and NCMEC isn’t
+a governmental entity, that doesn’t neces-
+sarily mean its searches escape the Fourth
+Amendment’s ambit. After all, since time
+out of mind the law has prevented agents
+from exercising powers their principals do
+not possess and so cannot delegate. 1 Wil-
+liam Blackstone, Commentaries *417-20;
+Restatement (Second) of Agency § 17
+(1958). That is a rule of law the founders
+knew, understood, and undoubtedly relied
+upon when they drafted the Fourth
+Amendment—for what would have been
+the point of the Amendment if the govern-
+ment could have instantly rendered it a
+dead letter by the simple expedient of
+delegating to agents investigative work it
+was forbidden from undertaking itself? In-
+deed, it’s long since accepted that the
+Amendment’s proscriptions apply not just
+to governmental entities but also to those
+who serve as the government’s agents in
+particular cases. See Skinner v. Ry. Labor
+Execs.’ Ass’n, 489 U.S. 602, 614, 109 S.Ct.
+1402, 103 L.Ed.2d 639 (1989) (“Although
+the Fourth Amendment does not apply to
+a search or seizure, even an arbitrary one,
+effected by a private party on his own
+initiative, the Amendment protects against
+such intrusions if the private party acted
+US. v. ACKERMAN
+
+1301
+
+Cite as 831 F.3d 1292 (10th Cir. 2016)
+
+as an instrument or agent of the Govern-
+ment.”).
+
+How can we tell if NCMEC acted as the
+government’s agent in this case? An agen-
+cy relationship is usually said to “result[ ]
+from the manifestation of consent by one
+person to another that the other shall act
+on his behalf and subject to his control,
+and consent by the other so to act.” Re-
+statement (Second) of Agency § 1. This
+manifestation and consent doesn’t have to
+be formalized in any particular way. See
+id. §§ 15-16. Instead, the “authority to do
+an act can be created by written or spoken
+words or other conduct of the principal
+which, reasonably interpreted, causes the
+agent to believe that the principal desires
+him so to act on the principal’s account.”
+Id. § 26. As well, a principal may delegate
+general authority to his or her agent to act
+in the ordinary course, without constant
+supervision or awareness of every discrete
+act. See id. § 7 emt. c. Neither has the
+common law traditionally required that the
+agent be an altruist, acting without any
+intent of advancing some personal interest
+along the way (like monetary gain). As
+clients know well, lawyers can serve as
+their agents all while zealously charging
+by the hour. Instead, the question is usual-
+ly simply whether the agent acts with the
+principal’s consent and (in some way) to
+further the principal's purpose. See gener-
+ally id. §§ 387-93. All these traditional
+agency principles were reasonably well en-
+sconced in the law at the time of the
+founding and would seem the natural place
+to start in understanding the Amendment’s
+original meaning and application to gov-
+ernmental agents. See generally Joseph
+Story, Commentaries on the Law of Agen-
+cy (6th ed., Little, Brown & Co. 1863)
+(1839); United States v. Ellyson, 326 F.3d
+522, 527 (4th Cir. 2003) (noting that the
+governmental agent inquiry should be
+“guided by common law agency princi-
+ples”).
+
+Admittedly, in recent years some courts
+have offered more stylized agency tests for
+Fourth Amendment cases, which at first
+glance may appear to depart from and
+demand more than the common law did to
+establish an agency relationship. So, for
+example, some treat the Fourth Amend-
+ment agency inquiry as a three-factor test.
+See, e.g., United States v. Silva, 554 F.3d
+18, 18 (1st Cir. 2009) (analyzing “[1] the
+extent of the government’s role in instigat-
+ing or participating in the search, [2] its
+intent and the degree of control it exercis-
+es over the search and the private party,
+and [3] the extent to which the private
+party aims primarily to help the govern-
+ment or to serve its own interests”). Our
+court seems to have adopted a two-part
+variation in United States v. Souza, 223
+F.3d 1197 (10th Cir. 2000). Jd. at 1201
+(asking “1) whether the government knew
+of and acquiesced in the intrusive conduct,
+and 2) whether the party performing the
+search intended to assist law enforcement
+efforts or to further his own ends”). Still
+others appear to collapse these same fac-
+tors into “[o]ne highly pertinent consider-
+ation.” Ellyson, 326 F.3d at 527.
+
+[3] But in this particular case it
+doesn’t much matter which agency test
+you might wish to employ. Even under this
+court’s decision in Souza or similar deci-
+sions adopted in other circuits it’s hard to
+see how we could avoid deeming NCMEC
+the government’s agent in this case. Souza
+suggests that we should first ask whether
+the government “knew of and acquiesced
+in” NCMEC’s putative search. Here we
+know Congress statutorily required AOL
+to forward Mr. Ackerman’s email to
+NCMEC; Congress statutorily required
+NCMEC to maintain the CyberTipline to
+receive emails like Mr. Ackerman’s; Con-
+gress statutorily permitted NCMEC to re-
+view Mr. Ackerman’s email and attach-
+ments; and Congress statutorily required
+1302
+
+NCMEC to pass along a report about Mr.
+Ackerman’s activities to law enforcement
+authorities. All at the government’s ex-
+pense and backed by threat of sanction
+should AOL have failed to cooperate. All
+with special dispensation, too, to NCMEC
+to possess and review contraband know-
+ingly and intentionally. This comprehen-
+sive statutory structure seems more than
+enough to suggest both congressional
+knowledge of and acquiescence in the pos-
+sibility that NCMEC would do exactly as
+it did here.
+
+Of course and as the government notes,
+Congress’s statutes don’t require NCMEC
+to open and view email and attachments
+like Mr. Ackerman’s. But everyone accepts
+that Congress has authorized and funded
+NCMEC to do just that. And everyone
+accepts that Congress enabled NCMEC to
+review Mr. Ackerman’s email by excepting
+the Center from the myriad laws banning
+the knowing receipt, possession, and view-
+ing of child pornography. Nothing about
+NCMEC’s actions could possibly have
+come as a surprise. Neither does anything
+in Souza (or any other authority cited to
+us) suggest that the principal must man-
+date rather than merely consent to the
+agent’s challenged conduct.
+
+When it comes to Souza’s second factor,
+too, we harbor no doubt. Surely, after all,
+NCMEC did as it did in this case with
+some “inten[tion] to assist” law enforce-
+ment. As we’ve seen, Congress authorizes
+and funds NCMEC to perform the func-
+tions it performed here because (and ex-
+pressly premised on the finding that) they
+are designed (intended) to help law en-
+forcement. See, e.g., 42 U.S.C. § 5771. And
+of course NCMEC itself has acknowledged
+that it undertakes the sort of conduct chal-
+lenged here precisely because (at least in
+part) it intends to aid law enforcement.
+About Us, NCMEC, http://www.
+missingkids.com/About (last visited July 7,
+2016) (explaining that NCMEC “provid[es]
+
+831 FEDERAL REPORTER, 3d SERIES
+
+assistance to law enforcement and families
+to find missing children, reduce child sexu-
+al exploitation and prevent child victimiza-
+tion”).
+
+Bolstering our confidence about all this
+is the Supreme Court’s leading Fourth
+Amendment agency case, Skinner v. Rail-
+way Labor Executives’ Ass’n, 489 US.
+602, 109 S.Ct. 1402, 103 L.Ed.2d 639
+(1989). There the Federal Railroad Admin-
+istration promulgated regulations requir-
+ing private railroads to test certain of their
+employees for illicit drugs and authorizing
+(but not requiring) railroads to test certain
+other of their employees. Jd. at 609-12, 109
+S.Ct. 1402. The government acknowledged
+that the mandatory testing requirements
+converted otherwise private railroads into
+governmental agents for purposes of the
+Fourth Amendment, but it suggested that
+the permissive testing requirements did
+not. The Supreme Court disagreed. Rather
+than endorsing a rigid multi-part agency
+test of the sort some lower courts had by
+that time devised, the Court seemed to
+follow the common law by asking simply
+whether “the Government’s encourage-
+ment, endorsement, and participation” in
+the permissive testing was enough to ren-
+der otherwise private railroads agents of
+the government for Fourth Amendment
+purposes. Id. at 615-16, 109 S.Ct. 1402.
+And applying that test here there can be
+little doubt of the result it yields. For the
+government surely “encouraged and en-
+dorsed and participated” in NCMEC’s pu-
+tative search for the same reasons it
+“knew of and acquiesced in” that activity:
+Congress funded the Center, required
+AOL to cooperate with it, allowed it to
+review Mr. Ackerman’s email by excepting
+it from various federal criminal laws, and
+statutorily mandated or authorized every
+bit of its challenged conduct.
+
+Even if all that is true, and a finding of
+agency would be consistent with the com-
+US. v. ACKERMAN
+
+1303
+
+Cite as 831 F.3d 1292 (10th Cir. 2016)
+
+mon law at the time of the founding, the
+test this court articulated in Souza, and
+the test the Supreme Court applied in
+Skinner, the government suggests that our
+prior decision in United States v. Poe, 556
+F.3d 1113 (10th Cir. 2009), still precludes
+us from holding that NCMEC acted as its
+agent in this case. In Poe, this court faced
+the question whether bounty hunters who
+searched a home qualified as governmental
+agents by virtue of the fact that the state
+of Oklahoma regulated the bail bonds in-
+dustry. Poe held not. Both because the
+mere licensing and regulation of an indus-
+try wasn’t enough to suggest that the gov-
+ernment knew of or acquiesced in the par-
+ticular search in question. And because the
+bounty hunters’ purpose or intention in
+searching the house was to find a bail-
+jumping suspect and so receive a reward
+from the bail bondsman that employed
+them. Given that, Poe thought it fair to
+conclude that the bounty hunters intended
+to help themselves or their employer (their
+true principal) but “did not intend to assist
+law enforcement” at all. Zd. at 1124.
+
+Neither of the grounds on which Poe
+rested is present here. As we’ve already
+acknowledged, a governmental licensing
+and regulation regime does not always suf-
+fice to render the licensed or regulated
+party a governmental entity or agent. Af-
+ter all private lawyers, doctors, and ac-
+countants are all licensed and regulated by
+the state, yet they don’t (usually) qualify
+as governmental entities or agents. But as
+we've already observed, too, in this case
+we don’t face a general licensing or regula-
+tory regime open to all qualified applicants
+but a statutory grant of special law en-
+forcement authority to a single entity and
+no other, authorizing and encouraging it to
+perform functions no other private person
+or entity may lawfully undertake. And as
+we've seen, helping law enforcement is at
+least part of NCMEC’s intentions when it
+reviews emails pursuant to its statutory
+tipline authority.
+
+Admittedly, the government reads Poe
+differently than we do. It reads the deci-
+sion as suggesting that a private party who
+bears any private purpose cannot serve as
+a governmental agent. But this reading is
+a misreading. After all, and as we’ve seen,
+the common law recognized that agents
+routinely intend to serve their principals
+with the further intention to make money
+for themselves. In Skinner, too, the fact
+that the private railroads had private (eco-
+nomic) reasons for seeking to curb drug
+abuse by railroad employees—and had
+sought to do so before the government
+promulgated its regulations, 489 U.S. at
+606-07, 109 S.Ct. 1402—was no barrier to
+the Court’s determination that the statuto-
+ry scheme converted the railroads into
+governmental agents. And in United
+States v. Leffall, 82 F.3d 343 (10th Cir.
+1996), this court likewise expressly ex-
+plained that the agency question cannot be
+resolved “simply” by “evaluat[ing] the pri-
+vate person’s state of mind—whether his
+motive to aid law enforcement preponder-
+ates.” Id. at 347. Neither do we read Poe
+as disagreeing with any of this standard
+stuff but as suggesting instead and much
+more modestly that a question about a
+claim of agency may arise when a private
+party bears no intention to assist the gov-
+ernment. Or put another way, when the
+agent serves a different principal and not
+the government. Nothing like that compli-
+cation is present here.
+
+One final wrinkle remains to unfold on
+the agency question. The government in-
+sists that whether NCMEC is a govern-
+mental agent is a question of fact, permit-
+ting this court to reverse the district
+court’s determination only if it clearly
+erred. For our part, we readily agree that
+this court is obligated to give great defer-
+ence to the district court’s findings of his-
+toric fact—something we have done in our
+analysis above and find little difficulty do-
+ing, for the historic facts are (materially)
+1304
+
+undisputed in this case. But having said
+that much, we cannot agree with the gov-
+ernment if it means to suggest that the
+deference we owe to the district court’s
+factual findings extends to its definition of
+the “legal concept” of agency, Restatement
+(Second) of Agency § 1 cmt. b, or to the
+question whether the facts the district
+court found are sufficient to satisfy it. It is
+for this court to decide (de novo) what the
+law is and whether the facts (as found by
+the district court and so long as they are
+not clearly erroneous) satisfy its demands.
+See Ornelas v. United States, 517 U.S. 690,
+694-99, 116 S.Ct. 1657, 134 L.Ed.2d 911
+(1996) (holding that appellate courts must
+review a district court’s determination of
+reasonable suspicion and probable cause
+de novo, with deference to its findings of
+historic fact); United States v. Ginglen,
+467 F.3d 1071, 1074 (7th Cir. 2006) (ac-
+knowledging Ornelas’s relevance to review
+of a governmental agency determination).
+Nothing in the case the government pur-
+ports to rely upon abandons these stolid
+principles of appellate review found most
+everywhere in the law. To the contrary, it
+explains quite rightly that “[w]e review the
+district court’s findings of fact” relevant to
+an agency determination “under a clearly
+erroneous standard,” but “review de novo
+the ultimate question of constitutional
+law,” Leffall, 82 F.3d at 347—and the
+Fourth Amendment agency question is un-
+questionably one of constitutional law.
+
+Tl
+
+[4] Assuming NCMEC is a govern-
+mental entity or agent, its actions still
+implicate the Fourth Amendment only if a
+“search” took place here. On first blush,
+
+6. The record shows that what NCMEC re-
+ceived from AOL was an email—technically,
+a .eml file—which contained the four attach-
+ments. See R. vol. 3 at 15-16 (law enforcement
+describing the “.eml file’ as the “actual file
+that AOL sends through [NCMEC’s] Tipline,”
+which, when opened, ‘‘show[s] ... the e-
+
+831 FEDERAL REPORTER, 3d SERIES
+
+the answer to that question might seem
+obvious. No one in this appeal disputes
+that an email is a “paper” or “effect” for
+Fourth Amendment purposes, a form of
+communication capable of storing all sorts
+of private and personal details, from corre-
+spondence to images, video or audio files,
+and so much more. See United States v.
+Cotterman, 709 F.3d 952, 964 (9th Cir.
+2013) (en banc); cf United States v. Li-
+chtenberger, 786 F.3d 478, 489 (6th Cir.
+2015). The undisputed facts show, too, that
+NCMEC opened Mr. Ackerman’s email,
+found four attachments, and proceeded to
+view each of them.’ And that sort of rum-
+maging through private papers or effects
+would seem pretty obviously a “search.”
+After all, if opening and reviewing “physi-
+cal” mail is generally a “search”—and it is,
+Ex Parte Jackson, 96 U.S. 727, 733, 24
+L.Ed. 877 (1877); United States v. Van
+Leeuwen, 397 U.S. 249, 251, 90 S.Ct. 1029,
+25 L.Ed.2d 282 (1970)—why not “virtual”
+mail too?
+
+Admittedly, it’s an open question wheth-
+er the Supreme Court’s so-called “third-
+party doctrine” might undermine any
+claim to Fourth Amendment protections
+when someone (like Mr. Ackerman) en-
+gages a private agent (like AOL) to deliver
+his correspondence. The Court has, after
+all, suggested that individuals lack any
+reasonable expectation of privacy and so
+forfeit any Fourth Amendment protections
+in materials they choose to share with
+third parties like banks or telephone com-
+panies. See, e.g., United States v. Miller,
+425 U.S. 435, 440-43, 96 S.Ct. 1619, 48
+L.Ed.2d 71 (1976); Smith v. Maryland, 442
+US. 735, 742-46, 99 S.Ct. 2577, 61 L.Ed.2d
+
+mail” with ‘four attachments’ inside); id. at
+221-22 (NCMEC’s Executive Director of the
+Exploited Child Division explaining that “[i]n
+this case there is one uploaded file,” a ‘“‘.eml
+file,” which NCMEC did not “alter, manipu-
+late, [or] change,” with “four images located
+
+within [the] uploaded file’’).
+US. v. ACKERMAN
+
+1305
+
+Cite as 831 F.3d 1292 (10th Cir. 2016)
+
+220 (1979). And lower courts have only
+begun to consider whether (and to what
+extent) the doctrine should be extended to
+email where (as here) a subscriber relies
+on a commercial ISP to store and deliver
+it. Compare United States v. Forrester,
+512 F.3d 500, 510-11 (9th Cir. 2007) (find-
+ing no Fourth Amendment protection for
+the “to/from addresses of e-mail mes-
+sages”), with United States v. Warshak,
+631 F.3d 266, 283-88 (6th Cir. 2010) (find-
+ing Fourth Amendment protection for
+email contents). But the district court
+didn’t rely upon third-party doctrine in
+ruling against Mr. Ackerman. Exactly to
+the contrary, throughout its decision the
+court assumed that Mr. Ackerman had a
+reasonable expectation of privacy in his
+email. And though we may of course affirm
+the district court’s judgment on any basis
+the record supports, we think making the
+attempt here imprudent given that the dis-
+trict court has yet to make any factual
+findings relevant to Mr. Ackerman’s sub-
+jective expectations of privacy or the ob-
+jective reasonableness of those expecta-
+tions in light of the parties’ dealings (e.g.,
+the extent to which AOL regularly ac-
+cessed emails and the extent to which
+users were aware of or acquiesced in such
+access). Facts that could well impact the
+legal analysis. See, e.g., Harper v. P. Urba-
+no, P.A., 342 Fed.Appx. 380, 382 (10th Cir.
+2009).
+
+A
+
+Even so, the government says there’s
+another Fourth Amendment doctrine that
+compels a ruling in its favor, one the dis-
+trict court did cite and rely upon, this one
+called the “private search” doctrine and
+often associated with United States v. Ja-
+cobsen, 466 U.S. 109, 104 S.Ct. 1652, 80
+L.Ed.2d 85 (1984). In that case, FedEx
+employees opened a damaged package,
+found suspicious plastic bags of white pow-
+der inside, and passed the parcel to the
+government, along with a description of
+
+what they’d found. 7d. at 111, 104 S.Ct.
+1652. A DEA agent then repeated the
+same investigation, opening the package
+and examining its contents. Jd. Finally, he
+subjected the white powder to a chemical
+drug test to confirm it was cocaine. Id. at
+111-12, 104 S.Ct. 1652. Considering all
+this, the Supreme Court held that no
+“search” implicating the Fourth Amend-
+ment had taken place because there was a
+“virtual certainty” that (but for one thing)
+the government could have discovered
+“nothing else of significance” in the pack-
+age nor learned anything beyond what it
+had “already ... been told” by a private
+party. Zd. at 119, 104 S.Ct. 1652.
+
+The one thing, of course, was the drug
+test. FedEx didn’t test the chemical com-
+position of the white powder and the gov-
+ernment did. And so you might well ask,
+why isn’t at least that a search implicating
+the Fourth Amendment? The Court ac-
+knowledged that the drug test promised to
+(and surely did) reveal information previ-
+ously unknown to FedEx. Yet the Court
+proceeded to hold that the drug test still
+didn’t qualify as a Fourth Amendment
+search because it “merely disclose[d]”
+whether the powder was contraband “and
+no other arguably ‘private’ fact.” Id. at
+123, 104 S.Ct. 1652. In these circum-
+stances, the Court announced, the govern-
+ment’s apparent search was no search at
+all because it compromised no “legitimate
+privacy interest” within the meaning of
+Katz v. United States, 389 U.S. 347, 88
+S.Ct. 507, 19 L.Ed.2d 576 (1967). Jacobsen,
+466 U.S. at 123, 104 S.Ct. 1652.
+
+[5] Accepting our obligation as a lower
+court to apply both aspects of Jacobsen’s
+private search doctrine faithfully, we fail
+all the same to see how they might help
+the government in this case. Yes, AOL ran
+a search that suggested a hash value
+match between one attachment to Mr.
+Ackerman’s email and an image AOL em-
+1306
+
+ployees had previously identified as child
+pornography. But AOL never opened the
+email itself. Only NCMEC did that, and in
+at least this way exceeded rather than
+repeated AOL’s private search. Neither is
+there any doubt NCMEC’s search of the
+email itself quite easily “could [have] dis-
+close[d]” information previously unknown
+to the government besides whether the
+one attachment contained contraband. Id.
+at 122, 104 S.Ct. 1652. Indeed, when
+NCMEC opened Mr. Ackerman’s email it
+could have learned any number of private
+and protected facts, for (again) no one
+before us disputes that an email is a virtu-
+al container, capable of storing all sorts of
+private and personal details, from corre-
+spondence to other private (and perfectly
+legal) images, video or audio files, and
+beyond. See, eg., Warshak, 631 F.3d at
+284. And we know, too, that this particular
+container did contain three additional at-
+tachments, the content of which AOL and
+NCMEC knew nothing about before
+NCMEC opened them too. As far as any-
+one knew at the time, they could have
+revealed virtually any kind of noncontra-
+band information to the prying eye.
+
+Our view about the inapplicability of Ja-
+cobsen’s private search doctrine finds sup-
+port in at least two related cases. In Unit-
+ed States v. Place, 462 U.S. 696, 103 S.Ct.
+2637, 77 L.Ed.2d 110 (1983), the Court
+held that a dog sniff of luggage by a “well-
+trained narcotics detection dog” didn’t of-
+fend the Fourth Amendment because it
+didn’t “require opening the luggage” and
+could have suggested only the presence or
+absence of “contraband items.” Jd. at 707,
+103 S.Ct. 2637 (quoted in Jacobsen, 466
+USS. at 124, 104 S.Ct. 1652). Meanwhile, in
+Walter v. United States, 447 U.S. 649, 100
+S.Ct. 2395, 65 L.Ed.2d 410 (1980), the
+Court held law enforcement’s projection
+and viewing of films did implicate the Con-
+stitution because the prior private search
+was much narrower, involving only the
+visual inspection of the labels on the out-
+
+831 FEDERAL REPORTER, 3d SERIES
+
+side of the film boxes. See id. at 656-60,
+100 S.Ct. 2395 (opinion of Stevens, J.). As
+interpreted by the Court in Jacobsen, the
+analytical thread stitching together these
+results and its own is the question whether
+“the governmental conduct could [have]
+reveal[ed] nothing about noncontraband
+items.” 466 U.S. at 124 n.24, 104 S.Ct.
+1652. In Place and Jacobsen, the govern-
+ment’s conduct could have revealed noth-
+ing about noncontraband items, so no
+“search” took place within the meaning of
+the Fourth Amendment. In Walter, by
+contrast, the government’s conduct could
+have revealed something previously un-
+known about noncontraband items, so a
+constitutionally triggering “search” did
+take place. And by the same reasoning the
+same result should follow here.
+
+At this point you might wonder about a
+similar but different scenario than the one
+we confront today. What if NCMEC
+hadn't opened Mr. Ackerman’s email but
+had somehow directly accessed (only) the
+(one) attached image with the matching
+hash value? Could the government have
+argued that, in that case, NCMEC’s ac-
+tions didn’t risk exposing any private in-
+formation beyond what AOL had already
+reported to it? Or might even that have
+risked exposing new and protected infor-
+mation, maybe because the hash value
+match could have proven mistaken (unlike-
+ly if not impossible) or because the AOL
+employee who identified the original image
+as child pornography was mistaken in his
+assessment (unlikely if maybe more possi-
+ble)? See Salgado, supra, at 45-46. Inter-
+esting questions, to be sure, but ones we
+don’t have to resolve in this case. We don’t
+because the undisputed facts before us
+indicate that NCMEC opened Mr. Acker-
+man’s email first and did so before and in
+order to view not just the attachment that
+was the target of AOL’s private search but
+three others as well. And as we’ve seen,
+each of these steps—opening the email and
+US. v. ACKERMAN
+
+1307
+
+Cite as 831 F.3d 1292 (10th Cir. 2016)
+
+viewing the three other attachments—was
+enough to risk exposing private, noncon-
+traband information that AOL had not
+previously examined.
+
+B
+
+Our conclusion about this is confirmed
+by yet another and distinct line of authori-
+ty. Jacobsen said no “search” implicating
+the Fourth Amendment took place even
+when officers exceeded the scope of the
+search previously performed by the pri-
+vate party and removed and destroyed a
+small amount of powder to conduct a drug
+test. In doing so, Jacobsen invoked Katz
+and held there was no “reasonable expec-
+tation of privacy” in concealing whether
+something is or isn’t contraband. See 466
+US. at 122-23, 104 S.Ct. 1652. But after
+United States v. Jones, — U.S. ——, 132
+S.Ct. 945, 181 L.Ed.2d 911 (2012), there’s
+reason to wonder about that conclusion.
+After all, Jones held that the Katz formula
+is but one way to determine if a constitu-
+tionally qualifying “search” has taken
+place. Id. at 949-51. In light of the Fourth
+Amendment’s original meaning, Jones ex-
+plained that government conduct can con-
+stitute a Fourth Amendment search either
+when it infringes on a reasonable expecta-
+tion of privacy or when it involves a physi-
+cal intrusion (a trespass) on a constitution-
+ally protected space or thing (“persons,
+houses, papers, and effects”) for the pur-
+pose of obtaining information. So the fact
+the government’s conduct doesn’t trigger
+Katz doesn’t mean it doesn’t trigger the
+Fourth Amendment. Id. at 950 (“Fourth
+Amendment rights do not rise or fall with
+the Katz formulation.... [F]or most of
+our history the Fourth Amendment was
+understood to embody a particular concern
+for government trespass upon the areas
+
+. it enumerates. Katz did not repudiate
+that understanding.”).
+
+Reexamining the facts of Jacobsen in
+
+light of Jones, it seems at least possible
+the Court today would find that a “search”
+
+did take place there. After all, the DEA
+agent who performed the drug test in Ja-
+cobsen took and destroyed a “trace
+amount” of private property, 466 U.S. at
+125, 104 S.Ct. 1652, a seeming trespass to
+chattels. Neither is there any question that
+the purpose and effect of the agent’s action
+was to obtain information. See id. at 122-
+23, 104 S.Ct. 1652. And while the destruc-
+tion of only a “trace amount” of private
+property might not amount to a trespass
+under modern tort law, even less was re-
+quired to establish a claim of trespass to
+chattels at the time of the founding—and
+we know the Fourth Amendment is no less
+protective of persons and property against
+governmental invasions than the common
+law was at the time of the founding. Jones,
+132 S.Ct. at 950, 953; id. at 957 n.2 (Alito,
+J., concurring in the judgment) (“At com-
+mon law, a suit for trespass to chattels
+could be maintained if there was a viola-
+tion of ‘the dignitary interest in the inviola-
+bility of chattels,’ but today there must be
+‘some actual damage to the chattel before
+the action can be maintained.’” (quoting
+W. Keeton et al., Prosser & Keeton on
+Law of Torts § 14, at 87 (5th ed. 1984))).
+
+Given the uncertain status of Jacobsen
+after Jones, we cannot see how we might
+ignore Jones’s potential impact on our
+case. And its impact here seems even
+clearer than in Jacobsen. After all, we are
+not dealing with a governmental drug test
+that destroyed but a trace amount of po-
+tential contraband. We are dealing instead
+with the warrantless opening and examina-
+tion of (presumptively) private correspon-
+dence that could have contained much be-
+sides potential contraband for all anyone
+knew. And that seems pretty clearly to
+qualify as exactly the type of trespass to
+chattels that the framers sought to prevent
+when they adopted the Fourth Amend-
+ment. See, e.g., 1 Thomas M. Cooley, The
+General Principles of Constitutional Law
+in the United States of America 212 & n.2
+1308
+
+(1880); Thomas M. Cooley, A Treatise on
+the Constitutional Limitations Which Rest
+upon the Legislative Power of the States
+of the American Union 306 n.2 (1868); Ha
+parte Jackson, 96 U.S. at 733. Of course,
+the framers were concerned with the pro-
+tection of physical rather than virtual cor-
+respondence. But a more obvious analogy
+from principle to new technology is hard to
+imagine and, indeed, many courts have
+already applied the common law’s ancient
+trespass to chattels doctrine to electronic,
+not just written, communications. See, e.g.,
+eBay, Inc. v. Bidder’s Edge, Inc., 100
+F.Supp.2d 1058, 1063, 1069-70 (N.D. Cal.
+2000); CompuServe Inc. v. Cyber Pro-
+motions, Inc., 962 F.Supp. 1015, 1019, 1027
+(S.D. Ohio 1997); Thrifty-Tel, Inc. v. Bez-
+enek, 46 Cal.App.4th 1559, 1565-67, 54 Cal.
+Rptr.2d 468 (1996). So it seems that,
+whether we analyze the “search” question
+through the lens of the government’s pre-
+ferred authority—Jacobsen and Katz—or
+through the lens of the traditional trespass
+test suggested by Jones, they yield the
+same (and pretty intuitive) result:
+NCMEC conducted a “search” when it
+opened and examined Mr. Ackerman’s
+email.
+
+IV
+
+[6] Having determined that NCMEC
+is a governmental entity or agent and that
+it searched Mr. Ackerman’s email without
+a warrant, at this point you might wonder
+whether the government could argue that
+NCMEC’s search still qualifies as a “rea-
+sonable” one because of, say, exigent cir-
+cumstances or the “special needs” doc-
+trine. Or whether any Fourth Amendment
+violation in opening the email or the three
+other attachments was too attenuated from
+the discovery of incriminating evidence in
+the matching hash value attachment to
+justify exclusion as the appropriate reme-
+dy. Or whether suppression might also be
+an inappropriate remedy because NCMEC
+acted in “good faith.” But the government
+
+831 FEDERAL REPORTER, 3d SERIES
+
+argues none of these points in this appeal,
+seeming instead to accept that if NCMEC
+was a governmental entity or agent and if
+its opening of the email was an unwarrant-
+ed search, then its subsequent discovery of
+four attached images of child pornography
+was “fruit of a poisonous tree” and should
+be suppressed. Indeed, the closest the gov-
+ernment comes to briefing any of these
+questions is to tell us it incorporates by
+reference the good faith arguments it pre-
+sented to the district court. Even though
+this court has repeatedly instructed (both
+in rule and case law) that this sort of
+mechanical “[iJncorporating by reference
+portions of lower court or agency briefs or
+pleadings” is insufficient to preserve a
+point for appellate review. 10th Cir. R.
+28.4; see also Gaines-Tabb v. ICI Explo-
+sives, USA, Inc., 160 F.3d 613, 623-24
+(10th Cir. 1998).
+
+So with that, our encounter with this
+case comes to an end—at least for now.
+Surely hard questions remain to be re-
+solved on remand, not least the question
+whether the third-party doctrine might
+preclude Mr. Ackerman’s claim to the
+Fourth Amendment’s application, a ques-
+tion the government has preserved and the
+district court and we have reserved. But
+about one thing we can be very certain.
+There can be no doubt that NCMEC does
+important work and that its work can con-
+tinue without interruption. After all, it
+could be that the third-party doctrine will
+preclude motions to suppress like Mr. Ack-
+erman’s. Or that changes in how reports
+are submitted or reviewed might allow
+NCMEC to access attachments with
+matching hash values directly, without re-
+viewing email correspondence or other at-
+tachments with possibly private, noncon-
+traband content—and in this way perhaps
+bring the government closer to a success-
+ful invocation of the private search doc-
+trine. Or it may be possible that the gov-
+ernment could cite exigent circumstances
+ZIEGLER v. MARTIN COUNTY SCHOOL DIST.
+
+1309
+
+Cite as 831 F.3d 1309 (11th Cir. 2016)
+
+or attenuation doctrine or special needs
+doctrine or the good faith exception to
+excuse warrantless searches or avoid sup-
+pression in at least some cases. But even if
+not a single one of these potential scenar-
+ios plays out—and we do not mean to
+prejudge any of them—we are confident
+that NCMEC’s law enforcement partners
+will struggle not at all to obtain warrants
+to open emails when the facts in hand
+suggest, as they surely did here, that a
+crime against a child has taken place.
+
+The district court’s denial of the motion
+to suppress is reversed. The case is re-
+manded for further proceedings consistent
+with this opinion.
+
+Ww
+° E KEY NUMBER SYSTEM
+T
+
+TAYLOR ZIEGLER, SARINA WHITE,
+KENDALL MCCORMICK, HALEY
+O’HANNA, KAELYN DRAZKOWSKI,
+TYLAR JORDAN, MORGAN KLEA-
+BIR, SCOTT BROTHERS, and TIM
+ALLEN, Plaintiffs—Appellants,
+
+Vv.
+
+MARTIN COUNTY SCHOOL DIS-
+TRICT, JENSEN BEACH HIGH
+SCHOOL, GREG LAWS, in his offi-
+cial capacity as Principal of Jensen
+Beach High School, THERESA IULI-
+UCCI, in her official capacity as As-
+sistant Principal of Jensen Beach
+High School, LORIE KANE, in her
+official capacity as Dean of Students
+of Jensen Beach High School, NORM
+BRUSH, in his official capacity as
+Resource Officer of Jensen Beach
+High School, and WILLIAM SNY-
+DER, in his official capacity as Sher-
+iff of Martin County, Defendants—Ap-
+pellees.
+
+No. 15-11441
+
+United States Court of Appeals,
+Eleventh Circuit.
+
+July 28, 2016
+Background: Students brought § 1983
+action against school district, high school
+and its officials, and county sheriff and his
+resource officer, alleging Fourth Amend-
+ment violations related to search of party
+bus and detention for administration of
+breath tests for blood alcohol concentra-
+tion prior to entering prom. The United
+
+States District Court for the Southern Dis-
+
+trict of Florida, No. 2:14-cv-14221-DMM,
+
+granted defendants’ summary judgment
+motion. Students appealed.
+
+Holdings: The Court of Appeals, Fay,
+
+Circuit Judge, held that:
+
+(1) resource officer’s searching bus for al-
+cohol prior to admitting students into
+prom did not elevate Fourth Amend-
+ment standard from public-school con-
+text to one of probable cause;
+
+(2) students did not have any actual or
+reasonable expectation of privacy in
+party bus;
+
+(3) bus driver had apparent authority to
+give consent for resource officer to
+search bus;
+
+(4) resource officer had reasonable basis
+for believing students had violated
+school’s rules and state law, and de-
+taining students prior to performing
+breath tests was reasonably related in
+scope;
+
+(5) resource officer unreasonably detained
+all students from party bus while each
+of them was administered breath test;
+
+(6) individual school officials and resource
+officer were entitled to qualified immu-
+nity;
+
+(7) school officials did not violate First
+Amendment rights by disciplining two
+students for cursing while breath tests

@@ -1,0 +1,1199 @@
+FILED
+
+Jun 23 2020, 11:15 am
+
+     
+     
+
+CLER
+Indiana Supreme Court
+Court of Appeals
+and Tax Court
+
+      
+
+Sndiana Supreme Court
+
+Supreme Court Case No. 18S-CR-595
+
+Katelin Eunjoo Seo,
+Appellant (Defendant)
+
+State of Indiana,
+Appellee (Plaintiff)
+
+Argued: April 18, 2019 | Decided: June 23, 2020
+Appeal from the Hamilton Superior Court
+No. 29D01-1708-MC-5640
+The Honorable Steven R. Nation, Judge
+
+On Petition to Transfer from the Indiana Court of Appeals
+No. 29A05-1710-CR-2466
+
+Opinion by Chief Justice Rush
+Justices David and Goff concur.
+Justice Massa dissents with separate opinion in which Justice Slaughter joins in
+part.
+Justice Slaughter dissents with separate opinion.
+Rush, Chief Justice.
+
+When Katelin Seo was placed under arrest, law enforcement took her
+iPhone believing it contained incriminating evidence. A detective got a
+warrant to search the smartphone, but he couldn’t get into the locked
+device without Seo’s assistance. So the detective got a second warrant that
+ordered Seo to unlock her iPhone. She refused, and the trial court held her
+in contempt.
+
+We reverse the contempt order. Forcing Seo to unlock her iPhone
+would violate her Fifth Amendment right against self-incrimination. By
+unlocking her smartphone, Seo would provide law enforcement with
+information it does not already know, which the State could then use in its
+prosecution against her. The Fifth Amendment's protection from
+compelled self-incrimination prohibits this result. We thus reverse and
+remand.
+
+Facts and Procedural History
+
+Katelin Seo contacted her local sheriff's department claiming D.S. had
+raped her. Detective Bill Inglis met with Seo, and she told him that her
+smartphone—an iPhone 7 Plus—contained relevant communications with
+the accused. With Seo’s consent, officers completed a forensic download
+of the device and returned it.
+
+Based on the evidence recovered from the iPhone and the detective’s
+conversations with Seo, no charges were filed against D.S. Instead, law
+enforcement’s focus switched to Seo. D.S. told Detective Inglis that Seo
+stalked and harassed him, and the detective’s ensuing investigation
+confirmed those claims.
+
+Detective Inglis learned that Seo first contacted D.S. from the phone
+number associated with her iPhone. But D.S. then began receiving up to
+thirty calls or text messages daily from dozens of different, unassigned
+numbers. Yet, because the substance of the contact was consistent, the
+detective believed that Seo placed the calls and texts using an app or
+internet program to disguise her phone number. As a result of this
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 2 of 18
+investigation, the State charged Seo with several offenses and issued an
+
+arrest warrant.
+
+When Detective Inglis arrested Seo, he took possession of her locked
+iPhone. Officers asked Seo for the device’s password, but she refused to
+provide it. To clear this hurdle, Detective Inglis obtained two search
+warrants. The first authorized a forensic download of Seo’s iPhone so that
+law enforcement could search the device for “incriminating evidence.”
+And the second “compelled” Seo to unlock the device and stated that she
+would be subject “to the contempt powers of the court” if she failed to do
+so. After Seo again refused to unlock her iPhone, the State moved to hold
+
+her in contempt.
+
+At the ensuing hearing, Seo argued that forcing her to unlock the
+iPhone would violate her Fifth Amendment right against self-
+incrimination. The trial court disagreed and held Seo in contempt,
+concluding that “[t]he act of unlocking the phone does not rise to the level
+of testimonial self-incrimination.” Seo appealed, and the trial court stayed
+its contempt order.
+
+While her appeal was pending, Seo entered into a plea agreement with
+the State. She pleaded guilty to one count of stalking, and the State
+dismissed eighteen other charged offenses without prejudice. But because
+the contempt citation remained in place, Seo still faced the threat of
+further sanction for disobeying that order. A divided panel of our Court of
+Appeals reversed the court’s pending contempt order. Seo v. State, 109
+N.E.3d 418, 440-41 (Ind. Ct. App. 2018).
+
+We granted transfer, vacating the Court of Appeals decision. Ind.
+Appellate Rule 58(A).!
+
+1 Our dissenting colleagues are incorrect in finding this case moot, as there has not yet been “a
+settlement of all differences between the parties,” Gompers v. Buck’s Stove & Range Co., 221 U.S.
+418, 451 (1911). Justice Massa asks, “What could the State now gain from Seo unlocking her
+device?” Post, at 3. But the State has already answered that question—to complete its
+investigation of Seo and potentially file additional charges. After pleading guilty, Seo filed a
+motion requesting that law enforcement return her iPhone—which has remained in police
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 3 of 18
+Standard of Review
+
+Seo’s challenge to the trial court’s contempt order alleges a
+constitutional violation, and thus our review is de novo. See Myers v. State,
+27 N.E.3d 1069, 1074 (Ind. 2015).
+
+Discussion and Decision
+
+The Fifth Amendment's Self-Incrimination Clause protects a person
+from being “compelled in any criminal case to be a witness against
+himself.” U.S. Const. amend. V. Embedded within this constitutional
+principle is the requirement that the State produce evidence against an
+individual through “the independent labor of its officers, not by the
+simple, cruel expedient of forcing it from his own lips.” Estelle v. Smith,
+451 U.S. 454, 462 (1981) (cleaned up). The privilege thus protects an
+accused from being forced to provide the State with even a link in the
+chain of evidence needed for prosecution. See Hoffman v. United States, 341
+USS. 479, 486 (1951). Yet, not all compelled, incriminating evidence falls
+under this constitutional protection: the evidence must also be testimonial.
+Hiibel v. Sixth Judicial Dist. Court of Nev., Humboldt Cty., 542 U.S. 177, 189
+(2004).
+
+custody since it was seized—because she had “no pending criminal cases.” The State objected,
+and during a hearing on the motion, the State clarified that its interest in accessing Seo’s
+iPhone is “not limited” to just the charges covered by the plea agreement. The prosecutor
+explained that the State could not “do a full investigation” or “be in a position to either not
+bring or choose to bring new cases” until it had evidence from the device. Then at oral
+argument, the State not only reiterated its continued interest in searching Seo’s iPhone but
+also argued that the case was not moot because the “threat of a sanction still hangs over
+[Seo’s] head.” So, contrary to the dissenting view, the State has not settled all claims with Seo;
+and the stayed contempt order has not automatically terminated. See Pac. Bell Tel. Co. v.
+Linkline Comme’ns, Inc., 555 U.S. 438, 446-47 (2009) (recognizing that a case is not moot when
+there “remains a live dispute”); United States v. Harris, 582 F.3d 512, 516 (3d Cir. 2009) (finding
+that the termination of underlying criminal proceedings did not render a coercive civil
+contempt order moot when the purpose and intent of the order “remain alive and well”). In
+short, this case presents a live dispute and thus our decision renders effective relief. But
+irrespective of mootness, this case presents a novel, important issue of great public
+importance that will surely recur.
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 4 of 18
+To be testimonial, “an accused’s communication must itself, explicitly
+or implicitly, relate a factual assertion or disclose information.” Doe v.
+United States, 487 U.S. 201, 210 (1988). The most common form of
+testimony is verbal or written communications—the vast amount of which
+will fall within the privilege. Id. at 213-14. But physical acts can also have
+a testimonial aspect. See Fisher v. United States, 425 U.S. 391, 410 (1976).
+
+When the State compels a suspect to produce physical evidence, that
+act is testimonial if it implicitly conveys information. See United States v.
+Hubbell, 530 U.S. 27, 36 (2000); Pennsylvania v. Muniz, 496 U.S. 582, 595 n.9
+(1990). In certain contexts, however, the communicative aspects of the act
+may be rendered nontestimonial if the State can show that it already
+knows the information conveyed, making it a “foregone conclusion.”
+Fisher, 425 U.S. at 411. In other words, the inquiry is whether the
+testimonial communications implicit in producing the evidence provide
+the State with something it does not already know.
+
+Here, Seo argues that the State, by forcing her to unlock her iPhone for
+law enforcement, is requiring her to “assist in the prosecution of her own
+criminal case” and thus violating her right against self-incrimination. The
+State disagrees, claiming it already knows the implicit factual information
+Seo would convey by unlocking her iPhone—namely, that she “knows the
+password and thus has control and use of the phone.”
+
+We agree with Seo. The compelled production of an unlocked
+smartphone is testimonial and entitled to Fifth Amendment protection—
+unless the State demonstrates the foregone conclusion exception applies.
+Here, the State has failed to make that showing; and this case also
+highlights concerns with extending the limited exception to this context.
+
+I. The act of producing an unlocked smartphone
+communicates a breadth of factual information.
+
+Giving law enforcement an unlocked smartphone communicates to the
+State, at a minimum, that (1) the suspect knows the password; (2) the files
+
+on the device exist; and (3) the suspect possesses those files. This broad
+spectrum of communication is entitled to Fifth Amendment protection
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 5 of 18
+unless the State can show that it already knows this information, making
+it a foregone conclusion. We make these determinations after carefully
+reviewing the U.S. Supreme Court precedent that has created and
+evaluated both the act of production doctrine and its accompanying
+foregone conclusion exception.
+
+Our starting point is Fisher v. United States, 425 U.S. 391 (1976). There,
+the IRS subpoenaed several taxpayers’ documents that accountants
+prepared and the taxpayers’ attorneys possessed. Id. at 394-96. The
+attorneys responded that complying with the subpoenas would violate
+their clients’ rights against self-incrimination. Id. at 395-96.? The Court
+disagreed. Id. at 414.
+
+In reaching that conclusion, Fisher considered what, if any,
+incriminating testimony would be compelled by responding to a
+documentary summons. Id. at 409. It was here that the Court created the
+act of production doctrine: producing documents in response to a
+subpoena can be testimonial if the act concedes the existence, possession,
+or authenticity of the documents ultimately produced. Id. at 410. But when
+the government can show that it already knows this information, then the
+testimonial aspects of the act are a “foregone conclusion,” id. at 411, and
+complying with the subpoena becomes a question “not of testimony but of
+surrender,” id. (quoting In re Harris, 221 U.S. 274, 279 (1911)). This was the
+situation in Fisher—the Government knew who possessed the tax
+documents, and it could independently confirm the documents’ existence
+and authenticity through the accountants who prepared them. Id. at 412—
+13. So, the Court narrowly held that “compliance with a summons
+directing the taxpayer to produce the accountant’s documents involved in
+
+2 Fisher recognized that compelling the attorneys to hand over the documents did not
+“implicate whatever Fifth Amendment privilege the taxpayer might have enjoyed from being
+compelled to produce them himself.” 425 U.S. at 402. But because the taxpayers had
+transferred the documents for legal advice protected by the attorney-client privilege, id. at
+403-04, the Court addressed whether the Government could have compelled the taxpayers
+themselves to produce the documents, id. at 405.
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 6 of 18
+these cases” did not implicate incriminating testimony within the Fifth
+Amendment's protection. Id. at 414.
+
+Fisher was the first, and only, Supreme Court decision to find that the
+testimony implicit in an act of production was a foregone conclusion. In
+contrast, the government failed to make that showing in the other two
+relevant decisions: United States v. Doe, 465 U.S. 605 (1984) (Doe I) and
+United States v. Hubbell, 530 U.S. 27 (2000).
+
+In Doe I, the Government served five subpoenas commanding a
+business owner to produce certain documents. 465 U.S. at 606-07. He
+refused, arguing that complying with the subpoenas would violate his
+right against self-incrimination. Id. at 607-08. The District Court agreed,
+finding that compliance would compel the business owner “to admit that
+the records exist, that they are in his possession, and that they are
+authentic.” Id. at 613 & n.11.
+
+The Doe I Court affirmed the District Court's finding “that the act of
+producing documents would involve testimonial self-incrimination.” Id. at
+613-14. The Court then explained that the Government was not foreclosed
+from producing “evidence that possession, existence, and authentication
+were a ‘foregone conclusion,” but that it had “failed to make such a
+showing.” Id. at 614 n.13 (quoting Fisher, 425 U.S. at 411).
+
+Similarly, the Court in Hubbell found that the foregone conclusion
+exception did not apply. 530 U.S. at 44. There, the Government served a
+subpoena requesting a vast array of documents. Id. at 31. In response,
+Hubbell produced 13,120 pages; and he was later indicted based on
+information gleaned from their contents. Id. In finding that Hubbell’s
+compliance with the subpoena violated his right against self-
+incrimination, the Court rejected two of the Government's arguments.
+
+Hubbell first refused to equate the physical act of handing over the
+documents with the testimony implicit in the act. Id. at 40-41. The Court
+agreed that the testimonial aspect of responding to a documentary
+summons “does nothing more than establish the existence, authenticity,
+and custody of items that are produced.” Id. But it rebuffed the
+Government's “anemic view” of the act of production as a “simple
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 7 of 18
+physical act.” Id. at 43. The Court explained that a physical act,
+nontestimonial in character, cannot be “entirely divorced from its
+‘implicit’ testimonial aspect.” Id.
+
+Hubbell also rejected the Government’s argument that, under Fisher,
+“the existence and possession of such records by any businessman is a
+‘foregone conclusion.” Id. at 44. The Court referred to Fisher’s unique
+context and explained, “Whatever the scope of this ‘foregone conclusion’
+rationale, the facts of this case plainly fall outside of it.” Id. Unlike in
+Fisher, the Hubbell Court reasoned that, because the Government failed to
+show “it had any prior knowledge of either the existence or the
+whereabouts of the ... documents ultimately produced,” the foregone
+conclusion exception did not apply. Id. at 45.
+
+Fisher, Doe I, and Hubbell establish that the act of producing documents
+implicitly communicates that the documents can be physically produced,
+exist, are in the suspect’s possession, and are authentic. And this trilogy of
+Supreme Court precedent further confirms that the foregone conclusion
+exception must consider these broad communicative aspects. See
+Commonwealth v. Davis, 220 A.3d 534, 547 (Pa. 2019) (recognizing that “the
+Supreme Court has made, and continues to make, a distinction between
+physical production and testimonial production”), petition for cert. filed
+(U.S. Apr. 20, 2020) (No. 19-1254).
+
+In this way, the act of production doctrine links the physical act to the
+documents ultimately produced. See Laurent Sacharoff, What Am I Really
+Saying When I Open My Smartphone? A Response to Orin S. Kerr, 97 Tex. L.
+Rev. Online 63, 68 (2019). And the foregone conclusion exception relies on
+this link by asking whether the government can show it already knows
+the documents exist, are in the suspect’s possession, and are authentic. Id.
+True, the documents’ contents are not protected by the Fifth Amendment
+because the government did not compel their creation. See Doe I, 465 U.S.
+at 611-12; Fisher, 425 U.S. at 409-10. But the specific documents
+“ultimately produced” implicitly communicate factual assertions solely
+through their production. See Hubbell, 530 U.S. at 36 & n.19, 45.
+
+When extending these observations to the act of producing an unlocked
+smartphone, we draw two analogies. First, entering the password to
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 8 of 18
+unlock the device is analogous to the physical act of handing over
+documents. Sacharoff, supra, at 68. And second, the files on the
+smartphone are analogous to the documents ultimately produced. Id.
+
+Thus, a suspect surrendering an unlocked smartphone implicitly
+communicates, at a minimum, three things: (1) the suspect knows the
+password; (2) the files on the device exist; and (3) the suspect possessed
+those files. And, unless the State can show it already knows this
+information, the communicative aspects of the production fall within the
+Fifth Amendment's protection. Otherwise, the suspect’s compelled act
+will communicate to the State information it did not previously know—
+precisely what the privilege against self-incrimination is designed to
+prevent. See Couch v. United States, 409 U.S. 322, 328 (1973).
+
+This leads us to the following inquiry: has the State shown that (1) Seo
+knows the password for her iPhone; (2) the files on the device exist; and
+(3) she possessed those files?
+
+II. The foregone conclusion exception does not apply.
+
+As discussed above, compelling Seo to unlock her iPhone would
+implicitly communicate certain facts to the State. And for those
+communicative aspects to be rendered nontestimonial, the State must
+establish that it already knows those facts.
+
+Even if we assume the State has shown that Seo knows the password
+to her smartphone, the State has failed to demonstrate that any particular
+
+3 The majority of courts to address the scope of testimony implicated when a suspect is
+compelled to produce an unlocked smartphone have reached a similar conclusion. See State v.
+Trant, No. 15-2389, 2015 WL 7575496, at *2-3 (D. Me. Oct. 27, 2015); Sec. & Exch. Comm'n v.
+Huang, No. 15-269, 2015 WL 5611644, at *2—4 (E.D. Penn. Sept. 23, 2015); Pollard v. State, 287 So.
+3d 649, 656-57 (Fla. Dist. Ct. App. 2019), reh’g denied; G.A.Q.L. v. State, 257 So. 3d 1058, 1061-65
+(Fla. Dist. Ct. App. 2018); People v. Spicer, 125 N.E.3d 1286, 1290-92 (Ill. App. Ct. 2019); In re
+Grand Jury Investigation, 88 N.E.3d 1178, 1180-82 (Mass. App. Ct. 2017); cf. United States v.
+Wright, 431 F. Supp. 3d 1175, 1186-88 (D. Nev. 2020); In re Search Warrant Application for
+Cellular Tel. v. Barrera, 415 F. Supp. 3d 832, 838 n.2 (N.D. Ill. 2019); In re Residence in Oakland,
+Cal., 354 F. Supp. 3d 1010, 1016 (N.D. Cal. 2019); In re Application for a Search Warrant, 236 F.
+Supp. 3d 1066, 1073 (N.D. Ill. 2017); State v. Diamond, 905 N.W.2d 870, 875 (Minn. 2018).
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 9 of 18
+files on the device exist or that she possessed those files. Detective Inglis
+simply confirmed that he would be fishing for “incriminating evidence”
+from the device. He believed Seo—to carry out the alleged crimes— was
+using an application or internet program to disguise her phone number.
+Yet, the detective’s own testimony confirms that he didn’t know which
+applications or files he was searching for:
+
+There are numerous, and there’s probably some that I’m not
+even aware of, numerous entities out there like Google Voice
+and Pinger and Text Now and Text Me, and I don’t know, I
+don’t have an all-encompassing list of them, however if I had
+the phone I could see which ones she had accessed through
+Google.
+
+In sum, law enforcement sought to compel Seo to unlock her iPhone
+so that it could then scour the device for incriminating information. And
+Seo’s act of producing her unlocked smartphone would provide the State
+with information that it does not already know. But, as we’ve explained
+above, the Fifth Amendment’s privilege against compulsory self-
+incrimination prohibits such a result. Indeed, to hold otherwise would
+sound “the death knell for a constitutional protection against compelled
+self-incrimination in the digital age.” Commonwealth v. Jones, 117 N.E.3d
+702, 724 (Mass. 2019) (Lenk, J., concurring); see also Davis, 220 A.3d at 549
+(“[T]o apply the foregone conclusion rationale in these circumstances
+would allow the exception to swallow the constitutional privilege.”).
+
+Though the foregone conclusion exception does not apply to these
+facts, this case underscores several reasons why the narrow exception may
+be generally unsuitable to the compelled production of any unlocked
+smartphone. We discuss three concerns below.
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 10 of 18
+III. This case highlights concerns with extending the
+limited foregone conclusion exception to the
+compelled production of an unlocked smartphone.
+
+Extending the foregone conclusion exception to the compelled
+production of an unlocked smartphone is concerning for three reasons:
+such an expansion (1) fails to account for the unique ubiquity and capacity
+of smartphones; (2) may prove unworkable; and (3) runs counter to U.S.
+Supreme Court precedent. We address each in turn.
+
+A. The compelled production of an unlocked smartphone
+is unlike the compelled production of specific business
+documents.
+
+Smartphones are everywhere and contain everything. They have
+become such “a pervasive and insistent part of daily life that the
+proverbial visitor from Mars might conclude they were an important
+feature of human anatomy.” Riley v. California, 573 U.S. 373, 385 (2014); see
+also City of Ontario v. Quon, 560 U.S. 746, 760 (2010). Indeed, a 2019 report
+from the Pew Research Center revealed that 81% of Americans own a
+smartphone, up from 35% in 2011.4The Supreme Court in Fisher (1976),
+Doe I (1984), or Hubbell (2000) surely could not have anticipated that such
+devices would become so common or imagined the breadth and depth of
+information they could contain.
+
+Notably, in each of those cases, a subpoena confined the information
+implicated by the compelled production. See Hubbell, 530 U.S. at 45-46;
+Doe I, 465 U.S. at 606-07, 607 nn.1—2; Fisher, 425 U.S. at 394-95, 394 nn.2-3.
+Fisher acknowledged this limited scope, stating that the subpoenas there
+sought “documents of unquestionable relevance to the tax investigation,”
+but that “[s]pecial problems of privacy ... might be presented by
+subpoena of a personal diary.” 425 U.S. at 401 n.7; see also Barrett v.
+
+4 Pew Research Ctr., Mobile Fact Sheet (June 12, 2019), https://www.pewresearch.org/internet
+/fact-sheet/mobile/ [https://perma.cc/8ZUY-EJDG].
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 11 of 18
+Acevedo, 169 F.3d 1155, 1167-68 (8th Cir. 1999) (en banc) (discussing the
+circuit split as to whether personal diaries can be subpoenaed); Samuel A.
+Alito, Jr., Documents and the Privilege Against Self-Incrimination, 48 U. Pitt.
+L. Rev. 27, 81 (1986) (opining that “certain types of highly private
+documents probably should not be obtainable by subpoena, regardless of
+whether they are self-incriminating”). And the Doe I Court remarked that
+the compelled documents, which “pertained to respondent’s businesses,”
+were less personal than those sought in Fisher, which “related to the
+taxpayers’ individual tax returns.” Doe I, 465 U.S. at 610 n.7. An unlocked
+smartphone, however, contains far more private information than a
+personal diary or an individual tax return ever could. Yet, when suspects
+are compelled to surrender their unlocked smartphones, there is no limiter
+like a documentary subpoena for specific files. See, e.g., United States v.
+Bishop, 910 F.3d 335, 336 (7th Cir. 2018), cert. denied, 139 S. Ct. 1590 (2019).
+
+Hubbell further illustrates the considerable difference between
+complying with a court order to produce an unlocked smartphone and
+complying with a documentary summons. Recall that, in Hubbell, the
+Government had not shown that it had any prior knowledge of either the
+existence or location of 13,120 pages of documents. 530 U.S. at 45. Though
+not an insignificant amount of information, it pales in comparison to what
+can be stored on today’s smartphones. Indeed, the cheapest model of last
+year’s top-selling smartphone, with a capacity of 64 gigabytes of data, can
+hold over 4,000,000 pages of documents—more than 300 times the number
+of pages produced in Hubbell.’ It is no exaggeration to describe a
+smartphone’s passcode as “the proverbial ‘key to a man’s kingdom.”
+United States v. Djibo, 151 F. Supp. 3d 297, 310 (E.D.N.Y. 2015).
+
+5 See Steve McCaskill, iPhone XR Was Best-Selling Smartphone of 2019, TechRadar (Feb. 26,
+2020), https://www.techradar.com/news/iphone-xr-was-best-selling-smartphone-of-2019
+[https://perma.cc/6PAC-WZT9]; Apple iPhone XR Tech Specs, https://www.apple.com/iphone
+-xr/specs/ [https://perma.cc/X9MU-Q9W4]; How Many Pages in a Gigabyte?, Lexis Nexis
+Discovery Series Fact Sheet, https://www.lexisnexis.com/applieddiscovery/lawlibrary
+/whitePapers/ADI_ FS_PagesInAGigabyte.pdf [https://perma.cc/JJP7-JQK5].
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 12 of 18
+This brings us to a second concern with extending the foregone
+conclusion exception—it may prove unworkable in this context.
+
+B. Extending the foregone conclusion exception to the
+compelled production of a smartphone may prove
+unworkable.
+
+Today’s smartphones “could just as easily be called cameras, video
+players, rolodexes, calendars, tape recorders, libraries, diaries, albums,
+televisions, maps, or newspapers.” Riley, 573 U.S. at 393. And they can
+contain, in digital form, the “combined footprint of what has been
+occurring socially, economically, personally, psychologically, spiritually
+and sometimes even sexually, in the owner's life.” Djibo, 151 F. Supp. 3d at
+310.
+
+Recognizing these realities, several courts have determined that the
+government — prior to compelling a suspect to unlock their smartphone—
+must specifically identify the files it seeks with reasonable particularity.®
+But even then, the government should have access to only those files. Yet,
+compelling the production of an unlocked smartphone gives the
+government access to everything on the device, not just those files it can
+identify with “reasonable particularity.” For example, here, even if the
+State could show that it knew of and could identify specific files on Seo’s
+iPhone, there is nothing to restrict law enforcement’s access to only that
+
+6 See In re Application for a Search Warrant, 236 F. Supp. 3d at 1068, 1072-74; Trant, 2015 WL
+7575496, at *2-3; Huang, 2015 WL 5611644, at *2-4; Pollard, 287 So. 3d at 657; G.A.Q.L., 257 So.
+3d at 1063-65; Spicer, 125 N.E.3d at 1290-92; In re Grand Jury Investigation, 88 N.E.3d at 1181-
+82. And several courts evaluating this issue in the context of other electronic devices, such as
+computers or hard drives, have similarly required the government to identify the information
+sought with reasonable particularity. See In re Grand Jury Subpoena Duces Tecum Dated Mar. 25,
+2011, 670 F.3d 1335, 1345-47 (11th Cir. 2012); In re Decryption of a Seized Data Storage Sys., No.
+13-M-449, 2013 WL 12327372, at *4 (E.D. Wis. Apr. 19, 2013); United States v. Hatfield, No. 06-
+CR-0550 (JS), 2010 WL 1423103, at *1-2 (E.D.N.Y. Apr. 7, 2010); In re Boucher, No. 2:06-mj-91,
+2009 WL 424718, at *3—4 (D. Vt. Feb. 19, 2009); cf. United States v. Apple MacPro Comput., 851
+F.3d 238, 247-48 (3d Cir. 2017); In re Search of a Residence, No. 17-mj-70656-JSC-1, 2018 WL
+1400401, at *8-12 (N.D. Cal. Mar. 20, 2018).
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 13 of 18
+information. After all, the warrant authorized a search of Seo’s device
+without limitation.
+
+Such unbridled access to potential evidence on her iPhone—or any
+smartphone— raises several complex questions. For example, if officers
+searching a suspect’s smartphone encounter an application or website
+protected by another password, will they need a separate motion to
+compel the suspect to unlock that application or website? And would the
+foregone conclusion exception apply to that act of production as well?
+Suppose law enforcement opens an application or website and the
+password populates automatically. Can officers legally access that
+information? Or what if a suspect has a cloud-storage service—like iCloud
+or Dropbox —installed on the device, which could contain hundreds of
+thousands of files. Can law enforcement look at those documents, even
+though this windfall would be equivalent to identifying the location of a
+locked storage facility that officers did not already know existed? Such
+complexity is neither necessary nor surprising: the foregone conclusion
+exception is, in this context, a low-tech peg in a cutting-edge hole.
+
+This leads to a third concern with extending the foregone conclusion
+exception—it seems imprudent in light of recent Supreme Court
+precedent concerning smartphones and the limited, questionable
+application of the exception.
+
+C. U.S. Supreme Court precedent and the foregone
+conclusion exception’s limited application counsel
+against extending it further.
+
+The Supreme Court has hesitated to apply even entrenched doctrines to
+novel dilemmas, wholly unforeseen when those doctrines were created.
+Indeed, the Court recently observed that, when “confronting new
+concerns wrought by digital technology,” it “has been careful not to
+uncritically extend existing precedents.” Carpenter v. United States, 138 S.
+Ct. 2206, 2222 (2018). To that point, four years earlier, in Riley, the Court
+held that the search-incident-to-arrest exception to the warrant
+requirement does not extend to a cell phone found on an arrestee. 573 U.S.
+at 401-02. And in Carpenter, the Court held that the third-party doctrine
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 14 of 18
+does not extend to cellular site location information, at least when seven
+days’ worth of data is obtained. 138 S. Ct. at 2217 & n.3. The Supreme
+Court’s refusal to extend these two established doctrines—each far more
+deeply rooted than the foregone conclusion exception—is instructive.
+
+Though Riley and Carpenter were decided under the Fourth
+Amendment, the Court’s concern in each case was with the “privacy
+interests” implicated by smartphones. Riley, 573 U.S. at 397; Carpenter, 138
+S. Ct. at 2214-15. And that privacy concern likewise applies to the Fifth
+Amendment's privilege against self-incrimination. Even though this
+privilege is not “a general protector of privacy,” Fisher recognized that it
+“truly serves privacy interests” by protecting suspects from being
+compelled to provide private, self-incriminating testimony. 425 U.S. at
+399, 401; see also id. at 416-17 (Brennan, J., concurring in the judgment)
+(“Expressions are legion in opinions of this Court that the protection of
+personal privacy is a central purpose of the privilege against compelled
+self-incrimination.”); Murphy v. Waterfront Comm’n of N.Y. Harbor, 378 U.S.
+52, 55 (1964); In re Grand Jury Proceedings, 632 F.2d 1033, 1042-44 (3d Cir.
+1980).
+
+The limited, and questionable, application of the foregone conclusion
+exception also cautions against extending it further. Indeed, Fisher was
+decided over forty-four years ago, and it remains the lone U.S. Supreme
+Court decision to find that the exception applied. In the intervening years,
+the Court has discussed it twice and in only one context: in grand jury
+proceedings when a subpoena compelled the production of business and
+financial records. During this same time period, legal scholars—including
+three current members of the Supreme Court—have wondered whether
+Fisher interpreted the Fifth Amendment too narrowly, calling into
+question the viability of the foregone conclusion exception itself. See
+Hubbell, 530 U.S. at 49-56 (Thomas, J., concurring); Carpenter, 138 S. Ct. at
+2271 (Gorsuch, J., dissenting); Alito, Jr., supra, at 45-51; see also, e.g., Bryan
+H. Choi, The Privilege Against Cellphone Incrimination, 97 Tex. L. Rev.
+Online 73, 74 n.6 (2019); Richard A. Nagareda, Compulsion “To Be a
+Witness” and the Resurrection of Boyd, 74 N.Y.U. L. Rev. 1575, 1606 &
+nn.124—25 (1999); Robert Heidt, The Fifth Amendment Privilege and
+Documents — Cutting Fisher’s Tangled Line, 49 Mo. L. Rev. 439, 443 (1984).
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 15 of 18
+Regardless of the foregone conclusion exception’s viability, it seems
+imprudent to extend it beyond its one-time application. Cf. Silverman v.
+United States, 365 U.S. 505, 510, 512 (1961) (deciding not to extend the
+rationale of a factually distinct case “by even a fraction of an inch”).
+
+It is not surprising that courts to recently address this issue—how the
+Fifth Amendment applies to the compelled production of unlocked
+electronic devices—have either declined to extend the foregone conclusion
+exception or have not mentioned it at all.” Not only was the exception
+crafted for a vastly different context, but extending it further would mean
+expanding a decades-old and narrowly defined legal exception to
+dynamically developing technology that was in its infancy just a decade
+ago. And it would also result in narrowing a constitutional right. Yet,
+while we have identified three concerns with extending the foregone
+conclusion exception to this context, we do not need to make a general
+pronouncement on its validity because it simply does not apply here.
+
+At the same time, we emphasize that there are several ways law
+enforcement can procure evidence from smartphones without infringing
+on an individual's Fifth Amendment rights. For example, officers could
+try to obtain information from third parties under the Stored
+Communications Act. See 18 U.S.C. 121 §§ 2701-2713 (2018). Alternatively,
+two companies—Cellebrite and Grayshift—offer law enforcement
+agencies affordable products that provide access to a locked smartphone.
+See generally, e.g., United States v. Chavez-Lopez, 767 F. App’x 431, 433-34
+(4th Cir. 2019). Or officers could seek an order compelling the
+smartphone’s manufacturer to help bypass the lock screen. See In re XXX,
+Inc., No. 14 Mag. 2258, 2014 WL 5510865 (S.D.N.Y. Oct. 31, 2014). And if
+law enforcement wants to get into a smartphone for reasons other than
+prosecution, they can offer immunity to the device’s owner. See Doe I, 465
+USS. at 614-15. But the State cannot fish for incriminating evidence by
+forcing Seo to give unfettered access to her iPhone when it has failed to
+
+7 See United States v. Jimenez, 419 F. Supp. 3d 232, 233 (D. Mass. 2020); Wright, 431 F. Supp. 3d
+at 1186-88; In re Residence in Oakland, 354 F. Supp. 3d at 1016-18; Davis, 220 A.3d at 550.
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 16 of 18
+show that any files on Seo’s smartphone exist or that she possessed those
+files.
+
+Nearly a century ago, U.S. Supreme Court Justice Louis Brandeis
+cautioned, “Ways may some day be developed by which the government,
+without removing papers from secret drawers, can reproduce them in
+court, and by which it will be enabled to expose to a jury the most
+intimate occurrences of the home.” Olmstead v. United States, 277 U.S. 438,
+474 (1928) (Brandeis, J., dissenting). That day has come. And to allow the
+State, on these facts, to force Seo to unlock her iPhone for law enforcement
+would tip the scales too far in the State’s favor, resulting in a seismic
+erosion of the Fifth Amendment's privilege against self-incrimination.
+This we will not do.
+
+Conclusion
+
+Forcing Seo to unlock her iPhone for law enforcement would violate
+her Fifth Amendment right against self-incrimination. We thus reverse the
+trial court’s order finding Seo in contempt and instruct the court to
+dismiss the citation.
+
+David and Goff, JJ., concur.
+
+Massa, J., dissents with separate opinion in which Slaughter, J., joins
+in part.
+
+Slaughter, J., dissents with separate opinion.
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 17 of 18
+ATTORNEYS FOR APPELLANT
+William J. Webster
+
+Carla V. Garino
+
+Webster & Garino LLC
+
+Westfield, Indiana
+
+ATTORNEYS FOR APPELLEE
+Curtis T. Hill, Jr.
+
+Attorney General of Indiana
+
+Stephen R. Creason
+Chief Counsel
+
+Ellen H. Meilaender
+Deputy Attorney General
+
+Indianapolis, Indiana
+
+ATTORNEYS FOR AMICI CURIAE ELECTRONIC FRONTIER
+FOUNDATION, AMERICAN CIVIL LIBERTIES UNION, AND
+AMERICAN CIVIL LIBERTIES UNION OF INDIANA
+
+Kenneth J. Falk
+
+ACLU of Indiana
+
+Indianapolis, Indiana
+
+Andrew Crocker
+Electronic Frontier Foundation
+
+San Francisco, California
+
+ATTORNEY FOR AMICI CURIAE STATES OF UTAH, GEORGIA,
+IDAHO, LOUISIANA, MONTANA, NEBRASKA, OKLAHOMA, AND
+PENNSYLVANIA
+
+Kevin S. Smith
+
+Special Assistant Utah Attorney General
+
+Church Church Hittle & Antrim
+
+Fishers, Indiana
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 18 of 18
+Massa, J., dissenting.
+
+I respectfully dissent from the Court’s opinion deciding the merits of
+this case because it was mooted when the underlying criminal case was
+dismissed. And this now-moot case shouldn't be resolved under our
+“great public interest” exception because doing so could—in violation of
+the core principles of federalism—leave our Court as the final arbiter of
+our nation’s fundamental law.
+
+The gist of Seo’s purported behavior over the summer and fall of 2017
+is this: starting in June, Seo unrelentingly implored a man to either marry
+or impregnate her. In July, Seo started following and sending troubling
+messages to a woman who reported her to a supervisor for showing a
+horror film to the woman’s preschool children at the daycare where Seo
+worked. Seo was charged with various crimes in numerous cases for these
+interactions, and, on August 8, the trial court ordered Seo to unlock her
+iPhone to obtain evidence for a case involving the man, warning that her
+refusal could subject her to being held in contempt. On September 22,
+after she persistently refused to unlock the device, the trial court held Seo
+in contempt and ordered her incarcerated if she didn’t comply by the end
+of the day. Three days later, however, the court stayed the order after Seo
+indicated she would appeal it.
+
+The next July, Seo and the prosecution reached a global agreement: the
+State dismissed all other charges against Seo when she pleaded guilty to a
+single stalking charge involving the woman. All the charges in the cases
+involving the man—including those in the case where Seo was held in
+contempt for refusing to unlock her device—were dismissed. The next
+month, our Court of Appeals reversed the contempt order. Later yet, the
+State successfully opposed Seo’s request for the return of her device
+pending our resolution of the case.
+
+At the outset, we shouldn’t reach Seo’s constitutional claim because she
+is impermissibly waging a collateral attack on the trial court’s August 8
+order (compelling her to unlock her phone) through this appeal of the trial
+court’s September 22 order (holding her in contempt). “Collateral attack of
+a previous order is allowed in a contempt proceeding only if the trial court
+lacked subject matter or personal jurisdiction to enter the order.” State v.
+Combs, 921 N.E.2d 846, 851 (Ind. Ct. App. 2010) (quotation omitted).
+Because no one doubts the jurisdiction of the trial court here, and
+“{c]ontempt proceedings are not actions designed to correct errors
+previously made by trial courts,” id. (quotation omitted), the Court
+shouldn’t permit Seo to challenge the constitutional validity of the trial
+court’s August 8 order through this appeal, see Clark v. Atkins, 489 N.E.2d
+90, 96 (Ind. Ct. App. 1986) (explaining that even when “the questions
+raised concerning [an underlying] order are constitutional in nature,”
+contempt proceedings cannot be used for a collateral attack) (citation
+omitted). Although her Fifth Amendment right could potentially be
+“irretrievably lost” if she were to unlock her device now, Van
+Cauwenberghe v. Biard, 486 U.S. 517, 524 (1988) (citation omitted), we
+shouldn’t flout well-settled procedure to resolve Seo’s claim when she had
+forty-five days to file an interlocutory appeal of the August 8 order before
+being held in contempt. See Ind. Appellate Rule 14(B)(1)(c)(i) (permitting
+interlocutory appeal if a party believes she “will suffer substantial
+expense, damage[,] or injury if the order is erroneous and the
+determination of the error is withheld until after judgment.”).
+
+Nevertheless, this case is also moot. The Court, however, suggests it
+remains live because, as the State avows, “the ‘threat of a sanction still
+
+uw
+
+hangs over [Seo’s] head.” Ante, at 4n.1. But the order finding Seo in
+contempt was mooted —and this case was mooted—when Seo reached the
+agreement that, among other things, resolved the case underlying the
+order. “Contempts of court are classified as civil and criminal.” Perry v.
+Pernet, 165 Ind. 67, 70, 74 N.E. 609, 610 (1905). Criminal contempt cases
+survive even after an underlying cause is mooted because this contempt is
+“an act directed against the dignity and authority of the court which
+obstructs the administration of justice and which tends to bring the court
+into disrepute or disrespect.” State v. Heltzel, 552 N.E.2d 31, 34 (Ind. 1990).
+These contempt orders subsist, then, until a defendant “has served his
+contempt sentence and has been released.” Bell v. State, 1 N.E.3d 190, 192
+
+(Ind. Ct. App. 2013).
+
+But Seo’s contempt was civil: she refused “to do something which [s]he
+[wa]s ordered to do for the benefit or advantage of the opposite party.”
+Perry, 165 Ind. at 70, 74 N.E. at 610 (quotation omitted). Since the opposing
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 2 of 9
+party “alone has an interest in the enforcement of” a civil contempt order,
+any associated punishment “terminates” the moment this party’s interest
+ceases. Id. at 71, 610. So when an underlying cause concludes by
+“settlement of all differences between the parties,” any attendant civil
+contempt proceeding “necessarily” ends. Gompers v. Buck's Stove & Range
+Co., 221 U.S. 418, 451-452 (1911).' Here, the State reached a global
+settlement with Seo resolving the claims it had against her. Once these
+charges were settled, the civil contempt order automatically terminated.
+What could the State now gain from Seo unlocking her device?
+
+The Court contends “that the State could not ‘do a full investigation’ or
+‘be in a position to either not bring or choose to bring new cases’ until it
+had evidence from the device.” Ante, at 4n.1. But a year before opposing
+the return of Seo’s device, the State returned the search warrant,
+acknowledging that “this matter is now closed.” Return on Search
+Warrant, In Re: Search Warrant, No. 29D01-1708-MC-5624 (Hamilton Sup.
+Ct.); see Ind. Code § 35-33-5-4 (directing that, ordinarily, after a search
+warrant is executed, the executing officer must ensure a “return” of the
+warrant, stating the date and time of the search and what items were
+seized).” Instead of retaining the search warrant for further investigation,
+the State returned it after having settled all claims with Seo. Despite its
+later assertion “that its interest in accessing Seo’s iPhone [wal]s ‘not
+
+1 See also State ex rel. Corn v. Russo, 740 N.E.2d 265, 269 (Ohio 2001) (“It is well established that
+where the parties settle the underlying case that gave rise to the civil contempt sanction, the
+contempt proceeding is moot, since the case has come to an end.”); Christensen v. Sullivan, 768
+N.W.2d 798, 815 (Wis. 2009) (“[T]he most obvious case of a contempt of court that has been
+terminated and is no longer continuing occurs when the underlying dispute between the
+parties has been settled.”); 17 Am. Jur. 2d Contempt § 147 (“When the parties settle the
+underlying case that gave rise to a civil contempt sanction, the contempt proceeding is moot
+since the case has come to an end.”).
+
+? To be sure, the trial court granted, nearly simultaneously, two “search warrants” involving
+Seo’s cases, and this filing only “returned” the first. But in the request for the second, the State
+acknowledged that the trial court had already “issued a search warrant (cause number 29D01-
+1708-MC-5624)” for Seo’s phone and merely additionally requested “that the court compel
+Katelin Eunjoo Seo to unlock the cell phone at issue,” and that Seo “be subject to the contempt
+powers of the Court” if she failed to comply. Affidavit for Probable Cause, In Re: Search
+Warrant, No. 29D01-1708-MC-5640 (Hamilton Sup. Ct.).
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 3 of 9
+limited’ to just the charges covered by the plea agreement,” ante, at 4 n.1,
+the State should have, if it sought to trawl for further charges, awaited
+resolution of this appeal before settling the cases. But it didn’t, so this case
+can’t provide any relief “‘to the parties before the court.” T.W. v. St.
+Vincent Hosp. & Health Care Ctr., Inc., 121 N.E.3d 1039, 1042 (Ind. 2019)
+(quoting Matter of Lawrance, 579 N.E.2d 32, 37 (Ind. 1991)). When “[nJone
+of the parties seem to have any interest left in the case,” this court of last
+resort should dismiss because it “ought not to be engaged in passing
+
+on moot-court questions.” State ex rel. Taylor v. Mount, 151 Ind. 679, 694, 52
+N.E. 407, 407 (1898).
+
+But this Court has, for better or worse, decided moot cases ““when the
+issue involves a question of great public importance which is likely to
+recur.’” T.W., 121 N.E.3d at 1042 (quoting Matter of Tina T., 579 N.E.2d 48,
+54 (Ind. 1991)). Indeed, the Court acknowledges it believes that,
+“irrespective of mootness, this case presents a novel, important issue of
+great public importance that will surely recur.” Ante, at 4n.1. Because,
+however, constitutional questions should be avoided unless answering
+them is “absolutely necessary to a disposition of the cause on its merits,”
+State v. Darlington, 153 Ind. 1, 4, 53 N.E. 925, 926 (1899), this Court
+should—in cases resolving federal questions—employ the Article-ITI-
+mirroring mootness test recently used by Senior Judge Shepard: whether
+“the issue concerns a question of great public importance which is likely
+to recur in a context which will continue to evade review,” Liddle v. Clark,
+107 N.E.3d 478, 482 (Ind. Ct. App. 2018) (quoting DeSalle v. Gentry, 818
+N.E.2d 40, 49 (Ind. Ct. App. 2004)) (emphasis added), trans. denied. To be
+sure, then-Chief Justice Shepard noted that this heightened standard “is a
+federal mootness doctrine, stricter than our own, rooted in the
+requirement that Article IIT courts decide only live cases and
+controversies.” Lawrance, 579 N.E.2d at 37 n.2. But Lawrance applied our
+relaxed standard when answering questions of Indiana law, not a federal
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 4 of 9
+question that could be unreviewable, depending wholly on the prevailing
+party,’ by the U.S. Supreme Court.
+
+Although the issue in this case is clearly one of great public importance
+and will surely recur with other defendants, it will not evade review. Seo
+entered into a global agreement resolving the case tied to her contempt
+order before our Court of Appeals issued its opinion reversing the order
+holding her in contempt. But her resolution of the case before appellate
+review is the outlier, not the norm. Cf. Hartman v. State, 988 N.E.2d 785
+(Ind. 2013) (reversing under the Fifth Amendment—and in an
+interlocutory appeal—a trial court’s denial of a defendant’s motion to
+suppress). Perhaps we still exercise our lesser standard in cases like
+Lawrance involving only questions of Indiana law. Perhaps not. See Wallace
+v. City of Indianapolis, 40 Ind. 287, 289 (1872) (“It is not our duty to decide
+mere legal questions, when neither party can derive any legal benefit from
+such decision, and we have too many real questions before us, requiring
+our time and labor, to allow us to write mere speculative opinions to
+gratify ourselves or others, and in which no one has any legal right or
+interest depending.”). But that is a question for another day.
+
+Instead, we must ask whether this Court should use a federally moot
+case to decide an important question of federal constitutional law. The
+answer must be no. To be sure, “the constraints of Article III do not apply
+to state courts, and accordingly the state courts are not bound by the
+
+3 If state courts find in favor of, but not against, asserted federal rights for non-Article III
+litigants, opposing parties may seek Supreme Court review because they, in some way, “are
+faced with ‘actual or threatened injury’ that is sufficiently ‘distinct and palpable’ to support”
+justiciability. ASARCO Inc. v. Kadish, 490 U.S. 605, 618 (1989) (quoting Warth v. Seldin, 422 U.S.
+490, 500 (1975). But this asymmetrical grant of appeal crumbles under scrutiny. Suppose this
+Court held, correctly in my view, that Seo’s Fifth Amendment rights were not violated. Under
+ASARCO, that holding — declining to clairvoyantly extend a criminal defendant's federal
+rights —evades U.S. Supreme Court review. That peculiarity alone should counsel this Court
+against deciding federal questions “in the rarified atmosphere of a debating society,” id. at 636
+(Rehnquist, C.J., concurring in part and dissenting in part), especially considering the
+Judiciary Act of 1789 authorized Supreme Court review of state court decisions only when the
+state court decided a federal question adversely to the claimed federal right, Judiciary Act of
+1789, ch. 20, § 25, 1 Stat. 73, 85-87 (1789).
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 5 of 9
+limitations of a case or controversy or other federal rules of justiciability
+even when they address issues of federal law, as when they are called
+upon to interpret the Constitution.” ASARCO Inc. v. Kadish, 490 U.S. 605,
+617 (1989). But whether state courts entertain federal-law challenges
+absent Article III requirements “is entirely a matter of state law.” Virginia
+v. Hicks, 539 U.S. 113 (2003). Our courts should not.
+
+Both the “the national and State [judicial] systems are to be regarded as
+ONE WHOLE,” with appeals from state courts interpreting federal laws
+naturally flowing “to that tribunal which is destined to unite and
+assimilate the principles of national justice and the rules of national
+decisions.” Federalist No. 82 (Alexander Hamilton). To Hamilton, all cases
+determining federal law “shall, for weighty public reasons, receive their
+original or final determination in the courts of the Union.” Id. And the
+nascent Supreme Court agreed, noting that a chief purpose of its review
+over state court opinions deciding questions of federal constitutional law
+
+is the importance, and even necessity of uniformity of
+decisions throughout the whole United States, upon all subjects
+within the purview of the constitution. Judges of equal learning
+and integrity, in different states, might differently interpret a
+statute, or a treaty of the United States, or even the constitution
+itself: If there were no revising authority to control these jarring
+and discordant judgments, and harmonize them into
+uniformity, the laws, the treaties, and the constitution of the
+United States would be different in different states, and might,
+perhaps, never have precisely the same construction,
+obligation, or efficacy, in any two states. The public mischiefs
+that would attend such a state of things would be truly
+deplorable; and it cannot be believed that they could have
+escaped the enlightened convention which formed the
+constitution.
+
+Martin v. Hunter's Lessee, 14 U.S. (1 Wheat.) 304, 347-48 (1816). To protect
+
+the “vital interest to the nation” it was—and is—“essential” that the U.S.
+Supreme Court exercise “appellate power over those judgments of the
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 6 of 9
+State tribunals which may contravene the constitution or laws of the
+United States.” Cohens v. Virginia, 19 U.S. (6 Wheat.) 264, 414-15 (1821).
+
+“The judicial power of the United States is extended to all cases arising
+under the constitution.” Marbury v. Madison, 5 U.S. (1 Cranch) 137, 178
+(1803) (emphasis added). Irrefutably, the Supreme Court of the United
+States—not this state supreme court or any other—“is the final arbiter of
+federal law.” Danforth v. Minnesota, 552 U.S. 264, 291-92 (2008) (Roberts,
+CJ., dissenting). Rejecting the finality of that Court betrays a core first
+principle of this nation: when we decide issues of federal law by
+exercising a flexible exception that could divest a federal court of
+jurisdiction under its more-rigid Article III constraints, we usurp our role
+in this federal system, defenestrating the U.S. Supreme Court in the
+process. See Cohens, 19 U.S. (6 Wheat.) at 371 (“[T]he judicial control of the
+Union over State encroachments and usurpations, was indispensable to
+the sovereignty of the constitution—to its integrity —to its very existence.
+Take it away, and the Union becomes again a loose and feeble
+confederacy —a government of false and foolish confidence—a delusion
+and a mockery!”).
+
+Although “State courts are coequal parts of our national judicial system
+and give serious attention to their responsibilities for enforcing the
+commands of the Constitution,” Sawyer v. Smith, 497 U.S. 227, 241 (1990),
+this Court has long known “that the judicial power of the United States is
+extended, by the constitution, to all cases arising under the constitution,
+laws, and treaties of the United States,” Moyer v. McCullough, 1 Ind. 339,
+343 (1849). Indeed, Justice Blackford noted, while state courts may enjoy
+primary jurisdiction over federal questions, the “constitution requires the
+jurisdiction in such cases to be extended to the federal Courts.” Id. And
+this view isn’t constrained to the era immediately preceding the
+ratification of our 1851 constitution. Recently, for example—in a case
+unhampered by federal justiciability concerns—we chose to “await
+guidance from the Supreme Court and decline to find or assume [an issue
+of constitutional law] until the Supreme Court decides the issue
+authoritatively.” State v. Timbs, 84 N.E.3d 1179, 1183 (Ind. 2017), vacated
+and remanded. Noting that “Indiana is a sovereign state within our federal
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 7 of 9
+system,”4 this Court unanimously avoided prematurely deciding an
+important question of federal law by declining to impose “federal
+obligations on the State that the federal government itself has not
+mandated.” Id. at 1183-84; see also Sparks v. State, 499 N.E.2d 738, 741 (Ind.
+1986) (declining to divine “[w]hether a federal Fifth Amendment right to
+due process attaches to a state grand jury proceeding”). This bedrock
+principle does not change —it has never been, and never will be, our role
+to predict decisions by the U.S. Supreme Court.
+
+As Justice Jackson so famously proclaimed about the U.S. Supreme
+Court, “[w]e are not final because we are infallible, but we are infallible
+only because we are final.” Brown v. Allen, 344 U.S. 443, 540 (1953)
+(Jackson, J., concurring) (emphasis added). “What, indeed, might then
+have been only prophecy” —that our Court now firmly establishes that it
+will reject that finality by deciding cases that can bypass the revising
+authority of the U.S. Supreme Court on important questions of federal
+constitutional law—“has now become fact.” Martin, 14 U.S. (1 Wheat.) at
+348. By deciding this case, the Court’s message is crystal clear: it will
+anoint itself, at times, as the final adjudicator of federal law. To this, I
+
+cannot assent.
+
+And as for the adjudication of that federal law, this Fifth Amendment
+question is the closest of close calls. Courts around the country split,
+falling into two camps. See generally Orin S. Kerr, Compelled Decryption and
+the Privilege Against Self-Incrimination, 97 Tex. L. Rev. 767 (2019); Laurent
+Sacharoff, What Am I Really Saying When I Open My Smartphone? A
+Response to Orin S. Kerr, 97 Tex. L. Rev. Online 63 (2019). Reasonable
+
+4 Indeed, “Indiana has its own system of legal, including constitutional, protections” subject to
+our ultimate review. State v. Timbs, 84 N.E.3d 1179, 1184 (Ind. 2017), vacated and remanded.
+Although Seo mentioned Article 1, Section 14 in her briefing at the Court of Appeals (she filed
+nothing with this Court), she made no separate self-incrimination argument under the
+Indiana Constitution. See Ind. Const. art. 1, § 14 (“No person, in any criminal prosecution,
+shall be compelled to testify against himself.”). Because she failed to offer a “separate analysis
+based on the state constitution,” this “state constitutional claim is waived.” Dye v. State, 717
+N.E.2d 5, 11 n.2 (Ind. 1999). If she had separately and independently analyzed Article 1,
+Section 14, we could have considered Seo’s case under our Indiana Constitution without
+needing to grapple with these heady Article III justiciability concerns.
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 8 of 9
+minds can disagree; indeed, many have. Our Court's decision on the
+merits today is thus not unreasonable, though I would come out the other
+way for the reasons further explained by Professor Kerr.°
+
+Slaughter, J., joins in part.
+
+5 A few months before our nation’s bicentennial anniversary, the Supreme Court all but rang
+the death knell of longstanding precedent that barred the government from forcing a
+defendant “to give evidence that tends to criminate him,” Boyd v. United States, 116 U.S. 616,
+638 (1886), holding that the Fifth Amendment is not violated merely because the State
+compels a defendant to turn over incriminating evidence, Fisher v. United States, 425 U.S. 391,
+409 (1976). But the endurance of that view remains to be seen. Indeed, at least three sitting
+Justices of the U.S. Supreme Court have questioned this understanding. See Carpenter v. United
+States, 138 S. Ct. 2206, 2271 (2018) (Gorsuch, J., dissenting) (“[T]here is substantial evidence
+that the privilege against self-incrimination was also originally understood to protect a person
+from being forced to turn over potentially incriminating evidence.”); United States v. Hubbell,
+530 U.S. 27, 49 (2000) (Thomas, J., concurring) (“A substantial body of evidence suggests that
+the Fifth Amendment privilege protects against the compelled production not just of
+incriminating testimony, but of any incriminating evidence.”); Samuel A. Alito, Jr., Documents
+and the Privilege Against Self-Incrimination, 48 U. Pitt. L. Rev. 27, 78 (1986) (“The individuals
+who framed, adopted, and ratified the fifth amendment left no clear evidence that they ever
+considered the application of the privilege to subpoenas for documents.”). Even then-Justices
+Brennan and Stevens —no originalists! agreed that the new framework unnecessarily and
+detrimentally departed from Boyd. See Fisher, 425 U.S. at 414 (Brennan, J., concurring in the
+judgment) (Because it represented “a serious crippling of the protection secured by the
+privilege against compelled production of one’s private books and papers,” Fisher was “but
+another step in the denigration of privacy principles settled nearly 100 years ago” in Boyd.);
+Doe v. United States, 487 U.S. 201, 221 n.2 (1988) (Stevens, J., dissenting) (“The Fifth
+Amendment provides that no person ‘shall be compelled in any criminal case to be
+
+a witness against himself.’ A witness is one who ‘gives evidence in a cause.’ T. Cunningham,
+2 New and Complete Law Dictionary (2d ed. 1771).”). A return to Boyd would end the
+constitutional hair-splitting that results when applying old precedents to new technology in
+this digital age. But this Court, especially in a moot case, should not prognosticate Boyd’s
+resurrection. Cf. Timbs, 84 N.E.3d at 1183 (choosing “to await guidance from the Supreme
+Court and decline to find or assume incorporation until the Supreme Court decides the issue
+authoritatively”). The Supreme Court must, at some point, decide how to apply its modern
+Fifth Amendment jurisprudence to the compelled unlocking of a smartphone or, perhaps,
+return to Boyd. In the meantime, that uncertainty further counsels that we dismiss this appeal
+as moot.
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 9 of 9
+Slaughter, J., dissenting.
+
+I respectfully dissent. Although I agree with Justice Massa that this
+case is moot, I write separately because I disagree that a mootness
+exception justifies our reaching the merits of Seo’s constitutional claim. In
+my view, our prevailing mootness standard does not conform to our
+constitution’s mandate of separate governmental powers. In lieu of our
+prevailing standard, I would adopt the federal standard because,
+consistent with Article 3, Section 1 of our state constitution, it requires that
+courts decide only actual disputes. Applying this standard here, I would
+find Seo’s appeal moot and not reach the merits of her Fifth Amendment
+claim.
+
+A
+
+As Justice Massa recites correctly, appellate case law in Indiana holds
+that our courts may decide otherwise moot cases if the legal question is
+sufficiently important and will likely recur. The Court says that Seo’s
+appeal is such a case, thus justifying our reaching the merits even if her
+case were moot. Although case authority generally supports such a broad
+mootness exception, the cases are not uniform.
+
+Some cases appear to have applied the stricter federal exception, in
+which a court will not decide a moot issue unless it is capable of
+repetition, yet evading review. But courts that have applied the federal
+exception confuse the issue by also invoking our laxer state mootness
+standard. See, e.g., Horseman v. Keller, 841 N.E.2d 164, 170 (Ind. 2006)
+(invoking state standard first: “Where there is a matter of great public
+importance, however, and the possibility of repetition, Indiana courts may
+choose to adjudicate a claim.”; but concluding with federal standard:
+“Because the question before us is capable of repetition, yet evading
+review, we now address the constitutionality of [the disputed statute].”)
+(cleaned up); Gaither v. Indiana Dep't of Correction, 971 N.E.2d 690, 693-94
+(Ind. Ct. App. 2012) (same).
+
+I would clarify any ambiguity in our appellate precedent and hold that
+any mootness doctrine consistent with our state constitution’s mandate of
+
+separate governmental powers requires an actual dispute.
+B
+
+Our constitution divides the powers of government among “three
+separate departments; the Legislative, the Executive including the
+Administrative, and the Judicial”. Ind. Const. art. 3, § 1. It also mandates
+that “except as in this Constitution expressly provided”, “no person,
+charged with official duties under one of these departments, shall exercise
+any of the functions of another”. Id. After discussing the powers and
+functions of the other departments, our constitution charges courts with
+exercising the “judicial power”. Id. art 7, § 1. This delegation of power to
+the judiciary has two aspects: courts may exercise only the judicial power;
+and only courts may exercise this power. Id.
+
+What, precisely, is the judicial power? It is the power to resolve actual
+disputes between adverse parties by issuing binding decrees that
+pronounce the parties’ rights and responsibilities and afford meaningful
+relief to the prevailing party. Although our constitution does not contain
+an express “case or controversy” requirement like Article III of the federal
+constitution, “our explicit separation of powers clause fulfills a similar
+function.” Pence v. State, 652 N.E.2d 486, 488 (Ind. 1995). Relevant here,
+that function limits courts to deciding justiciable controversies.
+
+Justiciability concerns the power and propriety of a court to hear a case
+and award relief. As I wrote in Horner v. Curry, standing is an essential
+aspect of justiciability because it ensures that a judicial decree redresses an
+actual injury attributable to the defendant’s wrong. 125 N.E.3d 584, 612,
+615 (Ind. 2019) (Slaughter, J., concurring in the judgment). Also essential
+are the related doctrines of ripeness and mootness. Standing asks who
+may bring suit. Ripeness and mootness ask when suit may be brought.
+With ripeness, the issue is whether the claim has sufficiently developed —
+matured —into an actual controversy so that courts are resolving real
+disputes, not anticipated cases based on hypothetical facts. With
+mootness, the issue is whether a once-mature claim has “over-ripened” to
+the point that a court’s judgment can no longer afford the claimant
+effective relief.
+
+These justiciability doctrines respect and implement separation of
+powers. They ensure that the judiciary retains its proper role within our
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 2 of 4
+constitutional order and leaves the political branches undisturbed, absent
+a legal wrong. And even then, courts will not exercise their power unless a
+claimant has standing and the case is ripe. In other words, courts will hear
+a case only when a claim is sufficiently mature such that the claimant has
+sustained an actual injury; the claimant can obtain meaningful relief from
+a judgment against the defendant; and the claimant continues to have a
+personal stake in the outcome throughout the lawsuit. What follows from
+these doctrines is that the only mootness standard consistent with our
+constitution’s requirement of distributed governmental powers is one
+requiring an actual, ongoing controversy between adverse parties. The
+federal mootness standard fills that bill.
+
+To be justiciable, the federal standard requires that an otherwise moot
+case be capable of repetition, yet evading review. See Honig v. Doe, 484
+U.S. 305, 318-20 (1988). In other words, it requires a case to present a
+question likely to recur between the same parties in circumstances that
+will likely skirt judicial review. See id. Although the evade-review
+requirement is a prudential consideration, the capable-of-repetition
+requirement is constitutionally required, demanding a “demonstrated
+probability” that the same issue will arise between the same parties.
+Murphy v. Hunt, 455 U.S. 478, 482 (1982). “Where the conduct has ceased
+for the time being but there is a demonstrated probability that it will
+recur, a real-life controversy between parties with a personal stake in the
+outcome continues to exist[.]” Honig, 484 U.S. at 341 (Scalia, J., dissenting)
+(emphasis in original). Thus, this so-called “exception” to the mootness
+doctrine is really no exception at all but a test for determining whether an
+actual dispute remains.
+
+In contrast, Indiana’s prevailing mootness doctrine rejects the narrow
+federal doctrine, see Matter of Lawrance, 579 N.E.2d 32, 37 (Ind. 1991), and
+recognizes an open-ended exception for moot cases involving “questions
+of great public interest”. Id. (cleaned up). Although these cases “typically
+contain issues likely to recur”, id., we assess whether the issues are likely
+to recur not with reference to a case’s specific parties but to any
+conceivable party. See id. Thus, a court may decide an otherwise moot
+case if someone—anyone—may face the same issue in the future. But this
+
+lone requirement— an issue of great public importance likely to recur—
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 3 of 4
+does not make a case suitable for adjudication under our constitution. The
+case must have a demonstrated probability that it will recur between the
+same parties; otherwise, there is no actual dispute, and any adjudication
+exceeds the judicial power.
+
+Not only does our mootness doctrine lack any tie to our essential,
+though limited, constitutional role, but how we apply our justiciability
+principles has proved unpredictable in practice. Just last month, we held
+unanimously that the governor could not intervene in a pending
+disciplinary action involving the attorney general. Matter of Hill, 144
+N.E.3d 200 (Ind. 2020). The governor asked us to answer the timely,
+pressing question whether our thirty-day suspension of the attorney
+general's law license created a vacancy in the office that triggered the
+governor's legal duty to fill it. No one disputed that the governor’s motion
+raised an issue of “great public importance”. Yet we denied intervention
+—correctly, in my view —because, among other reasons, we do not issue
+advisory opinions and the governor had no legally cognizable interest in
+the underlying case. In other words, the proposed intervention lacked the
+criteria for justiciability, despite the importance of the issue raised.
+
+GC
+
+Even if I agreed that Seo has raised a “novel, important issue of great
+public importance that will surely recur”, that standard cannot be
+reconciled with the actual-injury requirement implicit in our constitution’s
+separation-of-powers command. Instead, I would adopt “capable of
+repetition, yet evading review” as our mootness standard. Applying it
+here, I would hold that Seo’s Fifth Amendment claim is moot and not
+reach the merits.
+
+Indiana Supreme Court | Case No. 18S-CR-595 | June 23, 2020 Page 4 of 4

@@ -1,0 +1,872 @@
+ATTORNEY FOR APPELLANT
+
+Glen E. Koch, IT
+Boren Oliver & Coffey, LLP
+Martinsville, Indiana
+
+ 
+   
+   
+       
+   
+
+FILED
+
+Feb 22 2019, 9:13 am
+
+CLERK
+
+Indiana Supreme Court
+
+Court of Appeals
+and Tax Court
+
+ATTORNEYS FOR APPELLEE
+
+Curtis T. Hill, Jr.
+Attorney General of Indiana
+
+Justin F. Roebel
+Deputy Attorney General
+Indianapolis, Indiana
+
+IN THE
+
+COURT OF APPEALS OF INDIANA
+
+Meghan E. Price,
+Appellant-Defendant,
+
+Vv.
+
+State of Indiana,
+Appellee-Plaintiff:
+
+Riley, Judge.
+
+February 22, 2019
+
+Court of Appeals Case No.
+18A-CR-1513
+
+Appeal from the Morgan Circuit
+Court
+
+The Honorable Matthew G.
+Hanson, Judge
+
+Trial Court Cause No.
+55C01-1706-F1-1253
+
+Court of Appeals of Indiana | Opinion 18A-CR-1513 | February 22, 2019 Page 1 of 26
+STATEMENT OF THE CASE
+
+Appellant-Defendant, Meghan Price (Price), appeals her conviction for neglect
+
+of a dependent resulting in death, a Level 1 felony, Ind. Code § 35-46-1-4(b)(3).
+
+We affirm.
+
+ISSUE
+
+Price presents one issue on appeal, which we restate as: Whether the trial court
+
+abused its discretion by admitting certain evidence.
+
+FACTS AND PROCEDURAL HISTORY
+
+Price’s son, B.P., was on born in June 2011. As an infant, B.P. exhibited
+difficulties in gaining weight and had developmental delays. Subsequent
+genetic testing revealed that B.P.’s developmental delays were attributed to a
+condition called Fragile X chromosome. Fragile X is an indicator of autism,
+and it is associated with lack of impulse control, disruptive behavior, and
+aggressiveness. Significant developmental delays followed with B.P.’s speech
+being limited to single words until age four, followed by a limited vocabulary of
+
+approximately 25 words. B.P. also had a history of self-injurious behavior.
+
+On July 14, 2014, an officer from the Morgan County Sheriff's Department was
+dispatched to Price’s residence after receiving a report of a domestic dispute.
+Price informed the officer that B.P. had incurred some bruising while in the care
+of her boyfriend, Steven Ingalls (Ingalls). Ingalls was not present when the
+
+officer arrived. During the visit, the officer noted that B.P. had a scratch above
+
+Court of Appeals of Indiana | Opinion 18A-CR-1513 | February 22, 2019 Page 2 of 26
+his ear, a bruise to the right side of his forehead, and a purple bruise on his
+cheek. Price indicated that the domestic dispute resulted following a verbal
+altercation with Ingalls regarding B.P.’s injuries. After taking pictures of B.P.’s
+injuries, the officer left but reported the incident to the Department of Child
+Services (DCS). Price thereafter notified her family members and friends that
+Ingalls had moved out and she did not intend on dating him again. A few
+
+months later, Price and Ingalls resumed their relationship.
+
+On November 18, 2015, Price called St. Vincent Hospital pediatric emergency
+department claiming that B.P. had ingested an unknown substance at a grocery
+store, had dilated eyes, and a low heart rate. Price stated that she was on her
+way to the hospital. Ingalls went with Price. While treating B.P., the attending
+nurse instructed Price to change B.P. into a gown. As the nurse was inquiring
+about B.P.’s medical history, she noticed that B.P. had “quite a bit of scratches
+on his face and neck and bruising all over his body.” (Tr. Vol. VII, p. 57).
+Based on B.P.’s injuries, the attending nurse contacted a social worker, who in
+turn interviewed Ingalls and Price. During the interview, Ingalls was
+“dismissive,” and at “one point, he stormed out of the room” but later returned
+
+to finish the child abuse assessment. (Tr. Vol. VIII, p. 43).
+
+On December 1, 2015, B.P. began preschool at Waverly Elementary School.
+On B.P.’s third day of school, Price informed the teacher that B.P. had injured
+his penis with his zipper. While changing B.P.’s diaper that day, the teacher
+observed the head of B.P.’s penis “was extremely bruised.” (Tr. Vol. VI, p. 50).
+As the school year progressed, B.P. missed school with unexcused absences on
+
+Court of Appeals of Indiana | Opinion 18A-CR-1513 | February 22, 2019 Page 3 of 26
+twenty-five days. B.P. would return from those absences with new injuries, and
+Price would offer an explanation. The school nurse documented B.P.’s injuries
+as follows: multiple bruises on December 15, 2015; a large knot on his head on
+February 1, 2016; various bruises on his head including a “large green bruise on
+left forehead with a large knot” and eyelid bruising on February 11, 2016;
+bruises “all over [the] sides [of his] head” and other bruises all over his body “in
+various stages of healing” on March 3, 2016. (State’s Ex. Vol. II, p.160). In
+
+February 2016 and March 2016, the school contacted DCS about the injuries.
+
+In the fall semester of 2016, B.P. had a total of nineteen absences. The school
+nurse continued to document B.P.’s injuries: Pinch marks all over his penis;
+pinch like “bruise on his left ear,” and “busted lip.” (State’s Ex. Vol. II, p.160).
+In September 2016, B.P. was treated for a broken arm and for a face laceration.
+The school bus driver also saw Price threaten “to pop [B.P.] right in the mouth”
+for using foul language. (Tr. Vol. VI, p. 79). In October 2016, B.P. was
+withdrawn from the school. Price conveyed to a friend that she was
+homeschooling B.P. since she was “over the crap” of B.P.’s school reporting her
+
+to DCS regarding B.P.’s injuries. (Tr. Vol. V, p. 187).
+
+On November 8, 2016, B.P. was seen at St. Vincent Hospital for a lip laceration
+and underwent surgery two days later. On November 15, 2016, Price took B.P
+to St. Vincent Hospital yet again since he was having trouble breathing. The
+treating physician did not observe breathing difficulties in B.P., but he noticed
+that B.P. had bruising underneath both eyes. During a follow up appointment
+
+on November 22, 2016, B.P. was diagnosed with asthma and a sinus infection.
+
+Court of Appeals of Indiana | Opinion 18A-CR-1513 | February 22, 2019 Page 4 of 26
+[10]
+
+On November 23, 2016, at approximately 10:00 a.m., an unidentified male
+voice called 911 and reported that there was an unconscious, unresponsive child
+that was not breathing at Price’s apartment. Moments later, emergency trained
+technicians (EMTs), firefighters, and police arrived at Price’s apartment
+building. Ingalls was observed “walking around” like a “complete bystander”
+with “no emotion” holding his infant son and B.P.’s younger brother. (Tr. Vol.
+IV, pp. 134-35). EMTs then heard someone yell for help inside the building.
+The EMTs found B.P. who was unconscious at the bottom of the common
+stairway. When the EMTs asked Price what had happened, Price said that B.P.
+went to bed at 8:30 p.m. the night before, and that shortly before 911 was
+
+called, she checked on him and found him unresponsive.
+
+The EMTs attempted CPR but were unable to open B.P.’s jaw. After efforts to
+set up an airway failed, they placed an oxygen mask over B.P.’s mouth and
+nose. One of the EMTs then picked up B.P. and carried him to the ambulance.
+Inside the ambulance, the EMTs inserted an IV and gave B.P. one dose of
+“epinephrine,” and they arrived at the hospital shortly thereafter. (Tr. Vol. IV,
+
+p. 138).
+
+Detective Chad Richhart (Detective Richhart) of the Mooresville Police
+Department arrived as the ambulance was leaving with B.P. Because Price and
+Ingalls could not ride with B.P. in the ambulance, Detective Richhart and
+another officer transported them to the hospital. Price was barefoot, and she
+went back to the apartment to retrieve her shoes before going to the hospital.
+Price’s neighbor, Tiffany Hall, Ingalls, and Detective Richhart followed Price to
+
+Court of Appeals of Indiana | Opinion 18A-CR-1513 | February 22, 2019 Page 5 of 26
+[14]
+
+the apartment. Detective Richhart stood by the apartment’s doorway. While
+waiting for Price to get ready, Detective Richhart “saw [Price] once or twice
+come up and down the hallway [and] into the living room” and ask Ingalls
+“where is the camera card, where is the camera card?” (Tr. Vol. VII, p. 133).
+Detective Richhart rode with Ingalls, while Price rode with the other officer to
+
+the hospital.
+
+At the hospital, Price and Ingalls made inconsistent statements regarding B.P.’s
+mouth injury and when B.P. was last seen in his normal state. For example,
+Price informed a family friend at the hospital that “when the EMTs tried to
+intubate [B.P] . . . they ripped his lip open.” (Tr. Vol. V, p. 236). Price later
+informed that same friend that she had found B.P. “unresponsive, hanging over
+the side of his bed,” and that she carried him to the living room and then “used
+a flathead screwdriver to pry his mouth open so she could” administer CPR on
+
+him. (Tr. Vol. VI, pp. 9-10).
+
+As soon as Detective Richhart dropped Ingalls off at the hospital, he went back
+to the apartment. After briefly talking to another officer at the scene, Detective
+Richhart determined that Price’s apartment was not secure. Also, Detective
+Richhart hoped that the walkthrough could be helpful to detect any apparent
+dangerous substances that B.P. might have ingested, and he intended to convey
+that information to the doctors who were treating B.P. During his
+walkthrough, Detective Richhart saw some blood on the bedding in B.P.’s
+bedroom, and on the bedroom floor carpet. Shortly thereafter, Detective
+
+Richhart and the other officer exited Price’s apartment. At approximately
+
+Court of Appeals of Indiana | Opinion 18A-CR-1513 | February 22, 2019 Page 6 of 26
+[15]
+
+[16]
+
+10:38 a.m., Detective Richhart received a call from the hospital that B.P. had
+
+died.
+
+Detective Richhart instructed another officer to seek a search warrant for the
+apartment. After the warrant was issued, the officers began processing Price’s
+apartment for evidence. In B.P.’s bedroom, the officers found a blood spot on
+the carpet, and inside the closet. They recovered a “green pillow that also had
+some blood and a greenish fluid” which seemed like vomit. (Tr. Vol. IV, p.
+187). The officers also found a flathead screwdriver on a table that had blood.
+The officers also documented the medications in the apartment and counted the
+
+pills.
+
+At around 11:00 a.m., Ingalls and Price returned to the apartment, and Price
+was furious that the officers were conducting a search of her apartment and
+could not let her inside. While searching B.P.’s bedroom, the officers located a
+camera by B.P.’s bed. Detective Richhart went outside and asked Price how
+the camera worked, and Price said that it “sort of’ ran “like a monitor” and
+that it recorded video footage and sent it to “an app” on Price’s cellphone. (Tr.
+Vol. VII, p. 140). Detective Richhart asked Price if he could have her phone,
+and Price indicated that it was in the house. Detective Richhart eventually
+found Price’s cellphone in Price’s bedroom, but it had no power. Detective
+Richhart took the phone to Price, who was sitting outside the apartment in a
+
+vehicle, to seek help.
+
+Court of Appeals of Indiana | Opinion 18A-CR-1513 | February 22, 2019 Page 7 of 26
+[17]
+
+[18]
+
+[19]
+
+After the phone had powered, Price informed Detective Richhart that she
+needed to check several things on her phone. Detective Richhart informed
+Price that he “didn’t want her accessing the phone at that time.” (Tr. Vol. VII,
+p. 142). After about “twenty or thirty seconds” of Price “actively . . . hitting the
+screen,” Detective Richhart reached into the car and grabbed the cellphone
+from Price. (Tr. Vol. VII, p. 142). Detective Richhart then ordered another
+
+officer to obtain a warrant to search Price’s cellphone.
+
+B.P.’s autopsy revealed that he was a “very frail” five-year-old weighing about
+thirty-five pounds. (Tr. Vol. V, p. 133). B.P.’s cause of death was determined
+to be asphyxiation and the effects of elevated levels of several medications.
+The toxicology report revealed that B.P. had “very elevated levels” of two
+medications—Sertraline and Clonidine. Sertraline is an antidepressant which,
+in high doses, can cause “depression of the respiratory system.” (Tr. Vol. V, p.
+103). Clonidine is a blood pressure medication which treats anxiety and it can
+cause the lowering of “blood pressure.” (Tr. Vol. V, p. 103). Also, the
+toxicology report showed that Risperidone, a prescribed drug that treats
+schizophrenia, was found in B.P.’s body. When the three drugs are used
+
+together, they can cause drowsiness, sleepiness, and low blood pressure.
+
+By another search warrant, Price’s phone was searched. There were several
+texts messages between Price and Ingalls. On November 12, 2016, two weeks
+before B.P. died, Price and Ingalls exchanged a long series of text messages that
+
+discussed B.P. Ingalls wrote to Price stating
+
+Court of Appeals of Indiana | Opinion 18A-CR-1513 | February 22, 2019 Page 8 of 26
+[20]
+
+I hate your son, he is nothing but a troublemaking worthless
+excuse for a retard[] down to his DNA core malnutritioned ugly
+should[’]ve been cum stain that needs to rot in a mental
+institution playing with his own feces and pissing on himself
+while the nursing staff beats him until he’s deaf dumb and
+motionless. I want to buy a ticket to the moment he takes his last
+breath, so I can be the last thing he sees as I rip his jawbone off of
+his face and personally cut his brainstem in half just to make sure
+not one more stupid fucking thought processes in his two-celled
+fucking brain. He’ll never have a dad be no one in their right
+fucking mind will ever stay around more than 5 minutes around
+that fucked up kid that [can’t] go 2 days without bashing his own
+face into [] whatever he can so mommy will love on him. Lol,
+kill him while he’s young and do something with your life before
+he robs you of any chance of ever being happy or being anything
+other than a stay at home [retard] caretaker.
+
+(State’s Exh.140). In response, Price wrote
+
+He’s not ruining my life, [I’ll] run for the fucking hills before [I]
+stay stressed my entire life or kill him in such a violent way that
+the news can’t even describe the scene without throwing up. I’m
+not going to prison over that little scrawny hand-flapper.
+
+(State’s Exh.145). Two days after Price sent the above text to Ingalls, she
+conducted an internet search on her phone for information about Risperidone
+overdose. DNA testing also revealed that the blood spots found on the green
+pillow and carpet belonged to B.P. B.P.’s DNA was also found on the flathead
+
+screwdriver found inside Price’s home.
+
+On June 23, 2017, the State filed an Information, charging Price with Count I,
+
+conspiracy to commit murder, a Level 1 felony; Count II, neglect of a
+
+Court of Appeals of Indiana | Opinion 18A-CR-1513 | February 22, 2019 Page 9 of 26
+[21]
+
+[22]
+
+dependent resulting in death, a Level 1 felony; and Count II, neglect of a
+dependent resulting in bodily injury, a Class C felony. The State later amended
+the charges to Count I, conspiracy to commit murder, a Level 1 felony; Count
+II, neglect of a dependent resulting in death, a Level 1 felony; and Count III,
+neglect of a dependent resulting in serious bodily injury, a Level 3 felony. The
+
+State later dismissed the Level 1 felony conspiracy to commit murder. !
+
+On May 25, 2018, Price filed a motion to suppress evidence from the search of
+her apartment and the search of her cell phone. Price argued that the search
+warrant for the apartment was obtained based on information learned during an
+unlawful walk-through of the apartment. With regard to the phone, Price
+argued it was improperly seized and the search warrant was not supported by
+probable cause. On May 26, 2018, the State filed a responsive motion, and
+
+after an evidentiary hearing, the trial court denied Price’s motion.
+
+A jury trial was held on June 1 through June 12, 2018. At trial, Price renewed
+her motion to suppress but it was denied. At the close of the evidence, Price
+was found guilty of Level 1 felony neglect of a dependent resulting in death and
+Level 3 felony neglect of a dependent resulting in serious bodily injury. On
+June 26, 2016, the trial court conducted a sentencing hearing, merged the Level
+
+3 felony neglect of a dependent resulting in serious bodily injury into the Level
+
+' Initially, the State had alleged that the Class C felony offense was committed between January 1, 2014 and
+June 30, 2014. However, in the amended Information, the State changed the dates, alleging that the neglect
+of a dependent resulting in bodily injury occurred between July 1, 2014 and November 23, 2016.
+
+Court of Appeals of Indiana | Opinion 18A-CR-1513 | February 22, 2019 Page 10 of 26
+[23]
+
+[24]
+
+1 felony neglect of a dependent resulting in death. The trial court then
+
+sentenced Price to a term of thirty-six years in the Department of Correction.
+
+Price now appeals. Additional facts will be provided as necessary.
+
+DISCUSSION AND DECISION
+I. Standard of Review
+
+Price argues that the trial court abused its discretion by denying her motion to
+suppress evidence obtained from the search of her apartment and her cellphone,
+arguing that both searches violated her Fourth Amendment rights under the
+United State Constitution.? Although Price originally challenged the admission
+of the evidence through a motion to suppress, she appeals following a
+completed trial and challenges the admission of such evidence at trial. Thus,
+the issue is appropriately framed as whether the trial court abused its discretion
+by admitting the evidence at trial. Lanham v. State, 937 N.E.2d 419, 421-22
+(Ind. Ct. App. 2010). The admission or exclusion of evidence is a
+determination entrusted to the discretion of the trial court. Farris v. State, 818
+N.E.2d 63, 67 (Ind. Ct. App. 2004), trans. denied. We will reverse a trial court’s
+
+decision only for an abuse of discretion. Jd. An abuse of discretion occurs
+
+? Price also asserts that search of her apartment and seizure and search of her phone violated her rights under
+Article 1, Section 11, of the Indiana Constitution. However, Price fails develop her argument, and it is
+therefore waived. Ind. Appellate Rule 46(A)(8)(a), see also, Francis v. State, 764 N.E.2d 641, 646-47 (Ind. Ct.
+App. 2002) (notes that Indiana courts interpret and apply Article I, Section 11 independently from federal
+Fourth Amendment jurisprudence and failure by a defendant to provide separate analysis waives any claim
+of error).
+
+Court of Appeals of Indiana | Opinion 18A-CR-1513 | February 22, 2019 Page 11 of 26
+[25]
+
+[26]
+
+when the trial court’s action is clearly erroneous and against the logic and effect
+y 8 8
+
+of the facts and circumstances before it. Id.
+
+Il. Initial Entry to Price’s Apartment
+
+The Fourth Amendment states,
+
+The right of the people to be secure in their persons, houses,
+papers, and effects, against unreasonable searches and seizures,
+shall not be violated, and no Warrants shall issue, but upon
+probable cause, supported by Oath or affirmation, and
+particularly describing the place to be searched, and the persons
+or things to be seized.
+
+“The fundamental purpose of the Fourth Amendment ‘is to protect the
+legitimate expectations of privacy that citizens possess in their persons, their
+homes, and their belongings.’” Hines v. State, 981 N.E.2d 150, 153 (Ind. Ct.
+
+App. 2013).
+
+Here, Price argues that Detective Richhart violated her Fourth Amendment
+rights by conducting a warrantless entry of her apartment. The State responds
+by stating that the “brief walk-through of the residence was permitted pursuant
+to the exception for exigent circumstances” and the warrant requirement was
+therefore “inapplicable.” (Appellees’ Br. pp. 26-27). We agree.
+[S]earches or seizures inside a home without a warrant are
+presumptively unreasonable. “However, ‘on occasion the public
+interest demands greater flexibility than is offered by the
+constitutional mandate’ of the warrant requirement.”
+
+Accordingly, there are some carefully delineated exceptions to
+the warrant requirement. “A search without a warrant requires
+
+Court of Appeals of Indiana | Opinion 18A-CR-1513 | February 22, 2019 Page 12 of 26
+the State to prove an exception to the warrant requirement
+applicable at the time of the search.”
+
+One exception allows police to dispense with the warrant
+requirement in the presence of exigent circumstances. “The
+warrant requirement becomes inapplicable where the ‘exigencies
+of the situation’ make the needs of law enforcement so
+compelling that the warrantless search is objectively reasonable
+under the Fourth Amendment.” Among the well-known exigent
+circumstances that have justified a warrantless search or seizure
+are entries (1) to prevent bodily harm or death; (2) to aid a person
+in need of assistance; (3) to protect private property; and (4) to
+prevent actual or imminent destruction or removal of
+incriminating evidence before a search warrant may be obtained.
+Exigent circumstances have also been found where a suspect is
+fleeing or likely to take flight in order to avoid arrest; or the case
+involves hot pursuit or movable vehicles. In addition, we have
+found exigent circumstances where police entered to aid or
+prevent further injury to victims of violent crime.
+
+McDermott v. State, 877 N.E.2d 467, 473-74 (Ind. Ct. App. 2007) (citations
+
+omitted).
+
+In this case, following a 911 call, officers were dispatched to Price’s apartment
+after a report that B.P. had been found unconscious. The officers’ arrival was
+contemporaneous with the EMTs. Because Ingalls and Price could not ride
+with B.P. in the ambulance, Detective Richhart and another officer transported
+them to the hospital. Detective Richhart thereafter returned to Price’s
+apartment. At Price’s jury trial, Detective Richhart testified that when he
+
+returned, he briefly spoke to another officer at the scene and determined that
+
+Court of Appeals of Indiana | Opinion 18A-CR-1513 | February 22, 2019 Page 13 of 26
+[29]
+
+Price’s apartment was not secure since he “didn’t know if there was anybody
+else in the apartment.” (Tr. Vol. VII, p. 135). Detective Richhart added
+
+I just wanted to make sure . . . that there were [] no animals, no
+
+other people, no apparent dangers. At this time, we had [] no
+
+idea what had happened to [B.P.]. So we didn’t know if [B.P.]
+
+had gotten into anything. And if he had been, would there have
+
+been something apparent that may have helped the doctors make
+
+a medical diagnosis. Like I said, we just didn’t know if there was
+anything that [] could disrupt even evidence from the scene.
+
+(Tr. Vol. VII, p. 135). Based on that reasoning, at approximately 10:38 a.m.,
+and in the company of another officer, Detective Richhart entered Price’s
+apartment. During a brief walkthrough that lasted for a about a minute,
+Detective Richhart observed blood spots on the bedding in B.P.’s room and a
+blood spot on the bedroom carpet. No apparent dangers, such as chemical
+substances, were lying around. Moments after exiting Price’s apartment,
+Detective Richhart received a call from the hospital that B.P. had died. At that
+point, Detective Richhart called another officer and instructed him to obtain a
+
+warrant.
+
+In Middleton v. State, 714 N.E.2d 1099, 1103 (Ind. 1999), our supreme court
+noted that “[s]ecuring the house eliminates any risk of destruction of evidence.”
+Here, we find Detective Richhart’s cursory walkthrough was permissible in
+
+ensuring Price’s apartment was secure.
+
+Secondly, we note that “[t]he very point of exigent circumstances is that officers
+
+are confronted with a situation where time is of the essence and immediate
+
+Court of Appeals of Indiana | Opinion 18A-CR-1513 | February 22, 2019 Page 14 of 26
+[30]
+
+action required.” Montgomery, 904 N.E.2d at 381. As stated by the Supreme
+Court, “[w]e do not question the right of the police to respond to emergency
+situations . .. The need to protect or preserve life or avoid serious injury is
+justification for what would be otherwise illegal.” Mincey v. Arizona, 437 U.S.
+385, 392-93, 98 S.Ct. 2408, 57 L.Ed.2d 290 (1978). We cannot find many
+situations more urgent than a child who has been found unconscious, was on
+his way to the hospital, and an officer’s need to save that child’s life by looking
+for apparent dangerous substances in the apartment that the child might
+possibly have consumed, and in turn offering that information to doctors to aid
+in the child’s treatment. Additionally, we note that unlike the majority of cases
+discussing exigent circumstances, Detective Richhart’s entry was not motivated
+by an intent to apprehend a suspect or to seize incriminating evidence. See, e.g.,
+McDermott, 877 N.E.2d at 474. One of the concerns Detective Richhart had
+prior to entering Price’s apartment was to assist the doctors with any
+information that would aid in B.P.’s treatment. Detective Richhart was
+unaware that B.P. had died when he performed his cursory sweep, and the
+record is silent as to whether the walkthrough was geared at gathering
+
+incriminating evidence.
+
+Moreover, we find that Detective Richhart’s warrantless entry into Price’s
+home constituted a legitimate exercise of the community caretaking function of
+
+the police. The community caretaking function is:
+
+a catchall term for the wide range of responsibilities that police
+officers must discharge aside from their criminal enforcement
+
+Court of Appeals of Indiana | Opinion 18A-CR-1513 | February 22, 2019 Page 15 of 26
+activities. Indeed, besides enforcing criminal laws, police aid
+those in distress, combat actual hazards, prevent potential
+hazards .. . and provide an infinite variety of services to preserve
+and protect community safety.
+
+Wilford v. State, 50 N.E.3d 371, 375 (Ind. 2016). When Detective Richhart
+returned to Price’s apartment, he objectively believed that his cursory inspection
+of Price’s apartment would have been helpful to detect any apparent hazardous
+substances that B.P. might have consumed, and in turn, relay that information
+to the doctors who were treating B.P. In our view, we find that Detective
+Richhart was acting out of his concern for B.P. who was in need of medical
+assistance, and based upon the circumstance, we conclude that Detective
+Richhart was engaged in a community caretaking function and the entry did
+
+not violate Price’s Fourth Amendment rights.
+
+In her brief, Price argues that no exigency existed because Detective Richhart
+did not return to the apartment until 10:40 a.m. and that Detective Richhart
+“returned from the hospital approximately forty-five minutes after leaving”
+Price’s apartment. (Appellant’s Br. p. 16). The record does not support Price’s
+claim. Detective Richhart testified he returned to Price’s apartment “before
+10:30 a.m.,” and that he was gone for “a couple of minutes” after transporting
+Ingalls to a hospital which was “maybe 300 yards away.” (Suppression Tr. p.
+8). At the suppression hearing, and at trial, Detective Richhart consistently
+testified that he performed the walkthrough at 10:38 a.m. before learning of
+
+B.P.’s death and he hoped to find any apparent evidence that might assist the
+
+Court of Appeals of Indiana | Opinion 18A-CR-1513 | February 22, 2019 Page 16 of 26
+[33]
+
+doctors in B.P.’s treatment, and his walkthrough was intended to secure and
+
+preserve any evidence located in Price’s apartment.
+
+Under the facts and circumstances of this case, the State proved exigency and
+we conclude that Detective Richhart’s warrantless entry into Price’s apartment
+did not violate the Fourth Amendment. Thus, the trial court did not abuse its
+
+discretion in admitting any evidence derived from that walkthrough.
+
+II. Cellphone
+Next, Price argues that the seizure and search of her cellphone violated her
+rights under the Fourth Amendment.’ Specifically, she contends that Detective
+Richhart improperly seized her cellphone before obtaining a search warrant.
+
+Additionally, Price argues that the search warrant was overly broad.
+
+A. Seizure
+
+Absent probable cause, exigent circumstances alone are insufficient to justify a
+warrantless seizure. Harless v. State, 577 N.E.2d 245, 248 (Ind. Ct. App. 1991).
+(“[E]xigent circumstances justify dispensing with the search warrant, but do not
+eliminate the need for probable cause.”); Jones v. State, 409 N.E.2d 1254, 1258
+(Ind. Ct. App. 1980) (“A search without probable cause is never justified by the
+
+need to prevent the disappearance or destruction of evidence of a crime.”).
+
+5 Price likewise makes no separate analysis under the Indiana Constitution regarding the seizure and search
+of the cellphone. Thus, Price waives her claim since she fails to present a separate independent analysis
+supporting her state constitutional claim. See Lockett v. State, 747 N.E.2d 539, 541 (Ind. 2001).
+
+Court of Appeals of Indiana | Opinion 18A-CR-1513 | February 22, 2019 Page 17 of 26
+[35]
+
+[36]
+
+Whether a particular warrantless seizure violates the guarantees of the Fourth
+Amendment depends upon the facts and circumstances of each case. State v.
+Joe, 693 N.E.2d 573, 575 (Ind. Ct. App. 1998), trans. denied. “The State bears
+the burden of proving that the warrantless seizure fell within an exception to the
+
+warrant requirement.” Jd.
+
+The State asserts that exigent circumstance supported the seizure. Again, we
+note that “[e]xigent circumstances compelling quick action before a warrant can
+be obtained are recognized as . . . [an] exception” to the warrant requirement.
+Bryant v. State, 660 N.E.2d 290, 300-01 (Ind. 1995). This exception allows
+officers to act without a warrant when they “believe evidence may be destroyed
+or removed before a search warrant is obtained.” Hawkins v. State, 626 N.E.2d
+
+436, 439 (Ind. 1993).
+
+Turning to the present facts, during the search of Price’s apartment, Price and
+Ingalls relayed to other officers at the scene that there was a “monitor or a
+camera” in B.P.’s room, and that it “recorded” and sent footage to on an “app”
+on Price’s phone. (Tr. Vol. VII, p.140). Detective Richhart hoped that
+“whatever footage” that was in Price’s cellphone “could answer a lot of
+questions” regarding B.P.’s cause of death. (Tr. Vol. VII, p.140). After finding
+Price’s phone in Price’s bedroom, Detective Richhart asked Price for assistance
+to retrieve the video footage but started punching the cellphone screen. Because
+Detective Richhart reasonably believed that Price was deleting evidence from
+her phone, he correctly seized the phone. Here, the State proved both exigency
+and an objective reasonable belief from Detective Richhart that Price was
+
+Court of Appeals of Indiana | Opinion 18A-CR-1513 | February 22, 2019 Page 18 of 26
+[37]
+
+destroying evidence from her phone and the seizure of Price’s cellphone did not
+
+violate the Fourth Amendment.
+
+Price argues that we should reject the State’s exigency argument, and she
+contends that Detective Richhart improperly created the exigency prior to
+seizing her phone. In particular, she argues, that Detective Richhart unlawfully
+removed her “dead” phone from her apartment, brought it to her for assistance,
+instead of first “obtaining a warrant.” (Appellant’s Br. p. 20). As a general
+matter, officers may not circumvent the warrant requirement by purposefully
+creating exigent circumstances. State v. Williams, 615 N.E.2d 487, 488-89 (Ind.
+Ct. App. 1993). In Williams, a police officer already had probable cause to
+believe there were drugs in a residence before he knocked on the door and it
+thus was clearly foreseeable that the occupant would attempt to destroy
+contraband when the officer knocked and identified himself. Id. at 488-89. We
+held the officer’s subsequent entry into the residence after observing the
+occupant run through the house was unconstitutional and noted that there was
+no explanation as to why a search warrant had not been obtained before
+approaching the residence. Jd. Here, by contrast, Price indicated a willingness
+to help by charging and unlocking her phone, and that she would assist
+Detective Richhart in obtaining helpful video footage in her phone. However,
+after the phone was powered, Price began “actively punching stuff on the
+screen” and refused to return the phone when requested. (Tr. Vol. VIII, p.
+142). Detective Richhart had not foreseen that Price would destroy evidence
+
+from her phone, and based on Price’s alarming acts, Detective Richhart reached
+Pp 8
+
+Court of Appeals of Indiana | Opinion 18A-CR-1513 | February 22, 2019 Page 19 of 26
+into the car and grabbed the phone from Price’s hand. Under the circumstance,
+
+Detective Richhart seizure of Price’s phone was justified.
+Pp J
+
+B. Overly-Broad Search Warrant
+
+As an additional argument, Price argues that the warrant to search her phone
+was invalid because it was overly broad. The Fourth Amendment to the United
+States Constitution forbids general search warrants. “‘[A] warrant must describe
+the place to be searched and the items to be searched for.’” Overstreet v. State,
+783 N.E.2d 1140, 1158 (Ind. 2003) (quoting Phillips v. State, 514 N.E.2d 1073,
+1075 (Ind. 1987)), cert. denied, 540 U.S. 1150, 124 S.Ct. 1145, 157 L.Ed.2d 1044
+(2004). Athough the warrant must describe “with some specificity” where
+officers are to search and what they are to seize, “there is no requirement that
+there be an exact description.” Overstreet, 783 N.E.2d at 1158. Nonetheless, the
+warrant must be specific enough so that officers can, “with reasonable effort,”
+ascertain the place to be searched and the items to be seized. Steele v. United
+States, 267 U.S. 498, 503, 45 S.Ct. 414, 69 L.Ed. 757 (1925). This requirement
+“prevents the seizure of one thing under a warrant describing another. As to
+what is to be taken, nothing is left to the discretion of the officer executing the
+warrant.” Marron v. United States, 275 U.S. 192, 198, 48 S.Ct. 74, 72 L.Ed. 231
+(1927); see also Griffith v. State, 59 N.E.3d 947, 958 (Ind. 2016) (observing that a
+sufficient description avoids giving the police unbridled discretion). Ultimately,
+the description in a search warrant should “‘be as particular as circumstances
+permit.’” State v. Foy, 862 N.E.2d 1219, 1227 (Ind. Ct. App. 2007) (quoting
+United States v. Lievertz, 247 F.Supp.2d 1052, 1062 (S.D. Ind. 2002)). Moreover,
+
+Court of Appeals of Indiana | Opinion 18A-CR-1513 | February 22, 2019 Page 20 of 26
+to satisfy the particularity requirement, it is permissible if a warrant
+incorporates by reference certain supporting documents—such as the probable
+cause affidavit—that collectively “serv[e] to identify the scope of . . . items that
+
+could properly be seized.” Membres v. State, 889 N.E.2d 265, 276 (Ind. 2008).
+
+After re-seizing Price’s cellphone, Detective Richhart instructed another officer,
+Detective Larry Sanders (Detective Sanders) to obtain a warrant. A probable
+cause determination hearing was conducted pursuant to that request. Detective
+Sanders explained to the magistrate that the Mooresville Police Department
+was investigating the “suspicious death” of B.P. who had been found by Price
+unconscious that morning. (Appellant’s App. Vol. II, p. 141). Detective
+Sanders continued, “when [the officers] arrived, [Price] had blood on her, [B.P.]
+had blood on [his] face and mouth areas, and it appeared that [Price had] been
+giving CPR” to B.P. (Appellant’s App. Vol. II, p. 141). Detective Sanders
+mentioned that they had already obtained a warrant to search Price’s
+apartment, but the department was seeking an additional warrant to “do a
+forensic search” of Price’s phone. (Appellant’s App. Vol. II, p. 142). When
+asked what specific things the department hoped to find on Price’s cellphone,
+Detective Sanders stated, “[W]e have a phone, we’re trying to cross all of our
+T’s and dot all of our I’s []. Basically, Your Honor, we’re trying to verify her
+story, [i.e.] that at such time she called law enforcement or medical personnel to
+arrive, to where we received the phone call about 10:30 [a.m.].” (Appellant’s
+App. Vol. II, p. 144). Detective Sanders testified that the search was limited to
+
+“pertinent information” relating to B.P.’s suspicious death, and he testified that
+
+Court of Appeals of Indiana | Opinion 18A-CR-1513 | February 22, 2019 Page 21 of 26
+if the data on the cellphone is “erased” or reset to factory settings, the
+department would “lose” any possible leads. (Appellant’s App. Vol. II, p. 145).
+At the close of the probable cause determination hearing, the magistrate granted
+the warrant stating, it is “limited” in its “scope.” (Appellant’s App. Vol. II, p.
+
+146).
+
+The ensuing search warrant that permitted the search of Price’s cellphone
+g P p
+
+provided:
+
+The right to physically and forensically examine White Samsung
+Galaxy Express 3 phone in a black case belonging to Megan
+Price with [] serial number P86730V59F3, and the electronic
+data and intellectual content contained on said-device[],
+including but not limited to, phone settings and information,
+pictures, videos, audio files, ringtones, voicemails, contact lists,
+calendars, text messages, multi-media messages, other electronic
+communications, records of calls received, sent, or missed,
+details of internet activity, installed applications, memos, route
+data, location data, settings, databases, favorites, historical data,
+documents, and any user-related data, as well as any associated
+accessories, including, but not limited to, chargers, cables, media
+cards and SIM cards. These items will be seized and later
+examined. There may also be the need for decrypting and/or
+breaking of passwords.
+
+(All of which is evidence of the crimes of neglect, homicide)
+
+(Appellant’s App. Vol. II, p. 136) (emphasis in the original).
+
+Court of Appeals of Indiana | Opinion 18A-CR-1513 | February 22, 2019 Page 22 of 26
+[44]
+
+[42]
+
+Price argues that “[e]ven if there was probable cause to search [her] phone for
+texts and calls a few hours prior to the call to 911, that probable cause did not
+
+extend to searching everything on the phone.” (Appellant’s Br. p. 26).
+
+Recently, we addressed the type of evidence which would support a search of a
+suspect’s cellphone in Carter v. State, 105 N.E.3d 1121, 1127 (Ind. Ct. App.
+2018), trans. denied. One of Carter’s claims was that the search warrant
+authorized a broad search of his device and was therefore an impermissible
+general warrant. Id. The warrant in Carter’s case authorized the searching of
+
+his phone for:
+
+fruits, instrumentalities and evidence pertaining to the crime(s)
+of DEALING, POSSESSION and/or CONSPIRACY TO
+COMMIT DEALING OR POSSESSION OF
+METHAMPHETAMINE, as more particularly described as
+follows: [ ] Permission to search the above described phone for
+any information relating to calls, messages, including Facebook
+messages and accounts, and all information including but not
+limited to photographs, images, emails, letters, applications, and
+folders as well as any messages that may be stored on the phone
+that would indicate the identity of the phone’s owner/user and
+permission to view and copy said information if deemed
+necessary for preservation.
+
+Id. at 1129 (emphasis in the original). Notwithstanding Carter’s claims that the
+warrant was a general warrant, we determined that the
+
+the warrant specifically described the place law enforcement
+
+could search—the phone recovered from Carter—and specifically
+
+described what law enforcement could search for—(1) “any
+information relating to calls, messages, including Facebook
+
+Court of Appeals of Indiana | Opinion 18A-CR-1513 | February 22, 2019 Page 23 of 26
+[43]
+
+[44]
+
+messages and accounts,” and (2) “all information . . . that would
+indicate the identity of the phone’s owner/user.” [] Moreover,
+the first clause permitting the search for calls and messages
+enjoys a close nexus to the probable cause that justified issuing
+the search warrant—which is that Carter was a suspected drug
+dealer, and drug dealers use cell phones to communicate with
+others involved in illicit drug activity. [] Thus, this aspect of the
+search warrant was “tailored to its justifications.”
+
+Id. at 1130. (internal citations omitted).
+
+Similar to Carter, the warrant in Price’s case described the place law
+enforcement could search—i.e., Price’s white Samsung Galaxy, and the warrant
+authorized Mooresville Police Department to search for “electronic data and
+intellectual content contained on said-device[], including but not limited to, ...
+text messages, . . . records of calls received, sent, or missed.” (Appellant’s App. Vol.
+II, p. 136) (emphasis added). The clause of the warrant that related to searching
+of Price’s texts enjoyed a close nexus to the testimony offered by Detective
+Sanders at the probable cause determination hearing—that his department was
+investigating the suspicious death of B.P., and they hoped a search of Price’s
+
+phone would yield “pertinent information.” (Appellant’s App. Vol. II, p. 145).
+
+Price argues that the “warrant itself contains no limitation on dates or material
+to search for or a requirement that the search be related to confirming her story
+about finding [B.P.] shortly before calling 911[]; instead, it grants the broad
+right to physically examine the electronic data and intellectual content
+contained on [her] phone.” (Appellant’s Br. p. 27). We disagree. Like looking
+through drawers in a home or office file cabinet for specific files or letters that
+
+Court of Appeals of Indiana | Opinion 18A-CR-1513 | February 22, 2019 Page 24 of 26
+[46]
+
+are relevant to the investigation, a great deal of other information had to have
+been sifted through Price’s phone to find the relevant information. See Carter,
+105 N.E.3d at 1130 (citing United States v. Grimmett, 439 F.3d 1263, 1270 (10th
+Cir. 2006) (holding that “‘[A] computer search may be as extensive as
+reasonably required to locate the items described in the warrant’ based on
+probable cause.”) see also, Wheeler v. State, 135 A.3d 282, 301 (Del. 2016)
+(“Some irrelevant files may have to be at least cursorily perused to determine
+whether they are within the authorized search ambit.”). Although Detective
+Sanders’ testimony established that the scope of the search would be to verify
+Price’s version of events the morning B.P. died, Detective Sanders also testified
+that his department was investigating the suspicious death of B.P., and they
+were looking for any pertinent information relating to B.P.’s death. Indeed,
+two weeks prior, Ingalls and Price discussed killing B.P. through text messages,
+and these text messages were relevant pursuant to the specific portion of the
+warrant that authorized searching Price’s phone for messages relating to the
+
+death of B.P.
+
+Based on the foregoing, we conclude that the evidence seized from Price’s
+phone was not pursuant to an impermissibly general warrant. Therefore, the
+trial court did not abuse its discretion by admitting the evidence over Price’s
+
+objection.
+
+CONCLUSION
+
+Here, we hold that exigent circumstances existed to allow Detective Richhart’s
+
+warrantless entry into Price’s apartment and the trial court did not abuse its
+
+Court of Appeals of Indiana | Opinion 18A-CR-1513 | February 22, 2019 Page 25 of 26
+discretion by admitting evidence procured by that entry. Also, the trial court
+did not abuse its discretion by admitting evidence obtained from Price’s
+
+cellphone, and the search was pursuant to a valid search warrant.
+
+Affirmed.
+
+Kirsch, J. and Robb, J. concur
+
+Court of Appeals of Indiana | Opinion 18A-CR-1513 | February 22, 2019 Page 26 of 26

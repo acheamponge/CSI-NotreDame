@@ -1,0 +1,582 @@
+US. v. SCOTT
+
+927
+
+Cite as 975 F.2d 927 (ist Cir. 1992)
+
+B. Doctrine of Accession
+
+(7] Alternatively, CSA claims owner-
+ship of the enhanced technology under the
+common law doctrine of accession. The
+parties agree that Maine common law con-
+trols. Mathewson Corp. v. Allied Marine
+Indus., Inc., 827 F.2d 850, 853 n. 3 (1st
+Cir.1987) (appellate court will accept par-
+ties’ “expressed preference” and “implicit
+concession” as to controlling law, where
+“{t}hey have briefed the question in those
+terms and the district court ruled on that
+basis.”); In re Pioneer Ford Sales, Inc.,
+729 F.2d 27, 31 (Ist Cir.1984). Under
+Maine law, three factors govern whether
+an accession occurs.
+
+[A] chattel is not merged into the realty
+
+unless (1) it is physically annexed, at
+
+least by juxtaposition, to the realty or
+some appurtenance thereof, (2) it is
+adapted to and usable with that part of
+
+the realty to which it is annexed, and (8)
+
+it was so annexed with the intention, on
+
+the part of the person making the annex-
+
+ation, to make it a permanent accession
+
+to the realty.
+Franklin Property Trust v. Foresite, Inc.,
+489 A.2d 12, 14 (Me.1985) (citing Hayford
+v. Wentworth, 97 Me. 347, 350, 54 A. 940,
+941 (1903)) (emphasis added). See In re
+Lyford, 22 B.R. 222, 224 (Bankr.D.Me.1982)
+(applying Hayford factors to determine
+whether cab and chassis were accessions to
+truck). All three elements in the Hayford
+accession test must be met, but “special
+prominence must be attached to the inten-
+tion of the party making the annexation.”
+id. The party asserting the accession
+claim bears the burden of proof. Hayford
+v. Wentworth, 97 Me. 347, 350, 54 A. 940;
+Franklin Property Trust, 489 A.2d at 14.
+
+The district court supportably found, on
+the basis of testimony it explicitly credited,
+that the time taken to remove the “J”
+TCM’s and restore the original base tech-
+nology was not out of proportion to the
+time required for an ordinary upgrade and
+therefore that the “J” TCM’s were “readily
+removable.” Thus, it was not clear error
+to conclude that no physical annexation of
+the technology occurred. See, e.g., Peck-
+ham v. Continental Cas. Ins. Co., 895
+
+F.2d 830, 840 (Ist Cir.1990) (citing
+Anderson v. City of Bessemer City, 470
+US. 564, 573-74, 105 S.Ct. 1504, 1511, 84
+L.Ed.2d 518 (1985)) (no “clear error” where
+district court adopts plausible view of evi-
+dence). Furthermore, no evidence was prc-
+duced at trial that any party involved in the
+TCM installation ever anticipated, let alone
+that UNUM intended, that the TCM’s
+would become accessions to the CSA-owned
+computer. The uncontradicted testimony
+was to the contrary. Accordingly, the dis-
+trict court determination that CSA did not
+acquire the “J” TCM’s by accession under
+Maine common law must be affirmed.
+
+The district court judgment is aj-
+firmed.
+
+Ww
+(OE Key NUMBER SYSTEM
+=
+
+UNITED STATES of America, Appellant,
+ve
+Alan N. SCOTT, Defendant, Appellee.
+No. 91-2289.
+
+United States Court of Appeals,
+First Circuit.
+
+Heard July 27, 1992.
+Decided Sept. 22, 1992.
+
+Defendant charged with filing false in-
+come tax returns moved to suppress evi-
+dence of shredded documents found in gar-
+bage bags in front of his house. The Unit-
+ed States District Court for the District of
+Massachusetts, Joseph L. Tauro, Chief
+Judge, granted the motion, 776 F.Supp.
+629, and United States appealed. The
+Court of Appeals, Torruella, Circuit Judge,
+held that warrantless seizure and recon-
+struction of shredded documents did not
+violate Fourth Amendment.
+
+Reversed and remanded.
+928
+
+1. Searches and Seizures 26
+
+Fourth Amendment did not prohibit
+warrantless seizure and reconstruction of
+shredded documents found in trash bags
+located outside curtilage of defendant’s
+house; mere fact that defendant shredded
+his garbage before he placed it outside did
+not create reasonable heightened expecta-
+tion of privacy. U.S.C.A. Const.Amend. 4.
+
+2. Searches and Seizures 26
+
+In determining legitimacy of expecta-
+tion of privacy, ultimate question is wheth-
+er, if police practice were to go unregulated
+by constitutional restraints, amount of pri-
+vacy and freedom remaining to citizens
+would be diminished to compass inconsis-
+tent with aims of free and open society.
+U.S.C.A. Const.Amend. 4.
+
+Mark W. Pearlstein; Asst. U.S. Atty.,
+with whom Wayne A. Budd, U.S. Atty.,
+was on brief, for appellant.
+
+Charles P. McGinty, Federal Defender
+Office, for defendant, appellee.
+
+Before TORRUELLA and STAHL,
+Circuit Judges, and HORNBY,* District
+Judge.
+
+TORRUELLA, Circuit Judge.
+
+Constitutionally speaking, we are con-
+eerned here with trying to determine
+whether there is a difference between so-
+called private and public garbage. The
+sole issue presented by this appeal is
+whether the Fourth Amendment prohibits
+the warrantless seizure and reconstruction
+of shredded documents found in trash bags
+located outside the curtilage of appellee’s
+house. Otherwise stated, we must decide
+whether the shredding of private docu-
+ments attaches a constitutionally recogniz-
+able privacy expectancy which follows the
+shredded remnants, individually and collec-
+tively, even after they become public gar-
+bage. Relying on California v. Green-
+wood, 486 U.S. 35, 108 S.Ct. 1625, 100
+L.Ed.2d 30 (1988), the district court an-
+swered in the affirmative and suppressed
+the evidence, 776 F.Supp. 629. We con-
+
+* Of the District of Maine, sitting by designation.
+
+975 FEDERAL REPORTER, 2d SERIES
+
+clude that the trial court misinterpreted
+Greenwood and reverse its ruling.
+
+I
+
+Appellee was suspected by the Internal
+Revenue Service (“IRS”) of involvement in
+a scheme to defraud the United States
+through the filing of false income tax re-
+turns. IRS agents systematically seized
+and combed through garbage bags left for
+collection in front of appellee’s house.
+Their search revealed numerous shredded
+documents reduced to 5/32 inch strips,
+which when painstakingly pieced together
+produced incriminating evidence. The
+agents then used this evidence as the basis
+for establishing probable cause to request
+various search warrants. The search war-
+rants were issued and executed, and the
+searches garnered additional evidence used
+to secure appellee’s 47 count indictment for
+violation of 18 U.S.C. § 287. Appellee
+moved to suppress the reconstructed docu-
+ments as well as the evidence seized pursu-
+ant to the search warrants. Appellee ar-
+gued that by shredding the documents he
+had manifested an objectively reasonable
+expectation of privacy in the shredded rem-
+nants which was protected by the Fourth
+Amendment, a contention that convinced
+the district court.
+
+Both parties to this appeal as well as the
+district court rely on the same case as
+authority for their respective positions,
+California v. Greenwood, supra. This
+seminal case decided that the Fourth
+Amendment does not prohibit the warrant-
+less search and seizure of garbage left for
+collection outside the curtilage of a home,
+except “if respondents [have] manifested a
+subjective expectation of privacy in their
+garbage that society accepts as objectively
+reasonable.” Jd. at 39, 108 S.Ct. at 1628.
+
+Il
+
+[1] We start out with the obvious prop-
+osition that what we are dealing with here
+is trash. More important is the fact that at
+the time the challenged evidence came into
+the hands of the authorities, it was public
+US. v. SCOTT
+
+929
+
+Cite as 975 F.2d 927 (1st Cir. 1992)
+
+trash. That is, irrespective of whether ap-
+pellee intended to keep secret the contents
+of the documents in question by shredding
+them, there can be no doubt that appellee
+also intended to dispossess himself of those
+documents once they were shredded, and to
+place their fractured remnants in a public
+area accessible to unknown third parties.
+The shredded documents were deposited in
+a public place and in the control of third
+parties, without any limitation as to their
+use. Trash collectors and others were at
+liberty to dispose of the trash in any man-
+ner they saw fit. They were also free to
+rummage through the garbage and explore
+its contents, whatever that might be. Any
+analysis of the expectation of privacy in the
+contents of the garbage must take into
+consideration these realities. Thus, it is
+appropriate to call the evidence at issue
+“publie” trash because it was trash left for
+collection in a public place and over which
+its producer had relinquished possession.
+
+Greenwood recognizes that the search of
+trash left for collection in a public place
+does not offend societal values. Jd.
+Therefore, appellee should have been fore-
+warned that he did not have a legitimate
+expectation of privacy once his private gar-
+bage went into a public place because the
+contents of the garbage bags would not be
+exempt from public scrutiny. As the Court
+stated in Greenwood:
+
+[Having deposited their garbage in an
+
+area particularly suited for public inspec-
+
+tion and, in a manner of speaking, public
+consumption, for the express purpose of
+having strangers take it, (citation omit-
+ted), respondents could have had no rea-
+sonable expectation of privacy in the in-
+culpatory items that they discarded.
+Id. at 40-41, 108 S.Ct. at 1628-29 (emphasis
+supplied); see also United States v. Dunn,
+480 U.S. 294, 304, 107 S.Ct. 1184, 1141, 94
+L.Ed.2d 326 (1987) (erection of ranch type
+fences in an open field does not create a
+constitutionally protected privacy interest);
+United States v. Lamela, 942 F.2d 100 (1st
+
+i. Although appellee contends that the Supreme
+Court rejected abandonment as a basis for de-
+ciding Greenwood, the above-cited language in
+the Greenwood majority opinion, which specifi-
+cally refers to discarding inculpatory items,
+
+Cir.1991); United States v. Wilkinson, 926
+F.2d 22, 27 (1st Cir.), cert. denied, — U.S.
+——, 111 §.Ct. 2818, 115 L.Ed.2d 985 (1991) ~
+(placing trash bags within barrels inside
+defendant’s lawn not entitled to elevated
+“expectation of privacy” respecting the
+trash). Other circuits agree with this view
+of the Fourth Amendment. See, ¢.g., Unit-
+ed States v. Comeaux, 955 F.2d 586, 589
+(8th Cir.1992) (warrantless search of ga:
+bage within the curtilage of the home per-
+missible because the garbage was readily
+accessible to the public); United States v.
+Hedrick, 922 F.2d 396 (7th Cir.1991) (gaz-
+bage within the curtilage of a home may be
+searched without a warrant when accessi-
+ble to the public).
+
+III
+
+In our view, a person who places trash at
+a curb to be disposed of or destroyed by a
+third person abandons it! because “{i]m-
+plicit in the concept of abandonment is a
+renunciation of any reasonable expectation
+of privacy in the property abandoned.”
+United States v. Mustone, 469 F.2d 970,
+972 (ist Cir.1972). The fact that the aban-
+doned property was partially destroyed by
+shredding, although constituting evidence
+of appellee’s subjective desire or hope that
+the contents be unintelligible to third par-
+ties, does not change the fact that it is as a
+result of appellee’s own actions that the
+shredded evidence was placed in the public
+domain. Had the shredded remnants been
+placed in a pile on the curb in front of the
+house, or even more doubtfully, had an
+errant breeze blown shredded documents
+from appellee’s desk into the street into the
+open window of a passing police car, the
+government would certainly have been free
+to seize the incriminatory evidence without
+a warrant, and to use its contents without
+limitation against appellee. United States
+v. Dunn, supra; Oliver v. United States,
+466 U.S. 170, 177, 104 S.Ct. 1735, 1740, 80
+L.Ed.2d 214 (1984) (no expectation of prive-
+cy in open fields and thus Fourth Amenc-
+
+leads us to a different conclusion. Greenwood,
+at 40-41, 108 S.Ct. at 1628-29. To “discard” is
+to “abandon, relinquish, forsake.” Rodale, The
+Synonym Finder, p. 299 (1978).
+930
+ment inapplicable); United States v. Fa-
+hey, 769 F.2d 829, 8388 (1st Cir.1985) (no
+expectation of privacy in open mines).
+
+What we have here is a failed attempt at
+secrecy by reason of underestimation of
+police resourcefulness, not invasion of con-
+stitutionally protected privacy. There is no
+constitutional protection from police scruti-
+ny as to information received from a failed
+attempt at secrecy. See Florida v. Riley,
+488 U.S. 445, 449-51, 109 S.Ct. 698, 695-97,
+102 L.Ed.2d 835 (1989) (warrantless surveil-
+lance by helicopter of partially covered
+greenhouse, valid); California v. Ciraolo,
+476 U.S. 207, 212-15, 106 S.Ct. 1809, 1812-
+19, 90 L.Ed.2d 210 (1986) (warrantless aeri-
+al surveillance of yard enclosed by 10 foot
+fence, valid); Dow Chemical Co. v. United
+States, 476 U.S. 227, 239, 106 S.Ct. 1819,
+1827, 90 L.Ed.2d 226 (1986) (taking aerial
+photographs of a factory from navigable
+airspace, valid).
+
+Appellee here thought that reducing the
+documents to 5/82 inch pieces made them
+undecipherable. It turned out he was
+wrong. He is in no better position than the
+citizen who merely tears up a document by
+hand and discards the pieces into the side-
+walk. Can there be any doubt that the
+police are allowed to pick up the pieces
+from the sidewalk for use of the contents
+against that person? Should the mere use
+of more sophisticated “higher” technology
+in attempting destruction of the pieces of
+paper grant higher constitutional protec-
+tion to this failed attempt at secrecy? We
+think not. There is no constitutional re-
+quirement that police techniques in the de-
+tection of crime must remain stagnant
+while those intent on keeping their nefari-
+ous activities secret have the benefit of
+new knowledge. A person who prepares
+incriminatory documents in a secret code
+{or for that matter in some obscure foreign
+language], and thereafter blithely discards
+them as trash, relying on the premise or
+hope that they will not be deciphered [or
+translated] by the authorities could well be
+in for an unpleasant surprise if his code is
+“broken” by the police [or a translator is
+found for the abstruse language], but he
+cannot make a valid claim that his subjec-
+tive expectation in keeping the contents
+
+975 FEDERAL REPORTER, 2d SERIES
+
+private by use of the secret code [or lan-
+guage] was reasonable in a constitutional
+sense.
+
+In our view, shredding garbage and plac-
+ing it in the public domain subjects it to the
+same risks regarding privacy, as engaging
+in a private conversation in public where it
+is subject to the possibility that it may be
+overheard by other persons. Both are
+failed attempts at maintaining privacy
+whose failure can only be attributed to the
+conscious acceptance by the actor of obvi-
+ous risk factors. In the case of the conver-
+sation, the risk is that conversation in a
+public area may be overheard by a third
+person. In the disposal of trash, the risk is
+that it may be rummaged through and deci-
+phered once it leaves the control of the
+trasher. In both situations the expectation
+of privacy has been practically eliminated
+by the citizen’s own action. Law enforce-
+ment officials are entitled to apply human
+ingenuity and scientific advances to collect
+freely available evidence from the public
+domain.
+
+The mere fact that appellant shredded
+his garbage before he placed it outside of
+his home does not create a reasonable
+heightened expectation of privacy under
+the Fourth Amendment. Appellant still
+disearded this garbage in an area particu-
+larly suited for public inspection and con-
+sumption. At most, appellant’s actions
+made it likely that most third parties would
+decline to reconstitute the shredded rem-
+nants into a legible whole. The Fourth
+Amendment, however, does not protect ap-
+pellant when a third party expends the
+effort and expense to solve the jigsaw puz-
+zle created by shredding.
+
+[2] The test for determining legitimacy
+of an expectation of privacy “is not wheth-
+er the individual chooses to conceal assert-
+edly private activity, but instead whether
+the government’s intrusion infringes upon
+the personal and societal values protected
+by the Fourth Amendment.” California v.
+Ciraolo, 476 U.S, at 212, 106 S.Ct. at 1812.
+The ultimate question in this respect is
+“whether, if the particular form of [con-
+duct] practiced by the police is permitted to
+CHAKOUIAN v. MORAN
+
+931
+
+Cite as 975 F.2d 931 (ist Cir, 1992)
+
+go unregulated by constitutional restraints,
+the amount of privacy and freedom remain-
+ing to citizens would be diminished to a
+compass inconsistent with the aims of a
+free and open society.” United States v.
+Hendrickson, 940 F.2d 320, 322 (8th Cir.
+1991). For the reasons stated, and, we
+believe, following the strictures of Green-
+wood, such dangers are not found in the
+present case.
+
+The decision of the district court is re-
+versed and this case is remanded for action
+consistent with this opinion.
+
+Reversed and remanded.
+
+© KEY NUMBER SYSTEM
+
+ms
+
+John CHAKOUIAN, Petitioner,
+Appellant,
+
+ve
+John MORAN, Respondent, Appellee.
+No. 91-2252.
+
+United States Court of Appeals,
+First: Circuit.
+
+Heard May 5, 1992.
+Decided Sept. 28, 1992.
+
+Following affirmance of first-degree
+murder conviction, 5387 A.2d 409, state pris-
+oner instituted habeas corpus proceedings.
+The United States District Court for the
+District of Rhode Island, Ronald R. La-
+gueux, J., dismissed petition without evi-
+dentiary hearing, and defendant appealed.
+The Court of Appeals, Cyr, Circuit Judge,
+held that: (1) defendant failed to demon-
+strate prima facie case of racial discrimina-
+tion in prosecution’s use of peremptory
+challenges absent any evidence as to
+whether other black members of venire
+were called and seated as jurors, and (2)
+defendant was not entitled to evidentiary
+hearing on habeas corpus petition.
+
+Affirmed.
+
+1. Jury €33(5.1)
+
+There is no requirement that prosecu-
+tion provide race-neutral explanation for
+exercise of peremptory challenges until de-
+fendant has made prima facie showing of
+racial discrimination.
+
+2. Jury ¢°33(5.1)
+
+To establish prima facie showing of
+racia] discrimination in exercise of prosecu-
+tion’s peremptory challenges, defendant
+must show he is member of cognizable
+racial group, and that prosecutor has exer-
+cised peremptory challenges to remove
+from the venire members of defendant's
+race; defendant may rely on the fact that
+peremptory challenges constitute practice
+that permits those té discriminate who are
+of mind to discriminate, and defendant
+must show that these facts and any other
+relevant cireumstances raise inference that
+prosecutor used that practice to exclude
+the veniremen from the petit jury on ac-
+count of their race.
+
+3. Jury ¢°33(5.1)
+
+To determine whether defendant has
+made prima facie showing of racial discrim-
+ination in prosecution’s use of peremptory
+challenges, all relevant circumstances are
+to be considered including patterns of
+strikes against black jurors.
+
+4. Habeas Corpus 842
+
+Mixed questions of law and fact aris-
+ing under habeas corpus statute are enti-
+tled to de novo review. 28. US.C.A.
+§ 2254.
+
+5. Jury 120
+
+Defendant’s claim that prosecution's
+exercise of peremptory challenges demon-
+strated pattern of racial discrimination im-
+permissibly depended on pure conjecture
+absent any evidence as to whether other
+black members of the venire were called
+and seated as jurors.
+
+6. Habeas Corpus ¢=742
+
+Habeas corpus petitioner was not enti-
+tled to evidentiary hearing without show-
+ing he did not receive due process of law in
+state courts for one or more of the reasons

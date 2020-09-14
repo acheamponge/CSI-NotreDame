@@ -1,0 +1,1503 @@
+834
+
+brought his claims under federal statutes
+that authorize fee awards to prevailing
+plaintiffs’ attorneys. He contends that ap-
+plication of the anticipatory assignment
+principle would be inconsistent with the
+purpose of statutory fee-shifting provi-
+sions. See Venegas v. Mitchell, 495 U.S.
+82, 86, 110 S.Ct. 1679, 109 L.Ed.2d 74
+(1990) (observing that statutory fees en-
+able “plaintiffs to employ reasonably com-
+petent lawyers without cost to themselves
+if they prevail”). In the federal system
+statutory fees are typically awarded by the
+court under the lodestar approach, Hens-
+ley v. Eckerhart, 461 U.S. 424, 433, 103
+S.Ct. 1933, 76 L.Ed.2d 40 (1983), and the
+plaintiff usually has little control over the
+amount awarded. Sometimes, as when the
+plaintiff seeks only injunctive relief, or
+when the statute caps plaintiffs’ recoveries,
+or when for other reasons damages are
+substantially less than attorney’s fees,
+court-awarded attorney’s fees can exceed a
+plaintiff's monetary recovery. See, eg.
+Riverside v. Rivera, 477 U.S. 561, 564-565,
+106 S.Ct. 2686, 91 L.Ed.2d 466 (1986)
+(compensatory and punitive damages of
+$33,350; attorneys fee award of
+$245,456.25). Treating the fee award as
+income to the plaintiff in such cases, it is
+argued, can lead to the perverse result
+that the plaintiff loses money by winning
+the suit. Furthermore, it is urged that
+treating statutory fee awards as income to
+plaintiffs would | ,;,undermine the effective-
+ness of fee-shifting statutes in deputizing
+plaintiffs and their lawyers to act as pri-
+vate attorneys general.
+
+We need not address these claims. Af-
+ter Banks settled his case, the fee paid to
+his attorney was calculated solely on the
+basis of the private contingent-fee con-
+tract. There was no court-ordered fee
+award, nor was there any indication in
+Banks’ contract with his attorney, or in the
+settlement agreement with the defendant,
+that the contingent fee paid to Banks’ at-
+
+125 SUPREME COURT REPORTER
+
+543 U.S. 438
+
+torney was in lieu of statutory fees Banks
+might otherwise have been entitled to re-
+cover. Also, the amendment added by the
+American Jobs Creation Act redresses the
+concern for many, perhaps most, claims
+governed by fee-shifting statutes.
+
+x oe OF
+
+For the reasons stated, the judgments of
+the Courts of Appeals for the Sixth and
+Ninth Circuits are reversed, and the cases
+are remanded for further proceedings con-
+sistent with this opinion.
+
+It is so ordered.
+
+THE CHIEF JUSTICE took no part in
+the decision of these cases.
+
+Ww
+° E KEY NUMBER SYSTEM
+T
+
+543 U.S. 405, 160 L.Ed.2d 842
+ILLINOIS, Petitioner,
+
+v.
+Roy I. CABALLES.
+No. 03-923.
+
+Argued Nov. 10, 2004.
+
+Decided Jan. 24, 2005.
+Background: Defendant was convicted,
+following bench trial in the Circuit Court,
+La Salle County, H. Chris Ryan, Jr., J., of
+cannabis trafficking, and he appealed from
+denial of motion to suppress evidence dis-
+covered during traffic stop of vehicle he
+was driving. The Illinois Appellate Court
+affirmed. Granting petition for leave to
+appeal, the Illinois Supreme Court, Kil-
+bride, J., 207 Ill.2d 504, 280 Ill.Dec. 277,
+802 N.E.2d 202, reversed. Certiorari was
+granted.
+
+Holding: The United States Supreme
+Court, Justice Stevens, held that, where
+lawful traffic stop was not extended be-
+543 U.S. 405
+
+ILLINOIS v. CABALLES
+
+835
+
+Cite as 125 S.Ct. 834 (2005)
+
+yond time necessary to issue warning
+ticket and to conduct ordinary inquiries
+incident to such a stop, another officer’s
+arrival at scene while stop was in prog-
+ress and use of narcotics-detection dog to
+sniff around exterior of motorist’s vehicle
+did not rise to level of cognizable infringe-
+ment on motorist’s Fourth Amendment
+rights, such as would have to be sup-
+ported by some reasonable, articulable
+suspicion.
+
+Vacated and remanded.
+
+Justice Souter dissented and filed opinion.
+Justice Ginsburg dissented and filed opin-
+ion, in which Justice Souter joined.
+
+Chief Justice Rehnquist took no part in
+the decision of the case.
+
+1. Searches and Seizures €=53.1
+
+Seizure that is lawful at its inception
+can violate the Fourth Amendment if its
+manner of execution unreasonably in-
+fringes interests protected by the Consti-
+tution. U.S.C.A. Const.Amend. 4.
+
+2. Automobiles €=349(17)
+
+Seizure that is justified solely by in-
+terest in issuing a warning ticket to driver
+can become unlawful, in violation of Fourth
+Amendment, if it is prolonged beyond time
+reasonably required to complete that mis-
+sion. U.S.C.A. Const.Amend. 4.
+
+3. Searches and Seizures ¢=13.1
+
+Official conduct that does not compro-
+mise any legitimate interest in privacy is
+not “search” subject to the Fourth Amend-
+ment. U.S.C.A. Const.Amend. 4.
+
+See publication Words and Phras-
+
+es for other judicial constructions
+
+and definitions.
+4. Searches and Seizures 26
+
+Any interest that party may have in
+possessing contraband cannot be deemed
+
+* The syllabus constitutes no part of the opinion
+of the Court but has been prepared by the
+Reporter of Decisions for the convenience of
+
+“legitimate,” and government conduct that
+reveals only the possession of contraband
+compromises no legitimate privacy interest
+protected by the Fourth Amendment.
+U.S.C.A. Const.Amend. 4.
+
+5. Automobiles <=349(18), 349.5(7)
+
+Use of well-trained narcotics-detection
+dog, one that does not expose noncontra-
+band items that otherwise would remain
+hidden from public view, during lawful
+traffic stop generally does not implicate
+legitimate privacy interests protected by
+the Fourth Amendment. U.S.C.A. Const.
+Amend. 4.
+
+6. Automobiles ¢=349(17, 18)
+
+Where lawful traffic stop was not ex-
+tended beyond time necessary to issue
+warning ticket and to conduct ordinary
+inquiries incident to such a stop, another
+officer’s arrival at scene while stop was in
+progress and use of narcotics-detection
+dog to sniff around exterior of motorist’s
+vehicle did not rise to level of cognizable
+infringement on motorist’s Fourth Amend-
+ment rights, such as would have to be
+supported by some reasonable, articulable
+suspicion. U.S.C.A. Const.Amend. 4.
+
+7. Automobiles €=349(18), 349.5(7)
+
+Dog sniff conducted during lawful
+traffic stop, that reveals no information
+other than location of contraband that no
+individual has any right to possess, does
+not violate Fourth Amendment. U.S.C.A.
+Const.Amend. 4.
+
+_Lo:Syllabus *
+
+After an Illinois state trooper stopped
+respondent for speeding and radioed in, a
+second trooper, overhearing the transmis-
+sion, drove to the scene with his narcotics-
+detection dog and walked the dog around
+
+the reader. See United States v. Detroit Tim-
+ber & Lumber Co., 200 U.S. 321, 337, 26 S.Ct.
+282, 50 L.Ed. 499.
+836
+
+respondent’s car while the first trooper
+wrote respondent a warning ticket. When
+the dog alerted at respondent’s trunk, the
+officers searched the trunk, found mari-
+juana, and arrested respondent. At re-
+spondent’s drug trial, the court denied his
+motion to suppress the seized evidence,
+holding, inter alia, that the dog’s alerting
+provided sufficient probable cause to con-
+duct the search. Respondent was convict-
+ed, but the Illinois Supreme Court re-
+versed, finding that because there were no
+specific and articulable facts to suggest
+drug activity, use of the dog unjustifiably
+enlarged a routine traffic stop into a drug
+investigation.
+
+Held: A dog sniff conducted during a
+concededly lawful traffic stop that reveals
+no information other than the location of a
+substance that no individual has any right
+to possess does not violate the Fourth
+Amendment. Pp. 837-838.
+
+207 Ill.2d 504, 280 Ill.Dec. 277, 802
+N.E.2d 202, vacated and remanded.
+
+STEVENS, J., delivered the opinion
+of the Court, in which O’;CONNOR,
+SCALIA, KENNEDY, THOMAS, and
+BREYER, JJ., joined. SOUTER, J., filed
+a dissenting opinion, post, p. 838.
+GINSBURG, J., filed a dissenting opinion,
+in which SOUTER, J., joined, post, p. 843.
+REHNQUIST, C. J., took no part in the
+decision of the case.
+
+Christopher A. Wray, for the United
+States as amicus curiae, by special leave of
+the Court, supporting the petitioner.
+
+Lisa Madigan, Attorney General of Illi-
+nois, Gary Feinerman, Counsel of Record,
+Solicitor General, Linda D. Woloshin,
+Mary Fleming, Assistant Attorneys Gener-
+al, Chicago, IL, for petitioner.
+
+125 SUPREME COURT REPORTER
+
+543 U.S. 405
+
+Ralph E. Meczyk, Counsel of Record,
+Lawrence H. Hyman, Chicago, IL, for re-
+spondent.
+
+For U.S. Supreme Court briefs, see:
+2004 WL 1530261 (Pet.Brief)
+2004 WL 2097415 (Resp.Brief)
+2004 WL 2398459 (Reply.Brief)
+
+Justice STEVENS delivered the opinion
+of the Court.
+
+_Ligelllinois State Trooper Daniel Gillette
+stopped respondent for speeding on an
+interstate highway. When Gillette radioed
+the police dispatcher to report the stop, a
+second trooper, Craig Graham, a member
+of the Illinois State Police Drug Interdic-
+tion Team, overheard the transmission and
+immediately headed for the scene with his
+narcotics-detection dog. When they ar-
+rived, respondent’s car was on the shoul-
+der of the road and respondent was in
+Gillette’s vehicle. While Gillette was in
+the process of writing a warning ticket,
+Graham walked his dog around respon-
+dent’s car. The dog alerted at the trunk.
+Based on that alert, the officers searched
+the trunk, found marijuana, and arrested
+respondent. The entire incident lasted
+less than 10 minutes.
+
+_LuRespondent was convicted of a nar-
+cotics offense and sentenced to 12 years’
+imprisonment and a $256,136 fine. The
+trial judge denied his motion to suppress
+the seized evidence and to quash his ar-
+rest. He held that the officers had not
+unnecessarily prolonged the stop and that
+the dog alert was sufficiently reliable to
+provide probable cause to conduct the
+search. Although the Appellate Court af-
+firmed, the Illinois Supreme Court re-
+versed, concluding that because the canine
+sniff was performed without any “ ‘specific
+and articulable facts’” to suggest drug ac-
+tivity, the use of the dog “unjustifiably
+543 U.S. 409
+
+ILLINOIS v. CABALLES
+
+837
+
+Cite as 125 S.Ct. 834 (2005)
+
+enlarg[ed] the scope of a routine traffic
+stop into a drug investigation.” 207 Ill.2d
+504, 510, 280 Ill.Dec. 277, 802 N.E.2d 202,
+205 (2003).
+
+The question on which we granted cer-
+tiorari, 541 U.S. 972, 124 S.Ct. 1875, 158
+L.Ed.2d 466 (2004), is narrow: “Whether
+the Fourth Amendment requires reason-
+able, articulable suspicion to justify using a
+drug-detection dog to sniff a vehicle during
+a legitimate traffic stop.” Pet. for Cert. i.
+Thus, we proceed on the assumption that
+the officer conducting the dog sniff had no
+information about respondent except that
+he had been stopped for speeding; accord-
+ingly, we have omitted any reference to
+facts about respondent that might have
+triggered a modicum of suspicion.
+
+[1,2] Here, the initial seizure of re-
+spondent when he was stopped on the
+highway was based on probable cause and
+was concededly lawful. It is nevertheless
+clear that a seizure that is lawful at its
+inception can violate the Fourth Amend-
+ment if its manner of execution unreason-
+ably infringes interests protected by the
+Constitution. United States v. Jacobsen,
+466 U.S. 109, 124, 104 S.Ct. 1652, 80
+L.Ed.2d 85 (1984). A seizure that is justi-
+fied solely by the interest in issuing a
+warning ticket to the driver can become
+unlawful if it is prolonged beyond the time
+reasonably required to complete that mis-
+sion. In an earlier case involving a dog
+sniff that occurred during an unreasonably
+prolonged traffic stop, the Illinois Supreme
+Court held that use of the dog and the
+subsequent discovery _|4,0f contraband
+were the product of an unconstitutional
+seizure. People v. Cow, 202 Ill.2d 462, 270
+Ill.Dec. 81, 782 N.E.2d 275 (2002). We
+may assume that a similar result would be
+warranted in this case if the dog sniff had
+been conducted while respondent was be-
+ing unlawfully detained.
+
+In the state-court proceedings, however,
+the judges carefully reviewed the details of
+
+Officer Gillette’s conversations with re-
+spondent and the precise timing of his
+radio transmissions to the dispatcher to
+determine whether he had improperly ex-
+tended the duration of the stop to enable
+the dog sniff to occur. We have not re-
+counted those details because we accept
+the state court’s conclusion that the dura-
+tion of the stop in this case was entirely
+justified by the traffic offense and the
+ordinary inquiries incident to such a stop.
+
+Despite this conclusion, the Illinois Su-
+preme Court held that the initially lawful
+traffic stop became an unlawful seizure
+solely as a result of the canine sniff that
+occurred outside respondent’s stopped car.
+That is, the court characterized the dog
+sniff as the cause rather than the conse-
+quence of a constitutional violation. In its
+view, the use of the dog converted the
+citizen-police encounter from a lawful traf-
+fic stop into a drug investigation, and be-
+cause the shift in purpose was not sup-
+ported by any reasonable suspicion that
+respondent possessed narcotics, it was un-
+lawful. In our view, conducting a dog sniff
+would not change the character of a traffic
+stop that is lawful at its inception and
+otherwise executed in a reasonable man-
+ner, unless the dog sniff itself infringed
+respondent’s constitutionally protected in-
+terest in privacy. Our cases hold that it
+did not.
+
+[3,4] Official conduct that does not
+“compromise any legitimate interest in pri-
+vacy” is not a search subject to the Fourth
+Amendment. Jacobsen, 466 U.S., at 123,
+104 S.Ct. 1652. We have held that any
+interest in possessing contraband cannot
+be deemed “legitimate,” and thus, govern-
+mental conduct that only reveals the pos-
+session of contraband “compromises no le-
+gitimate privacy interest.” Ibid. This is
+because the expectations, “that certain
+facts will not come to the attention of the
+authorities” is not the same as an interest
+838
+
+in “privacy that society is prepared to
+consider reasonable.” Jd, at 122, 104
+S.Ct. 1652 (punctuation omitted). In Unit-
+ed States v. Place, 462 U.S. 696, 103 S.Ct.
+2637, 77 L.Ed.2d 110 (1983), we treated a
+canine sniff by a well-trained narcotics-
+detection dog as “swi generis” because it
+“discloses only the presence or absence of
+narcotics, a contraband item.” Jd., at 707,
+103 S.Ct. 2637; see also Indianapolis v.
+Edmond, 531 U.S. 32, 40, 121 S.Ct. 447,
+148 L.Ed.2d 333 (2000). Respondent like-
+wise concedes that “drug sniffs are de-
+signed, and if properly conducted are gen-
+erally likely, to reveal only the presence of
+contraband.” Brief for Respondent 17.
+Although respondent argues that the error
+rates, particularly the existence of false
+positives, call into question the premise
+that drug-detection dogs alert only to con-
+traband, the record contains no evidence
+or findings that support his argument.
+Moreover, respondent does not suggest
+that an erroneous alert, in and of itself,
+reveals any legitimate private information,
+and, in this case, the trial judge found that
+the dog sniff was sufficiently reliable to
+establish probable cause to conduct a full-
+blown search of the trunk.
+
+[5,6] Accordingly, the use of a well-
+trained narcotics-detection dog—one that
+“does not expose noncontraband items that
+otherwise would remain hidden from pub-
+lic view,” Place, 462 U.S., at 707, 103 S.Ct.
+2637—during a lawful traffic stop, general-
+ly does not implicate legitimate privacy
+interests. In this case, the dog sniff was
+performed on the exterior of respondent’s
+car while he was lawfully seized for a
+traffic violation. Any intrusion on respon-
+dent’s privacy expectations does not rise to
+the level of a constitutionally cognizable
+infringement.
+
+[7] This conclusion is entirely consis-
+tent with our recent decision that the use
+of a thermal-imaging device to detect the
+
+125 SUPREME COURT REPORTER
+
+543 U.S. 409
+
+growth of marijuana in a home constituted
+an unlawful search. Kyllo v. United
+States, 533 U.S. 27, 121 S.Ct. 2038, 150
+L.Ed.2d 94 (2001). Critical to that deci-
+sion was the fact that the device was capa-
+ble of detecting lawful activity—in that
+case, intimate details in a] j,home, such as
+“at what hour each night the lady of the
+house takes her daily sauna and bath.”
+Id., at 38, 121 S.Ct. 2038. The legitimate
+expectation that information about perfect-
+ly lawful activity will remain private is
+categorically distinguishable from respon-
+dent’s hopes or expectations concerning
+the nondetection of contraband in the
+trunk of his car. A dog sniff conducted
+during a concededly lawful traffic stop that
+reveals no information other than the loca-
+tion of a substance that no individual has
+any right to possess does not violate the
+Fourth Amendment.
+
+The judgment of the Illinois Supreme
+Court is vacated, and the case is remanded
+for further proceedings not inconsistent
+with this opinion.
+
+It is so ordered.
+
+THE CHIEF JUSTICE took no part in
+the decision of this case.
+
+Justice SOUTER, dissenting.
+
+I would hold that using the dog for the
+purposes of determining the presence of
+marijuana in the car’s trunk was a search
+unauthorized as an incident of the speed-
+ing stop and unjustified on any other
+ground. I would accordingly affirm the
+judgment of the Supreme Court of Illinois,
+and I respectfully dissent.
+
+In United States v. Place, 462 U.S. 696,
+103 S.Ct. 2637, 77 L.Ed.2d 110 (1983), we
+categorized the sniff of the narcotics-seek-
+ing dog as “swi generis” under the Fourth
+Amendment and held it was not a search.
+Id., at 707, 103 S.Ct. 2637. The classifica-
+tion rests not only upon the limited nature
+543 U.S. 412
+
+ILLINOIS v. CABALLES
+
+839
+
+Cite as 125 S.Ct. 834 (2005)
+
+of the intrusion, but on a further premise
+that experience has shown to be untenable,
+the assumption that trained sniffing dogs
+do not err. What we have learned about
+the fallibility of dogs in the years since
+Place was decided would itself be reason
+to call for reconsidering Place’s decision
+against treating the intentional use of a
+trained dog as a search. The portent of
+this very case, however, adds insistjences,
+to the call, for an uncritical adherence to
+Place would render the Fourth Amend-
+ment indifferent to suspicionless and indis-
+criminate sweeps of cars in parking ga-
+rages and pedestrians on sidewalks; if a
+sniff is not preceded by a seizure subject
+to Fourth Amendment notice, it escapes
+Fourth Amendment review entirely unless
+it is treated as a search. We should not
+wait for these developments to occur be-
+fore rethinking Place’s analysis, which in-
+vites such untoward consequences.!
+
+At the heart both of Place and the
+Court’s opinion today is the proposition
+that sniffs by a trained dog are sui generis
+because a reaction by the dog in going
+alert is a response to nothing but the
+presence of contraband” See ibid.
+(“[T}he sniff discloses only the presence or
+absence of narcotics, a contraband item”);
+ante, at 838 (assuming that “a canine sniff
+by a well-trained narcotics-detection dog”
+will only reveal “ ‘the presence or absence
+of narcotics, a contraband item’” (quoting
+Place, supra, at 707, 103 S.Ct. 2637)).
+Hence, the argument goes, because the
+sniff can only reveal the presence of items
+devoid of any legal use, the sniff “does not
+
+1. I also join Justice GINSBURG’s dissent,
+post, p. 843. Without directly reexamining the
+soundness of the Court’s analysis of govern-
+ment dog sniffs in Place, she demonstrates
+that investigation into a matter beyond the
+subject of the traffic stop here offends the rule
+in Terry v. Ohio, 392 U.S. 1, 88 S.Ct. 1868, 20
+L.Ed.2d 889 (1968), the analysis I, too, adopt.
+
+2. Another proffered justification for sui gener-
+is status is that a dog sniff is a particularly
+
+implicate legitimate privacy interests” and
+is not to be treated as a search. Ante, at
+838.
+
+The infallible dog, however, is a creature
+of legal fiction. Although the Supreme
+Court of Illinois did not get into the sniff-
+ing averages of drug dogs, their supposed
+infallibility is belied by judicial opinions
+describing well-trained animals sniffing
+and alerting with less than perfect accura-
+cy, whether_|y.owing to errors by their
+handlers, the limitations of the dogs them-
+selves, or even the pervasive contamina-
+tion of currency by cocaine. See, eg.
+United States v. Kennedy, 131 F.3d 1371,
+1378 (C.A.10 1997) (describing a dog that
+had a 71% accuracy rate); United States v.
+Scarborough, 128 F.3d 13738, 1378, n. 3
+(C.A.10 1997) (describing a dog that erro-
+neously alerted 4 times out of 19 while
+working for the postal service and 8% of
+the time over its entire career); United
+States v. Limares, 269 F.3d 794, 797 (C.A.7
+2001) (accepting as reliable a dog that gave
+false positives between 7% and 38% of the
+time); Laime v. State, 347 Ark. 142, 159,
+60 S.W.3d 464, 476 (2001) (speaking of a
+dog that made between 10 and 50 errors);
+United States v. $242,484.00, 351 F.3d 499,
+511 (C.A.11 2003) (noting that because as
+much as 80% of all currency in circulation
+contains drug residue, a dog alert “is of
+little value”), vacated on other grounds by
+rehearing en bane, 357 F.3d 1225 (C.A.11
+2004); United States v. Carr, 25 F.3d 1194,
+1214-1217 (C.A.3 1994) (Becker, J., concur-
+ring in part and dissenting in part) (“[A]
+
+nonintrusive procedure. United States v.
+Place, 462 U.S. 696, 707, 103 S.Ct. 2637, 77
+L.Ed.2d 110 (1983). I agree with Justice
+GINSBURG that the introduction of a dog to
+a traffic stop (let alone an encounter with
+someone walking down the street) can in fact
+be quite intrusive. Post, at 845.
+840
+
+substantial portion of United States cur-
+rency ... is tainted with sufficient traces
+of controlled substances to cause a trained
+canine to alert to their presence”). In-
+deed, a study cited by Illinois in this case
+for the proposition that dog sniffs are
+“generally reliable” shows that dogs in ar-
+tificial testing situations return false posi-
+tives anywhere from 12.5% to 60% of the
+time, depending on the length of the
+search. See Reply Brief for Petitioner 13;
+Federal Aviation Admin., K. Garner et al.,
+Duty Cycle of the Detector Dog: A Base-
+line Study 12 (Apr.2001) (prepared by Au-
+burn U. Inst. for Biological Detection Sys-
+tems). In practical terms, the evidence is
+clear that the dog that alerts hundreds of
+times will be wrong dozens of times.
+
+Once the dog’s fallibility is recognized,
+however, that ends the justification
+claimed in Place for treating the sniff as
+sut generis under the Fourth Amendment:
+the sniff alert does not necessarily signal
+hidden contraband, and opening the con-
+tainer or enclosed space whose emanations
+the dog has |4;sensed will not necessarily
+reveal contraband or any other evidence of
+crime. This is not, of course, to deny that
+a dog’s reaction may provide reasonable
+suspicion, or probable cause, to search the
+container or enclosure; the Fourth
+Amendment does not demand certainty of
+success to justify a search for evidence or
+contraband. The point is simply that the
+
+3. Kyllo was concerned with whether a search
+occurred when the police used a thermal-
+imaging device on a house to detect heat
+emanations associated with high-powered
+marijuana-growing lamps. In concluding
+that using the device was a search, the Court
+stressed that the “Government [may not] us[e]
+a device ... to explore details of the home
+that would previously have been unknowable
+without physical intrusion.” 533 U.S., at 40,
+121 S.Ct. 2038. Any difference between the
+dwelling in Kyllo and the trunk of the car
+here may go to the issue of the reasonableness
+
+125 SUPREME COURT REPORTER
+
+543 U.S. 412
+
+sniff and alert cannot claim the certainty
+that Place assumed, both in treating the
+deliberate use of sniffing dogs as sui gen-
+eris and then taking that characterization
+as a reason to say they are not searches
+subject to Fourth Amendment scrutiny.
+And when that aura of uniqueness disap-
+pears, there is no basis in Place’s reason-
+ing, and no good reason otherwise, to ig-
+nore the actual function that dog sniffs
+perform. They are conducted to obtain
+information about the contents of private
+spaces beyond anything that human senses
+could perceive, even when conventionally
+enhanced. The information is not provid-
+ed by independent third parties beyond
+the reach of constitutional limitations, but
+gathered by the government’s own officers
+in order to justify searches of the tradi-
+tional sort, which may or may not reveal
+evidence of crime but will disclose any-
+thing meant to be kept private in the area
+searched. Thus in practice the govern-
+ment’s use of a trained narcotics dog func-
+tions as a limited search to reveal undis-
+closed facts about private enclosures, to be
+used to justify a further and complete
+search of the enclosed area. And given
+the fallibility of the dog, the sniff is the
+first step in a process that may disclose
+“Sntimate details” without revealing con-
+traband, just as a thermal-imaging device
+might do, as described in Kyllo v. United
+States, 533 U.S. 27, 121 S.Ct. 2038, 150
+L.Ed.2d 94 (2001).
+
+of the respective searches, but it has no bear-
+ing on the question of search or no search.
+Nor is it significant that Kyllo’s imaging de-
+vice would disclose personal details immedi-
+ately, whereas they would be revealed only in
+the further step of opening the enclosed space
+following the dog’s alert reaction; in practical
+terms the same values protected by the
+Fourth Amendment are at stake in each case.
+The justifications required by the Fourth
+Amendment may or may not differ as between
+the two practices, but if constitutional scruti-
+543 U.S. 415
+
+ILLINOIS v. CABALLES
+
+841
+
+Cite as 125 S.Ct. 834 (2005)
+
+_Li,It makes sense, then, to treat a sniff
+as the search that it amounts to in prac-
+tice, and to rely on the body of our Fourth
+Amendment cases, including Kyllo, in de-
+ciding whether such a search is reasonable.
+As a general proposition, using a dog to
+sniff for drugs is subject to the rule that
+the object of enforcing criminal laws does
+not, without more, justify suspicionless
+Fourth Amendment intrusions. See In-
+dianapolis v. Edmond, 531 U.S. 32, 41-42,
+121 S.Ct. 447, 148 L.Ed.2d 333 (2000).
+Since the police claim to have had no par-
+ticular suspicion that Caballes was violat-
+ing any drug law,' this sniff search must
+stand or fall on its being ancillary to the
+traffic stop that led up to it. It is true
+that the police had probable cause to stop
+the car for an offense committed in the
+officer’s presence, which Caballes concedes
+could have justified his arrest. See Brief
+for Respondent 31. There is no occasion
+to consider authority incident to arrest,
+however, see Knowles v. Iowa, 525 U.S.
+113, 119 S.Ct. 484, 142 L.Ed.2d 492 (1998),
+for the police did nothing more than detain
+Caballes long enough to check his record
+and write a ticket. As a consequence, the
+reasonableness of the search must be as-
+sessed in relation to the actual delay the
+police chose to impose, and as Justice
+GINSBURG points out in her opinion,
+post, at 844, the Fourth Amendment con-
+sequences of stopping for a traffic citation
+are settled law.
+
+_lysin Berkemer v. McCarty, 468 U.S.
+420, 439-440, 104 S.Ct. 3138, 82 L.Ed.2d
+317 (1984), followed in Knowles, supra, at
+117, 119 S.Ct. 484, we held that the ana-
+
+ny is in order for the imager, it is in order for
+the dog.
+
+4. Despite the remarkable fact that the police
+pulled over a car for going 71 miles an hour
+on I-80, the State maintains that excessive
+speed was the only reason for the stop, and
+the case comes to us on that assumption.
+
+logue of the common traffic stop was the
+limited detention for investigation author-
+ized by Terry v. Ohio, 392 U.S. 1, 88 S.Ct.
+1868, 20 L.Ed.2d 889 (1968). While Terry
+authorized a restricted incidental search
+for weapons when reasonable suspicion
+warrants such a safety measure, id., at 25-
+26, 88 S.Ct. 1868, the Court took care to
+keep a Terry stop from automatically be-
+coming a foot in the door for all investiga-
+tory purposes; the permissible intrusion
+was bounded by the justification for the
+detention, id., at 29-30, 88 S.Ct. 1868.
+Although facts disclosed by enquiry within
+this limit might give grounds to go further,
+the government could not otherwise take
+advantage of a suspect’s immobility to
+search for evidence unrelated to the rea-
+son for the detention. That has to be the
+rule unless Terry is going to become an
+open sesame for general searches, and that
+rule requires holding that the police do not
+have reasonable grounds to conduct sniff
+searches for drugs simply because they
+have stopped someone to receive a ticket
+for a highway offense. Since the police
+had no indication of illegal activity beyond
+the speed of the car in this case, the sniff
+search should be held unreasonable under
+the Fourth Amendment and its fruits
+should be suppressed.
+
+Nothing in the case relied upon by the
+Court, United States v. Jacobsen, 466 U.S.
+109, 104 S.Ct. 1652, 80 L.Ed.2d 85 (1984),
+unsettled the limit of reasonable enquiry
+adopted in Terry. In Jacobsen, the Court
+found that no Fourth Amendment search
+occurred when federal agents analyzed
+
+5. Thus, in Place itself, the Government offi-
+cials had independent grounds to suspect that
+the luggage in question contained contraband
+before they employed the dog sniff. 462 U.S.,
+at 698, 103 S.Ct. 2637 (describing how Place
+had acted suspiciously in line at the airport
+and had labeled his luggage with inconsistent
+and fictional addresses).
+842
+
+powder they had already lawfully obtained.
+The Court noted that because the test
+could only reveal whether the powder was
+cocaine, the owner had no legitimate priva-
+cy interest at stake. 466 U.S., at 123, 104
+S.Ct. 1652._]¢As already explained, how-
+ever, the use of a sniffing dog in cases like
+this is significantly different and properly
+treated as a search that does indeed impli-
+cate Fourth Amendment protection.
+
+In Jacobsen, once the powder was ana-
+lyzed, that was effectively the end of the
+matter: either the powder was cocaine, a
+fact the owner had no legitimate interest
+in concealing, or it was not cocaine, in
+which case the test revealed nothing about
+the powder or anything else that was not
+already legitimately obvious to the police.
+But in the case of the dog sniff, the dog
+does not smell the disclosed contraband; it
+smells a closed container. An affirmative
+reaction therefore does not identify a sub-
+stance the police already legitimately pos-
+sess, but informs the police instead merely
+of a reasonable chance of finding contra-
+band they have yet to put their hands on.
+The police will then open the container and
+discover whatever lies within, be it mari-
+juana or the owner’s private papers.
+Thus, while Jacobsen could rely on the
+
+6. It would also be error to claim that some
+variant of the plain-view doctrine excuses the
+lack of justification for the dog sniff in this
+case. When an officer observes an object left
+by its owner in plain view, no search occurs
+because the owner has exhibited “no inten-
+tion to keep [the object] to himself.” Karz v.
+United States, 389 U.S. 347, 361, 88 S.Ct.
+507, 19 L.Ed.2d 576 (1967) (Harlan, J., con-
+curring). In contrast, when an individual
+conceals his possessions from the world, he
+has grounds to expect some degree of priva-
+cy. While plain view may be enhanced
+somewhat by technology, see, e.g, Dow
+Chemical Co. v. United States, 476 U.S. 227,
+106 S.Ct. 1819, 90 L.Ed.2d 226 (1986) (al-
+lowing for aerial surveillance of an industrial
+complex), there are limits. As Kyllo v. United
+States, 533 U.S. 27, 33, 121 S.Ct. 2038, 150
+L.Ed.2d 94 (2001), explained in treating the
+
+125 SUPREME COURT REPORTER
+
+543 U.S. 415
+
+assumption that the enquiry in question
+would either show with certainty that a
+known substance was contraband or would
+reveal nothing more, both the certainty
+and the limit on disclosure that may follow
+are missing when the dog sniffs the car.®
+
+_LiThe Court today does not go so far as
+to say explicitly that sniff searches by dogs
+trained to sense contraband always get a
+free pass under the Fourth Amendment,
+since it reserves judgment on the constitu-
+tional significance of sniffs assumed to be
+more intrusive than a dog’s walk around a
+stopped car, ante, at 838. For this reason,
+I do not take the Court’s reliance on Ja-
+cobsen as actually signaling recognition of
+a broad authority to conduct suspicionless
+sniffs for drugs in any parked car, about
+which Justice GINSBURG is rightly con-
+cerned, post, at 845-846, or on the person
+of any pedestrian minding his own busi-
+ness on a sidewalk. But the Court’s stated
+reasoning provides no apparent stopping
+point short of such excesses. For the sake
+of providing a workable framework to ana-
+lyze cases on facts like these, which are
+certain to come along, I would treat the
+dog sniff as the familiar search it is in fact,
+
+thermal-imaging device as outside the plain-
+view doctrine, “[w]e have previously reserved
+judgment as to how much technological en-
+hancement of ordinary perception’ turns
+mere observation into a Fourth Amendment
+search. While Kyllo laid special emphasis on
+the heightened privacy expectations that sur-
+round the home, closed car trunks are ac-
+corded some level of privacy protection.
+See, e.g., New York v. Belton, 453 U.S. 454,
+460, n. 4, 101 S.Ct. 2860, 69 L-Ed.2d 768
+(1981) (holding that even a search incident to
+arrest in a vehicle does not itself permit a
+search of the trunk). As a result, if Fourth
+Amendment protections are to have meaning
+in the face of superhuman, yet fallible, tech-
+niques like the use of trained dogs, those
+techniques must be justified on the basis of
+their reasonableness, lest everything be
+deemed in plain view.
+543 U.S. 419
+
+ILLINOIS v. CABALLES
+
+843
+
+Cite as 125 S.Ct. 834 (2005)
+
+subject to scrutiny under the Fourth
+Amendment.”
+
+Justice GINSBURG, with whom Justice
+SOUTER joins, dissenting.
+
+Illinois State Police Trooper Daniel Gil-
+lette stopped Roy Caballes for driving 71
+miles per hour in a zone with a posted
+
+_lusspeed limit of 65 miles per hour.
+Trooper Craig Graham of the Drug Inter-
+diction Team heard on the radio that
+Trooper Gillette was making a traffic stop.
+Although Gillette requested no aid, Gra-
+ham decided to come to the scene to con-
+duct a dog sniff. Gillette informed Ca-
+balles that he was speeding and asked for
+the usual documents—driver’s license, car
+registration, and proof of insurance. Ca-
+balles promptly provided the requested
+documents but refused to consent to a
+search of his vehicle. After calling his
+dispatcher to check on the validity of Ca-
+balles’ license and for outstanding war-
+rants, Gillette returned to his vehicle to
+write Caballes a warning ticket. Inter-
+rupted by a radio call on an unrelated
+matter, Gillette was still writing the ticket
+when Trooper Graham arrived with his
+drug-detection dog. Graham walked the
+dog around the car, the dog alerted at
+Caballes’ trunk, and, after opening the
+trunk, the troopers found marijuana. 207
+Ill.2d 504, 506-507, 280 Ill.Dec. 277, 278,
+802 N.E.2d 202, 203 (2003).
+
+The Supreme Court of Illinois held that
+the drug evidence should have been sup-
+pressed. IJd., at 506, 280 Ill.Dec., at 278,
+802 N.E.2d, at 202. Adhering to its deci-
+sion in People v. Cow, 202 Ill.2d 462, 270
+
+ 
+
+7. I should take care myself to reserve judg-
+ment about a possible case significantly un-
+like this one.
+prejudge a claim of authority to detect explo-
+sives and dangerous chemical or biological
+weapons that might be carried by a terrorist
+who prompts no individualized suspicion.
+Suffice it to say here that what is a reasonable
+
+All of us are concerned not to
+
+Ill.Dec. 81, 782 N.E.2d 275 (2002), the
+court employed a two-part test taken from
+Terry v. Ohio, 392 U.S. 1, 88 S.Ct. 1868, 20
+L.Ed.2d 889 (1968), to determine the over-
+all reasonableness of the stop. 207 IIl.2d,
+at 508, 280 Il.Dec., at 278, 802 N.E.2d, at
+204. The court asked first “whether the
+officer’s action was justified at its incep-
+tion,” and second “whether it was reason-
+ably related in scope to the circumstances
+which justified the interference in the first
+place.” Ibid. (quoting People v. Brownlee,
+186 Ill.2d 501, 518-519, 239 Ill.Dec. 25, 34,
+713 N.E.2d 556, 565 (1999) (in turn quoting
+Terry, 392 U.S., at 19-20, 88 S.Ct. 1868)).
+“(I]t is undisputed,” the court observed,
+“that the traffic stop was properly initi-
+ated”; thus, the dispositive inquiry trained
+on the “second part of the Terry test,” in
+which “{t]he State bears the burden of
+establishing that the conduct remained
+within the scope of the stop.” 207 IIl.2d,
+at 509, 280 Ill.Dec., at 279, 802 N.E.2d, at
+204.
+
+ 
+
+_lusThe court concluded that the State
+failed to offer sufficient justification for the
+canine sniff: “The police did not detect the
+odor of marijuana in the car or note any
+other evidence suggesting the presence of
+illegal drugs.” Ibid. Lacking “specific and
+articulable facts” supporting the canine
+sniff, ibid. (quoting Cox, 202 Ill.2d, at 470-
+471, 270 Ill.Dec. 81, 782 N.E.2d, at 281),
+the court ruled, “the police impermissibly
+broadened the scope of the traffic stop in
+this case into a drug investigation.” 207
+Tl.2d, at 509, 280 Ill.Dec., at 279, 802
+N.E.2d, at 204.1 I would affirm the Illinois
+
+search depends in part on demonstrated risk.
+Unreasonable sniff searches for marijuana are
+not necessarily unreasonable sniff searches
+for destructive or deadly material if suicide
+bombs are a societal risk.
+
+_
+
+. The Illinois Supreme Court held insufficient
+to support a canine sniff Gillette’s observa-
+tions that (1) Caballes said he was moving to
+844
+
+Supreme Court’s judgment and hold that
+the drug sniff violated the Fourth Amend-
+ment.
+
+In Terry v. Ohio, the Court upheld the
+stop and subsequent frisk of an individual
+based on an officer’s observation of suspi-
+cious behavior and his reasonable belief
+that the suspect was armed. See 392 U.S.,
+at 27-28, 88 S.Ct. 1868. In a Terry-type
+investigatory stop, “the officer’s action
+[must be] justified at its inception, and ...
+reasonably related in scope to the circum-
+stances which justified the interference in
+the first place.” Jd., at 20, 88 S.Ct. 1868.
+In applying Terry, the Court has several
+times indicated that the limitation on
+“scope” is not confined to the duration of
+the seizure; it also encompasses the man-
+ner in which the seizure is conducted.
+See, eg. Hiibel v. Sixth Judicial Dist.
+Court of Nev. Humboldt Cty. 542 U.S.
+177, 188, 124 S.Ct. 2451, 2459, 159 L.Ed.2d
+292 (2004) (an officer’s request that an
+individual identify himself “has an immedi-
+ate relation to the purpose, rationale, and
+practical demands of a Terry stop”); Unit-
+ed States v. Hensley, 469 U.S. 221, 235, 105
+S.Ct. 675, 83 L.Ed.2d 604 (1985) (examin-
+ing, under Terry, |oboth “the length and
+intrusiveness of the stop and detention”);
+Florida v. Royer, 460 U.S. 491, 500, 103
+S.Ct. 1319, 75 L.Ed.2d 229 (1983) (plurality
+opinion) (“[A]n investigative detention
+
+Chicago, but his only visible belongings were
+two sport coats in the backseat; (2) the car
+smelled of air freshener; (3) Caballes was
+dressed for business, but was unemployed;
+and (4) Caballes seemed nervous. Even
+viewed together, the court said, these observa-
+tions gave rise to “nothing more than a vague
+hunch” of “possible wrongdoing.” 207 Ill.2d
+504, 509-510, 280 Ill.Dec., at 279-280, 802
+N.E.2d 202, 204-205 (2003). This Court pro-
+ceeds on “‘the assumption that the officer con-
+ducting the dog sniff had no information
+about [Caballes]."" Ante, at 837.
+
+2. The Berkemer Court cautioned that by analo-
+gizing a traffic stop to a Terry stop, it did “not
+
+125 SUPREME COURT REPORTER
+
+543 U.S. 419
+
+must be temporary and last no longer than
+is necessary to effectuate the purpose of
+the stop [and] the investigative methods
+employed should be the least intrusive
+means reasonably available to verify or
+dispel the officer’s suspicion ....”).
+
+“A routine traffic stop,” the Court has
+observed, “is a relatively brief encounter
+and ‘is more analogous to a so-called Terry
+stop than to a formal arrest.’”
+Knowles v. Iowa, 525 U.S. 118, 117, 119
+S.Ct. 484, 142 L.Ed.2d 492 (1998) (quoting
+Berkemer v. McCarty, 468 U.S. 420, 439,
+104 S.Ct. 3138, 82 L.Ed.2d 317 (1984)); see
+also ante, at 841 (SOUTER, J., dissenting)
+(The government may not “take advantage
+of a suspect’s immobility to search for
+evidence unrelated to the reason for the
+detention.”).2- I would apply Terry’s rea-
+sonable-relation test, as the Illinois Su-
+preme Court did, to determine whether
+the canine sniff impermissibly expanded
+the scope of the initially valid seizure of
+Caballes.
+
+It is hardly dispositive that the dog sniff
+in this case may not have lengthened the
+duration of the stop. Cf. ante, at 837 (“A
+seizure ... can become unlawful if it is
+prolonged beyond the time reasonably re-
+quired to complete [the initial] mission.”).
+Terry, it merits repetition, instructs that
+
+suggest that a traffic stop supported by proba-
+ble cause may not exceed the bounds set by
+the Fourth Amendment on the scope of a
+Terry stop.” 468 U.S., at 439, n. 29, 104 S.Ct.
+3138. This Court, however, looked to Terry
+earlier in deciding that an officer acted rea-
+sonably when he ordered a motorist stopped
+for driving with expired license tags to exit
+his car, Pennsylvania v. Mimms, 434 U.S. 106,
+109-110, 98 S.Ct. 330, 54 L.Ed.2d 331 (1977)
+(per curiam), and later reaffirmed the Terry
+analogy when evaluating a police officer’s au-
+thority to search a vehicle during a routine
+traffic stop, Knowles, 525 U.S., at 117, 119
+S.Ct. 484.
+543 U.S. 422
+
+ILLINOIS v. CABALLES
+
+845
+
+Cite as 125 S.Ct. 834 (2005)
+
+any investigation must be “reasonably re-
+lated in scope to the circumstances which
+justified the interference in the first
+place.” 392 U.S., at 20, 88 S.Ct. 1868
+(emphasis added). The unwayfranted,s;
+and nonconsensual expansion of the sei-
+zure here from a routine traffic stop to a
+drug investigation broadened the scope of
+the investigation in a manner that, in my
+judgment, runs afoul of the Fourth
+Amendment.*
+
+The Court rejects the Illinois Supreme
+Court’s judgment and, implicitly, the appli-
+cation of Terry to a traffic stop converted,
+by calling in a dog, to a drug search. The
+Court so rules, holding that a dog sniff
+does not render a seizure that is reason-
+able in time unreasonable in scope. Ante,
+at 837. Dog sniffs that detect only the
+possession of contraband may be employed
+without offense to the Fourth Amendment,
+the Court reasons, because they reveal no
+lawful activity and hence disturb no legiti-
+mate expectation of privacy. Ante, at 837-
+838.
+
+In my view, the Court diminishes the
+Fourth Amendment’s force by abandoning
+the second Terry inquiry (was the police
+action “reasonably related in scope to the
+circumstances [justifiying] the [initial] in-
+terference”). 392 U.S., at 20, 88 S.Ct.
+1868. A drug-detection dog is an intimi-
+dating animal. Cf. United States v.
+Williams, 356 F.3d 1268, 1276 (C.A.10
+2004) (McKay, J., dissenting) (“drug dogs
+are not lap dogs”). Injecting such an ani-
+mal into a routine traffic stop changes the
+character of the encounter between the
+police and the motorist. The stop becomes
+broader, more adversarial, and (in at least
+some cases) longer. Caballes—who, as far
+as Troopers Gillette and Graham knew,
+
+3. The question whether a police officer inquir-
+ing about drugs without reasonable suspicion
+unconstitutionally broadens a traffic investi-
+gation is not before the Court. Cf. Florida v.
+
+was guilty solely of driving six miles per
+hour over the speed limit—was exposed to
+the embarrassment and intimidation of be-
+ing investigated, on a public thoroughfare,
+for drugs. Even if the drug sniff is not
+characterized as a Fourth Amendment
+“search,” cf. Indianjapolisy,. v. Edmond,
+531 U.S. 32, 40, 121 S.Ct. 447, 148 L.Ed.2d
+333 (2000); United States v. Place, 462
+U.S. 696, 707, 103 S.Ct. 2637, 77 L.Ed.2d
+110 (1983), the sniff surely broadened the
+scope of the traffic-violation-related sei-
+gure.
+
+The Court has never removed police ac-
+tion from Fourth Amendment control on
+the ground that the action is well calculat-
+ed to apprehend the guilty. See, eg.
+United States v. Karo, 468 U.S. 705, 717,
+104 S.Ct. 3296, 82 L.Ed.2d 530 (1984)
+(Fourth Amendment warrant requirement
+applies to police monitoring of a beeper in
+a house even if “the facts [justify] believing
+that a crime is being or will be committed
+and that monitoring the beeper wherever
+it goes is likely to produce evidence of
+criminal activity.”); see also Minnesota v.
+Carter, 525 U.S. 83, 110, 119 S.Ct. 469, 142
+L.Ed.2d 373 (1998) (GINSBURG, J., dis-
+senting) (“Fourth Amendment protection,
+reserved for the innocent only, would have
+little force in regulating police behavior
+toward either the innocent or the guilty.”).
+Under today’s decision, every traffic stop
+could become an occasion to call in the
+dogs, to the distress and embarrassment of
+the law-abiding population.
+
+The Illinois Supreme Court, it seems to
+me, correctly apprehended the danger in
+allowing the police to search for contra-
+band despite the absence of cause to sus-
+pect its presence. Today’s decision, in
+contrast, clears the way for suspicionless,
+
+Bostick, 501 U.S. 429, 434, 111 S.Ct. 2382,
+115 L.Ed.2d 389 (1991) (police questioning of
+a bus passenger, who might have just said
+“No,” did not constitute a seizure).
+846
+
+dog-accompanied drug sweeps of parked
+cars along sidewalks and in parking lots.
+Compare, e.g., United States v. Ludwig, 10
+F.3d 1523, 1526-1527 (C.A.10 1993) (up-
+holding a search based on a canine drug
+sniff of a parked car in a motel parking lot
+conducted without particular suspicion),
+with United States v. Quinn, 815 F.2d 153,
+159 (C.A.1 1987) (officers must have rea-
+sonable suspicion that a car contains nar-
+cotics at the moment a dog sniff is per-
+formed), and Place, 462 U.S., at 706-707,
+103 S.Ct. 2637 (Fourth Amendment. not
+violated by a dog sniff of a piece of lug-
+gage that was seized, pre-sniff, based on
+suspicion of drugs). Nor would motorists
+have constitutional grounds for complaint
+should police with dogs, stationed at long
+traffic lights, circle cars waiting for the red
+signal to turn green.
+
+_LsToday’s decision also undermines this
+Court’s situation-sensitive balancing of
+Fourth Amendment interests in other con-
+texts. For example, in Bond v. United
+States, 529 U.S. 334, 338-339, 120 S.Ct.
+1462, 146 L.Ed.2d 365 (2000), the Court
+held that a bus passenger had an expecta-
+tion of privacy in a bag placed in an over-
+
+125 SUPREME COURT REPORTER
+
+543 U.S. 422
+
+agricultural products detection. See, e.9.,
+U.S. Customs & Border Protection, Ca-
+nine Enforcement Training Center Train-
+ing Program Course Descriptions, http://
+www.cbp.gov/xp/cgov/border_security/
+
+canines/training_program.xml (all Internet
+materials as visited Dec. 16, 2004, and
+available in Clerk of Court’s case file) (de-
+scribing Customs training courses in nar-
+cotics detection); Transportation Security
+Administration, Canine and Explosives
+Program, http://www.tsa.gov/public/
+display?theme=82 (describing Transporta-
+tion Security Administration’s explosives
+detection canine program); U.S. Dept. of
+Agriculture, Animal and Plant Health In-
+spection Service, USDA’s Detector Dogs:
+Protecting American Agriculture (Oct.
+2001), available at http://www.aphis.usda.
+gov/oa/pubs/detdogs.pdf (describing USDA
+Beagle Brigade detector dogs trained to
+detect prohibited fruits, plants, and meat);
+see also Jennings, Origins and History of
+Security and Detector Dogs, in Canine
+Sports Medicine and Surgery 16, 18-19
+(M. Bloomberg, J. Dee, & R. Taylor eds.
+1998) (describing narcotics-detector
+
+head bin and that a police officer's physical _Lz:dogs used by Border Patrol and Cus-
+
+manipulation of the bag constituted an ille-
+gal search. If canine drug sniffs are en-
+tirely exempt from Fourth Amendment in-
+spection, a sniff could substitute for an
+officer’s request to a bus passenger for
+permission to search his bag, with this
+significant difference: The passenger
+would not have the option to say “No.”
+
+The dog sniff in this case, it bears em-
+phasis, was for drug detection only. A
+dog sniff for explosives, involving security
+interests not presented here, would be an
+entirely different matter. Detector dogs
+are ordinarily trained not as all-purpose
+sniffers, but for discrete purposes. For
+example, they may be trained for narcotics
+detection or for explosives detection or for
+
+toms, and bomb detector dogs used by the
+Federal Aviation Administration and the
+Secret Service, but noting the possibility in
+some circumstances of cross training dogs
+for multiple tasks); S. Chapman, Police
+Dogs in North America 64, 70-79 (1990)
+(describing narcotics- and explosives-de-
+tection dogs and noting the possibility of
+cross training). There is no indication in
+this case that the dog accompanying
+Trooper Graham was trained for anything
+other than drug detection. See 207 IIl.2d,
+at 507, 280 Ill.Dec., at 278, 802 N.E.2d, at
+203 (“Trooper Graham arrived with his
+drug-detection dog ....”); Brief for Peti-
+tioner 3 (“Trooper Graham arrived with a
+drug-detection dog ....”).
+543 U.S. 447
+
+BELL v. CONE
+
+847
+
+Cite as 125 S.Ct. 847 (2005)
+
+This Court has distinguished between
+the general interest in crime control and
+more immediate threats to public safety.
+In Michigan Dept. of State Police v. Sitz,
+496 U.S. 444, 110 S.Ct. 2481, 110 L.Ed.2d
+412 (1990), this Court upheld the use of a
+sobriety traffic checkpoint. Balancing the
+State’s interest in preventing drunk driv-
+ing, the extent to which that could be
+accomplished through the checkpoint pro-
+gram, and the degree of intrusion the
+stops involved, the Court determined that
+the State’s checkpoint program was consis-
+tent with the Fourth Amendment. Jd., at
+455, 110 S.Ct. 2481. Ten years after Sitz,
+in Indianapolis v. Edmond, 531 U.S. 32,
+121 S.Ct. 447, 148 L.Ed.2d 333, this Court
+held that a drug interdiction checkpoint
+violated the Fourth Amendment. Despite
+the illegal narcotics traffic that the Nation
+is struggling to stem, the Court explained,
+a “general interest in crime control” did
+not justify the stops. Id., at 43-44, 121
+S.Ct. 447 (internal quotation marks omit-
+ted). The Court distinguished the sobriety
+checkpoints in Sitz on the ground that
+those checkpoints were designed to elimi-
+nate an “immediate, vehicle-bound threat
+to life and limb.” 531 US., at 43, 121 S.Ct.
+447.
+
+The use of bomb-detection dogs to check
+vehicles for explosives without doubt has a
+closer kinship to the sobriety checkpoints
+in Sitz than to the drug checkpoints in
+Edmond. As the Court observed in Ed-
+mond: “(T]he Fourth Amendment would
+almost certainly permit an appropriately
+tajlored,; roadblock set up to thwart an
+imminent terrorist attack ....” 5381 U.S.,
+at 44, 121 S.Ct. 447. Even if the Court
+were to change course and characterize a
+dog sniff as an independent Fourth
+Amendment search, see ante, p. 838
+(SOUTER, J., dissenting), the immediate,
+present danger of explosives would likely
+justify a bomb sniff under the special
+needs doctrine. See, ¢g., ante, at 843, n. 7
+(SOUTER, J., dissenting); Griffin v. Wis-
+
+consin, 483 U.S. 868, 873, 107 S.Ct. 3164,
+97 L.Ed.2d 709 (1987) (permitting excep-
+tions to the warrant and probable-cause
+requirements for a search when “special
+needs, beyond the normal need for law
+enforcement,” make those requirements
+impracticable (quoting New Jersey v. T.L.
+O., 469 U.S. 325, 351, 105 S.Ct. 733, 83
+L.Ed.2d 720 (1985) (Blackmun, J., concur-
+ring in judgment))).
+
+ek Ok
+
+For the reasons stated, I would hold
+that the police violated Caballes’ Fourth
+Amendment rights when, without cause to
+suspect wrongdoing, they conducted a dog
+sniff of his vehicle. I would therefore
+affirm the judgment of the Illinois Su-
+preme Court.
+
+Ww
+° E KEY NUMBER SYSTEM
+T
+
+543 U.S. 447, 160 L.Ed.2d 881
+Ricky BELL, Warden,
+
+v.
+
+Gary Bradford CONE.
+No. 04-394.
+Jan. 24, 2005.
+
+Rehearing Denied March 21, 2005.
+
+See 544 US. 944, 125 S.Ct. 1655.
+Background: Following affirmance, 665
+S.W.2d 87, of his murder convictions and
+death sentence, petitioner sought habeas
+relief. The United States District Court for
+the Western District of Tennessee, Jon
+Phipps McCalla, J., denied petition. Peti-
+tioner appealed. The United States Court
+of Appeals for the Sixth Circuit, 243 F.3d
+961, granted relief. State appealed. The
+Supreme Court reversed, 535 U.S. 685, 122
+S.Ct. 1843, 152 L.Ed.2d 914. On remand,
+the Court of Appeals, 359 F.3d 785, again
+granted relief. Certiorari was granted.

@@ -1,0 +1,1921 @@
+FLORIDA v. JARDINES
+
+1409
+
+Cite as 133 S.Ct. 1409 (2013)
+
+allocation of medical expenses in every
+case. The Court views the problem with
+North Carolina’s law as being that “the
+State provides no evidence to substantiate
+its claim that the one-third allocation is
+reasonable in the mine run of cases.”
+Ante, at 1399. That thought does not re-
+surface until five pages later—and only
+then—when the Court says that States
+“may even be able to adopt ex ante admin-
+istrative criteria for allocating medical and
+nonmedical expenses, provided these crite-
+ria are backed by evidence suggesting that
+they are likely to yield reasonable results
+in the mine run of cases.” Ante, at 1402.
+
+I am not sure whether this is a conces-
+sion that individualized hearings may not
+be required after all, but if it is, it is flatly
+contrary to the rest of the opinion. It is
+also quite odd to suggest that the problem
+with North Carolina’s law would go away if
+only the State provided some sort of study
+substantiating the idea that one-third was
+a good approximation in most cases.
+North Carolina is not a federal agency,
+whose actions are subject to review under
+the Administrative Procedure Act’s “sub-
+stantial evidence” test. See 5 U.S.C.
+§ 706(2)(E). We have never before, in a
+preemption case, put the burden on the
+State to compile an evidentiary record sup-
+porting its legislative determination. The
+burden is, of course, on those challenging
+the law. See Pharmaceutical Research
+and Mfrs. of America v. Walsh, 538 U.S.
+644, 661-662, 123 S.Ct. 1855, 155 L.Ed.2d
+889 (2003) (plurality opinion) (“We start
+... with a presumption that the state stat-
+ute is valid, and ask whether petitioner has
+shouldered the burden of overcoming that
+presumption” (citation omitted)). We have
+said that, as a general matter, “Congress
+is not obligated, when enacting its statutes,
+to make a record of the type that an
+administrative agency or court does to ac-
+commodate judicial review.” Turner
+Broadcasting System, Inc. v. FCC, 520
+
+US. 180, 213, 117 S.Ct. 1174, 137 L.Ed.2d
+369 (1997) (internal quotation marks omit-
+ted). Sovereign States should be accorded
+no less deference.
+
+Keep in mind that the basis for all this is
+a federal law that prohibits liens for medi-
+cal assistance, but says nothing about how
+medical and nonmedical expenses are to be
+allocated. It is hard enough to figure out
+what the Medicaid Act means by what it
+says ; we should not read so much into its
+silence.
+
+Ultimately, it is a basic policy judgment
+whether the Medicaid program is best
+served in this instance by post hoc individ-
+ualized determinations, or whether the is-
+sue may be addressed in advance, through
+a general rule, as North Carolina has done
+here. See ante, at 1402 (BREYER, J.,
+concurring) (“any of several different an-
+swers to the question would seem reason-
+able”). The Court can point to nothing
+that delegates to it the prerogative to
+make that judgment. Rather, States and
+the Secretary—working together—should
+be afforded the leeway to make their joint
+venture a workable one.
+
+Because North Carolina’s law does not
+conflict with federal law, I would let it be.
+I respectfully dissent.
+
+Ww
+° E KEY NUMBER SYSTEM
+T
+
+FLORIDA, Petitioner
+
+v.
+Joelis JARDINES.
+No. 11-564.
+
+Argued Oct. 31, 2012.
+
+Decided March 26, 2013.
+
+Background: Defendant, who
+charged with trafficking in cannabis and
+
+was
+1410
+
+theft of electricity, moved to suppress evi-
+
+dence seized pursuant to a search warrant
+
+that was obtained after a dog-sniff on front
+porch of defendant’s home. The Florida
+
+Circuit Court, Miami-Dade County, Wil-
+
+liam Thomas, J., granted the motion. State
+
+appealed. The Florida District Court of
+
+Appeal, 9 So.3d 1, reversed and certified a
+
+conflict. The Florida Supreme Court, Per-
+
+ry, J., 73 So.3d 34, quashed the decision of
+the District Court of Appeal. Certiorari
+was granted.
+
+Holdings: The Supreme Court, Justice
+
+Scalia, held that:
+
+(1) law enforcement officers’ use of drug-
+sniffing dog on front porch of home, to
+investigate an unverified tip that mari-
+juana was being grown in the home,
+was a trespassory invasion of the curti-
+lage which constituted a “search” for
+Fourth Amendment purposes, and
+
+2
+
+officers did not have an implied license
+for the physical invasion of the curti-
+lage.
+
+Florida Supreme Court affirmed.
+
+Justice Kagan filed a concurring opinion,
+in which Justices Ginsburg and Sotomayor
+joined.
+
+Justice Alito filed a dissenting opinion, in
+which Chief Justice Roberts and Justices
+Kennedy and Breyer joined.
+
+1. Searches and Seizures 13.1
+
+When the Government obtains infor-
+mation by physically intruding on persons,
+houses, papers, or effects, a “search” with-
+in the original meaning of the Fourth
+Amendment has undoubtedly occurred.
+U.S.C.A. Const.Amend. 4.
+
+See publication Words and Phras-
+es for other judicial constructions
+and definitions.
+
+2. Searches and Seizures <=26
+Property rights are not the sole meas-
+ure of Fourth Amendment violations, but
+
+133 SUPREME COURT REPORTER
+
+though the Katz “reasonable expectation of
+privacy” test may add to the baseline, it
+does not subtract anything from the
+Amendment’s protections when the Gov-
+ernment does engage in a physical intru-
+sion of a constitutionally protected area.
+U.S.C.A. Const.Amend. 4.
+
+3. Searches and Seizures €=25.1
+
+The Fourth Amendment indicates
+with some precision the places and things
+encompassed by its protections: persons,
+houses, papers, and effects. U.S.C.A.
+Const.Amend. 4.
+
+4. Searches and Seizures 27
+
+The Fourth Amendment does not pre-
+vent all investigations conducted on private
+property, and an officer may, subject to
+the Katz “reasonable expectation of priva-
+cy” test, gather information in open fields,
+even if those fields are privately owned,
+because such fields are not enumerated in
+the Amendment’s text. U.S.C.A. Const.
+Amend. 4.
+
+5. Searches and Seizures 25.1
+
+At the Fourth Amendment's very core
+stands the right of a man to retreat into
+his own home and there be free from
+
+unreasonable governmental intrusion.
+U.S.C.A. Const.Amend. 4.
+
+6. Searches and Seizures <=27
+
+The “curtilage” of a home, which is
+the area immediately surrounding and as-
+sociated with the home, is part of the home
+itself for Fourth Amendment purposes.
+U.S.C.A. Const.Amend. 4.
+
+See publication Words and Phras-
+es for other judicial constructions
+and definitions.
+
+7. Searches and Seizures €=27
+
+The curtilage of a home is intimately
+linked to the home, both physically and
+psychologically, and is where privacy ex-
+pectations are most heightened, for Fourth
+FLORIDA v. JARDINES
+
+1411
+
+Cite as 133 S.Ct. 1409 (2013)
+
+Amendment purposes. U.S.C.A. Const.
+
+Amend. 4.
+
+8. Controlled Substances 137
+
+Front porch of home, which was loca-
+tion at which law enforcement officials
+used a drug-sniffing dog to investigate an
+unverified tip that marijuana was being
+grown in the home, was part of the curti-
+lage of the home and therefore was a
+constitutionally protected area, for Fourth
+Amendment purposes. U.S.C.A. Const.
+Amend. 4.
+
+9. Controlled Substances 137
+Searches and Seizures <=22
+
+Law enforcement officers’ use of
+drug-sniffing dog on front porch of home,
+to investigate an unverified tip that mari-
+juana was being grown in the home, was a
+trespassory invasion of the curtilage which
+constituted a “search” for Fourth Amend-
+ment purposes. U.S.C.A. Const.Amend. 4.
+
+10. Searches and Seizures €=25.1
+
+While law enforcement officers need
+not shield their eyes when passing by a
+home on public thoroughfares, an officer’s
+leave to gather information is sharply cir-
+cumscribed when he steps off those thor-
+oughfares and enters the Fourth Amend-
+ment’s protected areas. U.S.C.A. Const.
+Amend. 4.
+
+11. Trespass 11
+
+The law holds the property of every
+man so sacred that no man can set his foot
+upon his neighbor’s close without his leave.
+
+12. Controlled Substances €=137
+
+The customary invitation of home-
+owners allowing visitors to approach a
+home and knock on the front door did not
+constitute an implied license by defendant
+homeowner for law enforcement officers to
+
+* The syllabus constitutes no part of the opinion
+of the Court but has been prepared by the
+Reporter of Decisions for the convenience of
+
+physically invade the curtilage of his home
+in order to conduct a search by using a
+drug-sniffing dog on the front porch of the
+home to investigate an unverified tip that
+marijuana was being grown in the home.
+U.S.C.A. Const.Amend. 4.
+
+13. Trespass 25
+
+A license for entry upon a close may
+be implied from the habits of the country.
+
+14. Trespass 79
+
+The knocker installed on the front
+door of a home is treated as an invitation
+or license to attempt an entry, justifying
+ingress to the home by solicitors, hawkers,
+and peddlers of all kinds, and this implicit
+license typically permits the visitor to ap-
+proach the home by the front path, knock
+promptly, wait briefly to be received, and
+then, absent invitation to linger longer,
+leave.
+
+15. Searches and Seizures <=23
+
+A police officer not armed with a war-
+rant may approach a home and knock,
+precisely because that is no more than any
+private citizen might do. U.S.C.A. Const.
+Amend. 4.
+
+Syllabus *
+
+Police took a drug-sniffing dog to Jar-
+dines’ front porch, where the dog gave a
+positive alert for narcotics. Based on the
+alert, the officers obtained a warrant for a
+search, which revealed marijuana plants;
+Jardines was charged with trafficking in
+cannabis. The Supreme Court of Florida
+approved the trial court’s decision to sup-
+press the evidence, holding that the offi-
+cers had engaged in a Fourth Amendment
+search unsupported by probable cause.
+
+the reader. See United States v. Detroit Tim-
+ber & Lumber Co., 200 U.S. 321, 337, 26 S.Ct.
+282, 50 L.Ed. 499.
+1412
+
+Held: The investigation of Jardines’
+home was a “search” within the meaning of
+the Fourth Amendment. Pp. 1414-1418.
+
+(a) When “the Government obtains in-
+formation by physically intruding” on per-
+sons, houses, papers, or effects, “a ‘search’
+within the original meaning of the Fourth
+Amendment” has “undoubtedly occurred.”
+United States v. Jones, 565 U.S. —,
+——,, n. 3, 132 S.Ct. 945, 181 L.Ed.2d 911.
+P. 1414.
+
+(b) At the Fourth Amendment’s “very
+core” stands “the right of a man to retreat
+into his own home and there be free from
+unreasonable governmental intrusion.”
+Silverman v. United States, 365 U.S. 505,
+511, 81 S.Ct. 679, 5 L.Ed.2d 734. The area
+“immediately surrounding and associated
+with the home”—the curtilage—is “part of
+the home itself for Fourth Amendment
+purposes.” Oliver v. United States, 466
+US. 170, 180, 104 S.Ct. 1735, 80 L.Ed.2d
+214. The officers entered the curtilage
+here: The front porch is the classic ex-
+emplar of an area “to which the activity of
+home life extends.” Jd., at 182, n. 12, 104
+S.Ct. 1735. Pp. 1414-1415.
+
+(c) The officers’ entry was not explic-
+itly or implicitly invited. Officers need not
+“shield their eyes” when passing by a
+home “on public thoroughfares,” Califor-
+nia v. Ciraolo, 476 U.S. 207, 213, 106 S.Ct.
+1809, 90 L.Ed.2d 210, but “no man can set
+his foot upon his neighbour’s close without
+his leave,” Entick v. Carrington, 2 Wils.
+K.B. 275, 291, 95 Eng. Rep. 807, 817. A
+police officer not armed with a warrant
+may approach a home in hopes of speaking
+to its occupants, because that is “no more
+than any private citizen might do.” Ken-
+tucky v. King, 563 U.S. ——, —, 181
+S.Ct. 1849, 179 L.Ed.2d 865. But the scope
+of a license is limited not only to a particu-
+lar area but also to a specific purpose, and
+there is no customary invitation to enter
+
+133 SUPREME COURT REPORTER
+
+the curtilage simply to conduct a search.
+Pp. 1415 - 1417.
+
+(d) It is unnecessary to decide wheth-
+er the officers violated Jardines’ expecta-
+tion of privacy under Katz v. United
+States, 389 U.S. 347, 88 S.Ct. 507, 19
+L.Ed.2d 576. Pp. 1417-1418.
+
+73 So.3d 34, affirmed.
+
+SCALIA, J., delivered the opinion of
+the Court, in which THOMAS,
+GINSBURG, SOTOMAYOR, and KAGAN,
+JJ., joined. KAGAN, J., filed a concurring
+opinion, in which GINSBURG and
+SOTOMAYOR, JJ., joined. ALITO, J.,
+filed a dissenting opinion, in which
+ROBERTS, C.J., and KENNEDY and
+BREYER, JJ., joined.
+
+Nichole A. Saharsky, for the United
+States as amicus curiae, by special leave of
+the Court, supporting the Petitioner.
+
+Gregory G. Garre, Washington, DC, for
+Petitioner.
+
+Howard K. Blumberg, Miami, FL, for
+Respondent.
+
+Pamela Jo Bondi, Attorney General, Tal-
+lahassee, FL, Carolyn M. Snurkowski,
+Counsel of Record, Associate Deputy At-
+torney General, Charmaine M. Millsaps,
+Assistant Attorney General, Timothy D.
+Osterhaus, Deputy Solicitor General, Of-
+fice of the Attorney General, Tallahassee,
+FL, for Petitioner.
+
+Carlos J. Martinez, Public Defender,
+Eleventh Judicial Circuit of Florida, Maria
+E. Lauredo, Chief Assistant Public De-
+fender, Howard K. Blumberg, Counsel of
+Record, Assistant Public Defender, Robert
+Kalter, Assistant Public Defender, Miami,
+FL, for Respondent.
+
+For U.S. Supreme Court briefs, see:
+2012 WL 3132158 (Reply.Brief)
+2012 WL 2486026 (Resp.Brief)
+FLORIDA v. JARDINES
+
+1413
+
+Cite as 133 S.Ct. 1409 (2013)
+
+2012 WL 1594294 (Pet.Brief)
+
+Justice SCALIA delivered the opinion of
+the Court.
+
+We consider whether using a drug-sniff-
+ing dog on a homeowner’s porch to investi-
+gate the contents of the home is a “search”
+within the meaning of the Fourth Amend-
+ment.
+
+I
+
+In 2006, Detective William Pedraja of
+the Miami-Dade Police Department re-
+ceived an unverified tip that marijuana
+was being grown in the home of respon-
+dent Joelis Jardines. One month later, the
+Department and the Drug Enforcement
+Administration sent a joint surveillance
+team to Jardines’ home. Detective Pedra-
+ja was part of that team. He watched the
+home for fifteen minutes and saw no vehi-
+cles in the driveway or activity around the
+home, and could not see inside because the
+blinds were drawn. Detective Pedraja
+then approached Jardines’ home accompa-
+nied by Detective Douglas Bartelt, a
+trained canine handler who had just ar-
+rived at the scene with his drug-sniffing
+dog. The dog was trained to detect the
+scent of marijuana, cocaine, heroin, and
+several other drugs, indicating the pres-
+ence of any of these substances through
+particular behavioral changes recognizable
+by his handler.
+
+Detective Bartelt had the dog on a six-
+foot leash, owing in part to the dog’s “wild”
+nature, App. to Pet. for Cert. A-35, and
+tendency to dart around erratically while
+searching. As the dog approached Jar-
+dines’ front porch, he apparently sensed
+one of the odors he had been trained to
+detect, and began energetically exploring
+the area for the strongest point source of
+that odor. As Detective Bartelt explained,
+the dog “began tracking that airborne odor
+by ... tracking back and forth,” engaging
+
+in what is called “bracketing,” “back and
+forth, back and forth.” Jd., at A-383 to A-
+34. Detective Bartelt gave the dog “the full
+six feet of the leash plus whatever safe
+distance [he could] give him” to do this—
+he testified that he needed to give the dog
+“as much distance as I can.” Id., at A-35.
+And Detective Pedraja stood back while
+this was occurring, so that he would not
+“get knocked over” when the dog was
+“spinning around trying to find” the
+source. Id., at A-38.
+
+After sniffing the base of the front door,
+the dog sat, which is the trained behavior
+upon discovering the odor’s strongest
+point. Detective Bartelt then pulled the
+dog away from the door and returned to
+his vehicle. He left the scene after in-
+forming Detective Pedraja that there had
+been a positive alert for narcotics.
+
+On the basis of what he had learned at
+the home, Detective Pedraja applied for
+and received a warrant to search the resi-
+dence. When the warrant was executed
+later that day, Jardines attempted to flee
+and was arrested; the search revealed
+marijuana plants, and he was charged with
+trafficking in cannabis.
+
+At trial, Jardines moved to suppress the
+marijuana plants on the ground that the
+canine investigation was an unreasonable
+search. The trial court granted the mo-
+tion, and the Florida Third District Court
+of Appeal reversed. On a petition for
+discretionary review, the Florida Supreme
+Court quashed the decision of the Third
+District Court of Appeal and approved the
+trial court’s decision to suppress, holding
+(as relevant here) that the use of the
+trained narcotics dog to investigate Jar-
+dines’ home was a Fourth Amendment
+search unsupported by probable cause,
+rendering invalid the warrant based upon
+information gathered in that search. 73
+So.3d 34 (2011).
+1414
+
+We granted certiorari, limited to the
+question of whether the officers’ behavior
+was a search within the meaning of the
+Fourth Amendment. 565 U.S. ——, 132
+S.Ct. 995, 181 L.Ed.2d 726 (2012).
+
+I
+
+[1,2] The Fourth Amendment pro-
+vides in relevant part that the “right of the
+people to be secure in their persons, hous-
+es, papers, and effects, against unreason-
+able searches and seizures, shall not be
+violated.” The Amendment establishes a
+simple baseline, one that for much of our
+history formed the exclusive basis for its
+protections: When “the Government ob-
+tains information by physically intruding”
+on persons, houses, papers, or effects, “a
+‘search’ within the original meaning of the
+Fourth Amendment” has “undoubtedly oc-
+curred.” United States v. Jones, 565 U.S.
+——, — , n. 3, 182 S.Ct. 945, 950-951, n.
+3, 181 L.Ed.2d 911 (2012). By reason of
+our decision in Katz v. United States, 389
+US. 347, 88 S.Ct. 507, 19 L.Ed.2d 576
+(1967), property rights “are not the sole
+measure of Fourth Amendment viola-
+tions,” Soldal v. Cook County, 506 U.S. 56,
+64, 113 S.Ct. 538, 121 L.Ed.2d 450 (1992)—
+but though Katz may add to the baseline,
+it does not subtract anything from the
+Amendment’s protections “when the Gov-
+ernment does engage in [a] physical intru-
+sion of a constitutionally protected area,”
+United States v. Knotts, 460 U.S. 276, 286,
+103 S.Ct. 1081, 75 L.Ed.2d 55 (1983)
+(Brennan, J., concurring in the judgment).
+
+That principle renders this case a
+straightforward one. The officers were
+gathering information in an area belonging
+to Jardines and immediately surrounding
+his house—in the curtilage of the house,
+which we have held enjoys protection as
+part of the home itself. And they gath-
+ered that information by physically enter-
+ing and occupying the area to engage in
+
+133 SUPREME COURT REPORTER
+
+conduct not explicitly or implicitly permit-
+ted by the homeowner.
+
+A
+
+[3,4] The Fourth Amendment “indi-
+cates with some precision the places and
+things encompassed by its protections”:
+persons, houses, papers, and effects. Oli-
+ver v. United States, 466 U.S. 170, 176, 104
+S.Ct. 1735, 80 L.Ed.2d 214 (1984). The
+Fourth Amendment does not, therefore,
+prevent all investigations conducted on pri-
+vate property; for example, an officer may
+(subject to Katz) gather information in
+what we have called “open fields”—even if
+those fields are privately owned—because
+such fields are not enumerated in the
+Amendment’s text. Hester v. United
+States, 265 U.S. 57, 44 S.Ct. 445, 68 L.Ed.
+898 (1924).
+
+[5] But when it comes to the Fourth
+Amendment, the home is first among
+equals. At the Amendment’s “very core”
+stands “the right of a man to retreat into
+his own home and there be free from
+unreasonable governmental intrusion.”
+Silverman v. United States, 365 U.S. 505,
+511, 81 S.Ct. 679, 5 L.Ed.2d 734 (1961).
+This right would be of little practical value
+if the State’s agents could stand in a
+home’s porch or side garden and trawl for
+evidence with impunity; the right to re-
+treat would be significantly diminished if
+the police could enter a man’s property to
+observe his repose from just outside the
+front window.
+
+[6,7] We therefore regard the area
+“Immediately surrounding and associated
+with the home”—what our cases call the
+curtilage—as “part of the home itself for
+Fourth Amendment purposes.” Oliver,
+supra, at 180, 104 S.Ct. 1735. That princi-
+ple has ancient and durable roots. Just as
+the distinction between the home and the
+open fields is “as old as the common law,”
+Hester, supra, at 59, 44 S.Ct. 445, so too is
+FLORIDA v. JARDINES
+
+1415
+
+Cite as 133 S.Ct. 1409 (2013)
+
+the identity of home and what Blackstone
+called the “curtilage or homestall,” for the
+“house protects and privileges all its
+branches and appurtenants.” 4 W. Black-
+stone, Commentaries on the Laws of Eng-
+land 223, 225 (1769). This area around the
+home is “intimately linked to the home,
+both physically and psychologically,” and is
+where “privacy expectations are most
+heightened.” California v. Ciraolo, 476
+US. 207, 213, 106 S.Ct. 1809, 90 L.Ed.2d
+210 (1986).
+
+[8] While the boundaries of the curti-
+lage are generally “clearly marked,” the
+“conception defining the curtilage” is at
+any rate familiar enough that it is “easily
+understood from our daily experience.”
+Oliver, 466 U.S., at 182, n. 12, 104 S.Ct.
+1735. Here there is no doubt that the
+officers entered it: The front porch is the
+classic exemplar of an area adjacent to the
+home and “to which the activity of home
+life extends.” Ibid.
+
+B
+
+[9-12] Since the officers’ investigation
+took place in a constitutionally protected
+area, we turn to the question of whether it
+was accomplished through an unlicensed
+physical intrusion.!_ While law enforce-
+ment officers need not “shield their eyes”
+when passing by the home “on public thor-
+oughfares,” Ciraolo, 476 U.S., at 213, 106
+S.Ct. 1809, an officer’s leave to gather
+information is sharply circumscribed when
+he steps off those thoroughfares and en-
+ters the Fourth Amendment’s protected
+areas. In permitting, for example, visual
+observation of the home from “public navi-
+gable airspace,” we were careful to note
+
+1. At oral argument, the State and its amicus
+the Solicitor General argued that Jardines
+conceded in the lower courts that the officers
+had a right to be where they were. This
+misstates the record. Jardines conceded
+nothing more than the unsurprising proposi-
+
+that it was done “in a physically nonintru-
+sive manner.” Jbid. Entick v. Carrington,
+2 Wils. K.B. 275, 95 Eng. Rep. 807 (K.B.
+1765), a case “undoubtedly familiar” to
+“every American statesman” at the time of
+the Founding, Boyd v. United States, 116
+US. 616, 626, 6 S.Ct. 524, 29 L.Ed. 746
+(1886), states the general rule clearly:
+“{[Ojur law holds the property of every
+man so sacred, that no man can set his foot
+upon his neighbour’s close without his
+leave.” 2 Wils. K.B., at 291, 95 Eng. Rep.,
+at 817. As it is undisputed that the detec-
+tives had all four of their feet and all four
+of their companion’s firmly planted on the
+constitutionally protected extension of Jar-
+dines’ home, the only question is whether
+he had given his leave (even implicitly) for
+them to do so. He had not.
+
+[13-15] “A license may be implied
+from the habits of the country,” notwith-
+standing the “strict rule of the English
+common law as to entry upon a close.”
+McKee v. Gratz, 260 U.S. 127, 136, 43 S.Ct.
+16, 67 L.Ed. 167 (1922) (Holmes, J.). We
+have accordingly recognized that “the
+knocker on the front door is treated as an
+invitation or license to attempt an entry,
+justifying ingress to the home by solicitors,
+hawkers and peddlers of all kinds.”
+Breard v. Alexandria, 341 U.S. 622, 626,
+71 S.Ct. 920, 95 L.Ed. 1233 (1951). This
+implicit license typically permits the visitor
+to approach the home by the front path,
+knock promptly, wait briefly to be re-
+ceived, and then (absent invitation to lin-
+ger longer) leave. Complying with the
+terms of that traditional invitation does not
+require fine-grained legal knowledge; it is
+generally managed without incident by the
+Nation’s Girl Scouts and trick-or-treaters.”
+
+tion that the officers could have lawfully ap-
+proached his home to knock on the front door
+in hopes of speaking with him. Of course,
+that is not what they did.
+
+2. With this much, the dissent seems to
+agree—it would inquire into “ ‘the appear-
+1416
+
+Thus, a police officer not armed with a
+warrant may approach a home and knock,
+precisely because that is “no more than
+any private citizen might do.” Kentucky
+v. King, 563 US. ——, —, 181 S.Ct.
+1849, 1862, 179 L.Ed.2d 865 (2011).
+
+But introducing a trained police dog to
+explore the area around the home in hopes
+of discovering incriminating evidence is
+something else. There is no customary
+invitation to do that. An invitation to en-
+gage in canine forensic investigation as-
+suredly does not inhere in the very act of
+hanging a knocker.’ To find a visitor
+knocking on the door is routine (even if
+sometimes unwelcome); to spot that same
+visitor exploring the front path with a met-
+al detector, or marching his bloodhound
+into the garden before saying hello and
+asking permission, would inspire most of
+us to—well, call the police. The scope of a
+license—express or implied—is limited not
+only to a particular area but also to a
+specific purpose. Consent at a traffic stop
+
+ance of things,’”’ post, at 1422 (opinion of
+ALITO, J.), what is “typica[l]” for a visitor,
+ibid., what might cause “alarm” to a “resi-
+dent of the premises,” ibid., what is ‘“‘expect-
+ed” of “ordinary visitors,” ibid, and what
+would be expected from a “ ‘reasonably re-
+spectful citizen,’”’ post, at 1423. These are
+good questions. But their answers are in-
+compatible with the dissent’s outcome, which
+is presumably why the dissent does not even
+
+  
+
+try to argue that it would be customary, usual,
+reasonable, respectful, ordinary, typical, no-
+nalarming, etc., for a stranger to explore the
+curtilage of the home with trained drug dogs.
+
+3. The dissent insists that our argument must
+rest upon “‘the particular instrument that De-
+tective Bartelt used to detect the odor of mari-
+juana’’—the dog. Post, at 1424. It is not the
+dog that is the problem, but the behavior that
+here involved use of the dog. We think a
+typical person would find it “‘a cause for
+great alarm’”’ (the kind of reaction the dis-
+sent quite rightly relies upon to justify its no-
+night-visits rule, post, at 1422) to find a
+stranger snooping about his front porch with
+or without a dog. The dissent would let the
+
+133 SUPREME COURT REPORTER
+
+to an officer’s checking out an anonymous
+tip that there is a body in the trunk does
+not permit the officer to rummage through
+the trunk for narcotics. Here, the back-
+ground social norms that invite a visitor to
+the front door do not invite him there to
+conduct a search.'
+
+The State points to our decisions holding
+that the subjective intent of the officer is
+irrelevant. See Ashcroft v. al-Kidd, 563
+US. —, 131 S.Ct. 2074, 179 L.Ed.2d
+1149 (2011); Whren v. United States, 517
+U.S. 806, 116 S.Ct. 1769, 135 L.Ed.2d 89
+(1996). But those cases merely hold that a
+stop or search that is objectively reason-
+able is not vitiated by the fact that the
+officer’s real reason for making the stop or
+search has nothing to do with the validat-
+ing reason. Thus, the defendant will not
+be heard to complain that although he was
+speeding the officer’s real reason for the
+stop was racial harassment. See id., at
+810, 818, 116 S.Ct. 1769. Here, however,
+the question before the court is precisely
+
+police do whatever they want by way of gath-
+ering evidence so long as they stay on the
+base-path, to use a baseball analogy—so long
+as they “stick to the path that is typically used
+to approach a front door, such as a paved
+walkway.’ Ibid. From that vantage point
+they can presumably peer into the house
+through binoculars with impunity. That is
+not the law, as even the State concedes. See
+Tr. of Oral Arg. 6.
+
+4. The dissent argues, citing King, that “gath-
+ering evidence—even damning evidence—is a
+lawful activity that falls within the scope of
+the license to approach.” Post, at 1423. That
+is a false generalization. What King estab-
+lishes is that it is not a Fourth Amendment
+search to approach the home in order to
+speak with the occupant, because all are invit-
+ed to do that. The mere “‘purpose of discover-
+ing information,” post, at 1424, in the course
+of engaging in that permitted conduct does
+not cause it to violate the Fourth Amendment.
+But no one is impliedly invited to enter the
+protected premises of the home in order to do
+nothing but conduct a search.
+FLORIDA v. JARDINES
+
+1417
+
+Cite as 133 S.Ct. 1409 (2013)
+
+whether the officer’s conduct was an objec-
+tively reasonable search. As we have de-
+scribed, that depends upon whether the
+officers had an implied license to enter the
+porch, which in turn depends upon the
+purpose for which they entered. Here,
+their behavior objectively reveals a pur-
+pose to conduct a search, which is not what
+anyone would think he had license to do.
+
+Tl
+
+The State argues that investigation by a
+forensic narcotics dog by definition cannot
+implicate any legitimate privacy interest.
+The State cites for authority our decisions
+in United States v. Place, 462 U.S. 696, 103
+S.Ct. 2637, 77 L.Ed.2d 110 (1983), United
+States v. Jacobsen, 466 U.S. 109, 104 S.Ct.
+1652, 80 L.Ed.2d 85 (1984), and Illinois v.
+Caballes, 543 U.S. 405, 125 S.Ct. 834, 160
+L.Ed.2d 842 (2005), which held, respective-
+ly, that canine inspection of luggage in an
+airport, chemical testing of a substance
+that had fallen from a parcel in transit,
+and canine inspection of an automobile
+during a lawful traffic stop, do not violate
+the “reasonable expectation of privacy” de-
+scribed in Katz.
+
+Just last Term, we considered an argu-
+ment much like this. Jones held that
+tracking an automobile’s whereabouts us-
+ing a physically-mounted GPS receiver is a
+Fourth Amendment search. The Govern-
+ment argued that the Katz standard
+“show[ed] that no search occurred,” as the
+defendant had “no ‘reasonable expectation
+of privacy’” in his whereabouts on the
+public roads, Jones, 565 U.S., at ——, 132
+S8.Ct., at 950—a proposition with at least as
+much support in our case law as the one
+the State marshals here. See, e.g., United
+States v. Knotts, 460 U.S. 276, 278, 103
+S.Ct. 1081, 75 L.Ed.2d 55 (1983). But
+because the GPS receiver had been physi-
+cally mounted on the defendant’s automo-
+bile (thus intruding on his “effects”), we
+
+held that tracking the vehicle’s movements
+was a search: a person’s “Fourth Amend-
+ment rights do not rise or fall with the
+Katz formulation.” Jones, supra, at ——,
+132 S.Ct., at 950. The Katz reasonable-
+expectations test “has been added to, not
+substituted for,” the traditional property-
+based understanding of the Fourth
+Amendment, and so is unnecessary to con-
+sider when the government gains evidence
+by physically intruding on constitutionally
+protected areas. Jones, supra, at ——,
+132 S.Ct., at 951-952.
+
+Thus, we need not decide whether the
+officers’ investigation of Jardines’ home vi-
+olated his expectation of privacy under
+Katz. One virtue of the Fourth Amend-
+ment’s property-rights baseline is that it
+keeps easy cases easy. That the officers
+learned what they learned only by physi-
+cally intruding on Jardines’ property to
+gather evidence is enough to establish that
+a search occurred.
+
+For a related reason we find irrelevant
+the State’s argument (echoed by the dis-
+sent) that forensic dogs have been com-
+monly used by police for centuries. This
+argument is apparently directed to our
+holding in Kyllo v. United States, 533 U.S.
+27, 121 S.Ct. 2038, 150 L.Ed.2d 94 (2001),
+that surveillance of the home is a search
+where “the Government uses a device that
+is not in general public use” to “explore
+details of the home that would previously
+have been unknowable without physical
+intrusion.” Id., at 40, 121 S.Ct. 2038 (em-
+phasis added). But the implication of that
+statement (inclusio unius est exclusio al-
+terius ) is that when the government uses
+a physical intrusion to explore details of
+the home (including its curtilage), the an-
+tiquity of the tools that they bring along is
+
+irrelevant.
+Eo * *
+
+The government’s use of trained police
+dogs to investigate the home and its imme-
+1418
+
+diate surroundings is a “search” within the
+meaning of the Fourth Amendment. The
+judgment of the Supreme Court of Florida
+is therefore affirmed.
+
+It is so ordered.
+
+Justice KAGAN, with whom Justice
+GINSBURG and Justice SOTOMAYOR
+join, concurring.
+
+For me, a simple analogy clinches this
+case—and does so on privacy as well as
+property grounds. A stranger comes to
+the front door of your home carrying su-
+per-high-powered binoculars. See ante, at
+1416, n. 3. He doesn’t knock or say hello.
+Instead, he stands on the porch and uses
+the binoculars to peer through your win-
+dows, into your home’s furthest corners.
+It doesn’t take long (the binoculars are
+really very fine): In just a couple of min-
+utes, his uncommon behavior allows him to
+learn details of your life you disclose to no
+one. Has your “visitor” trespassed on
+your property, exceeding the license you
+have granted to members of the public to,
+say, drop off the mail or distribute cam-
+paign flyers? Yes, he has. And has he
+also invaded your “reasonable expectation
+of privacy,” by nosing into intimacies you
+sensibly thought protected from disclo-
+sure? Katz v. United States, 389 U.S. 347,
+360, 88 S.Ct. 507, 19 L.Ed.2d 576 (1967)
+(Harlan, J., concurring). Yes, of course,
+he has done that too.
+
+That case is this case in every way that
+matters. Here, police officers came to
+Joelis Jardines’ door with a super-sensitive
+instrument, which they deployed to detect
+things inside that they could not perceive
+unassisted. The equipment they used was
+animal, not mineral. But contra the dis-
+sent, see post, at 1420 (opinion of ALITO,
+J.) (noting the ubiquity of dogs in Ameri-
+can households), that is of no significance
+in determining whether a search occurred.
+Detective Bartelt’s dog was not your
+
+133 SUPREME COURT REPORTER
+
+neighbor’s pet, come to your porch on a
+leisurely stroll. As this Court discussed
+earlier this Term, drug-detection dogs are
+highly trained tools of law enforcement,
+geared to respond in distinctive ways to
+specific scents so as to convey clear and
+reliable information to their human part-
+ners. See Florida v. Harris, 568 US.
+——, 183 S.Ct. 1050, 1053-1054, 1056-
+1057, 185 L.Ed.2d 61 (2013). They are to
+the poodle down the street as high-pow-
+ered binoculars are to a piece of plain
+glass. Like the binoculars, a drug-detec-
+tion dog is a specialized device for discov-
+ering objects not in plain view (or plain
+smell). And as in the hypothetical above,
+that device was aimed here at a home—the
+most private and inviolate (or so we ex-
+pect) of all the places and things the
+Fourth Amendment protects. Was this
+activity a trespass? Yes, as the Court
+holds today. Was it also an invasion of
+privacy? Yes, that as well.
+
+The Court today treats this case under a
+property rubric; I write separately to note
+that I could just as happily have decided it
+by looking to Jardines’ privacy interests.
+A decision along those lines would have
+looked ... well, much like this one. It
+would have talked about “ ‘the right of a
+man to retreat into his own home and
+there be free from unreasonable govern-
+mental intrusion.’” Ante, at 1414 (quoting
+Silverman v. United States, 365 U.S. 505,
+511, 81 S.Ct. 679, 5 L.Ed.2d 734 (1961).
+It would have insisted on maintaining the
+“practical value” of that right by prevent-
+ing police officers from standing in an
+adjacent space and “trawl[ing] for evidence
+with impunity.” Ante, at 1414. It would
+have explained that “ ‘privacy expectations
+are most heightened’ ” in the home and the
+surrounding area. Ante, at 1414-1415
+(quoting California v. Ciraolo, 476 US.
+207, 213, 106 S.Ct. 1809, 90 L.Ed.2d 210
+(1986)). And it would have determined
+FLORIDA v. JARDINES
+
+1419
+
+Cite as 133 S.Ct. 1409 (2013)
+
+that police officers invade those shared
+expectations when they use trained canine
+assistants to reveal within the confines of a
+home what they could not otherwise have
+found there. See ante, at 1415-1416, and
+nn, 2-3.
+
+It is not surprising that in a case involv-
+ing a search of a home, property concepts
+and privacy concepts should so align. The
+law of property “naturally enough influ-
+ence[s]” our “shared social expectations” of
+what places should be free from govern-
+mental incursions. Georgia v. Randolph,
+547 U.S. 103, 111, 126 S.Ct. 1515, 164
+L.Ed.2d 208 (2006); see Rakas v. Illinois,
+439 U.S. 128, 143, n. 12, 99 S.Ct. 421, 58
+L.Ed.2d 387 (1978). And so the sentiment
+“my home is my own,” while originating in
+property law, now also denotes a common
+understanding—extending even beyond
+that law’s formal protections—about an es-
+pecially private sphere. Jardines’ home
+was his property; it was also his most
+intimate and familiar space. The analysis
+proceeding from each of those facts, as
+today’s decision reveals, runs mostly along
+the same path.
+
+I can think of only one divergence: If
+we had decided this case on privacy
+grounds, we would have realized that Kyl-
+lo v. United States, 533 U.S. 27, 121 S.Ct.
+2038, 150 L.Ed.2d 94 (2001), already re-
+solved it.! The Kyllo Court held that po-
+lice officers conducted a search when they
+used a thermal-imaging device to detect
+heat emanating from a private home, even
+
+1. The dissent claims, alternatively, that J/li-
+nois v. Caballes, 543 U.S. 405, 409-410, 125
+S.Ct. 834, 160 L.Ed.2d 842 (2005), controls
+this case (or nearly does). See post, at 1424,
+1425. But Caballes concerned a drug-detec-
+tion dog’s sniff of an automobile during a
+traffic stop. See also Florida v. Harris, 568
+Ws: , 133 S.Ct. 1050, — L.Ed.2d
+(2013). And we have held, over and over
+again, that people’s expectations of privacy
+are much lower in their cars than in their
+
+See, e.g., Arizona v. Gant, 556 U.S.
+
+ 
+
+ 
+
+homes.
+
+though they committed no trespass.
+Highlighting our intention to draw both a
+“firm” and a “bright” line at “the entrance
+to the house,” id., at 40, 121 S.Ct. 2038, we
+announced the following rule:
+
+“Where, as here, the Government uses a
+
+device that is not in general public use,
+
+to explore details of the home that would
+previously have been unknowable with-
+out physical intrusion, the surveillance is
+
+a ‘search’ and is presumptively unrea-
+
+sonable without a warrant.” Ibid.
+
+That “firm” and “bright” rule governs this
+case: The police officers here conducted a
+search because they used a “device ... not
+in general public use” (a trained drug-
+detection dog) to “explore details of the
+home” (the presence of certain substances)
+that they would not otherwise have discov-
+ered without entering the premises.
+
+And again, the dissent’s argument that
+the device is just a dog cannot change the
+equation. As Kyllo made clear, the
+“sense-enhancing” tool at issue may be
+“crude” or “sophisticated,” may be old or
+new (drug-detection dogs actually go back
+not “12,000 years” or “centuries,” post, at
+1420, 1424, 1428, but only a few decades),
+may be either smaller or bigger than a
+breadbox; still, “at least where (as here)”
+the device is not “in general public use,”
+training it on a home violates our “minimal
+expectation of privacy”’—an expectation
+“that ewists, and that is acknowledged to
+be reasonable.” 533 U.S., at 34, 36, 121
+S.Ct. 2038.2 That does not mean the de-
+
+332, 345, 129 S.Ct. 1710, 173 L.Ed.2d 485
+(2009); Wyoming v. Houghton, 526 U.S. 295,
+303, 119 S.Ct. 1297, 143 L.Ed.2d 408 (1999);
+New York v. Class, 475 U.S. 106, 115, 106
+S.Ct. 960, 89 L.Ed.2d 81 (1986); Cardwell v.
+Lewis, 417 U.S. 583, 590-591, 94 S.Ct. 2464,
+41 L.Ed.2d 325 (1974) (plurality opinion).
+
+2. The dissent’s other principal reason for con-
+cluding that no violation of privacy occurred
+in this case—that police officers themselves
+might detect an aroma wafting from a
+1420
+
+vice is off-limits, as the dissent implies, see
+post, at 1425-1426; it just means police
+officers cannot use it to examine a home
+without a warrant or exigent circumstance.
+See Brigham City v. Stuart, 547 U.S. 398,
+403-404, 126 S.Ct. 1948, 164 L.Ed.2d 650
+(2006) (describing exigencies allowing the
+warrantless search of a home).
+
+With these further thoughts, suggesting
+that a focus on Jardines’ privacy interests
+would make an “easy cas[e] easy” twice
+over, ante, at 1417, I join the Court’s
+opinion in full.
+
+Justice ALITO, with whom THE
+CHIEF JUSTICE, Justice KENNEDY,
+and Justice BREYER join, dissenting.
+
+The Court’s decision in this important
+Fourth Amendment case is based on a
+putative rule of trespass law that is no-
+where to be found in the annals of Anglo-
+American jurisprudence.
+
+The law of trespass generally gives
+members of the public a license to use a
+walkway to approach the front door of a
+house and to remain there for a brief time.
+This license is not limited to persons who
+intend to speak to an occupant or who
+actually do so. (Mail carriers and persons
+delivering packages and flyers are exam-
+
+house—works no better. If officers can smell
+drugs coming from a house, they can use that
+information; a human sniff is not a search,
+we can all agree. But it does not follow that
+a person loses his expectation of privacy in
+the many scents within his home that (his
+own nose capably tells him) are not usually
+detectible by humans standing outside. And
+indeed, Kyllo already decided as much. In
+response to an identical argument from the
+dissent in that case, see 533 U.S., at 43, 121
+S.Ct. 2038 (Stevens, J., dissenting) (noting
+that humans can sometimes detect “heat
+emanating from a building’), the Ky/lo Court
+stated: “The dissent’s comparison of the ther-
+mal imaging to various circumstances in
+which outside observers might be able to per-
+ceive, without technology, the heat of the
+home ... is quite irrelevant. The fact that
+
+133 SUPREME COURT REPORTER
+
+ples of individuals who may lawfully ap-
+proach a front door without intending to
+converse.) Nor is the license restricted to
+categories of visitors whom an occupant of
+the dwelling is likely to welcome; as the
+Court acknowledges, this license applies
+even to “solicitors, hawkers and peddlers
+of all kinds.” Ante, at 1415 (internal quo-
+tation marks omitted). And the license
+even extends to police officers who wish to
+gather evidence against an occupant (by
+asking potentially incriminating questions).
+
+According to the Court, however, the
+police officer in this case, Detective Bar-
+telt, committed a trespass because he was
+accompanied during his otherwise lawful
+visit to the front door of respondent’s
+house by his dog, Franky. Where is the
+authority evidencing such a rule? Dogs
+have been domesticated for about 12,000
+years; ! they were ubiquitous in both this
+country and Britain at the time of the
+adoption of the Fourth Amendment; 2 and
+their acute sense of smell has been used in
+law enforcement for centuries.? Yet the
+Court has been unable to find a single
+case—from the United States or any other
+common-law nation—that supports the
+rule on which its decision is based. Thus,
+
+equivalent information could sometimes be
+obtained by other means does not make law-
+ful the use of means that violate the Fourth
+In any event, [at the time in
+question,] no outside observer could have dis-
+cerned the relative heat of Kyllo’s home with-
+out thermal imaging.” Jd., at 35, n. 2, 121
+S.Ct. 2038.
+
+Amendment... .
+
+1. See, e.g., Sloane, Dogs in War, Police Work
+and on Patrol, 46 J. Crim. L., C. & P.S. 385
+(1955-1956) (hereinafter Sloane).
+
+2. M. Derr, A Dog’s History of America 68-92
+(2004); K. Olsen, Daily Life in 18th-Century
+England 32-33 (1999).
+
+3. Sloane 388-389.
+FLORIDA v. JARDINES
+
+1421
+
+Cite as 133 S.Ct. 1409 (2013)
+
+trespass law provides no support for the
+Court’s holding today.
+
+The Court’s decision is also inconsistent
+with the reasonable-expectations-of-priva-
+cy test that the Court adopted in Katz v.
+United States, 389 U.S. 347, 88 S.Ct. 507,
+19 L.Ed.2d 576 (1967). A reasonable per-
+son understands that odors emanating
+from a house may be detected from loca-
+tions that are open to the public, and a
+reasonable person will not count on the
+strength of those odors remaining within
+the range that, while detectible by a dog,
+cannot be smelled by a human.
+
+For these reasons, I would hold that no
+search within the meaning of the Fourth
+Amendment took place in this case, and I
+would reverse the decision below.
+
+I
+
+The opinion of the Court may leave a
+reader with the mistaken impression that
+Detective Bartelt and Franky remained on
+respondent’s property for a prolonged pe-
+riod of time and conducted a far-flung
+exploration of the front yard. See ante, at
+1414 (“trawl for evidence with impunity”),
+1416 (“marching his bloodhound into the
+garden”). But that is not what happened.
+
+Detective Bartelt and Franky ap-
+proached the front door via the driveway
+and a paved path—the route that any visi-
+tor would customarily use ‘—and Franky
+was on the kind of leash that any dog
+owner might employ.’ As Franky ap-
+proached the door, he started to track an
+airborne odor. He held his head high and
+began “bracketing” the area (pacing back
+and forth) in order to determine the
+strongest source of the smell. App. 95-96.
+
+4. See App. 94; App. to Brief for Respondent
+1A (depiction of respondent’s home).
+
+5. The Court notes that Franky was on a 6-foot
+leash, but such a leash is standard equipment
+for ordinary dog owners. See, e.g., J. Stre-
+
+Detective Bartelt knew “the minute [he]
+observed” this behavior that Franky had
+detected drugs. Jd., at 95. Upon locating
+the odor’s strongest source, Franky sat at
+the base of the front door, and at this
+point, Detective Bartelt and Franky imme-
+diately returned to their patrol car. Id., at
+98.
+
+A critical fact that the Court omits is
+that, as respondent’s counsel explained at
+oral argument, this entire process—walk-
+ing down the driveway and front path to
+the front door, waiting for Franky to find
+the strongest source of the odor, and walk-
+ing back to the car—took approximately a
+minute or two. Tr. of Oral Arg. 57-58.
+Thus, the amount of time that Franky and
+the detective remained at the front porch
+was even less. The Court also fails to
+mention that, while Detective Bartelt ap-
+parently did not personally smell the odor
+of marijuana coming from the house, an-
+other officer who subsequently stood on
+the front porch, Detective Pedraja, did
+notice that smell and was able to identify
+it. App. 81.
+
+II
+
+The Court concludes that the conduct in
+this case was a search because Detective
+Bartelt exceeded the boundaries of the
+license to approach the house that is rec-
+ognized by the law of trespass, but the
+Court’s interpretation of the scope of that
+license is unfounded.
+
+A
+
+It is said that members of the public
+may lawfully proceed along a walkway
+leading to the front door of a house be-
+
+gowski, Four Dog Leash Varieties, http://dogs.
+about.com/od/toyssupplies/tp/Dog-Leashes.
+htm (all Internet materials as visited Mar. 21,
+2013, and available in Clerk of Court’s case
+file).
+1422
+
+cause custom grants them a license to do
+so. Breard v. Alexandria, 341 U.S. 622,
+626, 71 S.Ct. 920, 95 L.Ed. 1233 (1951);
+Lakin v. Ames, 64 Mass. 198, 220 (1852);
+J. Bishop, Commentaries on the Non—Con-
+tract Law § 823, p. 378 (1889). This rule
+encompasses categories of visitors whom
+most homeowners almost certainly wish to
+allow to approach their front doors—
+friends, relatives, mail carriers, persons
+making deliveries. But it also reaches cat-
+egories of visitors who are less universally
+welcome—‘“solicitors,” “hawkers,” “ped-
+dlers,” and the like. The law might at-
+tempt to draw fine lines between catego-
+ries of welcome and unwelcome visitors,
+distinguishing, for example, between toler-
+able and intolerable door-to-door peddlers
+(Girl Scouts selling cookies versus adults
+selling aluminum siding) or between police
+officers on agreeable and disagreeable mis-
+sions (gathering information about a both-
+ersome neighbor versus asking potentially
+incriminating questions). But the law of
+trespass has not attempted such a difficult
+taxonomy. See Desnick v. American
+Broadcasting Cos. 44 F.3d 1345, 1351
+(C.A.7 1995) (“[Clonsent to an entry is
+often given legal effect even though the
+entrant has intentions that if known to the
+owner of the property would cause him for
+perfectly understandable and generally
+ethical or at least lawful reasons to revoke
+his consent”); ef. Skinner v. Ogallala Pub-
+lic School Dist., 262 Neb. 387, 402, 631
+N.W.2d 510, 525 (2001) (“[I]n order to
+determine if a business invitation is im-
+plied, the inquiry is not a subjective as-
+sessment of why the visitor chose to visit
+the premises in a particular instance”);
+Crown Cork & Seal Co. v. Kane, 213 Md.
+152, 159, 131 A.2d 470, 473-474 (1957) (not-
+ing that “there are many cases in which an
+invitation has been implied from circum-
+stances, such as custom,” and that this test
+is “objective in that it stresses custom and
+
+133 SUPREME COURT REPORTER
+
+the appearance of things” as opposed to
+“the undisclosed intention of the visitor”).
+
+Of course, this license has certain spatial
+and temporal limits. A visitor must stick
+to the path that is typically used to ap-
+proach a front door, such as a paved walk-
+way. A visitor cannot traipse through the
+garden, meander into the backyard, or
+take other circuitous detours that veer
+from the pathway that a visitor would cus-
+tomarily use. See, e.g., Robinson v. Virgi-
+nia, 47 Va.App. 533, 549-550, 625 S.E.2d
+651, 659 (2006) (en bane); United States v.
+Wells, 648 F.3d 671, 679-680 (C.A.8 2011)
+(police exceeded scope of their implied in-
+vitation when they bypassed the front door
+and proceeded directly to the back yard);
+State v. Harris, 919 S.W.2d 619, 624 (Tenn.
+Crim.App.1995) (“Any substantial and un-
+reasonable departure from an area where
+the public is impliedly invited exceeds the
+scope of the implied invitation ...” (inter-
+nal quotation marks and brackets omit-
+ted)); 1 W. LaFave, Search and Seizure
+§ 2.3(¢), p. 578 (2004) (hereinafter La-
+Fave); id., § 2.3(f), at 600-603 (“[W]hen
+the police come on to private property to
+conduct an investigation or for some other
+legitimate purpose and restrict their move-
+ments to places visitors could be expected
+to go (e.g., walkways, driveways, porches),
+observations made from such vantage
+points are not covered by the Fourth
+Amendment” (footnotes omitted)).
+
+Nor, as a general matter, may a visitor
+come to the front door in the middle of the
+night without an express invitation. See
+State v. Cada, 129 Idaho 224, 233, 923 P.2d
+469, 478 (App.1996) (“Furtive intrusion late
+at night or in the predawn hours is not
+conduct that is expected from ordinary
+visitors. Indeed, if observed by a resident
+of the premises, it could be a cause for
+great alarm”).
+
+Similarly, a visitor may not linger at the
+front door for an extended period. See 9
+FLORIDA v. JARDINES
+
+1423
+
+Cite as 133 S.Ct. 1409 (2013)
+
+So.3d 1, 11 (Fla.App.2008) (case below)
+(Cope, J., concurring in part and dissent-
+ing in part) (“[T]here is no such thing as
+squatter’s rights on a front porch. A
+stranger may not plop down uninvited to
+spend the afternoon in the front porch
+rocking chair, or throw down a sleeping
+bag to spend the night, or lurk on the front
+porch, looking in the windows”). The li-
+cense is limited to the amount of time it
+would customarily take to approach the
+door, pause long enough to see if someone
+is home, and (if not expressly invited to
+stay longer), leave.
+
+As I understand the law of trespass and
+the scope of the implied license, a visitor
+who adheres to these limitations is not
+necessarily required to ring the doorbell,
+knock on the door, or attempt to speak
+with an occupant. For example, mail car-
+riers, persons making deliveries, and indi-
+viduals distributing flyers may leave the
+items they are carrying and depart without
+making any attempt to converse. A pe-
+destrian or motorist looking for a particu-
+Jar address may walk up to a front door in
+order to check a house number that is
+hard to see from the sidewalk or road. A
+neighbor who knows that the residents are
+away may approach the door to retrieve an
+accumulation of newspapers that might
+signal to a potential burglar that the house
+is unoccupied.
+
+As the majority acknowledges, this im-
+plied license to approach the front door
+extends to the police. See ante, at 1415.
+As we recognized in Kentucky v. King, 563
+US. —, 181 S.Ct. 1849, 179 L.Ed.2d 865
+(2011), police officers do not engage in a
+search when they approach the front door
+of a residence and seek to engage in what
+is termed a “knock and talk,” 7.e., knocking
+on the door and seeking to speak to an
+occupant for the purpose of gathering evi-
+dence. See id., at ——, 131 S.Ct., at 1862
+(“When law enforcement officers who are
+
+not armed with a warrant knock on a door,
+they do no more than any private citizen
+might do”). See also 1 LaFave § 2.3(e), at
+592 (“It is not objectionable for an officer
+to come upon that part of the property
+which has been opened to public common
+use” (internal quotation marks omitted)).
+Even when the objective of a “knock and
+talk” is to obtain evidence that will lead to
+the homeowner’s arrest and prosecution,
+the license to approach still applies. In
+other words, gathering evidence—even
+damning evidence—is a lawful activity that
+falls within the scope of the license to
+approach. And when officers walk up to
+the front door of a house, they are permit-
+ted to see, hear, and smell whatever can be
+detected from a lawful vantage point. Cal-
+ifornia v. Ciraolo, 476 U.S. 207, 213, 106
+S.Ct. 1809, 90 L.Ed.2d 210 (1986) (“The
+Fourth Amendment protection of the home
+has never been extended to require law
+enforcement officers to shield their eyes
+when passing by a home on public thor-
+oughfares”); Cada, supra, at 232, 923
+P.2d, at 477 (“[Plolice officers restricting
+their activity to [areas to which the public
+is impliedly invited] are permitted the
+same intrusion and the same level of ob-
+servation as would be expected from a
+reasonably respectful citizen” (internal
+quotation marks omitted)); 1 LaFave
+§§ 2.2(a), 2.3(c), at 450-452, 572-577.
+
+B
+
+Detective Bartelt did not exceed the
+scope of the license to approach respon-
+dent’s front door. He adhered to the cus-
+tomary path; he did not approach in the
+middle of the night; and he remained at
+the front door for only a very short period
+(ess than a minute or two).
+
+The Court concludes that Detective Bar-
+telt went too far because he had the “ob-
+jectivfe] ... purpose to conduct a search.”
+Ante, at 1417 (emphasis added). What
+1424
+
+this means, I take it, is that anyone aware
+of what Detective Bartelt did would infer
+that his subjective purpose was to gather
+evidence. But if this is the Court’s point,
+then a standard “knock and talk” and most
+other police visits would likewise constitute
+searches. With the exception of visits to
+serve warrants or civil process, police al-
+most always approach homes with a pur-
+pose of discovering information. That is
+certainly the objective of a “knock and
+talk.” The Court offers no meaningful
+way of distinguishing the “objective pur-
+pose” of a “knock and talk” from the “ob-
+jective purpose” of Detective Bartelt’s con-
+duct here.
+
+The Court contends that a “knock and
+talk” is different because it involves talk-
+ing, and “all are invited” to do that. Ante,
+at 1416, n. 4 (emphasis deleted). But a
+police officer who approaches the front
+door of a house in accordance with the
+limitations already discussed may gather
+evidence by means other than talking.
+The officer may observe items in plain
+view and smell odors coming from the
+house. Ciraolo, supra, at 213, 106 S.Ct.
+1809; Cada, 129 Idaho, at 232, 923 P.2d, at
+ATT; 1 LaFave §§ 2.2(a), 2.3(¢), at 450-452,
+572-577. So the Court’s “objective pur-
+pose” argument cannot stand.
+
+What the Court must fall back on, then,
+is the particular instrument that Detective
+Bartelt used to detect the odor of marijua-
+na, namely, his dog. But in the entire
+body of common-law decisions, the Court
+has not found a single case holding that a
+visitor to the front door of a home commits
+a trespass if the visitor is accompanied by
+a dog on a leash. On the contrary, the
+common law allowed even unleashed dogs
+to wander on private property without
+committing a trespass. G. Williams, Lia-
+bility for Animals 136-146 (1939); J. Ing-
+ham, A Treatise on Property in Animals
+Wild and Domestic and the Rights and
+
+133 SUPREME COURT REPORTER
+
+Responsibilities Arising Therefrom 277-
+278 (1900). Cf. B. Markesinis & S. Dea-
+kin, Tort Law 511 (4th ed. 1999).
+
+The Court responds that “[iJt is not the
+dog that is the problem, but the behavior
+that here involved use of the dog.” Ante,
+at 1416, n. 3. But where is the support in
+the law of trespass for this proposition?
+Dogs’ keen sense of smell has been used in
+law enforcement for centuries. The antiq-
+uity of this practice is evidenced by a
+Scottish law from 1318 that made it a
+crime to “disturb a tracking dog or the
+men coming with it for pursuing thieves or
+seizing malefactors.” K. Brown et al., The
+Records of the Parliaments of Scotland to
+1707, (St Andrews, 2007-2013), online at
+http://www.rps.ac.uk/mss/1318/9. If bring-
+ing a tracking dog to the front door of a
+home constituted a trespass, one would
+expect at least one case to have arisen
+during the past 800 years. But the Court
+has found none.
+
+For these reasons, the real law of tres-
+pass provides no support for the Court’s
+holding today. While the Court claims
+that its reasoning has “ancient and durable
+roots,” ante, at 1414, its trespass rule is
+really a newly struck counterfeit.
+
+Il
+
+The concurring opinion attempts to pro-
+vide an alternative ground for today’s de-
+cision, namely, that Detective Bartelt’s
+conduct violated respondent’s reasonable
+expectations of privacy. But we have al-
+ready rejected a very similar, if not identi-
+cal argument, see Illinois v. Caballes, 543
+U.S. 405, 409-410, 125 S.Ct. 834, 160
+L.Ed.2d 842 (2005), and in any event I see
+no basis for concluding that the occupants
+of a dwelling have a reasonable expecta-
+tion of privacy in odors that emanate from
+the dwelling and reach spots where mem-
+bers of the public may lawfully stand.
+FLORIDA v. JARDINES
+
+1425
+
+Cite as 133 S.Ct. 1409 (2013)
+
+It is clear that the occupant of a house
+has no reasonable expectation of privacy
+with respect to odors that can be smelled
+by human beings who are standing in such
+places. See United States v. Johns, 469
+US. 478, 482, 105 S.Ct. 881, 83 L.Ed.2d
+890 (1985) (“After the officers came closer
+and detected the distinct odor of marihua-
+na, they had probable cause to believe that
+the vehicles contained contraband”); Unit-
+ed States v. Ventresca, 380 U.S. 102, 111,
+85 S.Ct. 741, 13 L.Ed.2d 684 (1965) (scent
+of fermenting mash supported probable
+cause for warrant); United States v. John-
+ston, 497 F.2d 397, 398 (C.A.9 1974) (there
+is no “reasonable expectation of privacy
+from drug agents with inquisitive nos-
+trils”). And I would not draw a line be-
+tween odors that can be smelled by hu-
+mans and those that are detectible only by
+dogs.
+
+Consider the situation from the point of
+view of the occupant of a building in which
+marijuana is grown or methamphetamine
+is manufactured. Would such an occupant
+reason as follows? “I know that odors
+may emanate from my building and that
+atmospheric conditions, such as the force
+and direction of the wind, may affect the
+strength of those odors when they reach a
+spot where members of the public may
+lawfully stand. I also know that some
+people have a much more acute sense of
+smell than others,’ and I have no idea who
+might be standing in one of the spots in
+question when the odors from my house
+reach that location. In addition, I know
+that odors coming from my building, when
+they reach these locations, may be strong
+enough to be detected by a dog. But I am
+confident that they will be so faint that
+they cannot be smelled by any human
+
+6. Some humans naturally have a much more
+acute sense of smell than others, and humans
+can be trained to detect and distinguish odors
+that could not be detected without such train-
+ing. See E. Hancock, A Primer on Smell,
+
+being.” Such a finely tuned expectation
+would be entirely unrealistic, and I see no
+evidence that society is prepared to recog-
+nize it as reasonable.
+
+In an attempt to show that respondent
+had a reasonable expectation of privacy in
+the odor of marijuana wafting from his
+house, the concurrence argues that this
+case is just like Kyllo v. United States, 533
+US. 27, 121 S.Ct. 2038, 150 L.Ed.2d 94
+(2001), which held that police officers con-
+ducted a search when they used a thermal
+imaging device to detect heat emanating
+from a house. Ante, at 1419 (opinion of
+KAGAN, J.). This Court, however, has
+already rejected the argument that the use
+of a drug-sniffing dog is the same as the
+use of a thermal imaging device. See Ca-
+balles, 543 U.S., at 409-410, 125 S.Ct. 834.
+The very argument now advanced by the
+concurrence appears in Justice Souter’s
+Caballes dissent. See id., at 413, and n. 3,
+125 S.Ct. 834. But the Court was not per-
+suaded.
+
+Contrary to the interpretation pro-
+pounded by the concurrence, Kyllo is best
+understood as a decision about the use of
+new technology. The Kyllo Court focused
+on the fact that the thermal imaging device
+was a form of “sense-enhancing technolo-
+gy” that was “not in general public use,”
+and it expressed concern that citizens
+would be “at the mercy of advancing tech-
+nology” if its use was not restricted. 533
+US., at 34-35, 121 S.Ct. 2038. A dog,
+however, is not a new form of “technology”
+or a “device.” And, as noted, the use of
+dogs’ acute sense of smell in law enforce-
+ment dates back many centuries.
+
+http://www.jhu.edu/jhumag/996web/smell.
+html. Some individuals employed in the per-
+fume and wine industries, for example, have
+an amazingly acute sense of smell. Ibid.
+1426
+
+The concurrence suggests that a Kyllo-
+based decision would be “much like” the
+actual decision of the Court, but that is
+simply not so. The holding of the Court is
+based on what the Court sees as a “ ‘physi-
+cal intrusion of a constitutionally protected
+area.” Ante, at 1414 (quoting United
+States v. Knotts, 460 U.S. 276, 286, 103
+S.Ct. 1081, 75 L.Ed.2d 55 (1983) (BREN-
+NAN, J., concurring in judgment)). As a
+result, it does not apply when a dog alerts
+while on a public sidewalk or street or in
+the corridor of a building to which the dog
+and handler have been lawfully admitted.
+
+The concurrence’s Kyllo-based approach
+would have a much wider reach. When
+the police used the thermal imaging device
+in Kyllo, they were on a public street, 533
+US., at 29, 121 S.Ct. 2038, and “committed
+no trespass.” Ante, at 1419. Therefore, if
+a dog’s nose is just like a thermal imaging
+device for Fourth Amendment purposes, a
+search would occur if a dog alerted while
+on a public sidewalk or in the corridor of
+an apartment building. And the same
+would be true if the dog was trained to
+sniff, not for marijuana, but for more dan-
+gerous quarry, such as explosives or for a
+violent fugitive or kidnapped child. I see
+no ground for hampering legitimate law
+enforcement in this way.
+
+IV
+
+The conduct of the police officer in this
+case did not constitute a trespass and did
+not violate respondent’s reasonable expec-
+tations of privacy. I would hold that this
+conduct was not a search, and I therefore
+respectfully dissent.
+
+Ww
+° § KEY NUMBER SYSTEM
+1
+
+133 SUPREME COURT REPORTER
+
+COMCAST CORPORATION,
+et al., Petitioners
+
+v.
+
+Caroline BEHREND et al.
+No. 11-864.
+Argued Nov. 5, 2012.
+
+Decided March 27, 2013.
+
+Background: Customers brought anti-
+trust class action against cable television
+company, alleging that company obtained
+monopoly via transactions with competi-
+tors for allocation of regional cable mar-
+kets and that company engaged in conduct
+excluding and preventing competition. The
+United States District Court for the East-
+ern District of Pennsylvania, John R. Pa-
+dova, J., 264 F.R.D. 150, certified class,
+and company appealed. The United States
+Court of Appeals for the Third Circuit,
+Aldisert, Circuit Judge, 655 F.3d 182, af-
+firmed. Certiorari was granted.
+
+Holding: The Supreme Court, Justice
+Scalia, held that regression model devel-
+oped by plaintiffs’ expert could not be
+accepted as evidence that damages were
+susceptible of measurement across entire
+class, as required for certification of class
+on theory that questions of law or fact
+common to class members predominated
+over any questions affecting only individu-
+al members.
+
+Reversed.
+
+Justices Ginsburg and Breyer dissented
+and filed opinion, in which Justices Soto-
+mayor and Kagan joined.
+
+1. Federal Civil Procedure 161
+
+Class action is exception to usual rule
+that litigation is conducted by and on be-
+half of individual named parties only.
+Fed.Rules Civ.Proc.Rule 23, 28 U.S.C.A.

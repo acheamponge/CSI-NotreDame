@@ -1,0 +1,273 @@
+From Erle Tarmesheaky © Fux. (574) 695-0303 To. Fax: (574) 235-5007 Page 2 of B O6/25/2017 3:06 PM
+
+STATE OF INDIANA ) IN THE ST. JOSEPH SUPERIOR COURT
+}
+ST. JOSEPH COUNTY ) GENERAL BOOK ENTRY
+
+IN RE: A PENDING CRIMINAL INVESTIGATION d
+of Child Exploitation that occurred in $1. Joscph County, )
+Indianz on or about March 24, 2017 )
+SICPD Cyber 17114 >
+
+PROSECUTOR'S SUBPOENA DUCES TECUM AND ATTACHED COURT ORDER
+
+TO: Comcast Legal Response Center
+Fax: 366-947-5587
+
+Upon receipt of this Subpoena, you are hercby commanded to present te Enc Tamashasky of the
+
+0303, the following tangible itcms and documents:
+
+Internet Records for subscribers assigned 98.22.124.179 from Midnight EST March 24 2017 w
+08:10AM EST May 25 2017
+* Customer Account Records
+Q Account owner, contact information, service type, service location, email addresses.
+© IP Address Assignment Records
+o Records associated with the IP address 98.222.124.179
+
+ae* JUDGE HAS ORDERED NON-DISCLOSURE (SEE JUDGE PAGE
+
+ 
+
+ANY QUESTIONS SHOULD BE DIRECTED TO ERIC TAMASHASKY AT THE ST, JOSEPH
+COUNTY POLICE DEPARTMENT (574) 876-9047
+
+Attomey for State of Indiana
+Jennifer McKinney
+
+Deputy Prosecuting Attomey
+South Bend, IN 46601
+
+(S74) 235-9544
+
+Clerk of St. Joscph Superior Court
+DATED: May 25, 2017
+From. Erle Tamauhenty = Fang, (574) 696-0303 To, Fox: (674) 235-087 Page 3 of & 05/25/2017 3:00 Pa
+
+STATE OF INDIANA ) IN THE ST. JOSEPH SUPERIOR COURT
+)
+ST. JOSEPH COUNTY } GENERAL BOOK ENTRY
+
+IN RE: A PENDING CRIMINAL INVESTIGATION }
+of Child Exploitation that occurred in St. Joscph County, }
+Indiana on or about March 24, 2017 }
+SJCPD Cyber 17114 )
+
+AFFIDAVIT OF PROSECUTOR
+
+Jennifer McKinney, upon information and belief, affirms under the penalties of perjury
+that:
+
+] am a Depuly Prosecutor for the 60" Judicial Circuit, County of St. Joseph, Statc of
+Indiana. I have read a verificd affidavit by Eric Tamashasky of the St. Joscph County Police
+Department conecrning an investigation into the Possession and Distribution of Child
+Pomography.
+
+The facts which render the foregoing suhpoenn duces tecum reasonable are set forth in
+the narrative supplemental report of Eric Tamashasky, a copy of which is attached hereto and
+incorporated herein as “Affidavit of Investigator.” E believe that this request is reasonably
+relevant to a valid criminal investigation. I further believe that the request is sufficiently limited
+in scope and specific in directive so that compliance will not be unreasonably burdensome to the
+recipient.
+
+1 affirm, under the penalties for perjury that, to the best of my knowledge and belief, the
+
+i Attormey
+
+foregoing is truc.
+From, Eck Tarsesheaky «= Fax: (574) 885-0303 To. Fan: (574) 2735-5097 Page 4 of 6 05/25/2017 3:08 Pm
+
+STATE OF INDIANA } IN THE ST. JOSEPH SUPERIOR COURT
+)
+ST. JOSEPH COUNTY ) GENERAL BOOK ENTRY
+
+IN RE: A PENDING CRIMINAL INVESTIGATION )
+of Child Exploitation that occurred in St. Joseph County, )
+Indiana on or about March 24, 2017 )
+SICPD Cyber 17114 d
+
+AFFIDAVIT OF INVESTIGATOR
+
+1, Eric Tamashasky, am deputized as a Special Deputy with full law enforcement powers
+with the S1. Joseph County Police Department. I have been a special deputy since 2071 and am
+responsible for the St. Joseph County Cybercrimes Against Children Unit. Prior to my role as a
+Special Deputy with the St. Joseph County Police Department, I was a deputy prosecuting
+attorney for the S1. Joseph County Prosecutor's Office since 2004. In that capacity, I prosecuted
+major crimes-—including cybercrimes cases. | was the lead prosecutor for the St. Joseph County
+Prosecutor's Office High Tech Crimes Unit from 2007 until is closure in 2009. I have training
+on cybercrime investigations from the United States Seeret Service, the National Center for
+Missing and Exploited Children, the National White Collar Crime Center, and the Internet
+Crimes Against Children (ICAC) Taskforce.
+
+lreceived training specifically related to the online sharing and distribution of child
+pomography from the ICAC Task Force that was specifically related to online file sharing via
+peer-to-peer clients. Peer-to-Peer (P2P) file sharing is the method by which users on the same
+network share digital files with one another. | am trained lo search for child pornography on
+both the Ares Peer to Peer Network (September 2013), BitTorrent peer-to-peer file sharing
+(December 2014) and the eMule/eDonkey network (May 2016). L have been conducting P2P
+investigations since September 2013.
+
+P2P investigations typically centcr upon contact with particular JP addresses. An “IP
+address” is a numeric address for 2 particular computer accessing the internet on a particular date
+and time. Once online, the EP address is unique to a particular access point. It is possible for
+multiple computcrs to usc one public IP address through the use of intcrnal networking. Should
+a particular JP address become an address of interest in an investigation, it is reasonable to
+
+believe multiple computers may be using the same IP address,
+From Erkc Tamaxhesky = Fan. £574) 696-0308 To, Fan: (874) 235-5087 Page 5 of @ 05/25/2017 0:08 PM
+
+INVESTIGATORY MetHops
+
+During my training in Ares investigations, I was given a program thal allowed me to
+search the Ares P2P network for files possibly containing child pomography. We tested and
+validated the program during the training class itself to ensure it located appropriate files and
+only downloaded from a single source ala time, The program works by comparing the Ares
+network’s own listing of uscr’s files versus a list of files known to law enforcement to be
+associated with child pornography. Not every file contained within the law enforcement Ares
+database is child pornography im that some of the files depict the child victims of child abuse in
+licit states, The existence of a photograph of a known victim of child abuse is relevant because
+child pornography collectors may acquire “scrics” images of victims. A “scries” may be a
+couple of licit pictures followed by that same child being abused and raped. Files are generally
+catalogued on file sharing sites by the hash value of a particular file, not by the file name
+attached to the file, “Hash values” are numcric values calculated by the application of
+particular algorithm or formuls to a digital data. The formulas that calculate hash values are so
+sensitive thal a change of one pixel in 2 picture will completely change the hash valuc. They arc
+akin to digital fingerprints. File names are easily changed and altcred to disguise the contents of
+a file. To change a hash value requires additional knowledge and skill not generally displayed
+by P2P traders.
+
+The tool also captures the IP addresses of those individuals offering files of interest for
+distribution. The program determines the approximate geographic location of a particular uscr’s
+device by searching publically available tools with the captured IP address information. Because
+of this feature, investigators may focus on users offering files for distribulion that are located in
+particular geographic areas. Our program has been tested and validated to do only single source
+downloads; this means that when we attempt to download a file from a user it is only that
+particular user who provides the file tous. While the general architectural design of P2P file
+sharing is to gather file pieces from multiple users, our search methodology only allows us to
+retrieve file picccs from a single user, This ensures we have relevant information about the
+file(s) possessed by that smgular user.
+
+Once a file of interest has been located on an appropriate geographically located machine,
+the Ares tool altempts to download the files. The acquisition of partial files—so long as those
+fragments themselves contain verifiable contraband—is not a weakness of this tool, Internet
+
+connections may time out or the user sharing the file could leave the network or move the file.
+From. Eric Tammuhexhy Fax. (874) 898-0503 Ta. Fan: (574) 235-6007 Pegs 6 of 8 O52S2017 3:00 Pm
+
+The reason a partial file I obtain is significant is that it is proof the user possessed the entire file
+atone time. Since Ares clients only report hash vaiues to the network once the user possesses
+the complete file, the only filcs our tool can seck 10 obtain are those files the user’s machine
+reported as possessing completely, The partial obtaincd by the Ares tool represents a sample of
+the entire item possessed by the user.
+
+Note that newly manufactured child pornography will not show up in via our Arcs
+investigatory tool. The only files we attempt to download are those files already known to law
+enforcement for their relevance 10 online child exploitation because they‘ve been obtained
+previously. New files have as-of-yet unknown hash values that cannot have been entered into
+
+our database of previously found files of interest,
+
+INVESTIGATORY DETAILS
+During my the course of my investigations of Ares, my investigative program identified a
+computer with the IP address 98.228.124.179 as a potential download candidate (source) for a
+file of investigative interest. ‘That JP address geolocates to Mishawaka, indiana and appears to
+be owned by Comeust Internet Services. 1 have obtained a download of a file from a computer at
+98.228.124.279. | viewed the movie file and I believe that it represents child pornography as
+defined by both state of Indiana and federal law. A description of the video Follows:
+
+© On March 24, 2017, my RoundUp Ares program identified 98.228.124.179 as an IP
+
+address that had a file of interest available. 1 was able to download a part of a video file
+from that IP address around 5:00PM EST. 1 confirmed this conneclion and download via
+log [les maintained during the download. The file’s name was “$rr9s90a(3).mpg.” The
+segment of the video filc I downloaded is approximately 6 seconds long (though the
+entire file appears to be 6:50 long. ‘The video begins with three boys approximately 8-10
+years old, naked, on their hands and knees on a bed, Their scrotums are visible as they
+bounce around and wrestle. The last portion acquired shows one of the boys sitting up on
+the bed, completely naked, with his left hand on his exposed penis,
+
+Through my training and experience, ] believe that people who search for and view child
+pomography generally kecp the items they collect, And even if person deletes the item after
+some period of time, a forensic computer examination often can find part (or all) of the deleted
+files on the person’s hard drive; it is very difficult to successfully remove all traces of'a deleted
+
+file from a hard drive. Further, | know thal the Arcs program contains database files that contain
+Figm. Eve Tamazharky = Fax. (876) 696-0303 To. Fan; (574) 235-5087 Page 7 of @ 05/25/2017 3:00 PM
+
+listings of all files downloaded and shared in that a forensic examination of the user's computer
+can show a history of activity by that machine using Ares. The Ares client records the digital
+fingerprint of ail files successfully downloaded. According my RoundLp Ares tool, the user at
+98.228.124.179 has been seen with 17 different files of investigative interest since February
+2017. As recently as yesterday, May 24, 2017, the user reported having five different files of
+investigative interest on that day alone. As I type this affidavit, the user at 98.228.124.179 is
+currently online on Ares (as of 8:10AM on May 25, 2017).
+
+On May 235, 2017, a query on the IP address 98.228.124.179 was conducted through the
+American Registry for Internet Numbers (ARIN) via whatismyipaddress.com. | received
+information that the IP address is registered to Comcast Intemct Services. I believe thata
+subpoena to Comcast to identify the subscrider(s) who was/were using 98.228.124.179 on March
+24, 2017 through today, May 25, 2017 is relevant 10 my ongoing investigation into the
+possession and distribution of child pornography. Further, I belicve that the facts and
+information contained within this affidavit represent specific, articulable facts that show there are
+reasonable grounds to believe the records sought are relevant and materiaf to an ongoing criminal
+investigation as is the standard under federal law pursuant to 18 U.S.C, § 2703(d).
+
+Finally, I believe that notice of this investigation will necessarily alert the target user that
+law enforcement has begun to take sicps to identify them, ‘The possession of child pomography
+is a state and federal felony; if convicted, the person faces both incarceration and placement on
+the sex offender registry. 1 believe that any notice of our interest will result in reasonable
+individuals taking steps to thwart our investigation including destroying evidence, taking steps to
+sceurcly destroy evidence (means of which ane available via a simple google scarch), applying
+encryption to evidence drives, and otherwise adversely affecting our ability to effectively
+determine the identity of the user whose machine provided us with child abuse imagery.
+
+1 affirm, under the penalties for perjury that, to the best of my knowledge and belief, the
+
+foregoing is true and accurate.
+From, Ede Tameshagky = Fax. (S74) 896-0203 Te. Fex: (674) 235-5087 Page & of 8 05/26/2017 3:08 PM
+
+STATE OF INDIANA } IN THE ST. JOSEPH SUPERIOR COURT
+)
+ST. JOSEPH COUNTY } GENERAL BOOK ENTRY
+
+IN RE: A PENDING CRIMINAL INVESTIGATION )
+of Child Exploitation that occurred in St. Joseph County, )
+Indiana on or aboul March 24, 2017 )
+SJCPD Cyber 17114 )
+
+SUBPOENA DUCES TECUM/COURT ORDER
+
+The Court, having reviewed the application for a subpoena duces tecum/court order and
+accompanying Affidavit of Prosecutor in the following manner [H.].], orders:
+
+1 find that the foregoing subpoena duces tecum is reasonable in that it is: relevantin purpose
+to a valid crimina! investigation: sufficiently limited in scope; and specific in directive so that
+compliance will not be unreasonably burdensome. I also find that the affidavit in support provides
+specific and articulable facts showing there are reasonable grounds to believe the information sought
+is relevant and material to a pending criminal investigation and that this court order is proper, }ts
+issuance is thercfore APPROVED, Further, pursuant to 18 USC 2705, having considered the facts
+and circumstances contained within this application, | find that there exists a reason to belicve that
+prior notification may have one or more of the following adverse results:
+
+_ “ay endangering the life or physical safety of an individual,
+
+A (2) flight from prosecution:
+
+ZZ (3) destruction of or tampering with evidence,
+
+_~ (4) intimidation of potential witnesses; or
+
+~ 6) otherwise seriously jeopardizing an investigation or unduly delaying a trial.
+
+THEREFORE, the recipient of the foregoing subpoena duces tecum/Court Order
+hereby ORDERED te comply with the subpoena duces tecum/Court Order and to not
+disclose the existence of this subpoena/court order for a period of ninety (90) days from the
+date of issuance, unless otherwise ORDERED by this Court.
+
+SO ORDERED this 2£ day of
+
+  
+   
+ 
+
+St. Joseph Superior Court
